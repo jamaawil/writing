@@ -8,7 +8,8 @@
     "serve": "npx serve public",
     "sync:obsidian": "node scripts/sync-library-from-obsidian.js",
     "sync:content": "node scripts/sync-content-from-obsidian.js",
-    "sync:all": "npm run sync:obsidian && npm run sync:content && npm run build"
+    "sync:all": "npm run sync:obsidian && npm run sync:content && npm run build",
+    "publish": "node scripts/publish.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
