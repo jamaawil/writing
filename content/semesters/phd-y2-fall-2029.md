@@ -5,6 +5,7 @@ dateRange: "Aug 27 – Dec 14, 2029 · 3 courses"
 intro: "Special field exam + prospectus defense; methods chapter drafted"
 pillars: [DIS, DISS, EXAM]
 order: 8
+image: /images/plan/phd-y2-fall-2029.png
 ---
 
 ### DISS-711 — DISS 711 · Dissertation · Methods Chapter Draft

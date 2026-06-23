@@ -5,6 +5,7 @@ dateRange: "Jan 17 – May 12, 2028 · 6 courses"
 intro: "Surveillance, trademark, AI policy, GenAI & creative production, MA thesis"
 pillars: [EQ, INT, LAW, TECH, THESIS, WRTG]
 order: 5
+image: /images/plan/ma-y2-spring-2028.png
 ---
 
 ### EQ-530 — EQ 530 · Surveillance, Data, and Marginalized Communities

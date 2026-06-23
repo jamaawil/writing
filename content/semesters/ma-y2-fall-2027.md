@@ -5,6 +5,7 @@ dateRange: "Aug 30 – Dec 17, 2027 · 5 courses"
 intro: "STS, patents, platform governance, critical race & technology"
 pillars: [COMM, EQ, LAW, TECH, WRTG]
 order: 4
+image: /images/plan/ma-y2-fall-2027.png
 ---
 
 ### COMM-520 — COMM 520 · Science & Technology Studies (STS)

@@ -5,6 +5,7 @@ dateRange: "Jan 18 – May 14, 2027 · 5 courses"
 intro: "Sharpening the lenses: rhetoric, copyright, AI ethics, race & technology"
 pillars: [COMM, EQ, LAW, TECH, WRTG]
 order: 2
+image: /images/plan/ma-y1-spring-2027.png
 ---
 
 ### COMM-510 — COMM 510 · Rhetoric, Argument & Persuasion

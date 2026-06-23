@@ -5,6 +5,7 @@ dateRange: "Aug 31 – Dec 18, 2026 · 5 courses"
 intro: "Disciplinary foundations across the four pillars"
 pillars: [COMM, EQ, LAW, TECH, WRTG]
 order: 1
+image: /images/plan/ma-y1-fall-2026.png
 ---
 
 ### COMM-501 — COMM 501 · Communication Theory & Media Studies

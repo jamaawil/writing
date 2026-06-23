@@ -5,6 +5,7 @@ dateRange: "Aug 26 – Dec 13, 2030 · 4 courses"
 intro: "AI labor & creative economies, disability & sociotechnical justice, frontier AI/IP"
 pillars: [PHD]
 order: 10
+image: /images/plan/phd-y3-fall-2030.png
 ---
 
 ### PHD-807 — PHD 807 · AI, Labor, and the Creative Economies

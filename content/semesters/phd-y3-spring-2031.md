@@ -5,6 +5,7 @@ dateRange: "Jan 13 – May 9, 2031 · 4 courses"
 intro: "Global tech justice, comparative IP, AI auditing & civil rights, defense prep"
 pillars: [DIS, PHD]
 order: 11
+image: /images/plan/phd-y3-spring-2031.png
 ---
 
 ### DIS-903 — DIS 903 · Dissertation Defense Preparation

@@ -5,6 +5,7 @@ dateRange: "Jun 1 – Aug 13, 2027 · 2 courses"
 intro: "Generative AI × copyright; technical AI for policy thinkers"
 pillars: [SUM]
 order: 3
+image: /images/plan/summer-bridge-2027.png
 ---
 
 ### SUM.A — SUM.A · Generative AI & Copyright Deep-Dive

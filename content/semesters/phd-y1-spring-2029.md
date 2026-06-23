@@ -5,6 +5,7 @@ dateRange: "Jan 15 – May 11, 2029 · 7 courses"
 intro: "Political economy, international IP, trade secrets, comp-exam prep"
 pillars: [INT, PHD, RDG, TECH]
 order: 7
+image: /images/plan/phd-y1-spring-2029.png
 ---
 
 ### INT-703 — INT 703 · Trade Secrets, Data, and the New Forms of IP

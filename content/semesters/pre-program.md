@@ -5,6 +5,7 @@ dateRange: "Jul 6 – Aug 21, 2026 · 4 courses"
 intro: "Orientation: legal reasoning, AI literacy, comm theory, scholarly writing"
 pillars: [PRE]
 order: 0
+image: /images/plan/pre-program.png
 ---
 
 ### PRE.A — PRE.A · Reading the Law: Legal Reasoning & Case Briefing

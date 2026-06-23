@@ -5,6 +5,7 @@ dateRange: "Aug 28 – Dec 15, 2028 · 10 courses"
 intro: "Doctoral-level theory + research methods + integration seminars + comp-list build"
 pillars: [COMM, EQ, INT, LAW, METH, PHD, RDG]
 order: 6
+image: /images/plan/phd-y1-fall-2028.png
 ---
 
 ### COMM-701 — COMM 701 · Advanced Communication Theory

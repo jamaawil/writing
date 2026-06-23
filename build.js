@@ -130,15 +130,21 @@ function writePage(relDir, html) {
   fs.writeFileSync(path.join(dir, "index.html"), html);
 }
 
+function copyDirRecursive(src, dest) {
+  fs.mkdirSync(dest, { recursive: true });
+  for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
+    const srcPath = path.join(src, entry.name);
+    const destPath = path.join(dest, entry.name);
+    if (entry.isDirectory()) copyDirRecursive(srcPath, destPath);
+    else fs.copyFileSync(srcPath, destPath);
+  }
+}
+
 function copyStatic() {
   for (const name of ["css", "js", "images"]) {
     const src = path.join(ROOT, "static", name);
     if (!fs.existsSync(src)) continue;
-    const dest = path.join(OUT, name);
-    fs.mkdirSync(dest, { recursive: true });
-    for (const f of fs.readdirSync(src)) {
-      fs.copyFileSync(path.join(src, f), path.join(dest, f));
-    }
+    copyDirRecursive(src, path.join(OUT, name));
   }
 }
 
@@ -150,6 +156,12 @@ function bookCard(href, title, author, highlights, responses, cover) {
   <div class="subtitle">${author}</div>
   <div class="meta">${highlights} highlights</div>
 </a>`;
+}
+
+function planCardImg(s) {
+  return s.image
+    ? `<div class="plan-card-img"><img src="${s.image}" alt="${s.title}" loading="lazy"></div>`
+    : `<div class="plan-card-img placeholder-img" aria-hidden="true"><span>Image placeholder</span></div>`;
 }
 
 function scholarCard(href, name, era, field) {
@@ -377,7 +389,7 @@ ${ideas
 ${semesters
   .map(
     (s) => `<div class="plan-card">
-  <div class="plan-card-img placeholder-img" aria-hidden="true"><span>Image placeholder</span></div>
+  ${planCardImg(s)}
   <div class="plan-card-body">
     <h2><a href="/plan/${s.slug}/">${s.title}</a></h2>
     <p class="page-subtitle">${s.dateRange || ""}</p>
@@ -462,7 +474,7 @@ ${b.html}`,
 ${semesters
   .map(
     (s) => `<div class="plan-card">
-  <div class="plan-card-img placeholder-img" aria-hidden="true"><span>Image placeholder</span></div>
+  ${planCardImg(s)}
   <div class="plan-card-body">
     <h2><a href="/plan/${s.slug}/">${s.title}</a></h2>
     <p class="page-subtitle">${s.dateRange || ""}</p>

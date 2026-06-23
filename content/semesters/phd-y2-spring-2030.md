@@ -5,6 +5,7 @@ dateRange: "Jan 14 – May 10, 2030 · 2 courses"
 intro: "Body chapters drafted; in-program defense"
 pillars: [DIS, DISS]
 order: 9
+image: /images/plan/phd-y2-spring-2030.png
 ---
 
 ### DISS-712 — DISS 712 · Dissertation · Body Chapters & Defense
