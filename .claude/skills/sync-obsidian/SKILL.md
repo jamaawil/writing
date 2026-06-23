@@ -21,16 +21,24 @@ parts of the vault produce content in different shapes:
 
 ## Steps
 
-1. Run `npm run sync:all` from the repo root — this runs both sync scripts and then
-   `npm run build` in sequence. (Or `npm run sync:obsidian` / `npm run sync:content`
-   individually if the user only mentions one content type.) Report the
-   created/updated/unchanged/skipped counts from each script's output.
-2. If a local preview server isn't already running on port 4173, start one in the
-   background (`npx serve public -p 4173`) and open it so the user can check the result.
-3. Show a short `git diff --stat -- content` so the user can see exactly what changed
-   before deciding to commit.
-4. Do NOT commit or push automatically — ask the user first, same as any other change to
-   this repo.
+The user's workflow: everything is authored in Obsidian; when they're done for the
+session, they come to the terminal once and want it live. Two commands, two intents:
+
+- **"sync" / "pull" / "preview" / "check what changed"** → run `npm run sync:all`
+  (sync scripts + build, no git). Report the created/updated/unchanged/skipped counts.
+  Start a local preview server if one isn't already running on port 4173
+  (`npx serve public -p 4173`) and open it. Show `git diff --stat -- content` and stop —
+  do not commit or push for a plain sync/preview request.
+- **"publish" / "ship it" / "go live" / "I'm done, push it"** → run `npm run publish`
+  directly, no extra confirmation needed. This is a standing authorization from the user
+  (established 2026-06-23): `npm run publish` runs both sync scripts, builds, commits, and
+  pushes in one shot, and a `git push` from this repo authenticates via a credential already
+  stored in the macOS keychain (`git credential approve`d for `github.com`) — it does not
+  need a pasted token. Report the script's output (what was synced, what was committed,
+  confirmation it pushed) back to the user.
+
+If the user is ambiguous about which they mean, ask — but default to assuming "publish" if
+they say anything like "I'm finished in Obsidian" or "put it live."
 
 ## Content-type → vault folder map
 
