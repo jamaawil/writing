@@ -1,12 +1,11 @@
 ---
-title: Notes on an Example Book
+title: Lorem Ipsum Dolor
 slug: example-book
-source: "Author Name, Book Title"
-date: 2026-01-10
+author: Sit Amet
+highlights: 142
+responses: 3
 ---
 
-A highlighted passage from the source, followed by your response.
+> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-> "A quoted passage you found worth remembering."
-
-Your response or reflection on the passage goes here.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
