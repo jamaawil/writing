@@ -117,8 +117,6 @@ aside .bio a:hover { text-decoration: underline; }
 .aside-nav a.active svg { color: var(--accent); }
 
 .controls { display: flex; flex-direction: column; gap: 0.7rem; align-items: flex-start; }
-.how-link { font-family: var(--font-sans); font-size: 0.78rem; color: var(--muted); text-decoration: none; }
-.how-link:hover { color: var(--fg); text-decoration: underline; }
 .ctrl-row { display: flex; gap: 0.4rem; }
 .ctrl-btn {
   width: 32px; height: 32px;

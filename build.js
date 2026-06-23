@@ -104,7 +104,6 @@ function layout({ title, activeHref, body }) {
     </nav>
   </div>
   <div class="controls">
-    <a class="how-link" href="/how-i-built-this/">How I built this</a>
     <div class="ctrl-row">
       <button class="ctrl-btn" id="theme-toggle" title="Toggle theme">&#9680;</button>
       <button class="ctrl-btn" id="size-toggle" title="Adjust text size">Aa</button>
@@ -114,7 +113,7 @@ function layout({ title, activeHref, body }) {
 <main>
 ${body}
 <footer class="site-footer">
-  <p>Built with a custom markdown pipeline. See <a href="/how-i-built-this/">How I Built This</a>.</p>
+  <p>Built with a custom markdown pipeline.</p>
 </footer>
 </main>
 </div>
@@ -458,7 +457,7 @@ ${b.html}`,
     );
   }
 
-  for (const slug of ["start-here", "projects", "how-i-built-this"]) {
+  for (const slug of ["start-here", "projects"]) {
     const p = pageBySlug[slug];
     if (!p) continue;
     const navMatch = NAV.find((n) => n.href.includes(slug));
