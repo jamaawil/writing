@@ -131,6 +131,14 @@ aside .bio a:hover { text-decoration: underline; }
 
 main { padding: 3rem 3rem 6rem; max-width: 720px; min-width: 0; }
 
+.breadcrumb {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  margin: 0 0 1.25rem;
+}
+.breadcrumb a { color: var(--muted); text-decoration: none; }
+.breadcrumb a:hover { color: var(--fg); text-decoration: underline; }
+
 h1.page-title {
   font-family: var(--font-sans);
   font-size: 1.3rem;

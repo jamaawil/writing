@@ -158,6 +158,10 @@ function bookCard(href, title, author, highlights, responses, cover) {
 </a>`;
 }
 
+function breadcrumb(label, href, all = true) {
+  return `<p class="breadcrumb"><a href="${href}">← ${all ? "All " : ""}${label}</a></p>`;
+}
+
 function planCardImg(s) {
   return s.image
     ? `<div class="plan-card-img"><img src="${s.image}" alt="${s.title}" loading="lazy"></div>`
@@ -214,7 +218,8 @@ function build() {
       layout({
         title: essay.title,
         activeHref: "/essays/",
-        body: `<h1>${essay.title}</h1>
+        body: `${breadcrumb("Essays", "/essays/")}
+<h1>${essay.title}</h1>
 <p class="page-subtitle">${essay.date ? new Date(essay.date).toLocaleDateString() : ""}${
           essay.words ? ` · ${essay.words} words` : ""
         }</p>
@@ -281,7 +286,8 @@ ${inTopic.map((e) => `    <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).
       layout({
         title: entry.title,
         activeHref: "/library/",
-        body: `<h1>${entry.title}</h1>
+        body: `${breadcrumb("Library", "/library/")}
+<h1>${entry.title}</h1>
 <p class="page-subtitle">${entry.author || ""}</p>
 ${entry.html}`,
       })
@@ -351,7 +357,8 @@ ${scholars
       layout({
         title: s.title,
         activeHref: "/scholars/",
-        body: `<h1>${s.title}</h1>
+        body: `${breadcrumb("Scholars", "/scholars/")}
+<h1>${s.title}</h1>
 <p class="page-subtitle">${s.field || ""} · ${s.era || ""}</p>
 ${s.html}`,
       })
@@ -375,7 +382,7 @@ ${ideas
       layout({
         title: i.title,
         activeHref: "/ideas/",
-        body: `<h1>${i.title}</h1>\n${i.html}`,
+        body: `${breadcrumb("Ideas", "/ideas/")}\n<h1>${i.title}</h1>\n${i.html}`,
       })
     );
   }
@@ -407,7 +414,8 @@ ${semesters
       layout({
         title: s.title,
         activeHref: "/plan/",
-        body: `<div class="page-header"><div><h1 class="page-title">${s.title}</h1><p class="page-subtitle">${
+        body: `${breadcrumb("Five-Year Plan", "/plan/", false)}
+<div class="page-header"><div><h1 class="page-title">${s.title}</h1><p class="page-subtitle">${
           s.dateRange || ""
         }</p><p>${s.intro || ""}</p></div></div>
 ${s.html}`,
@@ -441,7 +449,8 @@ ${bibliography
       layout({
         title: b.title,
         activeHref: "/bibliography/",
-        body: `<div class="page-header"><div><h1 class="page-title">${b.title}</h1><p class="page-subtitle">${
+        body: `${breadcrumb("Bibliography", "/bibliography/")}
+<div class="page-header"><div><h1 class="page-title">${b.title}</h1><p class="page-subtitle">${
           b.counts || ""
         }</p></div></div>
 ${b.html}`,
