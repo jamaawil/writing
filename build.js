@@ -10,7 +10,8 @@ const rehypeStringify = require("rehype-stringify").default || require("rehype-s
 const ROOT = __dirname;
 const CONTENT = path.join(ROOT, "content");
 const OUT = path.join(ROOT, "public");
-const SITE_NAME = "your-name/";
+const SITE_NAME = "jamal-awil/";
+const DISPLAY_NAME = "Jamal Awil";
 
 const ICONS = {
   startHere: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>',
@@ -86,7 +87,7 @@ function layout({ title, activeHref, body }) {
 <div class="layout">
 <aside>
   <div class="aside-top">
-    <div class="pfp-wrap">${initials(SITE_NAME)}</div>
+    <div class="pfp-wrap"><img class="pfp" src="/images/profile.jpg" alt="${DISPLAY_NAME}"></div>
     <h1>${SITE_NAME}</h1>
     <p class="bio">Architect-turned-writer. Building pattern languages, software, anthologies, and community for essayists.</p>
     <nav class="aside-nav">

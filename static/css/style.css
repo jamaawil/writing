@@ -68,6 +68,12 @@ aside .pfp-wrap {
   background: var(--border);
   color: var(--muted);
 }
+aside .pfp-wrap img.pfp {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 
 aside h1 {
   font-family: var(--font-display);
