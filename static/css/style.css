@@ -69,6 +69,12 @@ aside .pfp-wrap {
   color: var(--muted);
 }
 
+aside .pfp-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 aside h1 {
   font-family: var(--font-display);
   font-size: 1.4rem;
@@ -184,6 +190,11 @@ h1.page-title {
   text-align: center;
   padding: 0.5rem;
 }
+.card .cover-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .card .badge {
   position: absolute; top: 0; right: 0; transform: translate(50%, -50%);
   min-width: 22px; height: 22px; padding: 0 5px; border-radius: 999px;
@@ -208,6 +219,63 @@ h1.page-title {
 /* Dictionary of Terms */
 .dict-term { padding: 1.2rem 0; border-bottom: 1px solid var(--border); }
 .dict-term h2 { font-family: var(--font-display); font-size: 1.1rem; margin: 0 0 0.4rem; }
+
+/* Five-Year Plan feed (homepage + /plan/) */
+.plan-feed, .plan-card-list { display: flex; flex-direction: column; gap: 0; }
+.plan-card {
+  display: flex;
+  gap: 1.25rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.plan-card:first-child { padding-top: 0; }
+.plan-card-img {
+  flex: 0 0 140px;
+  width: 140px;
+  height: 100px;
+  border-radius: 6px;
+}
+.plan-card-body { flex: 1; min-width: 0; }
+.plan-card-body h2 { font-family: var(--font-display); font-size: 1.15rem; margin: 0 0 0.2rem; }
+.plan-card-body .page-subtitle { margin: 0 0 0.5rem; }
+
+.placeholder-img {
+  background: repeating-linear-gradient(
+    45deg, var(--border), var(--border) 10px, transparent 10px, transparent 20px
+  );
+  border: 1px dashed var(--muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.placeholder-img span {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--bg);
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+}
+
+.tag-row { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.5rem; }
+.tag {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.15rem 0.55rem;
+}
+
+@media (max-width: 560px) {
+  .plan-card { flex-direction: column; }
+  .plan-card-img { width: 100%; height: 120px; }
+}
 
 footer.site-footer {
   margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--border);

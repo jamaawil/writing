@@ -1,6 +1,6 @@
 ---
-title: Projects
-slug: projects
+title: "Projects"
+slug: "projects"
 nav_order: 7
 ---
 

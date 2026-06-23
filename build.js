@@ -10,7 +10,7 @@ const rehypeStringify = require("rehype-stringify").default || require("rehype-s
 const ROOT = __dirname;
 const CONTENT = path.join(ROOT, "content");
 const OUT = path.join(ROOT, "public");
-const SITE_NAME = "your-name/";
+const SITE_NAME = "Jamal Awil";
 
 const ICONS = {
   startHere: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>',
@@ -23,6 +23,8 @@ const ICONS = {
   bits: '<circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/>',
   scholars: '<path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 1.5 3 3 6 3s6-1.5 6-3v-5"/>',
   ideas: '<path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/>',
+  plan: '<rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>',
+  bibliography: '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',
 };
 
 const NAV = [
@@ -36,6 +38,8 @@ const NAV = [
   { title: "Bits", href: "/bits/", icon: ICONS.bits },
   { title: "Scholars", href: "/scholars/", icon: ICONS.scholars },
   { title: "Ideas", href: "/ideas/", icon: ICONS.ideas },
+  { title: "Five-Year Plan", href: "/plan/", icon: ICONS.plan },
+  { title: "Bibliography", href: "/bibliography/", icon: ICONS.bibliography },
 ];
 
 const markdownPipeline = unified()
@@ -86,7 +90,7 @@ function layout({ title, activeHref, body }) {
 <div class="layout">
 <aside>
   <div class="aside-top">
-    <div class="pfp-wrap">${initials(SITE_NAME)}</div>
+    <div class="pfp-wrap"><img src="/images/profile.jpg" alt="${SITE_NAME}"></div>
     <h1>${SITE_NAME}</h1>
     <p class="bio">Architect-turned-writer. Building pattern languages, software, anthologies, and community for essayists.</p>
     <nav class="aside-nav">
@@ -137,9 +141,9 @@ function copyStatic() {
   }
 }
 
-function bookCard(href, title, author, highlights, responses) {
+function bookCard(href, title, author, highlights, responses, cover) {
   return `<a class="card" href="${href}">
-  <div class="cover-wrap">${title}</div>
+  <div class="cover-wrap">${cover ? `<img src="${cover}" alt="${title} cover" loading="lazy">` : title}</div>
   ${responses ? `<span class="badge" title="${responses} responses">${responses}</span>` : ""}
   <div class="title">${title}</div>
   <div class="subtitle">${author}</div>
@@ -181,6 +185,12 @@ function build() {
   );
   const bits = readMarkdownDir(path.join(CONTENT, "bits")).sort(
     (a, b) => new Date(b.date) - new Date(a.date)
+  );
+  const semesters = readMarkdownDir(path.join(CONTENT, "semesters")).sort(
+    (a, b) => a.order - b.order
+  );
+  const bibliography = readMarkdownDir(path.join(CONTENT, "bibliography")).sort(
+    (a, b) => a.order - b.order
   );
   const pages = readMarkdownDir(path.join(CONTENT, "pages"));
   const pageBySlug = Object.fromEntries(pages.map((p) => [p.slug, p]));
@@ -273,7 +283,7 @@ ${entry.html}`,
 <div class="card-grid">
 ${library
   .map((e) =>
-    bookCard(`/library/${e.slug}/`, e.title, e.author, e.highlights || 0, e.responses)
+    bookCard(`/library/${e.slug}/`, e.title, e.author, e.highlights || 0, e.responses, e.cover)
   )
   .join("\n")}
 </div>`,
@@ -357,6 +367,75 @@ ${ideas
     );
   }
 
+  writePage(
+    "plan",
+    layout({
+      title: "Five-Year Plan",
+      activeHref: "/plan/",
+      body: `<div class="page-header"><div><h1 class="page-title">Five-Year Plan</h1><p class="page-subtitle">The Braided Reading EPUB — a 5-year integrated MA+PhD curriculum across Communication, AI, IP Law, and Social Equity, braided with extracurricular reading. See the <a href="/bibliography/">full 1,200-book bibliography</a> this is drawn from.</p></div></div>
+${semesters
+  .map(
+    (s) => `<div class="plan-card">
+  <div class="plan-card-img placeholder-img" aria-hidden="true"><span>Image placeholder</span></div>
+  <div class="plan-card-body">
+    <h2><a href="/plan/${s.slug}/">${s.title}</a></h2>
+    <p class="page-subtitle">${s.dateRange || ""}</p>
+    <p>${s.intro || ""}</p>
+    <div class="tag-row">${(s.pillars || []).map((p) => `<span class="tag">${p}</span>`).join("")}</div>
+  </div>
+</div>`
+  )
+  .join("\n")}`,
+    })
+  );
+  for (const s of semesters) {
+    writePage(
+      `plan/${s.slug}`,
+      layout({
+        title: s.title,
+        activeHref: "/plan/",
+        body: `<div class="page-header"><div><h1 class="page-title">${s.title}</h1><p class="page-subtitle">${
+          s.dateRange || ""
+        }</p><p>${s.intro || ""}</p></div></div>
+${s.html}`,
+      })
+    );
+  }
+
+  writePage(
+    "bibliography",
+    layout({
+      title: "Bibliography",
+      activeHref: "/bibliography/",
+      body: `<div class="page-header"><div><h1 class="page-title">Bibliography</h1><p class="page-subtitle">The 1,200-book annotated bibliography behind the <a href="/plan/">Five-Year Plan</a>, organized by category.</p></div></div>
+<div class="card-grid">
+${bibliography
+  .map(
+    (b) =>
+      `<a class="card" href="/bibliography/${b.slug}/">
+  <div class="cover-wrap">${initials(b.title)}</div>
+  <div class="title">${b.title}</div>
+  <div class="meta">${b.counts || ""}</div>
+</a>`
+  )
+  .join("\n")}
+</div>`,
+    })
+  );
+  for (const b of bibliography) {
+    writePage(
+      `bibliography/${b.slug}`,
+      layout({
+        title: b.title,
+        activeHref: "/bibliography/",
+        body: `<div class="page-header"><div><h1 class="page-title">${b.title}</h1><p class="page-subtitle">${
+          b.counts || ""
+        }</p></div></div>
+${b.html}`,
+      })
+    );
+  }
+
   for (const slug of ["start-here", "projects", "how-i-built-this"]) {
     const p = pageBySlug[slug];
     if (!p) continue;
@@ -378,22 +457,26 @@ ${ideas
       title: "Home",
       activeHref: "/essays/",
       body: `${home ? home.html : ""}
-<ul class="essay-list">
-${essays
-  .slice(0, 10)
+<div class="plan-feed">
+${semesters
   .map(
-    (e) =>
-      `  <li><a href="/essay/${e.slug}/">${e.title}</a><span class="wc">${
-        e.words ? e.words + " words" : ""
-      }</span></li>`
+    (s) => `<div class="plan-card">
+  <div class="plan-card-img placeholder-img" aria-hidden="true"><span>Image placeholder</span></div>
+  <div class="plan-card-body">
+    <h2><a href="/plan/${s.slug}/">${s.title}</a></h2>
+    <p class="page-subtitle">${s.dateRange || ""}</p>
+    <p>${s.intro || ""}</p>
+    <div class="tag-row">${(s.pillars || []).map((p) => `<span class="tag">${p}</span>`).join("")}</div>
+  </div>
+</div>`
   )
   .join("\n")}
-</ul>`,
+</div>`,
     })
   );
 
   console.log(
-    `Built ${essays.length} essays, ${library.length} library entries, ${definitions.length} terms, ${scholars.length} scholars, ${ideas.length} ideas, ${bits.length} bits.`
+    `Built ${essays.length} essays, ${library.length} library entries, ${definitions.length} terms, ${scholars.length} scholars, ${ideas.length} ideas, ${bits.length} bits, ${semesters.length} semesters, ${bibliography.length} bibliography categories.`
   );
 }
 
