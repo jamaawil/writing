@@ -12,15 +12,6 @@ const CONTENT = path.join(ROOT, "content");
 const OUT = path.join(ROOT, "public");
 const SITE_NAME = "Jamal Awil";
 
-// Filled in once Discussions + the giscus GitHub App are enabled on the repo
-// and https://giscus.app's config tool has generated real IDs for it.
-const GISCUS = {
-  repo: "jamaawil/writing",
-  repoId: "REPLACE_ME",
-  category: "Comments",
-  categoryId: "REPLACE_ME",
-};
-
 const ICONS = {
   startHere: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>',
   essays: '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
@@ -173,24 +164,10 @@ function breadcrumb(label, href, all = true) {
   return `<p class="breadcrumb"><a href="${href}">← ${all ? "All " : ""}${label}</a></p>`;
 }
 
-function giscusEmbed(extraClass = "") {
-  return `<div class="comment-box${extraClass ? " " + extraClass : ""}">
-  <script src="https://giscus.app/client.js"
-    data-repo="${GISCUS.repo}"
-    data-repo-id="${GISCUS.repoId}"
-    data-category="${GISCUS.category}"
-    data-category-id="${GISCUS.categoryId}"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="top"
-    data-theme="light"
-    data-lang="en"
-    crossorigin="anonymous"
-    async>
-  </script>
-</div>`;
+// Wraps a page's content area so static/js/comments.js can attach highlight-to-comment
+// to it. pageSlug must be unique per page — it's the anchor for that page's comments.
+function commentable(pageSlug, html) {
+  return `<div class="commentable" data-page="${pageSlug}">${html}</div>`;
 }
 
 function planCardImg(s) {
@@ -302,7 +279,7 @@ function build() {
 <p class="page-subtitle">${essay.date ? new Date(essay.date).toLocaleDateString() : ""}${
           essay.words ? ` · ${essay.words} words` : ""
         }</p>
-<div class="commentable" data-page="essay/${essay.slug}">${essay.html}</div>`,
+${commentable(`essay/${essay.slug}`, essay.html)}`,
       })
     );
   }
@@ -313,8 +290,9 @@ function build() {
       title: "All Essays",
       activeHref: "/essays/",
       body: `<div class="page-header"><div><h1 class="page-title">All Essays</h1></div></div>
-${giscusEmbed("comment-box--corner")}
-<ul class="essay-list">
+${commentable(
+  "essays",
+  `<ul class="essay-list">
 ${essays
   .map(
     (e) =>
@@ -323,7 +301,8 @@ ${essays
       }</span></li>`
   )
   .join("\n")}
-</ul>`,
+</ul>`
+)}`,
     })
   );
 
@@ -334,9 +313,12 @@ ${essays
       title: "Favorites",
       activeHref: "/favorites/",
       body: `<div class="page-header"><div><h1 class="page-title">Favorites</h1><p class="page-subtitle">A short, curated list of essays worth reading first.</p></div></div>
-<ul class="essay-list">
+${commentable(
+  "favorites",
+  `<ul class="essay-list">
 ${favorites.map((e) => `  <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).join("\n")}
-</ul>`,
+</ul>`
+)}`,
     })
   );
 
@@ -346,17 +328,20 @@ ${favorites.map((e) => `  <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).
       title: "Index",
       activeHref: "/index-topics/",
       body: `<div class="page-header"><div><h1 class="page-title">Index</h1><p class="page-subtitle">Essays organized by topic.</p></div></div>
-${topics
-  .map((t) => {
-    const inTopic = essays.filter((e) => (e.topics || []).includes(t.slug));
-    return `<div class="topic-group">
+${commentable(
+  "index-topics",
+  topics
+    .map((t) => {
+      const inTopic = essays.filter((e) => (e.topics || []).includes(t.slug));
+      return `<div class="topic-group">
   <h2>${t.title}</h2>
   <ul class="essay-list">
 ${inTopic.map((e) => `    <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).join("\n")}
   </ul>
 </div>`;
-  })
-  .join("\n")}`,
+    })
+    .join("\n")
+)}`,
     })
   );
 
@@ -369,7 +354,7 @@ ${inTopic.map((e) => `    <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).
         body: `${breadcrumb("Library", "/library/")}
 <h1>${entry.title}</h1>
 <p class="page-subtitle">${entry.author || ""}</p>
-<div class="commentable" data-page="library/${entry.slug}">${entry.html}</div>`,
+${commentable(`library/${entry.slug}`, entry.html)}`,
       })
     );
   }
@@ -379,13 +364,16 @@ ${inTopic.map((e) => `    <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).
       title: "Library",
       activeHref: "/library/",
       body: `<div class="page-header"><div><h1 class="page-title">Library</h1><p class="page-subtitle">Highlights and responses, organized by source.</p></div></div>
-<div class="card-grid">
+${commentable(
+  "library",
+  `<div class="card-grid">
 ${library
   .map((e) =>
     bookCard(`/library/${e.slug}/`, e.title, e.author, e.highlights || 0, e.responses, e.cover)
   )
   .join("\n")}
-</div>`,
+</div>`
+)}`,
     })
   );
 
@@ -395,14 +383,17 @@ ${library
       title: "Dictionary of Terms",
       activeHref: "/dictionary/",
       body: `<div class="page-header"><div><h1 class="page-title">Dictionary of Terms</h1><p class="page-subtitle">Definitions for terms used often in this writing.</p></div></div>
-${definitions
-  .map(
-    (d) =>
-      `<div class="dict-term"><h2>${d.title}</h2>${
-        d.tagline ? `<p class="page-subtitle">${d.tagline}</p>` : ""
-      }${d.html}</div>`
-  )
-  .join("\n")}`,
+${commentable(
+  "dictionary",
+  definitions
+    .map(
+      (d) =>
+        `<div class="dict-term"><h2>${d.title}</h2>${
+          d.tagline ? `<p class="page-subtitle">${d.tagline}</p>` : ""
+        }${d.html}</div>`
+    )
+    .join("\n")
+)}`,
     })
   );
 
@@ -412,14 +403,17 @@ ${definitions
       title: "Bits",
       activeHref: "/bits/",
       body: `<div class="page-header"><div><h1 class="page-title">Bits</h1><p class="page-subtitle">Short notes — somewhere between a tweet and an essay.</p></div></div>
-${bits
-  .map(
-    (b) =>
-      `<div class="bit"><div class="bit-date">${
-        b.date ? new Date(b.date).toLocaleDateString() : ""
-      }</div>${b.html}</div>`
-  )
-  .join("\n")}`,
+${commentable(
+  "bits",
+  bits
+    .map(
+      (b) =>
+        `<div class="bit"><div class="bit-date">${
+          b.date ? new Date(b.date).toLocaleDateString() : ""
+        }</div>${b.html}</div>`
+    )
+    .join("\n")
+)}`,
     })
   );
 
@@ -429,11 +423,14 @@ ${bits
       title: "Scholars",
       activeHref: "/scholars/",
       body: `<div class="page-header"><div><h1 class="page-title">Scholars</h1><p class="page-subtitle">Thinkers worth returning to.</p></div></div>
-<div class="card-grid">
+${commentable(
+  "scholars",
+  `<div class="card-grid">
 ${scholars
   .map((s) => scholarCard(`/scholars/${s.slug}/`, s.title, s.era, s.field))
   .join("\n")}
-</div>`,
+</div>`
+)}`,
     })
   );
   for (const s of scholars) {
@@ -445,7 +442,7 @@ ${scholars
         body: `${breadcrumb("Scholars", "/scholars/")}
 <h1>${s.title}</h1>
 <p class="page-subtitle">${s.field || ""} · ${s.era || ""}</p>
-${s.html}`,
+${commentable(`scholars/${s.slug}`, s.html)}`,
       })
     );
   }
@@ -456,9 +453,12 @@ ${s.html}`,
       title: "Ideas",
       activeHref: "/ideas/",
       body: `<div class="page-header"><div><h1 class="page-title">Ideas</h1><p class="page-subtitle">Threads worth pulling on.</p></div></div>
-${ideas
-  .map((i) => `<div class="topic-group"><h2><a href="/ideas/${i.slug}/">${i.title}</a></h2>${i.html}</div>`)
-  .join("\n")}`,
+${commentable(
+  "ideas",
+  ideas
+    .map((i) => `<div class="topic-group"><h2><a href="/ideas/${i.slug}/">${i.title}</a></h2>${i.html}</div>`)
+    .join("\n")
+)}`,
     })
   );
   for (const i of ideas) {
@@ -467,7 +467,7 @@ ${ideas
       layout({
         title: i.title,
         activeHref: "/ideas/",
-        body: `${breadcrumb("Ideas", "/ideas/")}\n<h1>${i.title}</h1>\n${i.html}`,
+        body: `${breadcrumb("Ideas", "/ideas/")}\n<h1>${i.title}</h1>\n${commentable(`ideas/${i.slug}`, i.html)}`,
       })
     );
   }
@@ -479,15 +479,18 @@ ${ideas
       activeHref: "/zettel/",
       body: `<div class="page-header"><div><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked.</p></div></div>
 <div id="zettel-graph"></div>
-${zettels
-  .map(
-    (z) => `<div class="topic-group">
+${commentable(
+  "zettel",
+  zettels
+    .map(
+      (z) => `<div class="topic-group">
   <h2><a href="/zettel/${z.slug}/">${z.title}</a></h2>
   ${z.html}
   ${renderConnections(z)}
 </div>`
-  )
-  .join("\n")}
+    )
+    .join("\n")
+)}
 ${zettelGraphScript}`,
     })
   );
@@ -500,8 +503,7 @@ ${zettelGraphScript}`,
         body: `${breadcrumb("Zettel", "/zettel/")}
 <div id="zettel-graph" data-current="${z.slug}"></div>
 <h1>${z.title}</h1>
-${z.html}
-${renderConnections(z)}
+${commentable(`zettel/${z.slug}`, z.html + renderConnections(z))}
 ${zettelGraphScript}`,
       })
     );
@@ -513,9 +515,11 @@ ${zettelGraphScript}`,
       title: "Five-Year Plan",
       activeHref: "/plan/",
       body: `<div class="page-header"><div><h1 class="page-title">Five-Year Plan</h1><p class="page-subtitle">The Braided Reading EPUB — a 5-year integrated MA+PhD curriculum across Communication, AI, IP Law, and Social Equity, braided with extracurricular reading. See the <a href="/bibliography/">full 1,200-book bibliography</a> this is drawn from.</p></div></div>
-${semesters
-  .map(
-    (s) => `<div class="plan-card">
+${commentable(
+  "plan",
+  semesters
+    .map(
+      (s) => `<div class="plan-card">
   ${planCardImg(s)}
   <div class="plan-card-body">
     <h2><a href="/plan/${s.slug}/">${s.title}</a></h2>
@@ -524,8 +528,9 @@ ${semesters
     <div class="tag-row">${(s.pillars || []).map((p) => `<span class="tag">${p}</span>`).join("")}</div>
   </div>
 </div>`
-  )
-  .join("\n")}`,
+    )
+    .join("\n")
+)}`,
     })
   );
   for (const s of semesters) {
@@ -538,7 +543,7 @@ ${semesters
 <div class="page-header"><div><h1 class="page-title">${s.title}</h1><p class="page-subtitle">${
           s.dateRange || ""
         }</p><p>${s.intro || ""}</p></div></div>
-${s.html}`,
+${commentable(`plan/${s.slug}`, s.html)}`,
       })
     );
   }
@@ -549,7 +554,9 @@ ${s.html}`,
       title: "Bibliography",
       activeHref: "/bibliography/",
       body: `<div class="page-header"><div><h1 class="page-title">Bibliography</h1><p class="page-subtitle">The 1,200-book annotated bibliography behind the <a href="/plan/">Five-Year Plan</a>, organized by category.</p></div></div>
-<div class="card-grid">
+${commentable(
+  "bibliography",
+  `<div class="card-grid">
 ${bibliography
   .map(
     (b) =>
@@ -560,7 +567,8 @@ ${bibliography
 </a>`
   )
   .join("\n")}
-</div>`,
+</div>`
+)}`,
     })
   );
   for (const b of bibliography) {
@@ -573,7 +581,7 @@ ${bibliography
 <div class="page-header"><div><h1 class="page-title">${b.title}</h1><p class="page-subtitle">${
           b.counts || ""
         }</p></div></div>
-${b.html}`,
+${commentable(`bibliography/${b.slug}`, b.html)}`,
       })
     );
   }
@@ -587,7 +595,7 @@ ${b.html}`,
       layout({
         title: p.title,
         activeHref: navMatch ? navMatch.href : "",
-        body: `<h1>${p.title}</h1>\n${p.html}`,
+        body: `<h1>${p.title}</h1>\n${commentable(slug, p.html)}`,
       })
     );
   }
@@ -598,7 +606,9 @@ ${b.html}`,
     layout({
       title: "Home",
       activeHref: "/essays/",
-      body: `${home ? home.html : ""}
+      body: commentable(
+        "home",
+        `${home ? home.html : ""}
 <div class="plan-feed">
 ${semesters
   .map(
@@ -613,7 +623,8 @@ ${semesters
 </div>`
   )
   .join("\n")}
-</div>`,
+</div>`
+      ),
     })
   );
 

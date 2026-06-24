@@ -298,9 +298,6 @@ h1.page-title {
   .plan-card-img { width: 160px; aspect-ratio: 1 / 1; }
 }
 
-.comment-box { margin: 0 0 2rem; }
-.comment-box--corner { max-width: 360px; }
-
 /* Highlight-anchored comments */
 mark.comment-anchor {
   background: rgba(63, 155, 133, 0.22);
