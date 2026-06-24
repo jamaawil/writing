@@ -1,3 +1,9 @@
 [build]
   command = "npm run build"
   publish = "public"
+
+[[redirects]]
+  from = "http://writing.jamalawil.com/*"
+  to = "https://writing.jamalawil.com/:splat"
+  status = 301
+  force = true
