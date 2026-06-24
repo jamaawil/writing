@@ -292,6 +292,12 @@
   }
 
   var floatingPanel = null;
+  // Hiding addBtn on mousedown (below) changes what's under the cursor by the time the
+  // browser's own "click" event does its hit-testing on mouseup, so e.target for that
+  // click can no longer be trusted to equal addBtn. Suppressing the very next document
+  // click after opening — regardless of what it resolves to — sidesteps that race
+  // entirely instead of trying to out-guess the retargeted event.
+  var suppressNextDocClick = false;
   function closeFloatingForm() {
     if (floatingPanel) {
       floatingPanel.remove();
@@ -311,6 +317,7 @@
     panel.style.left = window.scrollX + rect.left + "px";
     document.body.appendChild(panel);
     floatingPanel = panel;
+    suppressNextDocClick = true;
     wireForm(panel.querySelector(".comment-form"), {
       page_slug: pageSlug,
       selection_text: ctx.text,
@@ -320,6 +327,10 @@
   }
 
   document.addEventListener("click", function (e) {
+    if (suppressNextDocClick) {
+      suppressNextDocClick = false;
+      return;
+    }
     if (floatingPanel && !floatingPanel.contains(e.target) && e.target !== addBtn) {
       closeFloatingForm();
     }
