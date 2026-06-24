@@ -210,6 +210,23 @@ function copyStatic() {
   }
 }
 
+// Binary assets (e.g. images) can't be committed through the GitHub API, so they
+// live in the repo as base64 text alongside a ".b64" suffix. At build time we
+// decode every "<name>.b64" in the output back into the real binary "<name>" and
+// drop the ".b64" copy. (Drop a normal binary file in instead and it just works.)
+function decodeB64Tree(dir) {
+  if (!fs.existsSync(dir)) return;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, entry.name);
+    if (entry.isDirectory()) decodeB64Tree(p);
+    else if (entry.name.endsWith(".b64")) {
+      const out = p.slice(0, -4);
+      fs.writeFileSync(out, Buffer.from(fs.readFileSync(p, "utf8"), "base64"));
+      fs.rmSync(p);
+    }
+  }
+}
+
 function commentCue(pageSlug) {
   return `<div class="toolbar-meta">
     <span class="meta-cue" id="metaCommentCue" data-page="${esc(pageSlug)}" role="button" tabindex="0" aria-label="Leave a comment">
@@ -279,6 +296,7 @@ function build() {
   fs.rmSync(OUT, { recursive: true, force: true });
   fs.mkdirSync(OUT, { recursive: true });
   copyStatic();
+  decodeB64Tree(OUT);
 
   const essays = readMarkdownDir(path.join(CONTENT, "essays")).sort((a, b) => new Date(b.date) - new Date(a.date));
   const definitions = readMarkdownDir(path.join(CONTENT, "definitions")).sort((a, b) => (a.title || "").localeCompare(b.title || ""));
@@ -524,7 +542,9 @@ function build() {
   }
 
   /* ---------- bibliography ---------- */
-  const biblCard = (b) => `<a class="book-card" href="/bibliography/${b.slug}/"><div class="cover-wrap"><span class="cover-initials">${initials(b.title)}</span></div><div class="title">${esc(b.title)}</div><div class="count">${esc(b.counts || "")}</div></a>`;
+  const biblDir = path.join(ROOT, "static/images/bibliography");
+  const biblCover = (b) => (fs.existsSync(path.join(biblDir, `${b.slug}.png`)) || fs.existsSync(path.join(biblDir, `${b.slug}.png.b64`)) ? `/images/bibliography/${b.slug}.png` : null);
+  const biblCard = (b) => { const c = biblCover(b); return `<a class="book-card" href="/bibliography/${b.slug}/"><div class="cover-wrap">${c ? `<img class="cover" src="${c}" alt="${esc(b.title)} cover" loading="lazy">` : `<span class="cover-initials">${initials(b.title)}</span>`}</div><div class="title">${esc(b.title)}</div><div class="count">${esc(b.counts || "")}</div></a>`; };
   writePage("bibliography", layout({ title: "Bibliography", activeHref: "/bibliography/", body: `<div class="page-head"><h1 class="page-title">Bibliography</h1><p class="page-subtitle">The 1,200-book annotated bibliography behind the <a href="/plan/">Five-Year Plan</a>.</p></div><div class="library-grid">${bibliography.map(biblCard).join("\n") || '<p class="empty-note">No entries yet.</p>'}</div>` }));
   for (const b of bibliography) {
     writePage(`bibliography/${b.slug}`, layout({ title: b.title, activeHref: "/bibliography/", body: `${backLink("Bibliography", "/bibliography/")}<article class="log detail"><header><h2>${esc(b.title)}</h2><div class="meta">${esc(b.counts || "")}</div></header>${commentable(`bibliography/${b.slug}`, b.html)}</article>` }));
