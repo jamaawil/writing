@@ -129,6 +129,7 @@ ${body}
 </div>
 <script src="/js/main.js"></script>
 <script src="/js/zettel-graph.js"></script>
+<script src="/js/comments.js"></script>
 </body>
 </html>
 `;
@@ -301,7 +302,7 @@ function build() {
 <p class="page-subtitle">${essay.date ? new Date(essay.date).toLocaleDateString() : ""}${
           essay.words ? ` · ${essay.words} words` : ""
         }</p>
-${essay.html}`,
+<div class="commentable" data-page="essay/${essay.slug}">${essay.html}</div>`,
       })
     );
   }
@@ -368,8 +369,7 @@ ${inTopic.map((e) => `    <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).
         body: `${breadcrumb("Library", "/library/")}
 <h1>${entry.title}</h1>
 <p class="page-subtitle">${entry.author || ""}</p>
-${entry.html}
-${giscusEmbed()}`,
+<div class="commentable" data-page="library/${entry.slug}">${entry.html}</div>`,
       })
     );
   }

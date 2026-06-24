@@ -301,6 +301,67 @@ h1.page-title {
 .comment-box { margin: 0 0 2rem; }
 .comment-box--corner { max-width: 360px; }
 
+/* Highlight-anchored comments */
+mark.comment-anchor {
+  background: rgba(63, 155, 133, 0.22);
+  cursor: pointer;
+  padding: 0 1px;
+  border-radius: 2px;
+  color: inherit;
+}
+mark.comment-anchor:hover { background: rgba(63, 155, 133, 0.38); }
+[data-theme="dark"] mark.comment-anchor { background: rgba(173, 231, 216, 0.22); }
+[data-theme="dark"] mark.comment-anchor:hover { background: rgba(173, 231, 216, 0.36); }
+mark.comment-anchor.pending { background: rgba(150, 150, 255, 0.22); }
+mark.comment-anchor.pending::after {
+  content: " (pending…)";
+  font-family: var(--font-sans); font-size: 0.7em; color: var(--muted);
+}
+
+.comment-add-btn {
+  position: absolute; z-index: 20;
+  font-family: var(--font-sans); font-size: 0.78rem; font-weight: 600;
+  background: var(--fg); color: var(--bg); border: none; border-radius: 4px;
+  padding: 0.35rem 0.7rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.comment-form-panel, .highlight-card {
+  background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
+  padding: 1rem 1.2rem; margin: 0.75rem 0; box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  font-family: var(--font-sans); font-size: 0.9rem;
+}
+.comment-form-panel { position: absolute; z-index: 20; max-width: 360px; }
+
+.highlight-quote {
+  font-family: var(--font-serif); font-style: italic; color: var(--muted);
+  border-left: 3px solid var(--accent); padding-left: 0.8rem; margin: 0 0 0.7rem;
+}
+.highlight-comment { padding: 0.5rem 0; border-top: 1px solid var(--border); }
+.highlight-comment:first-of-type { border-top: none; padding-top: 0; }
+.highlight-comment.highlight-reply { padding-left: 1.2rem; }
+.highlight-comment-meta { font-weight: 600; font-size: 0.8rem; margin-bottom: 0.15rem; }
+.highlight-comment-body { color: var(--fg); }
+.highlight-reply-btn {
+  background: none; border: none; color: var(--accent); font-family: var(--font-sans);
+  font-size: 0.8rem; font-weight: 600; cursor: pointer; padding: 0.4rem 0 0;
+}
+
+.comment-form { margin-top: 0.6rem; display: flex; flex-direction: column; gap: 0.5rem; }
+.comment-form input[type="text"], .comment-form input[type="email"], .comment-form textarea {
+  font-family: var(--font-sans); font-size: 0.85rem; padding: 0.45rem 0.6rem;
+  border: 1px solid var(--border); border-radius: 4px; background: var(--bg); color: var(--fg);
+}
+.comment-form textarea { min-height: 4.5rem; resize: vertical; }
+.comment-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.comment-form-actions { display: flex; justify-content: flex-end; gap: 0.5rem; }
+.comment-form-actions button {
+  font-family: var(--font-sans); font-size: 0.8rem; padding: 0.35rem 0.8rem;
+  border-radius: 4px; cursor: pointer;
+}
+.comment-form-actions button[type="submit"] { background: var(--accent); color: #fff; border: none; }
+.comment-form-actions .comment-cancel { background: none; border: 1px solid var(--border); color: var(--muted); }
+.comment-form-error { color: #c0392b; font-size: 0.8rem; }
+
 /* Zettel — connections + graph widget */
 .zettel-links { margin-top: 0.8rem; }
 .zettel-links h3 { font-family: var(--font-sans); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin: 0 0 0.3rem; }

@@ -9,14 +9,17 @@
     "sync:obsidian": "node scripts/sync-library-from-obsidian.js",
     "sync:content": "node scripts/sync-content-from-obsidian.js",
     "sync:all": "npm run sync:obsidian && npm run sync:content && npm run build",
-    "publish": "node scripts/publish.js"
+    "publish": "node scripts/publish.js",
+    "comments:migrate": "node scripts/comments-migrate.js",
+    "comments:review": "node scripts/comments-review.js"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
     "gray-matter": "^4.0.3",
-    "remark-parse": "^11.0.0",
-    "remark-gfm": "^4.0.0",
-    "remark-rehype": "^11.1.1",
     "rehype-stringify": "^10.0.1",
+    "remark-gfm": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.1",
     "unified": "^11.0.5"
   }
 }
