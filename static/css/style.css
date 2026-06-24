@@ -127,7 +127,7 @@ aside .bio a:hover { text-decoration: underline; }
 .ctrl-btn:hover { color: var(--fg); border-color: var(--fg); }
 .ctrl-btn svg { width: 16px; height: 16px; }
 
-main { padding: 3rem 3rem 6rem; max-width: 720px; min-width: 0; }
+main { position: relative; padding: 3rem 3rem 6rem; max-width: 720px; min-width: 0; }
 
 .breadcrumb {
   font-family: var(--font-sans);
@@ -225,6 +225,10 @@ h1.page-title {
 /* Dictionary of Terms */
 .dict-term { padding: 1.2rem 0; border-bottom: 1px solid var(--border); }
 .dict-term h2 { font-family: var(--font-display); font-size: 1.1rem; margin: 0 0 0.4rem; }
+.dict-term p strong:first-child {
+  color: var(--accent); font-family: var(--font-sans); font-size: 0.85rem;
+  text-transform: uppercase; letter-spacing: 0.03em;
+}
 
 /* Five-Year Plan feed (homepage + /plan/) */
 .plan-feed, .plan-card-list { display: flex; flex-direction: column; gap: 0; }
@@ -293,6 +297,20 @@ h1.page-title {
   .plan-card { flex-direction: column; }
   .plan-card-img { width: 160px; aspect-ratio: 1 / 1; }
 }
+
+.comment-box { margin: 0 0 2rem; }
+.comment-box--corner { max-width: 360px; }
+
+/* Zettel — connections + graph widget */
+.zettel-links { margin-top: 0.8rem; }
+.zettel-links h3 { font-family: var(--font-sans); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin: 0 0 0.3rem; }
+.zettel-links ul { list-style: none; padding: 0; margin: 0; }
+.zettel-links li { font-size: 0.9rem; padding: 0.2rem 0; }
+.zettel-backlinks { border-top: 1px dashed var(--border); padding-top: 0.6rem; margin-top: 0.6rem; }
+
+#zettel-graph { position: absolute; top: 2rem; right: 2rem; width: 220px; height: 220px; }
+#zettel-graph canvas { display: block; }
+@media (max-width: 860px) { #zettel-graph { display: none; } }
 
 footer.site-footer {
   margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--border);

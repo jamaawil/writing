@@ -6,6 +6,17 @@
   function applyTheme(theme) {
     root.setAttribute("data-theme", theme);
     localStorage.setItem(THEME_KEY, theme);
+    syncGiscusTheme(theme);
+    document.dispatchEvent(new CustomEvent("themechange", { detail: theme }));
+  }
+
+  function syncGiscusTheme(theme) {
+    var iframe = document.querySelector("iframe.giscus-frame");
+    if (!iframe) return;
+    iframe.contentWindow.postMessage(
+      { giscus: { setConfig: { theme: theme === "dark" ? "dark" : "light" } } },
+      "https://giscus.app"
+    );
   }
 
   function applyScale(scale) {

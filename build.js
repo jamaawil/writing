@@ -12,6 +12,15 @@ const CONTENT = path.join(ROOT, "content");
 const OUT = path.join(ROOT, "public");
 const SITE_NAME = "Jamal Awil";
 
+// Filled in once Discussions + the giscus GitHub App are enabled on the repo
+// and https://giscus.app's config tool has generated real IDs for it.
+const GISCUS = {
+  repo: "jamaawil/writing",
+  repoId: "REPLACE_ME",
+  category: "Comments",
+  categoryId: "REPLACE_ME",
+};
+
 const ICONS = {
   startHere: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>',
   essays: '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
@@ -25,6 +34,7 @@ const ICONS = {
   ideas: '<path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/>',
   plan: '<rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>',
   bibliography: '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',
+  zettel: '<circle cx="6" cy="6" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="18" r="2.2"/><line x1="6" y1="6" x2="12" y2="18"/><line x1="18" y1="6" x2="12" y2="18"/><line x1="6" y1="6" x2="18" y2="6"/>',
 };
 
 const NAV = [
@@ -38,6 +48,7 @@ const NAV = [
   { title: "Bits", href: "/bits/", icon: ICONS.bits },
   { title: "Scholars", href: "/scholars/", icon: ICONS.scholars },
   { title: "Ideas", href: "/ideas/", icon: ICONS.ideas },
+  { title: "Zettel", href: "/zettel/", icon: ICONS.zettel },
   { title: "Five-Year Plan", href: "/plan/", icon: ICONS.plan },
   { title: "Bibliography", href: "/bibliography/", icon: ICONS.bibliography },
 ];
@@ -117,6 +128,7 @@ ${body}
 </main>
 </div>
 <script src="/js/main.js"></script>
+<script src="/js/zettel-graph.js"></script>
 </body>
 </html>
 `;
@@ -160,10 +172,68 @@ function breadcrumb(label, href, all = true) {
   return `<p class="breadcrumb"><a href="${href}">← ${all ? "All " : ""}${label}</a></p>`;
 }
 
+function giscusEmbed(extraClass = "") {
+  return `<div class="comment-box${extraClass ? " " + extraClass : ""}">
+  <script src="https://giscus.app/client.js"
+    data-repo="${GISCUS.repo}"
+    data-repo-id="${GISCUS.repoId}"
+    data-category="${GISCUS.category}"
+    data-category-id="${GISCUS.categoryId}"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
+</div>`;
+}
+
 function planCardImg(s) {
   return s.image
     ? `<div class="plan-card-img"><img src="${s.image}" alt="${s.title}" loading="lazy"></div>`
     : `<div class="plan-card-img placeholder-img" aria-hidden="true"><span>Image placeholder</span></div>`;
+}
+
+// Resolves each zettel's `links` (slugs, from extractWikilinks in the sync script)
+// against the full zettel set, mutating each entry with .outLinks/.inLinks (arrays of
+// zettel objects) and .brokenLinks (slugs with no matching note yet — a normal forward
+// reference in Zettelkasten use, not an error).
+function resolveZettelGraph(zettels) {
+  const bySlug = new Map(zettels.map((z) => [z.slug, z]));
+  const backlinks = new Map(zettels.map((z) => [z.slug, []]));
+  for (const z of zettels) {
+    z.outLinks = [];
+    z.brokenLinks = [];
+    for (const targetSlug of z.links || []) {
+      const target = bySlug.get(targetSlug);
+      if (target) {
+        z.outLinks.push(target);
+        backlinks.get(targetSlug).push(z);
+      } else {
+        z.brokenLinks.push(targetSlug);
+      }
+    }
+  }
+  for (const z of zettels) z.inLinks = backlinks.get(z.slug) || [];
+  return zettels;
+}
+
+function renderConnections(z) {
+  const out = z.outLinks.length
+    ? `<div class="zettel-links"><h3>Links to</h3><ul>${z.outLinks
+        .map((t) => `<li><a href="/zettel/${t.slug}/">${t.title}</a></li>`)
+        .join("")}</ul></div>`
+    : "";
+  const inb = z.inLinks.length
+    ? `<div class="zettel-links zettel-backlinks"><h3>Linked from</h3><ul>${z.inLinks
+        .map((t) => `<li><a href="/zettel/${t.slug}/">${t.title}</a></li>`)
+        .join("")}</ul></div>`
+    : "";
+  return out + inb;
 }
 
 function scholarCard(href, name, era, field) {
@@ -198,6 +268,16 @@ function build() {
   const ideas = readMarkdownDir(path.join(CONTENT, "ideas")).sort((a, b) =>
     a.title.localeCompare(b.title)
   );
+  const zettels = resolveZettelGraph(
+    readMarkdownDir(path.join(CONTENT, "zettel")).sort((a, b) => a.title.localeCompare(b.title))
+  );
+  const zettelGraph = {
+    nodes: zettels.map((z) => ({ id: z.slug, title: z.title, href: `/zettel/${z.slug}/` })),
+    edges: zettels.flatMap((z) => z.outLinks.map((t) => ({ source: z.slug, target: t.slug }))),
+  };
+  const zettelGraphScript = `<script type="application/json" id="zettel-graph-data">${JSON.stringify(
+    zettelGraph
+  ).replace(/<\/script>/gi, "<\\/script>")}</script>`;
   const bits = readMarkdownDir(path.join(CONTENT, "bits")).sort(
     (a, b) => new Date(b.date) - new Date(a.date)
   );
@@ -232,6 +312,7 @@ ${essay.html}`,
       title: "All Essays",
       activeHref: "/essays/",
       body: `<div class="page-header"><div><h1 class="page-title">All Essays</h1></div></div>
+${giscusEmbed("comment-box--corner")}
 <ul class="essay-list">
 ${essays
   .map(
@@ -287,7 +368,8 @@ ${inTopic.map((e) => `    <li><a href="/essay/${e.slug}/">${e.title}</a></li>`).
         body: `${breadcrumb("Library", "/library/")}
 <h1>${entry.title}</h1>
 <p class="page-subtitle">${entry.author || ""}</p>
-${entry.html}`,
+${entry.html}
+${giscusEmbed()}`,
       })
     );
   }
@@ -314,7 +396,12 @@ ${library
       activeHref: "/dictionary/",
       body: `<div class="page-header"><div><h1 class="page-title">Dictionary of Terms</h1><p class="page-subtitle">Definitions for terms used often in this writing.</p></div></div>
 ${definitions
-  .map((d) => `<div class="dict-term"><h2>${d.title}</h2>${d.html}</div>`)
+  .map(
+    (d) =>
+      `<div class="dict-term"><h2>${d.title}</h2>${
+        d.tagline ? `<p class="page-subtitle">${d.tagline}</p>` : ""
+      }${d.html}</div>`
+  )
   .join("\n")}`,
     })
   );
@@ -381,6 +468,41 @@ ${ideas
         title: i.title,
         activeHref: "/ideas/",
         body: `${breadcrumb("Ideas", "/ideas/")}\n<h1>${i.title}</h1>\n${i.html}`,
+      })
+    );
+  }
+
+  writePage(
+    "zettel",
+    layout({
+      title: "Zettel",
+      activeHref: "/zettel/",
+      body: `<div class="page-header"><div><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked.</p></div></div>
+<div id="zettel-graph"></div>
+${zettels
+  .map(
+    (z) => `<div class="topic-group">
+  <h2><a href="/zettel/${z.slug}/">${z.title}</a></h2>
+  ${z.html}
+  ${renderConnections(z)}
+</div>`
+  )
+  .join("\n")}
+${zettelGraphScript}`,
+    })
+  );
+  for (const z of zettels) {
+    writePage(
+      `zettel/${z.slug}`,
+      layout({
+        title: z.title,
+        activeHref: "/zettel/",
+        body: `${breadcrumb("Zettel", "/zettel/")}
+<div id="zettel-graph" data-current="${z.slug}"></div>
+<h1>${z.title}</h1>
+${z.html}
+${renderConnections(z)}
+${zettelGraphScript}`,
       })
     );
   }
@@ -496,7 +618,7 @@ ${semesters
   );
 
   console.log(
-    `Built ${essays.length} essays, ${library.length} library entries, ${definitions.length} terms, ${scholars.length} scholars, ${ideas.length} ideas, ${bits.length} bits, ${semesters.length} semesters, ${bibliography.length} bibliography categories.`
+    `Built ${essays.length} essays, ${library.length} library entries, ${definitions.length} terms, ${scholars.length} scholars, ${ideas.length} ideas, ${zettels.length} zettels, ${bits.length} bits, ${semesters.length} semesters, ${bibliography.length} bibliography categories.`
   );
 }
 

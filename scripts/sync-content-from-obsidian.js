@@ -29,6 +29,18 @@ function slugify(s) {
     .slice(0, 80);
 }
 
+// Extracts [[Wikilink]] targets from a note body, resolving [[Target|shown text]] and
+// [[Target#heading]] to just Target, then slugifying — relies on the linked note's
+// filename/title matching Target exactly, the same convention Obsidian's own
+// autocomplete already encourages.
+function extractWikilinks(body) {
+  const re = /\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g;
+  const slugs = new Set();
+  let m;
+  while ((m = re.exec(body))) slugs.add(slugify(m[1].trim()));
+  return [...slugs];
+}
+
 function yamlValue(v) {
   if (v instanceof Date) return JSON.stringify(v.toISOString().slice(0, 10));
   if (Array.isArray(v)) return JSON.stringify(v);
@@ -112,6 +124,18 @@ const COLLECTIONS = [
     fields: (fm, slug) => ({
       title: fm.title,
       slug,
+      tagline: fm.tagline,
+    }),
+  },
+  {
+    label: "Zettel",
+    vaultFolder: "Zettel",
+    destFolder: "zettel",
+    requiredTitle: true,
+    fields: (fm, slug, body) => ({
+      title: fm.title,
+      slug,
+      links: extractWikilinks(body),
     }),
   },
 ];
@@ -131,7 +155,7 @@ function syncCollection(def, stats) {
       continue;
     }
     const slug = fm.slug || slugify(fm.title) || slugify(path.basename(file, ".md"));
-    const fields = def.fields(fm, slug);
+    const fields = def.fields(fm, slug, body);
     const out = `${buildFrontmatter(fields)}\n\n${body.trim()}\n`;
     writeIfChanged(path.join(destDir, `${slug}.md`), out, stats);
   }
