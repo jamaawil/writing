@@ -5,6 +5,19 @@
 [functions]
   directory = "netlify/functions"
 
+# Friendly API paths used by the client (comments.js / main.js) mapped to the
+# actual function names. These specific rules MUST come before the /api/* catch-all
+# (Netlify uses the first matching rule).
+[[redirects]]
+  from = "/api/comments"
+  to = "/.netlify/functions/comments-get"
+  status = 200
+
+[[redirects]]
+  from = "/api/comment"
+  to = "/.netlify/functions/comment-post"
+  status = 200
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
