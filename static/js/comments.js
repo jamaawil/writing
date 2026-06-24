@@ -146,7 +146,11 @@
   var addBtn = document.createElement("button");
   addBtn.type = "button";
   addBtn.className = "comment-add-btn";
-  addBtn.textContent = "Add a comment";
+  addBtn.setAttribute("aria-label", "Add a comment");
+  addBtn.innerHTML =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" ' +
+    'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
   addBtn.hidden = true;
   document.body.appendChild(addBtn);
 
@@ -181,8 +185,9 @@
     }
     pendingSelection = ctx;
     var rect = ctx.range.getBoundingClientRect();
-    addBtn.style.top = window.scrollY + rect.top - 36 + "px";
-    addBtn.style.left = window.scrollX + rect.left + "px";
+    var btnSize = 36;
+    addBtn.style.top = window.scrollY + rect.bottom + 8 + "px";
+    addBtn.style.left = window.scrollX + rect.left + rect.width / 2 - btnSize / 2 + "px";
     addBtn.hidden = false;
   });
 
@@ -313,7 +318,8 @@
     panel.innerHTML =
       '<div class="highlight-quote">' + escapeHtml(ctx.text) + "</div>" + buildFormHtml(false);
     var rect = ctx.range.getBoundingClientRect();
-    panel.style.top = window.scrollY + rect.bottom + 8 + "px";
+    // Sits below the comment-add button (which itself sits at rect.bottom + 8, ~36px tall).
+    panel.style.top = window.scrollY + rect.bottom + 8 + 44 + "px";
     panel.style.left = window.scrollX + rect.left + "px";
     document.body.appendChild(panel);
     floatingPanel = panel;
