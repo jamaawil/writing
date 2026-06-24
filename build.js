@@ -11,6 +11,7 @@ const ROOT = __dirname;
 const CONTENT = path.join(ROOT, "content");
 const OUT = path.join(ROOT, "public");
 const SITE_NAME = "Jamal Awil";
+const SITE_EMAIL = "mawilinc@gmail.com";
 
 const ICONS = {
   startHere: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>',
@@ -89,12 +90,28 @@ function layout({ title, activeHref, body }) {
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
+<div class="mobile-bar">
+  <button class="hamburger" id="mobile-nav-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+  </button>
+  <span class="mobile-title">${SITE_NAME}</span>
+</div>
+<div class="drawer-backdrop" id="drawer-backdrop"></div>
 <div class="layout">
-<aside>
+<aside id="site-aside">
   <div class="aside-top">
-    <div class="pfp-wrap"><img class="pfp" src="/images/profile.jpg" alt="${SITE_NAME}"></div>
+    <a class="pfp-wrap" href="/" aria-label="${SITE_NAME} — Home">
+      <div class="pfp-mask"><img class="pfp" src="/images/profile.jpg" alt="${SITE_NAME}"></div>
+      <div class="pfp-peg-rotator"><span class="pfp-peg"></span></div>
+    </a>
     <h1>${SITE_NAME}</h1>
-    <p class="bio">Architect-turned-writer. Building pattern languages, software, anthologies, and community for essayists.</p>
+    <p class="bio">I am a lifelong learner and professional business solutions developer with a desire to help and learn as much as I can. I now run <a href="https://funnelithic.com/" target="_blank" rel="noopener noreferrer">Funnelithic Business Solutions Agency</a> in MN.</p>
+    <button type="button" class="email-copy" data-email="${SITE_EMAIL}">
+      <span class="email-text">${SITE_EMAIL}</span>
+      <svg class="copy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+      <span class="copied-tooltip" aria-hidden="true">Copied!</span>
+    </button>
+    <a class="aside-cta" href="https://funnelithic.com/" target="_blank" rel="noopener noreferrer">Hire me <span aria-hidden="true">↗</span></a>
     <nav class="aside-nav">
       ${NAV.map(
         (n) =>
@@ -108,6 +125,7 @@ function layout({ title, activeHref, body }) {
     <div class="ctrl-row">
       <button class="ctrl-btn" id="theme-toggle" title="Toggle theme">&#9680;</button>
       <button class="ctrl-btn" id="size-toggle" title="Adjust text size">Aa</button>
+      <button class="ctrl-btn" id="spacing-toggle" title="Size">&#8597;</button>
     </div>
   </div>
 </aside>
@@ -121,6 +139,7 @@ ${body}
 <script src="/js/main.js"></script>
 <script src="/js/zettel-graph.js"></script>
 <script src="/js/comments.js"></script>
+<script src="/js/footnotes.js"></script>
 </body>
 </html>
 `;
@@ -296,7 +315,9 @@ ${commentable(
 ${essays
   .map(
     (e) =>
-      `  <li><a href="/essay/${e.slug}/">${e.title}</a><span class="wc">${
+      `  <li><a href="/essay/${e.slug}/">${
+        e.favorite ? '<span class="favorite-star" title="Favorite">★</span> ' : ""
+      }${e.title}</a><span class="wc">${
         e.words ? e.words + " words" : ""
       }</span></li>`
   )

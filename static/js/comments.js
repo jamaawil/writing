@@ -191,12 +191,52 @@
     addBtn.hidden = false;
   });
 
+  var INTRO_KEY = "comments_intro_seen";
+
+  function showIntroModal(onContinue) {
+    var backdrop = document.createElement("div");
+    backdrop.className = "modal-backdrop";
+    var modal = document.createElement("div");
+    modal.className = "modal comment-intro-modal";
+    modal.innerHTML =
+      "<h3>Commenting on a passage</h3>" +
+      "<p>Select a sentence or phrase anywhere on the page, then click the bubble icon that appears to attach a note to it.</p>" +
+      "<p>No sign-in needed — just enter your name and email the first time. New comments are reviewed before other readers see them.</p>" +
+      '<button type="button" class="modal-continue">Got it</button>';
+    backdrop.appendChild(modal);
+    document.body.appendChild(backdrop);
+
+    function dismiss() {
+      backdrop.remove();
+      localStorage.setItem(INTRO_KEY, "1");
+      onContinue();
+    }
+    modal.querySelector(".modal-continue").addEventListener("click", dismiss);
+    backdrop.addEventListener("click", function (e) {
+      if (e.target === backdrop) dismiss();
+    });
+  }
+
   addBtn.addEventListener("mousedown", function (e) {
     // mousedown (not click) so it fires before selectionchange clears the selection
     e.preventDefault();
     if (!pendingSelection) return;
-    openNewCommentForm(pendingSelection);
+    var ctx = pendingSelection;
     addBtn.hidden = true;
+    pendingSelection = null;
+    // We've captured everything we need from the live selection into ctx — clear it
+    // now rather than leaving it dangling. Otherwise, later DOM edits inside
+    // .commentable (wrapTextRange splitting text nodes when rendering the new
+    // comment) can re-trigger selectionchange against this now-stale selection,
+    // which makes addBtn reappear with nothing left to hide it again until a reload.
+    if (window.getSelection) window.getSelection().removeAllRanges();
+    if (!localStorage.getItem(INTRO_KEY)) {
+      showIntroModal(function () {
+        openNewCommentForm(ctx);
+      });
+    } else {
+      openNewCommentForm(ctx);
+    }
   });
 
   // ---------- comment form (new highlight or reply) ----------
@@ -281,6 +321,7 @@
             if (rootComment && rootMark) openCard(rootComment, rootMark);
           } else {
             closeFloatingForm();
+            if (window.getSelection) window.getSelection().removeAllRanges();
             wrapTextRange(payload.start_pos, payload.end_pos, {
               commentId: "pending-" + data.id,
               pending: "1",

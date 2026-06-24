@@ -13,4 +13,6 @@ Each essay is a markdown file with frontmatter: `title`, `slug`, `date`, `topics
 
 ## A heading
 
-Write normally here. Standard markdown and GitHub-flavored extensions (tables, strikethrough, task lists) all work, since the pipeline uses `remark-gfm`.
+Write normally here. Standard markdown and GitHub-flavored extensions (tables, strikethrough, task lists) all work, since the pipeline uses `remark-gfm`. Footnotes work too[^1], shown as a small popup instead of jumping to the bottom of the page.
+
+[^1]: Like this one — click the number to see it, click elsewhere (or press Escape) to dismiss it.
