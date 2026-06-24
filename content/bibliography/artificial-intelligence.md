@@ -3,6 +3,7 @@ title: "Artificial Intelligence"
 slug: artificial-intelligence
 counts: "100 fiction · 100 nonfiction"
 order: 1
+cover: "/images/bibliography/artificial-intelligence.png"
 ---
 
 ## Fiction

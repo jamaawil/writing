@@ -3,6 +3,7 @@ title: "Cross-Disciplinary"
 slug: cross-disciplinary
 counts: "100 fiction · 100 nonfiction"
 order: 4
+cover: "/images/bibliography/cross-disciplinary.png"
 ---
 
 ## Fiction

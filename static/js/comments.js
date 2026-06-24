@@ -176,19 +176,33 @@
     return { text: text, startPos: startPos, endPos: endPos, range: range.cloneRange() };
   }
 
-  document.addEventListener("selectionchange", function () {
+  function showAddBtnForCurrentSelection() {
     var ctx = getSelectionContext();
-    if (!ctx) {
-      addBtn.hidden = true;
-      pendingSelection = null;
-      return;
-    }
+    if (!ctx) return;
     pendingSelection = ctx;
     var rect = ctx.range.getBoundingClientRect();
     var btnSize = 36;
     addBtn.style.top = window.scrollY + rect.bottom + 8 + "px";
     addBtn.style.left = window.scrollX + rect.left + rect.width / 2 - btnSize / 2 + "px";
     addBtn.hidden = false;
+  }
+
+  // Only mouseup/keyup/touchend on .commentable (real user gestures that end a
+  // selection) ever show addBtn. selectionchange itself only ever hides it. This
+  // matters because DOM edits elsewhere in .commentable — e.g. wrapTextRange
+  // splitting text nodes to insert a freshly-submitted comment's <mark> — can
+  // spuriously re-fire selectionchange. If showing the button were wired to that
+  // generic event, a mutation unrelated to any real selection gesture could revive
+  // a stale selection into a visible button with nothing left to hide it again.
+  container.addEventListener("mouseup", showAddBtnForCurrentSelection);
+  container.addEventListener("touchend", showAddBtnForCurrentSelection);
+  container.addEventListener("keyup", showAddBtnForCurrentSelection);
+
+  document.addEventListener("selectionchange", function () {
+    if (!getSelectionContext()) {
+      addBtn.hidden = true;
+      pendingSelection = null;
+    }
   });
 
   var INTRO_KEY = "comments_intro_seen";

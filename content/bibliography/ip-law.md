@@ -3,6 +3,7 @@ title: "Intellectual Property Law"
 slug: ip-law
 counts: "100 fiction · 100 nonfiction"
 order: 2
+cover: "/images/bibliography/ip-law.png"
 ---
 
 ## Fiction

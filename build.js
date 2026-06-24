@@ -11,7 +11,7 @@ const ROOT = __dirname;
 const CONTENT = path.join(ROOT, "content");
 const OUT = path.join(ROOT, "public");
 const SITE_NAME = "Jamal Awil";
-const SITE_EMAIL = "mawilinc@gmail.com";
+const SITE_EMAIL = "support@funnelithic.com";
 const BIO =
   'I am a lifelong learner and professional business solutions developer with a desire to help and learn as much as I can. I now run <a href="https://funnelithic.com/" target="_blank" rel="noopener noreferrer">Funnelithic Business Solutions Agency</a> in MN.';
 const CTA = { label: "Hire me", href: "https://funnelithic.com/" };

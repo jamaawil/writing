@@ -3,6 +3,7 @@ title: "Social Equity"
 slug: social-equity
 counts: "100 fiction · 100 nonfiction"
 order: 3
+cover: "/images/bibliography/social-equity.png"
 ---
 
 ## Fiction

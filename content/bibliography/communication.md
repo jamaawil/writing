@@ -3,6 +3,7 @@ title: "Communication"
 slug: communication
 counts: "100 fiction · 100 nonfiction"
 order: 0
+cover: "/images/bibliography/communication.png"
 ---
 
 ## Fiction

@@ -3,6 +3,7 @@ title: "Cross-Pollination"
 slug: cross-pollination
 counts: "100 fiction · 100 nonfiction"
 order: 5
+cover: "/images/bibliography/cross-pollination.png"
 ---
 
 ## Fiction
