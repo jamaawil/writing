@@ -28,7 +28,9 @@ function main() {
   console.log("\nChanges to publish:");
   console.log(runCapture("git status --short"));
 
-  run("git add -A -- content static build.js package.json package-lock.json scripts .claude");
+  run(
+    "git add -A -- content static build.js package.json package-lock.json scripts .claude netlify netlify.toml .gitignore"
+  );
 
   const staged = runCapture("git status --porcelain").trim();
   if (!staged) {
