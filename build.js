@@ -18,7 +18,7 @@ const CTA = { label: "Hire me", href: "https://funnelithic.com/" };
 // Announcement banner shown at the top of the home page. Edit the text/href or set
 // BANNER to null to hide it. (Reuses Jamal's existing tagline — no new editorial copy.)
 const BANNER = {
-  html: 'Building things in public, one essay at a time. <a href="/start-here/">Start here →</a>',
+  html: "Never tire of learning!",
 };
 
 const ICONS = {
