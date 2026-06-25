@@ -68,6 +68,40 @@ const markdownPipeline = unified()
   .use(remarkRehype, { allowDangerousHtml: true })
   .use(rehypeStringify, { allowDangerousHtml: true });
 
+// Obsidian-style callouts ("> [!quote] Title" + "> body" lines) become a
+// styled div before markdown parsing, since they aren't standard markdown.
+function renderCallouts(md) {
+  const lines = md.split("\n");
+  const out = [];
+  let i = 0;
+  while (i < lines.length) {
+    const m = lines[i].match(/^>\s*\[!(\w+)\]\s*(.*)$/i);
+    if (!m) {
+      out.push(lines[i]);
+      i++;
+      continue;
+    }
+    const type = m[1].toLowerCase();
+    const title = m[2].trim() || type.charAt(0).toUpperCase() + type.slice(1);
+    i++;
+    const bodyLines = [];
+    while (i < lines.length && lines[i].startsWith(">")) {
+      bodyLines.push(lines[i].replace(/^>\s?/, ""));
+      i++;
+    }
+    const bodyHtml = bodyLines
+      .map((l) => l.trim())
+      .filter(Boolean)
+      .map((l) => `<p>${esc(l)}</p>`)
+      .join("\n");
+    out.push(
+      `<div class="callout callout-${type}"><div class="callout-title"><div class="callout-icon">“</div><div class="callout-title-text">${esc(title)}</div></div><div class="callout-content">${bodyHtml}</div></div>`,
+      ""
+    );
+  }
+  return out.join("\n");
+}
+
 function readMarkdownDir(dir) {
   if (!fs.existsSync(dir)) return [];
   return fs
@@ -76,7 +110,7 @@ function readMarkdownDir(dir) {
     .map((f) => {
       const raw = fs.readFileSync(path.join(dir, f), "utf8");
       const { data, content } = matter(raw);
-      const html = markdownPipeline.processSync(content).toString();
+      const html = markdownPipeline.processSync(renderCallouts(content)).toString();
       return { ...data, file: f, html };
     });
 }

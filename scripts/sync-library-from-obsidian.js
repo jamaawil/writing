@@ -20,7 +20,10 @@ const DEST = path.join(__dirname, "..", "content", "library");
 const PRUNE = process.env.NO_PRUNE !== "1";
 
 function stripMarkers(s) {
-  return s.replace(/<!--\s*rw:\d+\s*-->/g, "").trim();
+  return s
+    .replace(/<!--\s*rw:\d+\s*-->/g, "")
+    .replace(/%%[\s\S]*?%%/g, "") // Obsidian comments (e.g. the unfilled response placeholder)
+    .trim();
 }
 
 // Each highlight is a "---"-separated block:
@@ -73,7 +76,8 @@ function renderEntry(fm, highlights) {
 
   const body = highlights
     .map((h) => {
-      const parts = [`> ${h.quote}`];
+      const quoteBlock = ["> [!quote]", ...h.quote.split("\n").map((l) => `> ${l}`)].join("\n");
+      const parts = [quoteBlock];
       if (h.citation) parts.push(`<cite>${h.citation}</cite>`);
       if (h.response) parts.push(h.response);
       return parts.join("\n\n");

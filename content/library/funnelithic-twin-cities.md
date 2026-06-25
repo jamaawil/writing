@@ -7,6 +7,7 @@ responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-0.c6917d331b03.png"
 ---
 
+> [!quote]
 > rating, last review date, photos
 
 <cite>Funnelithic, Funnelithic-Twin-Cities, Location 496</cite>

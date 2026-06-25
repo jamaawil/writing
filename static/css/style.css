@@ -2527,6 +2527,42 @@
     }
     .log .body blockquote:not(.highlight-quote) p:last-child { margin-bottom: 0; }
 
+    /* Obsidian-style callouts (e.g. "> [!quote]" highlight blocks) */
+    .callout {
+      margin: 0.6rem 0 1rem;
+      padding: 0.7rem 1rem 0.95rem;
+      border-radius: 6px;
+      background: rgba(0,0,0,0.04);
+    }
+    [data-theme="dark"] .callout { background: rgba(255,255,255,0.045); }
+    .callout-title {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      padding-bottom: 0.55rem;
+      margin-bottom: 0.6rem;
+      border-bottom: 1px dashed var(--border);
+      font-family: var(--font-sans);
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--fg);
+    }
+    .callout-icon {
+      font-family: Georgia, "Hoefler Text", "Baskerville", serif;
+      font-size: 1.3rem;
+      line-height: 1;
+      color: var(--muted);
+      opacity: 0.8;
+    }
+    .callout-content {
+      font-family: var(--font-serif);
+      font-size: calc(16px * var(--prose-scale));
+      line-height: 1.6;
+      color: var(--fg);
+    }
+    .callout-content p { margin: 0 0 0.6rem; }
+    .callout-content p:last-child { margin-bottom: 0; }
+
     /* breathing room between list items (applies anywhere prose lists appear) */
     .log .body li + li,
     .c-body li + li { margin-top: 0.4rem; }
