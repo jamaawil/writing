@@ -43,7 +43,7 @@ function parseHighlightBlocks(body) {
       }
       const quote = quoteLines.join("\n").trim();
       const rest = lines.slice(i).join("\n");
-      const citeMatch = rest.match(/^\s*\*(.+?)\*/m);
+      const citeMatch = rest.match(/^\s*<cite>(.*?)<\/cite>/m);
       const citation = citeMatch ? stripMarkers(citeMatch[1]) : null;
       const afterCite = citeMatch ? rest.slice(rest.indexOf(citeMatch[0]) + citeMatch[0].length) : rest;
       // Drop any blockquote/callout lines (e.g. the "Your Readwise note" aside)
@@ -72,7 +72,7 @@ function renderEntry(fm, highlights) {
   const body = highlights
     .map((h) => {
       const parts = [`> ${h.quote}`];
-      if (h.citation) parts.push(`*${h.citation}*`);
+      if (h.citation) parts.push(`<cite>${h.citation}</cite>`);
       if (h.response) parts.push(h.response);
       return parts.join("\n\n");
     })

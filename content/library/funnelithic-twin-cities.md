@@ -9,4 +9,4 @@ cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon
 
 > rating, last review date, photos
 
-*Location 496*
+<cite>Funnelithic, Funnelithic-Twin-Cities, Location 496</cite>

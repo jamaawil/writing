@@ -9,10 +9,10 @@ cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon
 
 > properties in the materials of the universe. These are the cornerstones on which all subsequent theories of music are founded. Characteristically the lyre is the instrument of Homer,
 
-*Location 155*
+<cite>R. Murray Schafer, Schafer, Murray R - The Soundscape_ Our Sonic Environment and the Tuning of the World (1993, Inner Traditions Bear & Company) - libgen.li, Location 155</cite>
 
 ---
 
 > grind my axe on this point for
 
-*Location 149*
+<cite>R. Murray Schafer, Schafer, Murray R - The Soundscape_ Our Sonic Environment and the Tuning of the World (1993, Inner Traditions Bear & Company) - libgen.li, Location 149</cite>

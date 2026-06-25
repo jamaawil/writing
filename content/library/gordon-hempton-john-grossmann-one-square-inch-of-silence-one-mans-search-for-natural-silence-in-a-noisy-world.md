@@ -9,40 +9,40 @@ cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon
 
 > Robert Koch
 
-*Location 64*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 64</cite>
 
 ---
 
 > Silence is not the absence of something but the presence of everything.
 
-*Location 81*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 81</cite>
 
 ---
 
 > To experience the soul-swelling wonder of silence, you must hear it.
 
-*Location 85*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 85</cite>
 
 ---
 
 > If we cannot make a stand here, if we turn a deaf ear to the issue of vanishing natural quiet, how can we expect to fare better with more complex environmental crises?
 
-*Location 101*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 101</cite>
 
 ---
 
 > Listening is a wordless process of receiving honest impressions.
 
-*Location 117*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 117</cite>
 
 ---
 
 > 100 percent noise-free condition, will likewise affect many square miles
 
-*Location 195*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 195</cite>
 
 ---
 
 > My logic is simple and not simply symbolic: If a loud noise, such as the passing of an aircraft, can affect many square miles, then a natural place, if maintained in a 100 percent noise-free condition, will likewise affect many square miles around it. Protect that single square inch of land from noise pollution, and quiet will prevail over a much larger area of the park.
 
-*Location 194*
+<cite>Gordon Hempton, Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World, Location 194</cite>

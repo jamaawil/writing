@@ -9,226 +9,226 @@ cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon
 
 > stranger oath taken by every new Master of Arts, swearing they would "never agree to the reconciliation of Henry Symeonis"
 
-*Location 52*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 52</cite>
 
 ---
 
 > The oath was not just about protecting books — it was about the building entering into relationship with the reader.
 
-*Location 56*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 56</cite>
 
 ---
 
 > inhabitants.
 
-*Location 59*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 59</cite>
 
 ---
 
 > ritual.
 
-*Location 60*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 60</cite>
 
 ---
 
 > and when the last syllable leaves her mouth, something shifts in the quality of the air.
 
-*Location 62*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 62</cite>
 
 ---
 
 > preventing the return of someone whose name has been replaced by a cipher.
 
-*Location 63*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 63</cite>
 
 ---
 
 > that great libraries were founded as covenants enforced by a spoken oath
 
-*Location 67*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 67</cite>
 
 ---
 
 > libraries are perishable and have been burned, looted, and starved across centuries
 
-*Location 73*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 73</cite>
 
 ---
 
 > The most dangerous documents were moved before the doors were unlocked. Every "open archive" conceals a more carefully hidden one within itself.
 
-*Location 87*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 87</cite>
 
 ---
 
 > public face and an inner sanctum. What visitors see when they enter is deliberately calming — a working library, catalogued and lit. What Elara tends is the section no visitor has entered in decades: the shelves that were moved before the archive's last inspection.
 
-*Location 89*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 89</cite>
 
 ---
 
 > “public face versus inner sanctum”
 
-*Location 97*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 97</cite>
 
 ---
 
 > information control,
 
-*Location 99*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 99</cite>
 
 ---
 
 > selective transparency
 
-*Location 101*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 101</cite>
 
 ---
 
 > “managed revelation” to Elara — it shows each curator only what they are ready to know — turning exposition into suspense.
 
-*Location 102*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 102</cite>
 
 ---
 
 > Her research was, at some level, a posthumous reckoning with his work. She describes the forest teaching her what destruction her own family had done. The science arrived clothed in grief.
 
-*Location 116*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 116</cite>
 
 ---
 
 > There is a network below the floor: root-like tendrils connecting the archive's botanical specimens, running through the foundation, linking every specimen to every other.
 
-*Location 119*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 119</cite>
 
 ---
 
 > vocabulary for mycelial intelligence and symbiosis — how a distributed organism can “think.”
 
-*Location 130*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 130</cite>
 
 ---
 
 > Mundaneum in Brussels — an institution intended to catalog all human knowledge in a single physical index.
 
-*Location 136*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 136</cite>
 
 ---
 
 > "universal brain"
 
-*Location 138*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 138</cite>
 
 ---
 
 > "Today they killed the idea."
 
-*Location 139*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 139</cite>
 
 ---
 
 > vines had wrapped themselves around rows of catalogued knowledge. The botanical world had begun to reclaim the universal brain.
 
-*Location 142*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 142</cite>
 
 ---
 
 > that connected knowledge would develop a form of intelligence that exceeded any individual user.
 
-*Location 144*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 144</cite>
 
 ---
 
 > literal biology:
 
-*Location 145*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 145</cite>
 
 ---
 
 > project with a theoretical ambition — not just to store knowledge but to think with it. Elara's father understood this. The "alive" quality of the library is not supernatural; it is the delayed fulfillment of Otlet's actual thesis: that a sufficiently connected knowledge system develops distributed cognition.
 
-*Location 147*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 147</cite>
 
 ---
 
 > Otlet’s actual theory of documentation and distributed cognition.
 
-*Location 159*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 159</cite>
 
 ---
 
 > Elara reads Otlet’s thesis as a prophecy the Whispering Archive is quietly fulfilling.
 
-*Location 160*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 160</cite>
 
 ---
 
 > "active data" — the idea that texts respond to each other.
 
-*Location 168*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 168</cite>
 
 ---
 
 > The library's destruction paradoxically preserved it.
 
-*Location 169*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 169</cite>
 
 ---
 
 > literate king in the ancient Near East
 
-*Location 171*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 171</cite>
 
 ---
 
 > emergence
 
-*Location 173*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 173</cite>
 
 ---
 
 > His arrangement followed a logic she has never fully decoded. Some sections face each other. Some books are stored spine-to-spine with another book they have no obvious relation to.
 
-*Location 175*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 175</cite>
 
 ---
 
 > a lost epic recovered from ashes — that the novel can echo when the archive survives catastrophe.
 
-*Location 182*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 182</cite>
 
 ---
 
 > Lets readers learn that the first systematic library was arranged on a logic of texts “in dialogue,” not by subject or date.
 
-*Location 185*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 185</cite>
 
 ---
 
 > Justifies the father’s strange shelving — books set face to face — as a decodable puzzle Elara slowly cracks.
 
-*Location 187*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 187</cite>
 
 ---
 
 > — the loop, the reader-as-micro-library — that it dramatizes.
 
-*Location 237*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 237</cite>
 
 ---
 
 > (the reader who completes the library)
 
-*Location 238*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 238</cite>
 
 ---
 
 > but plant the seed in the opening. When she enters the archive on page one, she experiences a momentary difficulty: she cannot quite see, or she knows too much about what she is seeing to see it fresh. Use Borges's blinding as a structural irony:
 
-*Location 226*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 226</cite>
 
 ---
 
 > the real biology is stranger than the fiction.
 
-*Location 132*
+<cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 132</cite>

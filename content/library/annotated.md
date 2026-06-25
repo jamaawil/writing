@@ -9,10 +9,10 @@ cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon
 
 > White Noise models how communication infrastructure shapes ontology, foreshadowing debates about generative AI's epistemic effects and the political economy of attention.
 
-*Location 54*
+<cite>Bibliography, Annotated, Location 54</cite>
 
 ---
 
 > Essential for COMM scholars examining how mass media reorganizes the public sphere and erodes authorial control, with direct bearing on contemporary IP debates over image rights and AI-generated likenesses.
 
-*Location 60*
+<cite>Bibliography, Annotated, Location 60</cite>

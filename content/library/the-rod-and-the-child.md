@@ -9,22 +9,22 @@ cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon
 
 > Samuel Noah Kramer
 
-*Location 91*
+<cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 91</cite>
 
 ---
 
 > Wande Abimbola, Bolaji Idowu, and contemporary scholars like Segun Gbadegesin, rests on a multipart anthropology.
 
-*Location 16909*
+<cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16909</cite>
 
 ---
 
 > Kwame Gyekye,
 
-*Location 16924*
+<cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16924</cite>
 
 ---
 
 > not to beat the world's corruption out of it."
 
-*Location 16930*
+<cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16930</cite>

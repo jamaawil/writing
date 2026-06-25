@@ -9,22 +9,22 @@ cover: "https://is3-ssl.mzstatic.com/image/thumb/Publication118/v4/13/57/6d/1357
 
 > There is an expressway beyond the backyard now, well below us, and at night as we settle into our brass bed the sparse traffic washes past, a remote and steady murmur around our sleep, as of dead souls babbling at the edge of a dream.
 
-*Location 25*
+<cite>Don DeLillo, White Noise, Location 25</cite>
 
 ---
 
 > petite woman, the hair would be too cute, too mischievous and contrived. Size gives her tousled
 
-*Location 35*
+<cite>Don DeLillo, White Noise, Location 35</cite>
 
 ---
 
 > Ample women do not plan such things. They lack the guile for conspiracies of the body.
 
-*Location 36*
+<cite>Don DeLillo, White Noise, Location 36</cite>
 
 ---
 
 > “Maybe there is no death as we know it. Just documents changing hands.”
 
-*Location 54*
+<cite>Don DeLillo, White Noise, Location 54</cite>
