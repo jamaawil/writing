@@ -2,7 +2,7 @@
 title: "Communication as Culture: Essays on Media and Society"
 slug: communication-as-culture-essays-on-media-and-society
 author: "James W. Carey"
-highlights: 25
+highlights: 26
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547466/JW8EqwYjVirviozxVClwRXvmfsdKKxImfs0OF-GEe34-cove_PZU6iSP.jpg"
 ---
@@ -183,3 +183,10 @@ cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_as
 > > There is more than a verbal tie between the words common, community, and communication. Men live in a community in virtue of the things which they have in common; and communication is the way in which they come to possess things in common. What they must have in common . . . are aims, beliefs, aspirations, knowledge—a common understanding—likemindedness as sociologists say. Such things cannot be passed physically from one to another like bricks; they cannot be shared as persons would share a pie by dividing it into physical pieces. . . . Consensus demands communication (Dewey, 1916: 5–6).
 
 <cite>James W. Carey, Communication as, Location 96819</cite>
+
+---
+
+> [!quote]
+> The transmission view of communication has dominated American thought since the 1920s. When I first came into this field I felt that this view of communication, expressed in behavioral and functional terms, was exhausted. It had become academic: a repetition of past achievement, a demonstration of the indubitable. Although it led to solid achievement, it could no longer go forward without disastrous intellectual and social consequences. I felt it was necessary to reopen the analysis, to reinvigorate it with the tension found in Dewey’s work and, above all, to go elsewhere into biology, theology, anthropology, and literature for some intellectual material with which we might escape the treadmill we were running.
+
+<cite>James W. Carey, Communication as, Location 97992</cite>
