@@ -24,8 +24,9 @@ function stripMarkers(s) {
 }
 
 // Each highlight is a "---"-separated block:
+//   > [!quote]
 //   > quote text (possibly multi-line)
-//   *Location N* <!-- rw:ID -->
+//   <cite>Author, Title, Location N</cite> <!-- rw:ID -->
 //
 //   optional response paragraph(s), written by hand in Obsidian
 function parseHighlightBlocks(body) {
@@ -35,9 +36,10 @@ function parseHighlightBlocks(body) {
     .filter(Boolean)
     .map((block) => {
       const lines = block.split("\n");
-      const quoteLines = [];
       let i = 0;
-      while (i < lines.length && lines[i].startsWith(">") && !lines[i].startsWith("> [!")) {
+      if (/^>\s*\[!quote\]/i.test(lines[i] || "")) i++;
+      const quoteLines = [];
+      while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
         quoteLines.push(lines[i].replace(/^>\s?/, ""));
         i++;
       }
