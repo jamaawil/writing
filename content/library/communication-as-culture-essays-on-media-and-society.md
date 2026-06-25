@@ -3,7 +3,7 @@ title: "Communication as Culture: Essays on Media and Society"
 slug: communication-as-culture-essays-on-media-and-society
 author: "James W. Carey"
 highlights: 26
-responses: 0
+responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547466/JW8EqwYjVirviozxVClwRXvmfsdKKxImfs0OF-GEe34-cove_PZU6iSP.jpg"
 ---
 
@@ -190,3 +190,5 @@ cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_as
 > The transmission view of communication has dominated American thought since the 1920s. When I first came into this field I felt that this view of communication, expressed in behavioral and functional terms, was exhausted. It had become academic: a repetition of past achievement, a demonstration of the indubitable. Although it led to solid achievement, it could no longer go forward without disastrous intellectual and social consequences. I felt it was necessary to reopen the analysis, to reinvigorate it with the tension found in Dewey’s work and, above all, to go elsewhere into biology, theology, anthropology, and literature for some intellectual material with which we might escape the treadmill we were running.
 
 <cite>James W. Carey, Communication as, Location 97992</cite>
+
+The desire to escape the boundaries of Europe, to create a new life, to found new communities, to carve a New Jerusalem out of the woods of Massachusetts, were primary motives behind the unprecedented movement of white European civilization over virtually the entire globe. The vast and, for the first time, democratic migration in space was above all an attempt to trade an old world for a new and represented the profound belief that movement in space could be in itself a redemptive act. It is a belief Americans have never quite escaped.
