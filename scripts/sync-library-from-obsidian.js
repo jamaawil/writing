@@ -1,8 +1,8 @@
-// Syncs library/books/*.md from the Obsidian "Frequentation" vault into
-// content/library/*.md, matching the frontmatter + body shape build.js expects.
+// Syncs library/books/*.md (Readwise highlights + your written responses,
+// built by the vault's _scripts/frequentation.js) into content/library/*.md,
+// matching the frontmatter + body shape build.js expects.
 //
-// Source of truth: the Obsidian vault (book pages built by
-// _scripts/frequentation-library.js). This script is read-only on the vault
+// Source of truth: the Obsidian vault. This script is read-only on the vault
 // and overwrites content/library/<slug>.md deterministically on every run.
 //
 // Usage: node scripts/sync-library-from-obsidian.js
@@ -19,72 +19,66 @@ const SRC = path.join(VAULT, "library", "books");
 const DEST = path.join(__dirname, "..", "content", "library");
 const PRUNE = process.env.NO_PRUNE !== "1";
 
-function unescapeEntities(s) {
-  return s
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'");
+function stripMarkers(s) {
+  return s.replace(/<!--\s*rw:\d+\s*-->/g, "").trim();
 }
 
-function htmlInlineToMarkdown(s) {
-  return unescapeEntities(
-    String(s || "")
-      .replace(/<span class="quote-close">.*?<\/span>/gs, "")
-      .replace(/<a href="([^"]+)">(.*?)<\/a>/gs, "[$2]($1)")
-      .replace(/<strong>(.*?)<\/strong>/gs, "**$1**")
-      .replace(/<em>(.*?)<\/em>/gs, "*$1*")
-  ).trim();
+// Each highlight is a "---"-separated block:
+//   > quote text (possibly multi-line)
+//   *Location N* <!-- rw:ID -->
+//
+//   optional response paragraph(s), written by hand in Obsidian
+function parseHighlightBlocks(body) {
+  return body
+    .split(/\n-{3,}\n/)
+    .map((block) => block.trim())
+    .filter(Boolean)
+    .map((block) => {
+      const lines = block.split("\n");
+      const quoteLines = [];
+      let i = 0;
+      while (i < lines.length && lines[i].startsWith(">") && !lines[i].startsWith("> [!")) {
+        quoteLines.push(lines[i].replace(/^>\s?/, ""));
+        i++;
+      }
+      const quote = quoteLines.join("\n").trim();
+      const rest = lines.slice(i).join("\n");
+      const citeMatch = rest.match(/^\s*\*(.+?)\*/m);
+      const citation = citeMatch ? stripMarkers(citeMatch[1]) : null;
+      const afterCite = citeMatch ? rest.slice(rest.indexOf(citeMatch[0]) + citeMatch[0].length) : rest;
+      // Drop any blockquote/callout lines (e.g. the "Your Readwise note" aside)
+      // from the response — only plain paragraph text counts as a response.
+      const responseLines = afterCite.split("\n").filter((l) => !l.trim().startsWith(">"));
+      const response = stripMarkers(responseLines.join("\n")).trim();
+      return { quote, citation, response };
+    })
+    .filter((h) => h.quote);
 }
 
-function extractResponses(body) {
-  const section = body.split("<!-- FREQUENTATION:RESPONSES -->")[1];
-  if (!section) return [];
-  const articles = section.match(/<article class="response-card">.*?<\/article>/gs) || [];
-  return articles.map((article) => {
-    const title = htmlInlineToMarkdown(
-      (article.match(/<h2 class="response-title">(.*?)<\/h2>/s) || [, ""])[1]
-    );
-    const quoteBlock = (article.match(/<blockquote class="quote">(.*?)<\/blockquote>/s) || [, ""])[1];
-    const quote = htmlInlineToMarkdown(
-      (quoteBlock.match(/<p>(.*?)<\/p>/s) || [, ""])[1]
-    );
-    const location = (quoteBlock.match(/<cite>(.*?)<\/cite>/s) || [, ""])[1];
-    const afterBlockquote = article.split(/<\/blockquote>/s)[1] || "";
-    const paragraphs = (afterBlockquote.match(/<p>(.*?)<\/p>/gs) || [])
-      .map((p) => htmlInlineToMarkdown(p.replace(/^<p>/, "").replace(/<\/p>$/, "")))
-      .filter(Boolean);
-    return { title, quote, location, paragraphs };
-  });
-}
-
-function renderEntry(frontmatter, responses) {
-  const fm = [
+function renderEntry(fm, highlights) {
+  const fmLines = [
     "---",
-    `title: ${JSON.stringify(frontmatter.title)}`,
-    `slug: ${frontmatter.slug}`,
-    `author: ${JSON.stringify(frontmatter.author || "")}`,
-    `highlights: ${frontmatter.highlights || 0}`,
-    `responses: ${frontmatter.responses || 0}`,
-    frontmatter.cover ? `cover: ${JSON.stringify(frontmatter.cover)}` : null,
+    `title: ${JSON.stringify(fm.title)}`,
+    `slug: ${fm.slug}`,
+    `author: ${JSON.stringify(fm.author || "")}`,
+    `highlights: ${highlights.length}`,
+    `responses: ${highlights.filter((h) => h.response).length}`,
+    fm.cover ? `cover: ${JSON.stringify(fm.cover)}` : null,
     "---",
   ]
     .filter(Boolean)
     .join("\n");
 
-  const body = responses
-    .map((r) => {
-      const parts = [];
-      if (responses.length > 1 && r.title) parts.push(`## ${r.title}`);
-      parts.push(`> ${r.quote}`);
-      if (r.location) parts.push(`*${r.location}*`);
-      parts.push(...r.paragraphs);
+  const body = highlights
+    .map((h) => {
+      const parts = [`> ${h.quote}`];
+      if (h.citation) parts.push(`*${h.citation}*`);
+      if (h.response) parts.push(h.response);
       return parts.join("\n\n");
     })
     .join("\n\n---\n\n");
 
-  return `${fm}\n\n${body}\n`;
+  return `${fmLines}\n\n${body}\n`;
 }
 
 function sync() {
@@ -95,7 +89,7 @@ function sync() {
   }
   fs.mkdirSync(DEST, { recursive: true });
 
-  const files = fs.readdirSync(SRC).filter((f) => f.endsWith(".md"));
+  const files = fs.readdirSync(SRC).filter((f) => f.endsWith(".md") && !f.startsWith("_"));
   let created = 0,
     updated = 0,
     unchanged = 0,
@@ -105,13 +99,14 @@ function sync() {
   for (const file of files) {
     const raw = fs.readFileSync(path.join(SRC, file), "utf8");
     const { data: fm, content: body } = matter(raw);
-    if (!fm.slug || !fm.title) {
-      console.warn(`Skipping ${file}: missing title/slug frontmatter`);
+    if (!fm.title) {
+      console.warn(`Skipping ${file}: missing title frontmatter`);
       continue;
     }
-    const responses = extractResponses(body);
-    const rendered = renderEntry(fm, responses);
-    const destPath = path.join(DEST, `${fm.slug}.md`);
+    const slug = fm.slug || path.basename(file, ".md");
+    const highlights = parseHighlightBlocks(body);
+    const rendered = renderEntry({ ...fm, slug }, highlights);
+    const destPath = path.join(DEST, `${slug}.md`);
     const existing = fs.existsSync(destPath) ? fs.readFileSync(destPath, "utf8") : null;
     if (existing === rendered) {
       unchanged++;
@@ -120,7 +115,7 @@ function sync() {
       if (existing === null) created++;
       else updated++;
     }
-    keep.add(fm.slug);
+    keep.add(slug);
   }
 
   // Prune library entries whose source book was removed/renamed in the vault.

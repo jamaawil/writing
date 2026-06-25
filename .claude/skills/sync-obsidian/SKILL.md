@@ -9,10 +9,12 @@ The vault is at `/Users/polymath/Documents/SmartNotes Starter Kit` (override wit
 `OBSIDIAN_VAULT` env var if it moves). Two sync scripts pull from it, because two different
 parts of the vault produce content in different shapes:
 
-1. **Library** (book highlights + written responses) — authored via the vault's existing
-   "Frequentation" QuickAdd macro (`_scripts/frequentation-library.js`), which builds styled
-   HTML response cards on pages under `library/books/*.md`. `scripts/sync-library-from-obsidian.js`
-   reverse-engineers that HTML into `content/library/*.md`.
+1. **Library** (book highlights + written responses) — `library/books/*.md` is built by the
+   vault's QuickAdd macro "Build Library" (`_scripts/frequentation.js`), which pulls highlights
+   straight from the Readwise API (not from the official Readwise plugin's own export folder)
+   and writes one plain-markdown blockquote per highlight with blank space underneath for a
+   response. Re-running only appends new highlights — it never touches what you've already
+   written. `scripts/sync-library-from-obsidian.js` reads those files into `content/library/*.md`.
 2. **Everything else** (Essays, Bits, Ideas, Scholars, Topics, Dictionary, Projects) —
    authored directly as plain notes under `Website/<Type>/` in the vault, using frontmatter
    templates (`Website/<Type>/_template.md`) that already match the site's schema 1:1.
