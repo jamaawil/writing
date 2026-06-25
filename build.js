@@ -115,6 +115,84 @@ function readMarkdownDir(dir) {
     });
 }
 
+// content/library/<slug>.md bodies are "---"-separated highlight blocks:
+//   > [!quote]
+//   > quote text
+//   <cite>citation</cite>
+//
+//   optional "## Title" line, then optional response paragraph(s)
+function parseLibraryHighlights(body) {
+  return body
+    .split(/\n-{3,}\n/)
+    .map((block) => block.trim())
+    .filter(Boolean)
+    .map((block) => {
+      const lines = block.split("\n");
+      let i = 0;
+      if (/^>\s*\[!quote\]/i.test(lines[i] || "")) i++;
+      const quoteLines = [];
+      while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
+        quoteLines.push(lines[i].replace(/^>\s?/, ""));
+        i++;
+      }
+      const quote = quoteLines.join("\n").trim();
+      const rest = lines.slice(i).join("\n");
+      const citeMatch = rest.match(/^\s*<cite>(.*?)<\/cite>/m);
+      const citation = citeMatch ? citeMatch[1].trim() : null;
+      const afterCite = citeMatch ? rest.slice(rest.indexOf(citeMatch[0]) + citeMatch[0].length) : rest;
+      let response = afterCite
+        .split("\n")
+        .filter((l) => !l.trim().startsWith(">"))
+        .join("\n")
+        .trim();
+      let title = null;
+      const titleMatch = response.match(/^##\s+(.+)/);
+      if (titleMatch) {
+        title = titleMatch[1].trim();
+        response = response.slice(titleMatch[0].length).trim();
+      }
+      return { quote, citation, title, response };
+    })
+    .filter((h) => h.quote);
+}
+
+function readLibraryBooks(dir) {
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => {
+      const raw = fs.readFileSync(path.join(dir, f), "utf8");
+      const { data, content } = matter(raw);
+      const items = parseLibraryHighlights(content).map((h) => ({
+        ...h,
+        quoteHtml: markdownPipeline.processSync(h.quote).toString(),
+        responseHtml: h.response ? markdownPipeline.processSync(h.response).toString() : "",
+      }));
+      return { ...data, file: f, items };
+    });
+}
+
+function libraryHighlightCard(h) {
+  const hasNote = Boolean(h.response);
+  const header = hasNote && h.title
+    ? `<header class="highlight-header"><h4 class="highlight-title">${esc(h.title)}</h4></header>`
+    : "";
+  const cite = h.citation ? `<cite class="highlight-loc">${esc(h.citation)}</cite>` : "";
+  const note = hasNote ? `<div class="highlight-note">${h.responseHtml}</div>` : "";
+  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}">${header}<blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${note}</article>`;
+}
+
+function libraryHighlightsSections(items) {
+  const withNote = items.filter((h) => h.response);
+  const withoutNote = items.filter((h) => !h.response);
+  const section = (heading, list) =>
+    list.length
+      ? `<section class="highlights-section"><h3 class="section-heading">${heading} (${list.length})</h3><div class="highlights-list">${list.map(libraryHighlightCard).join("\n")}</div></section>`
+      : "";
+  return `${section("Responses", withNote)}${section("Highlights", withoutNote)}`;
+}
+
 function svgIcon(inner) {
   return `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
 }
@@ -334,7 +412,7 @@ function build() {
 
   const essays = readMarkdownDir(path.join(CONTENT, "essays")).sort((a, b) => new Date(b.date) - new Date(a.date));
   const definitions = readMarkdownDir(path.join(CONTENT, "definitions")).sort((a, b) => (a.title || "").localeCompare(b.title || ""));
-  const library = readMarkdownDir(path.join(CONTENT, "library")).sort((a, b) => (b.highlights || 0) - (a.highlights || 0));
+  const library = readLibraryBooks(path.join(CONTENT, "library")).sort((a, b) => (b.highlights || 0) - (a.highlights || 0));
   const topics = readMarkdownDir(path.join(CONTENT, "topics")).sort((a, b) => (a.title || "").localeCompare(b.title || ""));
   const scholars = readMarkdownDir(path.join(CONTENT, "scholars")).sort((a, b) => (a.title || "").localeCompare(b.title || ""));
   const ideas = readMarkdownDir(path.join(CONTENT, "ideas")).sort((a, b) => (a.title || "").localeCompare(b.title || ""));
@@ -487,7 +565,7 @@ function build() {
   /* ---------- library (GALLERY | TABLE) + detail ---------- */
   const bookCard = (e) => `<a class="book-card" href="/library/${e.slug}/">
   <div class="cover-wrap">${e.cover ? `<img class="cover" src="${e.cover}" alt="${esc(e.title)} cover" loading="lazy">` : `<span class="cover-initials">${esc(e.title)}</span>`}</div>
-  ${e.responses ? `<span class="response-badge" title="${e.responses} responses">${e.responses}</span>` : ""}
+  ${e.highlights ? `<span class="highlight-badge" title="${e.highlights} highlights">${e.highlights}</span>` : ""}
   <div class="title">${esc(e.title)}</div>
   <div class="author">${esc(e.author || "")}</div>
   <div class="count">${e.highlights || 0} highlights</div>
@@ -507,9 +585,20 @@ function build() {
 </section>`;
   writePage("library", layout({ title: "Library", activeHref: "/library/", body: libBody }));
   for (const e of library) {
+    const metaRows = [["Author", e.author], ["Highlights", e.highlights], ["Responses", e.responses]]
+      .filter(([, v]) => v != null && v !== "")
+      .map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(String(v))}</dd></div>`)
+      .join("");
+    const bookHeader = `<header class="book-header">
+  <div class="book-header-cover">${e.cover ? `<img src="${e.cover}" alt="${esc(e.title)} cover">` : ""}</div>
+  <div class="book-header-meta">
+    <h1 class="book-title">${esc(e.title)}</h1>
+    <dl class="book-meta-grid">${metaRows}</dl>
+  </div>
+</header>`;
     writePage(`library/${e.slug}`, layout({
       title: e.title, activeHref: "/library/",
-      body: `${backLink("Library", "/library/")}<article class="log detail"><header><h2>${esc(e.title)}</h2>${e.author ? `<p class="subtitle">${esc(e.author)}</p>` : ""}<div class="meta">${e.highlights || 0} highlights · ${e.responses || 0} responses</div></header>${commentable(`library/${e.slug}`, e.html)}</article>`,
+      body: `${backLink("all books", "/library/")}${bookHeader}${commentable(`library/${e.slug}`, libraryHighlightsSections(e.items))}`,
     }));
   }
 

@@ -2,3 +2,16 @@ node_modules/
 public/
 .DS_Store
 .env
+
+# Obsidian vault source notes (this repo folder doubles as a vault subfolder).
+# These are the source of truth in Obsidian; sync scripts read them and write
+# into content/ — they're never meant to be committed themselves.
+/Essays/
+/Bits/
+/Ideas/
+/Scholars/
+/Topics/
+/Dictionary/
+/Zettel/
+/Projects.md
+/Start Here.md

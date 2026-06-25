@@ -42,7 +42,7 @@ const COLLECTIONS = [
   {
     label: "Essays", vaultFolder: "Essays", destFolder: "essays", requiredTitle: true,
     url: (s) => `/essay/${s}/`,
-    fields: (fm, slug) => ({ title: fm.title, slug, date: fm.date, topics: fm.topics || [], favorite: !!fm.favorite, words: fm.words }),
+    fields: (fm, slug) => ({ title: fm.title, slug, subtitle: fm.subtitle, date: fm.date, topics: fm.topics || [], favorite: !!fm.favorite, words: fm.words }),
   },
   {
     label: "Ideas", vaultFolder: "Ideas", destFolder: "ideas", requiredTitle: true,
@@ -200,12 +200,16 @@ function syncBits(index, stats) {
   prune("bits", keep, stats);
 }
 
-// Projects: a single page — body replaces content/pages/projects.md's body while that
-// file's own frontmatter (title/slug/nav_order) is preserved. Never pruned.
-function syncProjectsPage(index, stats) {
-  const srcPath = path.join(WEBSITE_DIR, "Projects.md");
+// Single-file pages (Projects, Start Here): body replaces content/pages/<slug>.md's
+// body while that file's own frontmatter (title/slug/nav_order) is preserved. Never pruned.
+const SINGLE_PAGES = [
+  { vaultFile: "Projects.md", destSlug: "projects" },
+  { vaultFile: "Start Here.md", destSlug: "start-here" },
+];
+function syncSinglePage(vaultFile, destSlug, index, stats) {
+  const srcPath = path.join(WEBSITE_DIR, vaultFile);
   if (!fs.existsSync(srcPath)) return;
-  const destPath = path.join(REPO_ROOT, "content", "pages", "projects.md");
+  const destPath = path.join(REPO_ROOT, "content", "pages", `${destSlug}.md`);
   if (!fs.existsSync(destPath)) return;
   const { content: body } = matter(fs.readFileSync(srcPath, "utf8"));
   const { data: destFm } = matter(fs.readFileSync(destPath, "utf8"));
@@ -225,7 +229,7 @@ function sync() {
   const stats = { created: 0, updated: 0, unchanged: 0, skipped: 0, drafts: 0, pruned: 0 };
   for (const def of COLLECTIONS) syncCollection(def, index, stats);
   syncBits(index, stats);
-  syncProjectsPage(index, stats);
+  for (const { vaultFile, destSlug } of SINGLE_PAGES) syncSinglePage(vaultFile, destSlug, index, stats);
 
   console.log(
     `Synced content from Obsidian: ${stats.created} created, ${stats.updated} updated, ` +

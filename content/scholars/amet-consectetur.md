@@ -1,8 +1,0 @@
----
-title: Amet Consectetur
-slug: amet-consectetur
-era: 20th century
-field: Literary Criticism
----
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
