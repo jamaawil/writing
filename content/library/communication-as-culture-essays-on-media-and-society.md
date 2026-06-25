@@ -3,7 +3,7 @@ title: "Communication as Culture: Essays on Media and Society"
 slug: communication-as-culture-essays-on-media-and-society
 author: "James W. Carey"
 highlights: 26
-responses: 2
+responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547466/JW8EqwYjVirviozxVClwRXvmfsdKKxImfs0OF-GEe34-cove_PZU6iSP.jpg"
 ---
 
@@ -180,12 +180,9 @@ cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_as
 ---
 
 > [!quote]
-> > There is more than a verbal tie between the words common, community, and communication. Men live in a community in virtue of the things which they have in common; and communication is the way in which they come to possess things in common. What they must have in common . . . are aims, beliefs, aspirations, knowledge—a common understanding—likemindedness as sociologists say. Such things cannot be passed physically from one to another like bricks; they cannot be shared as persons would share a pie by dividing it into physical pieces. . . . Consensus demands communication (Dewey, 1916: 5–6).
+> There is more than a verbal tie between the words common, community, and communication. Men live in a community in virtue of the things which they have in common; and communication is the way in which they come to possess things in common. What they must have in common . . . are aims, beliefs, aspirations, knowledge—a common understanding—likemindedness as sociologists say. Such things cannot be passed physically from one to another like bricks; they cannot be shared as persons would share a pie by dividing it into physical pieces. . . . Consensus demands communication (Dewey, 1916: 5–6).
 
 <cite>James W. Carey, Communication as, Location 96819</cite>
-
-## Response
-The desire to escape the boundaries of Europe, to create a new life, to found new communities, to carve a New Jerusalem out of the woods of Massachusetts, were primary motives behind the unprecedented movement of white European civilization over virtually the entire globe. The vast and, for the first time, democratic migration in space was above all an attempt to trade an old world for a new and represented the profound belief that movement in space could be in itself a redemptive act. It is a belief Americans have never quite escaped.
 
 ---
 
@@ -194,8 +191,5 @@ The desire to escape the boundaries of Europe, to create a new life, to found ne
 
 <cite>James W. Carey, Communication as, Location 97992</cite>
 
-## Response
-
-
-
-The desire to escape the boundaries of Europe, to create a new life, to found new communities, to carve a New Jerusalem out of the woods of Massachusetts, were primary motives behind the unprecedented movement of white European civilization over virtually the entire globe. The vast and, for the first time, democratic migration in space was above all an attempt to trade an old world for a new and represented the profound belief that movement in space could be in itself a redemptive act. It is a belief Americans have never quite escaped.
+> [!Response]
+> The desire to escape the boundaries of Europe, to create a new life, to found new communities, to carve a New Jerusalem out of the woods of Massachusetts, were primary motives behind the unprecedented movement of white European civilization over virtually the entire globe. The vast and, for the first time, democratic migration in space was above all an attempt to trade an old world for a new and represented the profound belief that movement in space could be in itself a redemptive act. It is a belief Americans have never quite escaped.

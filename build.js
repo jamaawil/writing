@@ -115,12 +115,27 @@ function readMarkdownDir(dir) {
     });
 }
 
+// Pulls the lines of a callout ("> [!type]" + subsequent "> " lines) starting
+// at lines[i]. Returns { text, next } — next is the index just past the callout,
+// or null if lines[i] isn't a callout of the expected type.
+function readCallout(lines, i, type) {
+  if (!new RegExp(`^>\\s*\\[!${type}\\]`, "i").test(lines[i] || "")) return null;
+  i++;
+  const body = [];
+  while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
+    body.push(lines[i].replace(/^>\s?/, ""));
+    i++;
+  }
+  return { text: body.join("\n").trim(), next: i };
+}
+
 // content/library/<slug>.md bodies are "---"-separated highlight blocks:
 //   > [!quote]
 //   > quote text
 //   <cite>citation</cite>
 //
-//   optional "## Title" line, then optional response paragraph(s)
+//   > [!Response]
+//   > your response (optional — may be empty)
 function parseLibraryHighlights(body) {
   return body
     .split(/\n-{3,}\n/)
@@ -128,30 +143,17 @@ function parseLibraryHighlights(body) {
     .filter(Boolean)
     .map((block) => {
       const lines = block.split("\n");
-      let i = 0;
-      if (/^>\s*\[!quote\]/i.test(lines[i] || "")) i++;
-      const quoteLines = [];
-      while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
-        quoteLines.push(lines[i].replace(/^>\s?/, ""));
-        i++;
-      }
-      const quote = quoteLines.join("\n").trim();
-      const rest = lines.slice(i).join("\n");
-      const citeMatch = rest.match(/^\s*<cite>(.*?)<\/cite>/m);
+      const quoteCallout = readCallout(lines, 0, "quote");
+      const quote = quoteCallout ? quoteCallout.text : "";
+      let i = quoteCallout ? quoteCallout.next : 0;
+      while (i < lines.length && lines[i].trim() === "") i++;
+      const citeMatch = (lines[i] || "").match(/^\s*<cite>(.*?)<\/cite>/);
       const citation = citeMatch ? citeMatch[1].trim() : null;
-      const afterCite = citeMatch ? rest.slice(rest.indexOf(citeMatch[0]) + citeMatch[0].length) : rest;
-      let response = afterCite
-        .split("\n")
-        .filter((l) => !l.trim().startsWith(">"))
-        .join("\n")
-        .trim();
-      let title = null;
-      const titleMatch = response.match(/^##[ \t]*(.*)/);
-      if (titleMatch) {
-        title = titleMatch[1].trim() || null;
-        response = response.slice(titleMatch[0].length).trim();
-      }
-      return { quote, citation, title, response };
+      if (citeMatch) i++;
+      while (i < lines.length && lines[i].trim() === "") i++;
+      const responseCallout = readCallout(lines, i, "response");
+      const response = responseCallout ? responseCallout.text : "";
+      return { quote, citation, response };
     })
     .filter((h) => h.quote);
 }
@@ -173,14 +175,15 @@ function readLibraryBooks(dir) {
     });
 }
 
+const PENCIL_ICON = svgIcon('<path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/><path d="M15 5l4 4"/>');
+
 function libraryHighlightCard(h) {
   const hasNote = Boolean(h.response);
-  const header = hasNote && h.title
-    ? `<header class="highlight-header"><h4 class="highlight-title">${esc(h.title)}</h4></header>`
-    : "";
   const cite = h.citation ? `<cite class="highlight-loc">${esc(h.citation)}</cite>` : "";
-  const note = hasNote ? `<div class="highlight-note">${h.responseHtml}</div>` : "";
-  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}"><blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${header}${note}</article>`;
+  const note = hasNote
+    ? `<div class="callout callout-response"><div class="callout-title"><div class="callout-icon">${PENCIL_ICON}</div><div class="callout-title-text">Response</div></div><div class="callout-content">${h.responseHtml}</div></div>`
+    : "";
+  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}"><blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${note}</article>`;
 }
 
 function libraryHighlightsSections(items) {

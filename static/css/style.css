@@ -2553,7 +2553,9 @@
       line-height: 1;
       color: var(--muted);
       opacity: 0.8;
+      display: flex;
     }
+    .callout-icon svg { width: 1.05rem; height: 1.05rem; }
     .callout-content {
       font-family: var(--font-serif);
       font-size: calc(16px * var(--prose-scale));
@@ -2562,6 +2564,12 @@
     }
     .callout-content p { margin: 0 0 0.6rem; }
     .callout-content p:last-child { margin-bottom: 0; }
+
+    /* Response callout on a library highlight card */
+    .callout-response {
+      border: 1px solid var(--border);
+      margin: 0.85rem 0 0;
+    }
 
     /* breathing room between list items (applies anywhere prose lists appear) */
     .log .body li + li,

@@ -26,11 +26,18 @@ function stripMarkers(s) {
     .trim();
 }
 
-// A response is "real" if there's content beyond the leading "## Title" line
-// (which every highlight gets as an empty slot) — an empty or title-only
-// response shouldn't count or render as a note. Mirrors build.js's own check.
-function hasRealResponse(response) {
-  return Boolean(response.replace(/^##[ \t]*.*\n?/, "").trim());
+// Pulls the lines of a callout ("> [!type]" + subsequent "> " lines) starting
+// at lines[i]. Returns { text, next } — next is the index just past the callout,
+// or null if lines[i] isn't a callout of the expected type.
+function readCallout(lines, i, type) {
+  if (!new RegExp(`^>\\s*\\[!${type}\\]`, "i").test(lines[i] || "")) return null;
+  i++;
+  const body = [];
+  while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
+    body.push(lines[i].replace(/^>\s?/, ""));
+    i++;
+  }
+  return { text: stripMarkers(body.join("\n")).trim(), next: i };
 }
 
 // Each highlight is a "---"-separated block:
@@ -38,7 +45,8 @@ function hasRealResponse(response) {
 //   > quote text (possibly multi-line)
 //   <cite>Author, Title, Location N</cite> <!-- rw:ID -->
 //
-//   optional response paragraph(s), written by hand in Obsidian
+//   > [!Response]
+//   > your response, written by hand in Obsidian (optional — may be empty)
 function parseHighlightBlocks(body) {
   return body
     .split(/\n-{3,}\n/)
@@ -46,22 +54,16 @@ function parseHighlightBlocks(body) {
     .filter(Boolean)
     .map((block) => {
       const lines = block.split("\n");
-      let i = 0;
-      if (/^>\s*\[!quote\]/i.test(lines[i] || "")) i++;
-      const quoteLines = [];
-      while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
-        quoteLines.push(lines[i].replace(/^>\s?/, ""));
-        i++;
-      }
-      const quote = quoteLines.join("\n").trim();
-      const rest = lines.slice(i).join("\n");
-      const citeMatch = rest.match(/^\s*<cite>(.*?)<\/cite>/m);
+      const quoteCallout = readCallout(lines, 0, "quote");
+      const quote = quoteCallout ? quoteCallout.text : "";
+      let i = quoteCallout ? quoteCallout.next : 0;
+      while (i < lines.length && lines[i].trim() === "") i++;
+      const citeMatch = (lines[i] || "").match(/^\s*<cite>(.*?)<\/cite>/);
       const citation = citeMatch ? stripMarkers(citeMatch[1]) : null;
-      const afterCite = citeMatch ? rest.slice(rest.indexOf(citeMatch[0]) + citeMatch[0].length) : rest;
-      // Drop any blockquote/callout lines (e.g. the "Your Readwise note" aside)
-      // from the response — only plain paragraph text counts as a response.
-      const responseLines = afterCite.split("\n").filter((l) => !l.trim().startsWith(">"));
-      const response = stripMarkers(responseLines.join("\n")).trim();
+      if (citeMatch) i++;
+      while (i < lines.length && lines[i].trim() === "") i++;
+      const responseCallout = readCallout(lines, i, "response");
+      const response = responseCallout ? responseCallout.text : "";
       return { quote, citation, response };
     })
     .filter((h) => h.quote);
@@ -74,7 +76,7 @@ function renderEntry(fm, highlights) {
     `slug: ${fm.slug}`,
     `author: ${JSON.stringify(fm.author || "")}`,
     `highlights: ${highlights.length}`,
-    `responses: ${highlights.filter((h) => hasRealResponse(h.response)).length}`,
+    `responses: ${highlights.filter((h) => h.response).length}`,
     fm.cover ? `cover: ${JSON.stringify(fm.cover)}` : null,
     "---",
   ]
@@ -86,7 +88,9 @@ function renderEntry(fm, highlights) {
       const quoteBlock = ["> [!quote]", ...h.quote.split("\n").map((l) => `> ${l}`)].join("\n");
       const parts = [quoteBlock];
       if (h.citation) parts.push(`<cite>${h.citation}</cite>`);
-      if (hasRealResponse(h.response)) parts.push(h.response);
+      if (h.response) {
+        parts.push(["> [!Response]", ...h.response.split("\n").map((l) => `> ${l}`)].join("\n"));
+      }
       return parts.join("\n\n");
     })
     .join("\n\n---\n\n");
