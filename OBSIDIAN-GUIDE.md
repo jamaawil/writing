@@ -214,16 +214,16 @@ This one has its own short loop, separate from the rest:
 2. In Obsidian, run the **"Build Library"** QuickAdd macro (already set up —
    command palette or whatever hotkey/ribbon icon you've bound it to). It
    pulls any *new* highlights straight from the Readwise API into
-   `library/books/<book title>.md` — one file per book, one quote callout per
-   highlight, with an empty `## ` heading line and a
+   `library/books/<book title>.md` — one file per book, one `[!quote]`
+   callout per highlight, with an empty `[!Response]` callout and a
    `%%Write your response here.%%` placeholder underneath each. Re-running it
    only appends new highlights; it never touches a response you've already
    written.
-3. Open the book's note and, for any highlight you want to respond to, type a
-   title right after the `## ` and write your response below it, replacing
-   the placeholder. The title renders as a heading on that highlight's card on
-   the site; leave the `## ` line empty and no heading shows at all — either
-   way is fine, it's optional per response.
+3. Open the book's note and, for any highlight you want to respond to, write
+   your response inside the `[!Response]` callout (replacing the empty line
+   right after `> [!Response]`). On the site it renders as its own "Response"
+   box below the quote; leave it empty and nothing shows for that highlight
+   at all — it just stays listed under "Highlights" instead of "Responses."
 4. `npm run publish` like everything else.
 
 Note: `library/books/` lives in the vault but **outside** this repo folder
