@@ -296,7 +296,7 @@ ${BOOT}
 <main>
 ${bannerHtml}
 ${body}
-<footer class="site-footer"><p>Built with a custom markdown pipeline.</p></footer>
+
 </main>
 </div>
 <script src="/js/main.js"></script>
