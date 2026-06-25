@@ -191,4 +191,8 @@ cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_as
 
 <cite>James W. Carey, Communication as, Location 97992</cite>
 
+## 
+
+
+
 The desire to escape the boundaries of Europe, to create a new life, to found new communities, to carve a New Jerusalem out of the woods of Massachusetts, were primary motives behind the unprecedented movement of white European civilization over virtually the entire globe. The vast and, for the first time, democratic migration in space was above all an attempt to trade an old world for a new and represented the profound belief that movement in space could be in itself a redemptive act. It is a belief Americans have never quite escaped.

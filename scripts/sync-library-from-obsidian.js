@@ -26,6 +26,13 @@ function stripMarkers(s) {
     .trim();
 }
 
+// A response is "real" if there's content beyond the leading "## Title" line
+// (which every highlight gets as an empty slot) — an empty or title-only
+// response shouldn't count or render as a note. Mirrors build.js's own check.
+function hasRealResponse(response) {
+  return Boolean(response.replace(/^##[ \t]*.*\n?/, "").trim());
+}
+
 // Each highlight is a "---"-separated block:
 //   > [!quote]
 //   > quote text (possibly multi-line)
@@ -67,7 +74,7 @@ function renderEntry(fm, highlights) {
     `slug: ${fm.slug}`,
     `author: ${JSON.stringify(fm.author || "")}`,
     `highlights: ${highlights.length}`,
-    `responses: ${highlights.filter((h) => h.response).length}`,
+    `responses: ${highlights.filter((h) => hasRealResponse(h.response)).length}`,
     fm.cover ? `cover: ${JSON.stringify(fm.cover)}` : null,
     "---",
   ]
@@ -79,7 +86,7 @@ function renderEntry(fm, highlights) {
       const quoteBlock = ["> [!quote]", ...h.quote.split("\n").map((l) => `> ${l}`)].join("\n");
       const parts = [quoteBlock];
       if (h.citation) parts.push(`<cite>${h.citation}</cite>`);
-      if (h.response) parts.push(h.response);
+      if (hasRealResponse(h.response)) parts.push(h.response);
       return parts.join("\n\n");
     })
     .join("\n\n---\n\n");

@@ -146,9 +146,9 @@ function parseLibraryHighlights(body) {
         .join("\n")
         .trim();
       let title = null;
-      const titleMatch = response.match(/^##\s+(.+)/);
+      const titleMatch = response.match(/^##[ \t]*(.*)/);
       if (titleMatch) {
-        title = titleMatch[1].trim();
+        title = titleMatch[1].trim() || null;
         response = response.slice(titleMatch[0].length).trim();
       }
       return { quote, citation, title, response };

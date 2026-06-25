@@ -215,12 +215,15 @@ This one has its own short loop, separate from the rest:
    command palette or whatever hotkey/ribbon icon you've bound it to). It
    pulls any *new* highlights straight from the Readwise API into
    `library/books/<book title>.md` — one file per book, one quote callout per
-   highlight, with a `%%Write your response here.%%` placeholder underneath
-   each. Re-running it only appends new highlights; it never touches a
-   response you've already written.
-3. Open the book's note and write under any highlight you want to respond to,
-   replacing that placeholder. Optionally give a response a title by starting
-   it with `## Your Title` — it'll render as a heading on that highlight's card.
+   highlight, with an empty `## ` heading line and a
+   `%%Write your response here.%%` placeholder underneath each. Re-running it
+   only appends new highlights; it never touches a response you've already
+   written.
+3. Open the book's note and, for any highlight you want to respond to, type a
+   title right after the `## ` and write your response below it, replacing
+   the placeholder. The title renders as a heading on that highlight's card on
+   the site; leave the `## ` line empty and no heading shows at all — either
+   way is fine, it's optional per response.
 4. `npm run publish` like everything else.
 
 Note: `library/books/` lives in the vault but **outside** this repo folder
