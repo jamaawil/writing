@@ -17,6 +17,7 @@ const VAULT =
   "/Users/polymath/Documents/SmartNotes Starter Kit";
 const SRC = path.join(VAULT, "library", "books");
 const DEST = path.join(__dirname, "..", "content", "library");
+const PRUNE = process.env.NO_PRUNE !== "1";
 
 function unescapeEntities(s) {
   return s
@@ -97,7 +98,9 @@ function sync() {
   const files = fs.readdirSync(SRC).filter((f) => f.endsWith(".md"));
   let created = 0,
     updated = 0,
-    unchanged = 0;
+    unchanged = 0,
+    pruned = 0;
+  const keep = new Set();
 
   for (const file of files) {
     const raw = fs.readFileSync(path.join(SRC, file), "utf8");
@@ -117,9 +120,20 @@ function sync() {
       if (existing === null) created++;
       else updated++;
     }
+    keep.add(fm.slug);
   }
 
-  console.log(`Synced library from Obsidian: ${created} created, ${updated} updated, ${unchanged} unchanged.`);
+  // Prune library entries whose source book was removed/renamed in the vault.
+  if (PRUNE) {
+    for (const file of fs.readdirSync(DEST).filter((f) => f.endsWith(".md"))) {
+      if (!keep.has(path.basename(file, ".md"))) {
+        fs.rmSync(path.join(DEST, file));
+        pruned++;
+      }
+    }
+  }
+
+  console.log(`Synced library from Obsidian: ${created} created, ${updated} updated, ${unchanged} unchanged, ${pruned} pruned.`);
 }
 
 sync();
