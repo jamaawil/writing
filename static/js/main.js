@@ -352,8 +352,12 @@
         .catch(function () {});
     }
     function goToComments() {
+      document.dispatchEvent(new CustomEvent("requestCommentIntro"));
       var target = $(".commentable");
-      if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+      if (target) {
+        var rect = target.getBoundingClientRect();
+        if (rect.top > 120) target.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
     }
     cue.addEventListener("click", goToComments);
     cue.addEventListener("keydown", function (e) {

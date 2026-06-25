@@ -231,6 +231,23 @@
     });
   }
 
+  // "LEAVE A COMMENT" cue button → show intro modal or hint
+  document.addEventListener("requestCommentIntro", function () {
+    if (!localStorage.getItem(INTRO_KEY)) {
+      showIntroModal(function () {});
+    } else {
+      var hint = document.createElement("div");
+      hint.className = "comment-hint-toast";
+      hint.textContent = "Select any text on the page to leave a comment.";
+      document.body.appendChild(hint);
+      requestAnimationFrame(function () { hint.classList.add("comment-hint-visible"); });
+      setTimeout(function () {
+        hint.classList.remove("comment-hint-visible");
+        setTimeout(function () { hint.remove(); }, 300);
+      }, 3000);
+    }
+  });
+
   addBtn.addEventListener("mousedown", function (e) {
     // mousedown (not click) so it fires before selectionchange clears the selection
     e.preventDefault();

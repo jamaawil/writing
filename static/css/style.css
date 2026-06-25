@@ -3046,6 +3046,27 @@
       letter-spacing: 0.06em;
     }
 
+    .comment-hint-toast {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(1rem);
+      background: var(--fg);
+      color: var(--bg);
+      font-family: var(--font-sans);
+      font-size: 0.8rem;
+      padding: 0.55rem 1.1rem;
+      border-radius: 99px;
+      white-space: nowrap;
+      opacity: 0;
+      transition: opacity 0.2s, transform 0.2s;
+      z-index: 1100;
+      pointer-events: none;
+    }
+    .comment-hint-toast.comment-hint-visible {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
     .modal-backdrop {
       position: fixed;
       inset: 0;
