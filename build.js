@@ -180,7 +180,7 @@ function libraryHighlightCard(h) {
     : "";
   const cite = h.citation ? `<cite class="highlight-loc">${esc(h.citation)}</cite>` : "";
   const note = hasNote ? `<div class="highlight-note">${h.responseHtml}</div>` : "";
-  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}">${header}<blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${note}</article>`;
+  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}"><blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${header}${note}</article>`;
 }
 
 function libraryHighlightsSections(items) {

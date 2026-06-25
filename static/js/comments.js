@@ -50,22 +50,22 @@
     return marks;
   }
 
-  // ---------- highlight card (quote + thread + reply form) ----------
+  // ---------- comment card (quote + thread + reply form) ----------
   function closeAllCards() {
-    container.querySelectorAll(".highlight-card").forEach(function (el) {
+    container.querySelectorAll(".comment-card").forEach(function (el) {
       el.remove();
     });
   }
 
   function renderThread(comment) {
-    var html = '<div class="highlight-quote">' + escapeHtml(comment.selection_text) + "</div>";
+    var html = '<div class="comment-quote">' + escapeHtml(comment.selection_text) + "</div>";
     function renderOne(c, isReply) {
       return (
-        '<div class="highlight-comment' +
-        (isReply ? " highlight-reply" : "") +
-        '"><div class="highlight-comment-meta">' +
+        '<div class="comment-entry' +
+        (isReply ? " comment-reply" : "") +
+        '"><div class="comment-entry-meta">' +
         escapeHtml(c.name) +
-        "</div><div class=\"highlight-comment-body\">" +
+        "</div><div class=\"comment-entry-body\">" +
         escapeHtml(c.message) +
         "</div></div>"
       );
@@ -86,14 +86,14 @@
     closeAllCards();
     var block = anchorMark.closest("p, blockquote, li, h2, h3, h4") || anchorMark.parentElement;
     var card = document.createElement("div");
-    card.className = "highlight-card";
+    card.className = "comment-card";
     card.innerHTML =
       renderThread(comment) +
-      '<button type="button" class="highlight-reply-btn">Reply</button>' +
+      '<button type="button" class="comment-reply-btn">Reply</button>' +
       buildFormHtml(true);
     block.insertAdjacentElement("afterend", card);
     wireForm(card.querySelector(".comment-form"), { parent_id: comment.id, page_slug: pageSlug });
-    card.querySelector(".highlight-reply-btn").addEventListener("click", function () {
+    card.querySelector(".comment-reply-btn").addEventListener("click", function () {
       card.querySelector(".comment-form").hidden = false;
       this.hidden = true;
     });
@@ -277,7 +277,7 @@
     emailInput.value = localStorage.getItem(EMAIL_KEY) || "";
 
     form.querySelector(".comment-cancel").addEventListener("click", function () {
-      var card = form.closest(".highlight-card, .comment-form-panel");
+      var card = form.closest(".comment-card, .comment-form-panel");
       if (card && card.classList.contains("comment-form-panel")) card.remove();
       else form.hidden = true;
     });
@@ -371,7 +371,7 @@
     var panel = document.createElement("div");
     panel.className = "comment-form-panel";
     panel.innerHTML =
-      '<div class="highlight-quote">' + escapeHtml(ctx.text) + "</div>" + buildFormHtml(false);
+      '<div class="comment-quote">' + escapeHtml(ctx.text) + "</div>" + buildFormHtml(false);
     var rect = ctx.range.getBoundingClientRect();
     // Sits below the comment-add button (which itself sits at rect.bottom + 8, ~36px tall).
     panel.style.top = window.scrollY + rect.bottom + 8 + 44 + "px";

@@ -3273,8 +3273,8 @@
 #zettel-graph canvas { display: block; }
 @media (max-width: 980px) { #zettel-graph { display: none; } }
 
-/* ---- comment composer (created by comments.js; reference styles the marks
-   + modal, but not Jamal's highlight-card / floating form) ---- */
+/* ---- comment composer (created by comments.js): marks, add button,
+   comment-card / comment-form-panel ---- */
 mark.comment-anchor.pending { background: rgba(120, 120, 255, 0.22); }
 mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(--font-sans); font-size: 0.7em; color: var(--muted); }
 
@@ -3286,22 +3286,22 @@ mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(
 }
 .comment-add-btn svg { width: 18px; height: 18px; }
 
-.comment-form-panel, .highlight-card {
+.comment-form-panel, .comment-card {
   background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
   padding: 1rem 1.2rem; margin: 0.75rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
   font-family: var(--font-sans); font-size: 0.9rem;
 }
 .comment-form-panel { position: absolute; z-index: 40; max-width: 360px; }
-.highlight-quote {
+.comment-quote {
   font-family: var(--font-serif); font-style: italic; color: var(--muted);
   border-left: 3px solid var(--accent); padding-left: 0.8rem; margin: 0 0 0.7rem;
 }
-.highlight-comment { padding: 0.5rem 0; border-top: 1px solid var(--border); }
-.highlight-comment:first-of-type { border-top: none; padding-top: 0; }
-.highlight-comment.highlight-reply { padding-left: 1.2rem; }
-.highlight-comment-meta { font-weight: 600; font-size: 0.8rem; margin-bottom: 0.15rem; }
-.highlight-comment-body { color: var(--fg); }
-.highlight-reply-btn { background: none; border: none; color: var(--accent); font-family: var(--font-sans); font-size: 0.8rem; font-weight: 600; cursor: pointer; padding: 0.4rem 0 0; }
+.comment-entry { padding: 0.5rem 0; border-top: 1px solid var(--border); }
+.comment-entry:first-of-type { border-top: none; padding-top: 0; }
+.comment-entry.comment-reply { padding-left: 1.2rem; }
+.comment-entry-meta { font-weight: 600; font-size: 0.8rem; margin-bottom: 0.15rem; }
+.comment-entry-body { color: var(--fg); }
+.comment-reply-btn { background: none; border: none; color: var(--accent); font-family: var(--font-sans); font-size: 0.8rem; font-weight: 600; cursor: pointer; padding: 0.4rem 0 0; }
 
 .comment-form { margin-top: 0.6rem; display: flex; flex-direction: column; gap: 0.5rem; }
 .comment-form input[type="text"], .comment-form input[type="email"], .comment-form textarea {
