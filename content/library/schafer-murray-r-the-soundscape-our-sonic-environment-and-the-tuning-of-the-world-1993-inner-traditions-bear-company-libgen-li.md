@@ -7,14 +7,14 @@ responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png"
 ---
 
-> [!quote]
+> [!quote] The lyre is Homer's instrument and the cornerstone of music theory.
 > properties in the materials of the universe. These are the cornerstones on which all subsequent theories of music are founded. Characteristically the lyre is the instrument of Homer,
 
 <cite>R. Murray Schafer, Schafer, Murray, Location 155</cite>
 
 ---
 
-> [!quote]
+> [!quote] The speaker has a personal interest or ulterior motive.
 > grind my axe on this point for
 
 <cite>R. Murray Schafer, Schafer, Murray, Location 149</cite>

@@ -115,18 +115,19 @@ function readMarkdownDir(dir) {
     });
 }
 
-// Pulls the lines of a callout ("> [!type]" + subsequent "> " lines) starting
-// at lines[i]. Returns { text, next } — next is the index just past the callout,
-// or null if lines[i] isn't a callout of the expected type.
+// Pulls the lines of a callout ("> [!type] optional title" + subsequent "> " lines)
+// starting at lines[i]. Returns { claimTitle, text, next } or null.
 function readCallout(lines, i, type) {
-  if (!new RegExp(`^>\\s*\\[!${type}\\]`, "i").test(lines[i] || "")) return null;
+  const m = (lines[i] || "").match(new RegExp(`^>\\s*\\[!${type}\\]\\s*(.*)$`, "i"));
+  if (!m) return null;
+  const claimTitle = m[1].trim() || null;
   i++;
   const body = [];
   while (i < lines.length && lines[i].startsWith(">") && !/^>\s*\[!/.test(lines[i])) {
     body.push(lines[i].replace(/^>\s?/, ""));
     i++;
   }
-  return { text: body.join("\n").trim(), next: i };
+  return { claimTitle, text: body.join("\n").trim(), next: i };
 }
 
 // content/library/<slug>.md bodies are "---"-separated highlight blocks:
@@ -145,6 +146,7 @@ function parseLibraryHighlights(body) {
       const lines = block.split("\n");
       const quoteCallout = readCallout(lines, 0, "quote");
       const quote = quoteCallout ? quoteCallout.text : "";
+      const claimTitle = quoteCallout ? quoteCallout.claimTitle : null;
       let i = quoteCallout ? quoteCallout.next : 0;
       while (i < lines.length && lines[i].trim() === "") i++;
       const citeMatch = (lines[i] || "").match(/^\s*<cite>(.*?)<\/cite>/);
@@ -153,7 +155,7 @@ function parseLibraryHighlights(body) {
       while (i < lines.length && lines[i].trim() === "") i++;
       const responseCallout = readCallout(lines, i, "response");
       const response = responseCallout ? responseCallout.text : "";
-      return { quote, citation, response };
+      return { quote, claimTitle, citation, response };
     })
     .filter((h) => h.quote);
 }
@@ -180,10 +182,11 @@ const PENCIL_ICON = svgIcon('<path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.
 function libraryHighlightCard(h) {
   const hasNote = Boolean(h.response);
   const cite = h.citation ? `<cite class="highlight-loc">${esc(h.citation)}</cite>` : "";
+  const claim = h.claimTitle ? `<h3 class="highlight-claim">${esc(h.claimTitle)}</h3>` : "";
   const note = hasNote
     ? `<div class="callout callout-response"><div class="callout-title"><div class="callout-icon">${PENCIL_ICON}</div><div class="callout-title-text">Response</div></div><div class="callout-content">${h.responseHtml}</div></div>`
     : "";
-  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}"><blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${note}</article>`;
+  return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}">${claim}<blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${note}</article>`;
 }
 
 function libraryHighlightsSections(items) {
