@@ -156,16 +156,7 @@
   document.body.appendChild(addBtn);
 
   var pendingSelection = null;
-  // When addBtn is clicked, it hides itself in mousedown, so the subsequent mouseup
-  // retargets to the .commentable element underneath and would call
-  // showAddBtnForCurrentSelection — re-showing the button. This flag suppresses that one
-  // retargeted mouseup, matching the suppressNextDocClick pattern used for the form panel.
-  var suppressNextContainerMouseup = false;
-  // Set by the mousedown-dismiss handler so that the subsequent mouseup (which fires
-  // on .commentable when clicking within selected text) doesn't re-show the button.
-  // Cancelled by mousemove > 5px so a drag-to-select still shows the button.
-  var suppressBtnShowAfterClick = false;
-  var dismissMouseX = 0, dismissMouseY = 0;
+  var showBtnTimer = null;
 
   function getSelectionContext() {
     var sel = window.getSelection();
@@ -190,67 +181,42 @@
     return { text: text, startPos: startPos, endPos: endPos, range: range.cloneRange() };
   }
 
-  function showAddBtnForCurrentSelection() {
-    if (suppressNextContainerMouseup) {
-      suppressNextContainerMouseup = false;
-      return;
-    }
-    if (suppressBtnShowAfterClick) {
-      suppressBtnShowAfterClick = false;
-      return;
-    }
-    var ctx = getSelectionContext();
-    if (!ctx) return;
-    pendingSelection = ctx;
-    var rect = ctx.range.getBoundingClientRect();
-    var btnSize = 36;
-    addBtn.style.top = window.scrollY + rect.bottom + 8 + "px";
-    addBtn.style.left = window.scrollX + rect.left + rect.width / 2 - btnSize / 2 + "px";
-    addBtn.hidden = false;
-  }
-
-  // Only mouseup/keyup/touchend on .commentable (real user gestures that end a
-  // selection) ever show addBtn. selectionchange itself only ever hides it. This
-  // matters because DOM edits elsewhere in .commentable — e.g. wrapTextRange
-  // splitting text nodes to insert a freshly-submitted comment's <mark> — can
-  // spuriously re-fire selectionchange. If showing the button were wired to that
-  // generic event, a mutation unrelated to any real selection gesture could revive
-  // a stale selection into a visible button with nothing left to hide it again.
-  container.addEventListener("mouseup", showAddBtnForCurrentSelection);
-  container.addEventListener("touchend", showAddBtnForCurrentSelection);
-  container.addEventListener("keyup", showAddBtnForCurrentSelection);
-
+  // selectionchange is the single driver of button visibility.
+  // - Hides immediately when there is no valid selection.
+  // - Shows after 100 ms of stable selection (debounce while dragging).
+  // Using selectionchange for both directions eliminates the mouseup-retargeting
+  // problem: clicking anywhere collapses the selection synchronously, which fires
+  // selectionchange and hides the button before any mouseup can re-show it.
+  // We also clear the selection before any DOM edits (wrapTextRange), so spurious
+  // selectionchange events from text-node splits always see an empty selection.
   document.addEventListener("selectionchange", function () {
-    if (!getSelectionContext()) {
+    clearTimeout(showBtnTimer);
+    var ctx = getSelectionContext();
+    if (!ctx || floatingPanel) {
       addBtn.hidden = true;
-      pendingSelection = null;
+      if (!ctx) pendingSelection = null;
+      return;
     }
+    showBtnTimer = setTimeout(function () {
+      if (floatingPanel) return;
+      ctx = getSelectionContext();
+      if (!ctx) return;
+      pendingSelection = ctx;
+      var rect = ctx.range.getBoundingClientRect();
+      var btnSize = 36;
+      addBtn.style.top = window.scrollY + rect.bottom + 8 + "px";
+      addBtn.style.left = window.scrollX + rect.left + rect.width / 2 - btnSize / 2 + "px";
+      addBtn.hidden = false;
+    }, 100);
   });
 
-  // mousedown fires before selection changes and before mouseup re-shows the button,
-  // so it's the most reliable signal that the user has moved on from their selection.
-  // suppressBtnShowAfterClick stops the subsequent mouseup (on .commentable) from
-  // re-showing the button when clicking within currently-selected text — the browser
-  // keeps the selection alive through mousedown in that case.
-  // The flag is cancelled by mousemove > 5px so that starting a new drag selection
-  // (mousedown then drag) still shows the button when the drag finishes.
+  // Belt-and-suspenders: instantly hide on mousedown so there is no visible
+  // flash between the click and selectionchange collapsing the selection.
   document.addEventListener("mousedown", function (e) {
     if (!addBtn.hidden && e.target !== addBtn && !addBtn.contains(e.target)) {
+      clearTimeout(showBtnTimer);
       addBtn.hidden = true;
       pendingSelection = null;
-      suppressBtnShowAfterClick = true;
-      dismissMouseX = e.clientX;
-      dismissMouseY = e.clientY;
-    }
-  });
-
-  document.addEventListener("mousemove", function (e) {
-    if (suppressBtnShowAfterClick) {
-      var dx = e.clientX - dismissMouseX;
-      var dy = e.clientY - dismissMouseY;
-      if (dx * dx + dy * dy > 25) {
-        suppressBtnShowAfterClick = false;
-      }
     }
   });
 
@@ -326,7 +292,6 @@
     var ctx = pendingSelection;
     addBtn.hidden = true;
     pendingSelection = null;
-    suppressNextContainerMouseup = true;
     // We've captured everything we need from the live selection into ctx — clear it
     // now rather than leaving it dangling. Otherwise, later DOM edits inside
     // .commentable (wrapTextRange splitting text nodes when rendering the new
