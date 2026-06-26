@@ -209,14 +209,16 @@
 
   function showIntroModal(onContinue) {
     var backdrop = document.createElement("div");
-    backdrop.className = "modal-backdrop";
+    backdrop.className = "modal-backdrop visible";
+    backdrop.style.cssText = "position:fixed;inset:0;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;z-index:1000;";
     var modal = document.createElement("div");
     modal.className = "modal comment-intro-modal";
+    modal.style.cssText = "background:#fafaf8;border:1px solid #e0ddd6;border-radius:8px;padding:1.5rem 1.7rem 1.3rem;max-width:480px;width:92%;font-family:system-ui,sans-serif;box-shadow:0 8px 32px rgba(0,0,0,0.25);";
     modal.innerHTML =
-      "<h3>Commenting on a passage</h3>" +
-      "<p>Select a sentence or phrase anywhere on the page, then click the bubble icon that appears to attach a note to it.</p>" +
-      "<p>No sign-in needed — just enter your name and email the first time. New comments are reviewed before other readers see them.</p>" +
-      '<button type="button" class="modal-continue">Got it</button>';
+      "<h3 style='margin:0 0 0.8rem;font-size:1.1rem;'>Commenting on a passage</h3>" +
+      "<p style='margin:0 0 0.6rem;font-size:0.9rem;line-height:1.55;'>Select a sentence or phrase anywhere on the page, then click the bubble icon that appears to attach a note to it.</p>" +
+      "<p style='margin:0 0 1rem;font-size:0.9rem;line-height:1.55;'>No sign-in needed — just enter your name and email the first time. New comments are reviewed before other readers see them.</p>" +
+      '<button type="button" class="modal-continue" style="background:#1a1a1a;color:#fafaf8;border:none;border-radius:4px;padding:0.5rem 1.2rem;font-size:0.85rem;cursor:pointer;">Got it</button>';
     backdrop.appendChild(modal);
     document.body.appendChild(backdrop);
 
@@ -237,12 +239,32 @@
       showIntroModal(function () {});
     } else {
       var hint = document.createElement("div");
-      hint.className = "comment-hint-toast";
       hint.textContent = "Select any text on the page to leave a comment.";
+      hint.style.cssText = [
+        "position:fixed",
+        "bottom:1.5rem",
+        "left:50%",
+        "transform:translateX(-50%) translateY(1rem)",
+        "background:#1a1a1a",
+        "color:#fafaf8",
+        "font-size:0.8rem",
+        "padding:0.55rem 1.1rem",
+        "border-radius:99px",
+        "white-space:nowrap",
+        "opacity:0",
+        "transition:opacity 0.2s,transform 0.2s",
+        "z-index:1100",
+        "pointer-events:none",
+        "font-family:system-ui,sans-serif",
+      ].join(";");
       document.body.appendChild(hint);
-      requestAnimationFrame(function () { hint.classList.add("comment-hint-visible"); });
+      requestAnimationFrame(function () {
+        hint.style.opacity = "1";
+        hint.style.transform = "translateX(-50%) translateY(0)";
+      });
       setTimeout(function () {
-        hint.classList.remove("comment-hint-visible");
+        hint.style.opacity = "0";
+        hint.style.transform = "translateX(-50%) translateY(1rem)";
         setTimeout(function () { hint.remove(); }, 300);
       }, 3000);
     }
