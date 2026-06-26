@@ -6,6 +6,8 @@
   var NAME_KEY = "commenter_name";
   var EMAIL_KEY = "commenter_email";
   var PENDING_KEY = "pending_comments";
+  // Clear any stuck pending highlights from localStorage immediately
+  try { localStorage.removeItem(PENDING_KEY); } catch (e) {}
 
   var commentsById = {};
   var rootComments = [];
@@ -133,18 +135,7 @@
     });
   }
 
-  function renderOwnPending() {
-    getPendingForPage().forEach(function (p) {
-      if (p.parent_id) return; // replies render inline inside their parent's thread
-      var marks = wrapTextRange(p.start_pos, p.end_pos, {
-        commentId: "pending-" + p.id,
-        pending: "1",
-      });
-      marks.forEach(function (mark) {
-        mark.classList.add("pending");
-      });
-    });
-  }
+  function renderOwnPending() { /* pending highlights disabled */ }
 
   function escapeHtml(s) {
     var div = document.createElement("div");
@@ -400,12 +391,6 @@
             addBtn.hidden = true;
             pendingSelection = null;
             if (window.getSelection) window.getSelection().removeAllRanges();
-            wrapTextRange(payload.start_pos, payload.end_pos, {
-              commentId: "pending-" + data.id,
-              pending: "1",
-            }).forEach(function (mark) {
-              mark.classList.add("pending");
-            });
             renderCommentSection();
           }
         })
