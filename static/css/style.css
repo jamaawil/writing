@@ -3441,51 +3441,64 @@ mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(
   .fav-section .meta-cue .cue-icon,
   .fav-section .meta-cue .cue-count { animation: none; opacity: 1; transform: scale(1); }
 }
-.fav-filter-bar {
-  display: flex;
-  gap: 0.4rem;
-  flex-wrap: wrap;
-  margin-top: 1rem;
-  overflow-x: auto;
-  scrollbar-width: none;
+.fav-year-group { margin-bottom: 3rem; }
+.fav-year-heading {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
 }
-.fav-filter-bar::-webkit-scrollbar { display: none; }
-.fav-filter-btn {
+.fav-cards { display: flex; flex-direction: column; gap: 1.5rem; }
+.fav-card {
+  display: block;
+  text-decoration: none;
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.fav-card:hover { border-color: var(--contrib-3); box-shadow: 0 2px 14px rgba(0,0,0,0.07); }
+.fav-card-cover { width: 100%; aspect-ratio: 16/9; overflow: hidden; background: var(--contrib-0); }
+[data-theme="dark"] .fav-card-cover { background: #1e2a27; }
+.fav-card-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.fav-card-cover-placeholder { width: 100%; height: 100%; }
+.fav-card-body { padding: 1.25rem 1.4rem 1.4rem; }
+.fav-card-date {
   font-family: var(--font-sans);
   font-size: 0.7rem;
   font-weight: 600;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
   color: var(--muted);
-  background: none;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 0.22rem 0.75rem;
-  cursor: pointer;
-  white-space: nowrap;
-  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  margin-bottom: 0.45rem;
 }
-.fav-filter-btn:hover {
-  color: var(--fg);
-  border-color: currentColor;
+.fav-card-title {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  margin: 0 0 0.45rem;
 }
-.fav-filter-btn.active {
-  color: var(--bg);
-  background: var(--fg);
-  border-color: var(--fg);
-}
-.fav-timeline { padding-top: 0.5rem; }
-.fav-timeline .timeline-item h2 a {
-  text-decoration: none;
-  color: var(--fg);
-}
-.fav-timeline .timeline-item h2 a:hover { color: var(--contrib-3); }
-.fav-subtitle {
-  margin: 0.25rem 0 0.5rem;
+.fav-card:hover .fav-card-title { text-decoration: underline; }
+.fav-card-subtitle {
   font-family: var(--font-serif);
-  font-size: calc(0.95rem * var(--prose-scale));
+  font-size: calc(0.93rem * var(--prose-scale));
   color: var(--muted);
   line-height: 1.5;
+  margin: 0 0 0.65rem;
+}
+.fav-card-meta {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
 }
 
 /* projects fallback (Jamal's projects live as page prose, not structured items) */

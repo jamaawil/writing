@@ -515,39 +515,43 @@ function build() {
 </section>`).join("\n");
   writePage("essays", layout({ title: "All Essays", activeHref: "/", body: `<div class="commentable" data-page="essays"><div class="page-head"><h1 class="page-title">All Essays</h1></div>${yearSections || '<p class="empty-note">No essays yet.</p>'}</div>` }));
 
-  /* ---------- favorites (vertical timeline + tag filter) ---------- */
+  /* ---------- favorites (year-grouped essay cards) ---------- */
   const favs = essays.filter((e) => e.favorite);
-  const topicTitleMap = Object.fromEntries(topics.map((t) => [t.slug, t.title || t.slug]));
-  const favTopics = [...new Set(favs.flatMap((e) => e.topics || []))].sort();
-  const favFilterPills = [
-    `<button class="fav-filter-btn active" data-filter="all">All</button>`,
-    ...favTopics.map((slug) => `<button class="fav-filter-btn" data-filter="${esc(slug)}">${esc(topicTitleMap[slug] || slug)}</button>`),
-  ].join("");
-  const favTimelineItem = (e) => {
-    const tagSlugs = (e.topics || []).join(" ");
-    const yr = (d(e.date) || new Date()).getUTCFullYear();
-    const tagPills = (e.topics || []).map((slug) => `<span class="tag">${esc(topicTitleMap[slug] || slug)}</span>`).join("");
-    return `<div class="timeline-item" data-tags="${esc(tagSlugs)}" data-year="${yr}">
-  <div class="dot"></div>
-  <div class="content">
-    <div class="meta">${fmtLong(e.date)}${e.words ? ` · ${e.words} words` : ""}</div>
-    <h2><a href="/essay/${esc(e.slug)}/">${esc(e.title)}</a></h2>
-    ${e.subtitle ? `<p class="fav-subtitle">${esc(e.subtitle)}</p>` : ""}
-    ${tagPills ? `<div class="tag-row">${tagPills}</div>` : ""}
+  const favReadTime = (words) => words ? `${Math.max(1, Math.round(parseInt(words, 10) / 200))}m read` : null;
+  const favMonthYear = (date) => { const x = d(date); return x ? `${MONTHS[x.getUTCMonth()]} ${x.getUTCFullYear()}` : ""; };
+  const favCard = (e) => {
+    const rt = favReadTime(e.words);
+    const meta = [e.words ? `${Number(e.words).toLocaleString()} words` : null, rt].filter(Boolean).join(" | ");
+    const cover = e.cover || e.image || null;
+    return `<a class="fav-card" href="/essay/${esc(e.slug)}/">
+  <div class="fav-card-cover">${cover ? `<img src="${esc(cover)}" alt="${esc(e.title)}" loading="lazy">` : `<div class="fav-card-cover-placeholder"></div>`}</div>
+  <div class="fav-card-body">
+    <div class="fav-card-date">${favMonthYear(e.date)}</div>
+    <h3 class="fav-card-title">${esc(e.title)}</h3>
+    ${e.subtitle ? `<p class="fav-card-subtitle">${esc(e.subtitle)}</p>` : ""}
+    ${meta ? `<div class="fav-card-meta">${meta}</div>` : ""}
   </div>
-</div>`;
+</a>`;
   };
+  const favByYear = new Map();
+  for (const e of favs) {
+    const yr = (d(e.date) || new Date()).getUTCFullYear();
+    if (!favByYear.has(yr)) favByYear.set(yr, []);
+    favByYear.get(yr).push(e);
+  }
+  const favYearSections = [...favByYear.keys()].sort((a, b) => b - a)
+    .map((yr) => `<div class="fav-year-group">
+  <h2 class="fav-year-heading">${yr}</h2>
+  <div class="fav-cards">${favByYear.get(yr).map(favCard).join("\n")}</div>
+</div>`).join("\n");
   const favBody = `<section class="fav-section" id="favSection">
   <div class="fav-header">
     <div class="fav-header-row">
       <div class="page-head"><h1 class="page-title">Favorites</h1><p class="page-subtitle">A short, curated list of essays worth reading first.</p></div>
       ${commentCue("favorites")}
     </div>
-    ${favTopics.length ? `<div class="fav-filter-bar" id="favFilterBar">${favFilterPills}</div>` : ""}
   </div>
-  <div class="project-timeline fav-timeline" id="favTimeline">
-    ${favs.length ? favs.map(favTimelineItem).join("\n") : '<p class="empty-note">No favorites yet.</p>'}
-  </div>
+  ${favs.length ? favYearSections : '<p class="empty-note">No favorites yet.</p>'}
 </section>`;
   writePage("favorites", layout({ title: "Favorites", activeHref: "/favorites/", body: `<div class="commentable" data-page="favorites">${favBody}</div>` }));
 
