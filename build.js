@@ -685,9 +685,22 @@ function build() {
 </section>`,
   }));
 
-  /* ---------- bits ---------- */
-  const bitsBody = `<div class="page-head"><h1 class="page-title">Bits</h1><p class="page-subtitle">Short notes — somewhere between a tweet and an essay.</p></div>
-<div class="commentable" data-page="bits"><div class="bits-feed">${bits.map((b) => `<div class="bit"><div class="bit-date">${fmtLong(b.date)}</div><div class="body">${b.html}</div></div>`).join("\n") || '<p class="empty-note">No bits yet.</p>'}</div></div>`;
+  /* ---------- bits (idea cards) ---------- */
+  const bitCard = (b) => `<div class="bit-card">
+  <div class="bit-card-header">
+    ${b.title ? `<h2 class="bit-card-title">${esc(b.title)}</h2>` : ""}
+    <div class="bit-card-date">${fmtLong(b.date)}</div>
+  </div>
+  <div class="bit-card-body">${b.html}</div>
+  ${b.source ? `<footer class="bit-card-footer"><span class="bit-source-label">From</span><span class="bit-source">${esc(b.source)}</span></footer>` : ""}
+</div>`;
+  const bitsBody = `<div class="bits-page-head">
+  <div class="page-head"><h1 class="page-title">Bits</h1><p class="page-subtitle">Ideas worth keeping — where they came from and why they matter.</p></div>
+  ${commentCue("bits")}
+</div>
+<div class="commentable" data-page="bits">
+  <div class="bits-grid">${bits.length ? bits.map(bitCard).join("\n") : '<p class="empty-note">No bits yet.</p>'}</div>
+</div>`;
   writePage("bits", layout({ title: "Bits", activeHref: "/bits/", body: bitsBody }));
 
   /* ---------- scholars ---------- */

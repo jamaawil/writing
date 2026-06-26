@@ -3377,11 +3377,148 @@
 .topic-group > h2 a { text-decoration: none; }
 .topic-group > h2 a:hover { text-decoration: underline; }
 
-/* Bits — short note feed */
-.bits-feed { margin-top: 0.5rem; }
-.bit { padding: 1.3rem 0; border-bottom: 1px solid var(--border); }
-.bit:first-child { padding-top: 0; }
-.bit .bit-date { font-family: var(--font-sans); font-size: 0.75rem; color: var(--muted); margin-bottom: 0.4rem; }
+/* Bits — idea card grid */
+.bits-page-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+.bits-page-head .toolbar-meta {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 0.3rem;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.bits-page-head .meta-cue {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  position: relative;
+  cursor: pointer;
+}
+.bits-page-head .meta-cue:hover .cue-text,
+.bits-page-head .meta-cue:focus-visible .cue-text { text-decoration: underline; color: var(--fg); }
+.bits-page-head .meta-cue:focus-visible { outline: none; }
+.bits-page-head .meta-cue .cue-text {
+  position: relative;
+  display: inline-block;
+  padding: 0.1rem 0.25rem;
+  isolation: isolate;
+}
+.bits-page-head .meta-cue .cue-short { display: none; }
+@media (max-width: 720px) {
+  .bits-page-head .meta-cue .cue-long { display: none; }
+  .bits-page-head .meta-cue .cue-short { display: inline; }
+}
+.bits-page-head .meta-cue .cue-text::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 220, 100, 0.45);
+  transform-origin: left center;
+  transform: scaleX(0);
+  z-index: -1;
+  animation: cue-sweep 5s ease-in-out infinite;
+}
+[data-theme="dark"] .bits-page-head .meta-cue .cue-text::before { background: rgba(255, 200, 80, 0.3); }
+.bits-page-head .meta-cue .cue-icon,
+.bits-page-head .meta-cue .cue-count {
+  display: inline-flex;
+  align-items: center;
+  opacity: 0;
+  transform: scale(0.6);
+  animation: cue-pop 5s ease-in-out infinite;
+}
+.bits-page-head .meta-cue .cue-icon svg { width: 13px; height: 13px; display: block; }
+.bits-page-head .meta-cue .cue-count { font-variant-numeric: tabular-nums; letter-spacing: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .bits-page-head .meta-cue .cue-text::before { animation: none; transform: scaleX(1); opacity: 1; }
+  .bits-page-head .meta-cue .cue-icon,
+  .bits-page-head .meta-cue .cue-count { animation: none; opacity: 1; transform: scale(1); }
+}
+.bits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+.bit-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 0.18s, box-shadow 0.18s;
+}
+.bit-card:hover {
+  border-color: var(--contrib-3);
+  box-shadow: 0 3px 16px rgba(0,0,0,0.07);
+}
+.bit-card-header {
+  padding: 1.1rem 1.35rem 0.8rem;
+  border-bottom: 1px solid var(--border);
+}
+.bit-card-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.25;
+  margin: 0 0 0.35rem;
+  color: var(--fg);
+}
+.bit-card-date {
+  font-family: var(--font-sans);
+  font-size: 0.67rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.bit-card-body {
+  padding: 1rem 1.35rem 1.1rem;
+  font-family: var(--font-serif);
+  font-size: calc(0.93rem * var(--prose-scale));
+  line-height: 1.65;
+  color: var(--fg);
+  flex: 1;
+}
+.bit-card-body p { margin: 0 0 0.75em; }
+.bit-card-body p:last-child { margin-bottom: 0; }
+.bit-card-footer {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  padding: 0.6rem 1.35rem;
+  border-top: 1px solid var(--border);
+  background: rgba(0,0,0,0.025);
+}
+[data-theme="dark"] .bit-card-footer { background: rgba(255,255,255,0.04); }
+.bit-source-label {
+  font-family: var(--font-sans);
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--contrib-3);
+  flex-shrink: 0;
+}
+.bit-source {
+  font-family: var(--font-sans);
+  font-size: 0.76rem;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.4;
+}
 
 /* tag row (five-year plan cards) */
 .tag-row { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.6rem; }
