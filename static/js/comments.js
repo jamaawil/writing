@@ -161,6 +161,11 @@
   // showAddBtnForCurrentSelection — re-showing the button. This flag suppresses that one
   // retargeted mouseup, matching the suppressNextDocClick pattern used for the form panel.
   var suppressNextContainerMouseup = false;
+  // Set by the mousedown-dismiss handler so that the subsequent mouseup (which fires
+  // on .commentable when clicking within selected text) doesn't re-show the button.
+  // Cancelled by mousemove > 5px so a drag-to-select still shows the button.
+  var suppressBtnShowAfterClick = false;
+  var dismissMouseX = 0, dismissMouseY = 0;
 
   function getSelectionContext() {
     var sel = window.getSelection();
@@ -188,6 +193,10 @@
   function showAddBtnForCurrentSelection() {
     if (suppressNextContainerMouseup) {
       suppressNextContainerMouseup = false;
+      return;
+    }
+    if (suppressBtnShowAfterClick) {
+      suppressBtnShowAfterClick = false;
       return;
     }
     var ctx = getSelectionContext();
@@ -220,10 +229,28 @@
 
   // mousedown fires before selection changes and before mouseup re-shows the button,
   // so it's the most reliable signal that the user has moved on from their selection.
+  // suppressBtnShowAfterClick stops the subsequent mouseup (on .commentable) from
+  // re-showing the button when clicking within currently-selected text — the browser
+  // keeps the selection alive through mousedown in that case.
+  // The flag is cancelled by mousemove > 5px so that starting a new drag selection
+  // (mousedown then drag) still shows the button when the drag finishes.
   document.addEventListener("mousedown", function (e) {
     if (!addBtn.hidden && e.target !== addBtn && !addBtn.contains(e.target)) {
       addBtn.hidden = true;
       pendingSelection = null;
+      suppressBtnShowAfterClick = true;
+      dismissMouseX = e.clientX;
+      dismissMouseY = e.clientY;
+    }
+  });
+
+  document.addEventListener("mousemove", function (e) {
+    if (suppressBtnShowAfterClick) {
+      var dx = e.clientX - dismissMouseX;
+      var dy = e.clientY - dismissMouseY;
+      if (dx * dx + dy * dy > 25) {
+        suppressBtnShowAfterClick = false;
+      }
     }
   });
 
