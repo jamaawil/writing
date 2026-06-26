@@ -5,9 +5,9 @@ author: "Andrew Pettegree"
 highlights: 33
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png"
-first_highlight: ""
-last_highlight: ""
-last_note: ""
+first_highlight: "2026-06-25"
+last_highlight: "2026-06-25"
+last_note: "2026-06-25"
 ---
 
 > [!quote] Library history is shaped more by neglect and redundancy than by wanton.

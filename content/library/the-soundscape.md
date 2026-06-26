@@ -5,9 +5,9 @@ author: "R. Murray Schafer"
 highlights: 49
 responses: 0
 cover: "https://m.media-amazon.com/images/I/81bfDTqa4xL._SL2000_.jpg"
-first_highlight: ""
-last_highlight: ""
-last_note: ""
+first_highlight: "2026-06-25"
+last_highlight: "2026-06-25"
+last_note: "2026-06-25"
 ---
 
 > [!quote] Music indicates the age and reveals social and political events.

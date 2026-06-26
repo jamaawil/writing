@@ -5,9 +5,9 @@ author: "The Rod and the Child Production"
 highlights: 4
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png"
-first_highlight: ""
-last_highlight: ""
-last_note: ""
+first_highlight: "2026-06-25"
+last_highlight: "2026-06-25"
+last_note: "2026-06-25"
 ---
 
 > [!quote] Samuel Noah Kramer argues Kramer was the leading Sumerian authority.
