@@ -155,6 +155,11 @@
   document.body.appendChild(addBtn);
 
   var pendingSelection = null;
+  // When addBtn is clicked, it hides itself in mousedown, so the subsequent mouseup
+  // retargets to the .commentable element underneath and would call
+  // showAddBtnForCurrentSelection — re-showing the button. This flag suppresses that one
+  // retargeted mouseup, matching the suppressNextDocClick pattern used for the form panel.
+  var suppressNextContainerMouseup = false;
 
   function getSelectionContext() {
     var sel = window.getSelection();
@@ -177,6 +182,10 @@
   }
 
   function showAddBtnForCurrentSelection() {
+    if (suppressNextContainerMouseup) {
+      suppressNextContainerMouseup = false;
+      return;
+    }
     var ctx = getSelectionContext();
     if (!ctx) return;
     pendingSelection = ctx;
@@ -289,6 +298,7 @@
     var ctx = pendingSelection;
     addBtn.hidden = true;
     pendingSelection = null;
+    suppressNextContainerMouseup = true;
     // We've captured everything we need from the live selection into ctx — clear it
     // now rather than leaving it dangling. Otherwise, later DOM edits inside
     // .commentable (wrapTextRange splitting text nodes when rendering the new
@@ -386,6 +396,8 @@
             if (rootComment && rootMark) openCard(rootComment, rootMark);
           } else {
             closeFloatingForm();
+            addBtn.hidden = true;
+            pendingSelection = null;
             if (window.getSelection) window.getSelection().removeAllRanges();
             wrapTextRange(payload.start_pos, payload.end_pos, {
               commentId: "pending-" + data.id,
