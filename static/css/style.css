@@ -3365,3 +3365,67 @@ mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(
 
 /* projects fallback (Jamal's projects live as page prose, not structured items) */
 .projects-section .commentable { margin-top: 0.5rem; }
+
+/* ---- bottom comment list (page-comments-section, rendered by comments.js) ---- */
+.page-comments-section {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--font-sans);
+}
+.pcs-heading {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 1.1rem;
+}
+.pcs-item + .pcs-item {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+}
+.pcs-meta {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.45rem;
+}
+.pcs-status { letter-spacing: 0.04em; font-weight: 400; }
+.pcs-sep { margin: 0 0.15em; }
+.pcs-quote {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.93rem;
+  line-height: 1.65;
+  margin-bottom: 0.45rem;
+}
+.pcs-body {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--fg);
+  margin-bottom: 0.6rem;
+}
+.pcs-reply-item {
+  border-left: 2px solid var(--border);
+  padding-left: 0.9rem;
+  margin: 0.5rem 0 0.6rem;
+}
+.pcs-reply-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 0.38rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.12s;
+}
+.pcs-reply-btn:hover { opacity: 0.85; }
+[data-theme="dark"] .pcs-reply-btn { color: #14140f; }

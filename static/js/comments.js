@@ -173,6 +173,7 @@
     if (!startEl || !endEl) return null;
     if (!startEl.closest(".commentable") || !endEl.closest(".commentable")) return null;
     if (startEl.closest(".commentable") !== endEl.closest(".commentable")) return null;
+    if (startEl.closest(".page-comments-section") || endEl.closest(".page-comments-section")) return null;
 
     var bodyText = container.textContent;
     var startPos = bodyText.indexOf(text);
@@ -405,6 +406,7 @@
             }).forEach(function (mark) {
               mark.classList.add("pending");
             });
+            renderCommentSection();
           }
         })
         .catch(function (err) {
@@ -460,6 +462,108 @@
     }
   });
 
+  // ---------- bottom comment list ----------
+  function renderCommentSection() {
+    var prev = document.querySelector(".page-comments-section");
+    if (prev) prev.remove();
+
+    var approved = rootComments;
+    var pending = getPendingForPage().filter(function (p) { return !p.parent_id; });
+    if (approved.length === 0 && pending.length === 0) return;
+
+    var section = document.createElement("section");
+    section.className = "page-comments-section";
+
+    var heading = document.createElement("h4");
+    heading.className = "pcs-heading";
+    heading.textContent = "Comments";
+    section.appendChild(heading);
+
+    function buildItem(name, isPending, selText, message, commentObj) {
+      var item = document.createElement("div");
+      item.className = "pcs-item";
+
+      var meta = document.createElement("div");
+      meta.className = "pcs-meta";
+      if (isPending) {
+        meta.innerHTML = escapeHtml(name) +
+          ' <span class="pcs-sep">·</span>' +
+          ' <span class="pcs-status">pending…</span>';
+      } else {
+        meta.textContent = name;
+      }
+      item.appendChild(meta);
+
+      if (selText) {
+        var quote = document.createElement("div");
+        quote.className = "pcs-quote";
+        quote.textContent = "“" + selText + "”";
+        item.appendChild(quote);
+      }
+
+      var body = document.createElement("div");
+      body.className = "pcs-body";
+      body.textContent = message;
+      item.appendChild(body);
+
+      if (commentObj) {
+        (commentObj.replies || []).forEach(function (r) {
+          var ri = document.createElement("div");
+          ri.className = "pcs-reply-item";
+          var rm = document.createElement("div");
+          rm.className = "pcs-meta";
+          rm.textContent = r.name;
+          var rb = document.createElement("div");
+          rb.className = "pcs-body";
+          rb.textContent = r.message;
+          ri.appendChild(rm);
+          ri.appendChild(rb);
+          item.appendChild(ri);
+        });
+        getPendingForPage().filter(function (p) {
+          return p.parent_id === commentObj.id;
+        }).forEach(function (p) {
+          var ri = document.createElement("div");
+          ri.className = "pcs-reply-item";
+          var rm = document.createElement("div");
+          rm.className = "pcs-meta";
+          rm.innerHTML = escapeHtml(p.name) +
+            ' <span class="pcs-sep">·</span>' +
+            ' <span class="pcs-status">pending…</span>';
+          var rb = document.createElement("div");
+          rb.className = "pcs-body";
+          rb.textContent = p.message;
+          ri.appendChild(rm);
+          ri.appendChild(rb);
+          item.appendChild(ri);
+        });
+
+        var replyBtn = document.createElement("button");
+        replyBtn.className = "pcs-reply-btn";
+        replyBtn.textContent = "Reply";
+        replyBtn.addEventListener("click", function () {
+          var mark = container.querySelector('mark[data-comment-id="' + commentObj.id + '"]');
+          if (mark) {
+            mark.scrollIntoView({ behavior: "smooth", block: "center" });
+            openCard(commentObj, mark);
+          }
+        });
+        item.appendChild(replyBtn);
+      }
+
+      return item;
+    }
+
+    approved.forEach(function (c) {
+      section.appendChild(buildItem(c.name, false, c.selection_text, c.message, c));
+    });
+    pending.forEach(function (p) {
+      section.appendChild(buildItem(p.name, true, p.selection_text, p.message, null));
+    });
+
+    container.insertAdjacentElement("afterend", section);
+  }
+
   // ---------- load ----------
   fetch("/api/comments?page=" + encodeURIComponent(pageSlug))
     .then(function (res) {
@@ -468,8 +572,10 @@
     .then(function (data) {
       renderApproved(data.comments || []);
       renderOwnPending();
+      renderCommentSection();
     })
     .catch(function () {
       renderOwnPending();
+      renderCommentSection();
     });
 })();
