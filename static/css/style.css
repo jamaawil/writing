@@ -3550,6 +3550,106 @@
   line-height: 1.4;
 }
 
+/* ===== ideas page ===== */
+.ideas-page-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.ideas-page-head .toolbar-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
+  flex-shrink: 0;
+}
+.ideas-page-head .meta-cue {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.07em;
+  color: var(--muted);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 0;
+  opacity: 0;
+}
+.ideas-page-head .toolbar-meta:hover .meta-cue,
+.ideas-page-head .meta-cue:focus { max-width: 200px; opacity: 1; }
+.ideas-page-head .meta-cue[hidden] { display: none; }
+
+.ideas-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.idea-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.1rem 1.25rem;
+  gap: 0.6rem;
+  min-width: 0;
+}
+.idea-card-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.idea-card-title {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+  line-height: 1.25;
+}
+.idea-card-date {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  color: var(--muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.idea-card-body {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  color: var(--fg);
+  flex: 1;
+}
+.idea-card-body p { margin: 0; }
+.idea-card-footer {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border);
+  margin-top: auto;
+}
+.idea-source-label {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.idea-source {
+  font-family: var(--font-sans);
+  font-size: 0.76rem;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.4;
+}
+@media (max-width: 640px) {
+  .ideas-grid { grid-template-columns: 1fr; }
+}
+
 /* tag row (five-year plan cards) */
 .tag-row { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.6rem; }
 .tag-row .tag {

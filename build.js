@@ -755,7 +755,22 @@ function build() {
   }
 
   /* ---------- ideas ---------- */
-  writePage("ideas", layout({ title: "Ideas", activeHref: "/ideas/", body: `<div class="page-head"><h1 class="page-title">Ideas</h1><p class="page-subtitle">Threads worth pulling on.</p></div><div class="commentable" data-page="ideas">${ideas.map((i) => `<div class="topic-group"><h2><a href="/ideas/${i.slug}/">${esc(i.title)}</a></h2>${i.html}</div>`).join("\n") || '<p class="empty-note">No ideas yet.</p>'}</div>` }));
+  const ideaCard = (i) => `<div class="idea-card">
+  <div class="idea-card-header">
+    ${i.title ? `<h2 class="idea-card-title">${esc(i.title)}</h2>` : ""}
+    <div class="idea-card-date">${fmtLong(i.date)}</div>
+  </div>
+  <div class="idea-card-body">${i.html}</div>
+  ${i.source ? `<footer class="idea-card-footer"><span class="idea-source-label">From</span><span class="idea-source">${esc(i.source)}</span></footer>` : ""}
+</div>`;
+  const ideasBody = `<div class="ideas-page-head">
+  <div class="page-head"><h1 class="page-title">Ideas</h1><p class="page-subtitle">Mental models and frameworks worth returning to.</p></div>
+  ${commentCue("ideas")}
+</div>
+<div class="commentable" data-page="ideas">
+  <div class="ideas-grid">${ideas.length ? ideas.map(ideaCard).join("\n") : '<p class="empty-note">No ideas yet.</p>'}</div>
+</div>`;
+  writePage("ideas", layout({ title: "Ideas", activeHref: "/ideas/", body: ideasBody }));
   for (const i of ideas) {
     writePage(`ideas/${i.slug}`, layout({ title: i.title, activeHref: "/ideas/", body: `${backLink("Ideas", "/ideas/")}<article class="log detail"><header><h2>${esc(i.title)}</h2></header>${commentable(`ideas/${i.slug}`, i.html)}</article>` }));
   }
