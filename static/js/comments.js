@@ -161,9 +161,6 @@
   // showAddBtnForCurrentSelection — re-showing the button. This flag suppresses that one
   // retargeted mouseup, matching the suppressNextDocClick pattern used for the form panel.
   var suppressNextContainerMouseup = false;
-  // Set when addBtn becomes visible so the click that is the tail of the same
-  // selection gesture doesn't immediately dismiss it. Cleared on the very next click.
-  var justShownAddBtn = false;
 
   function getSelectionContext() {
     var sel = window.getSelection();
@@ -201,7 +198,6 @@
     addBtn.style.top = window.scrollY + rect.bottom + 8 + "px";
     addBtn.style.left = window.scrollX + rect.left + rect.width / 2 - btnSize / 2 + "px";
     addBtn.hidden = false;
-    justShownAddBtn = true;
   }
 
   // Only mouseup/keyup/touchend on .commentable (real user gestures that end a
@@ -222,13 +218,10 @@
     }
   });
 
-  // Hide the button on any click outside it — selectionchange alone isn't
-  // reliable enough on all browsers/devices.
-  document.addEventListener("click", function (e) {
-    var wasJustShown = justShownAddBtn;
-    justShownAddBtn = false;
+  // mousedown fires before selection changes and before mouseup re-shows the button,
+  // so it's the most reliable signal that the user has moved on from their selection.
+  document.addEventListener("mousedown", function (e) {
     if (!addBtn.hidden && e.target !== addBtn && !addBtn.contains(e.target)) {
-      if (wasJustShown) return; // tail click of the same selection gesture — ignore
       addBtn.hidden = true;
       pendingSelection = null;
     }
