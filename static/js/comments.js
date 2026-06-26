@@ -175,6 +175,8 @@
     if (!startEl.closest(".commentable") || !endEl.closest(".commentable")) return null;
     if (startEl.closest(".commentable") !== endEl.closest(".commentable")) return null;
     if (startEl.closest(".page-comments-section") || endEl.closest(".page-comments-section")) return null;
+    // Book highlights are not commentable — only the author's written responses are.
+    if (startEl.closest(".highlight-quote, .highlight-claim") || endEl.closest(".highlight-quote, .highlight-claim")) return null;
 
     var bodyText = container.textContent;
     var startPos = bodyText.indexOf(text);
