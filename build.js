@@ -513,7 +513,7 @@ function build() {
     </a></li>`).join("\n    ")}
   </ul>
 </section>`).join("\n");
-  writePage("essays", layout({ title: "All Essays", activeHref: "/", body: `<div class="page-head"><h1 class="page-title">All Essays</h1></div>${yearSections || '<p class="empty-note">No essays yet.</p>'}` }));
+  writePage("essays", layout({ title: "All Essays", activeHref: "/", body: `<div class="commentable" data-page="essays"><div class="page-head"><h1 class="page-title">All Essays</h1></div>${yearSections || '<p class="empty-note">No essays yet.</p>'}</div>` }));
 
   /* ---------- favorites (featured: MAIN | LIST) ---------- */
   const favs = essays.filter((e) => e.favorite);
@@ -536,7 +536,7 @@ function build() {
   <div class="featured-view view-main"><div class="featured-main-list">${favs.length ? favs.map(featuredMain).join("\n") : '<p class="empty-note">No favorites yet.</p>'}</div></div>
   <div class="featured-view view-list"><ul class="all-posts-list favorites-list">${favs.map(favoriteRow).join("\n")}</ul></div>
 </section>`;
-  writePage("favorites", layout({ title: "Favorites", activeHref: "/favorites/", body: favBody }));
+  writePage("favorites", layout({ title: "Favorites", activeHref: "/favorites/", body: `<div class="commentable" data-page="favorites">${favBody}</div>` }));
 
   /* ---------- index (contribution graph + tag index) ---------- */
   const contribItems = [...essays, ...library.filter((l) => l.date), ...bits];
@@ -557,14 +557,14 @@ function build() {
   <div class="tag-index-grouped"><div class="tag-index-cluster"><div class="cluster-panels"><div class="cluster-panel" data-active="true">${topics.map((t) => `<a class="cluster-tag" href="/topic/${t.slug}/"><span class="cluster-tag-name">${esc(t.title)}</span><span class="cluster-tag-count">${essays.filter((e) => (e.topics || []).includes(t.slug)).length}</span></a>`).join("")}</div></div></div></div>
   <div class="tag-index">${topics.map((t) => `<a class="cluster-tag" href="/topic/${t.slug}/"><span class="cluster-tag-name">${esc(t.title)}</span></a>`).join("")}</div>
 </section>`;
-  writePage("index-topics", layout({ title: "Index", activeHref: "/index-topics/", body: indexBody }));
+  writePage("index-topics", layout({ title: "Index", activeHref: "/index-topics/", body: `<div class="commentable" data-page="index-topics">${indexBody}</div>` }));
 
   for (const t of topics) {
     const inTopic = essays.filter((e) => (e.topics || []).includes(t.slug));
     writePage(`topic/${t.slug}`, layout({
       title: t.title, activeHref: "/index-topics/",
-      body: `${backLink("Index", "/index-topics/")}<div class="page-head"><h1 class="page-title">${esc(t.title)}</h1><p class="page-subtitle">Essays tagged ${esc(t.title)}.</p></div>
-<ul class="essay-index">${inTopic.map((e) => `<li><a class="essay-index-row" href="/essay/${e.slug}/"><div class="row-top"><span class="t">${esc(e.title)}</span><span class="right"><time>${fmtShort(e.date)}</time><span class="arrow">↗</span></span></div></a></li>`).join("")}</ul>${t.html || ""}`,
+      body: `<div class="commentable" data-page="${esc(`topic/${t.slug}`)}">${backLink("Index", "/index-topics/")}<div class="page-head"><h1 class="page-title">${esc(t.title)}</h1><p class="page-subtitle">Essays tagged ${esc(t.title)}.</p></div>
+<ul class="essay-index">${inTopic.map((e) => `<li><a class="essay-index-row" href="/essay/${e.slug}/"><div class="row-top"><span class="t">${esc(e.title)}</span><span class="right"><time>${fmtShort(e.date)}</time><span class="arrow">↗</span></span></div></a></li>`).join("")}</ul>${t.html || ""}</div>`,
     }));
   }
 
@@ -589,7 +589,7 @@ function build() {
     </table>
   </div>
 </section>`;
-  writePage("library", layout({ title: "Library", activeHref: "/library/", body: libBody }));
+  writePage("library", layout({ title: "Library", activeHref: "/library/", body: `<div class="commentable" data-page="library">${libBody}</div>` }));
   for (const e of library) {
     const metaRows = [["Author", e.author], ["Highlights", e.highlights], ["Responses", e.responses]]
       .filter(([, v]) => v != null && v !== "")
@@ -636,7 +636,7 @@ function build() {
 
   /* ---------- scholars ---------- */
   const scholarCard = (s) => `<a class="book-card scholar-card" href="/scholars/${s.slug}/"><div class="cover-wrap"><span class="cover-initials">${initials(s.title)}</span></div><div class="title">${esc(s.title)}</div><div class="author">${esc(s.field || "")}</div><div class="count">${esc(s.era || "")}</div></a>`;
-  writePage("scholars", layout({ title: "Scholars", activeHref: "/scholars/", body: `<div class="page-head"><h1 class="page-title">Scholars</h1><p class="page-subtitle">Thinkers worth returning to.</p></div><div class="library-grid">${scholars.map(scholarCard).join("\n") || '<p class="empty-note">No scholars yet.</p>'}</div>` }));
+  writePage("scholars", layout({ title: "Scholars", activeHref: "/scholars/", body: `<div class="commentable" data-page="scholars"><div class="page-head"><h1 class="page-title">Scholars</h1><p class="page-subtitle">Thinkers worth returning to.</p></div><div class="library-grid">${scholars.map(scholarCard).join("\n") || '<p class="empty-note">No scholars yet.</p>'}</div></div>` }));
   for (const s of scholars) {
     writePage(`scholars/${s.slug}`, layout({ title: s.title, activeHref: "/scholars/", body: `${backLink("Scholars", "/scholars/")}<article class="log detail"><header><h2>${esc(s.title)}</h2><div class="meta">${esc(s.field || "")}${s.era ? " · " + esc(s.era) : ""}</div></header>${commentable(`scholars/${s.slug}`, s.html)}</article>` }));
   }
@@ -663,8 +663,8 @@ function build() {
 </a>`;
   writePage("plan", layout({
     title: "Five-Year Plan", activeHref: "/plan/",
-    body: `<div class="page-head"><h1 class="page-title">Five-Year Plan</h1><p class="page-subtitle">The Braided Reading EPUB — a 5-year integrated MA+PhD curriculum across Communication, AI, IP Law, and Social Equity. See the <a href="/bibliography/">full 1,200-book bibliography</a>.</p></div>
-<div class="featured-main-list">${semesters.map(planCard).join("\n") || '<p class="empty-note">No semesters yet.</p>'}</div>`,
+    body: `<div class="commentable" data-page="plan"><div class="page-head"><h1 class="page-title">Five-Year Plan</h1><p class="page-subtitle">The Braided Reading EPUB — a 5-year integrated MA+PhD curriculum across Communication, AI, IP Law, and Social Equity. See the <a href="/bibliography/">full 1,200-book bibliography</a>.</p></div>
+<div class="featured-main-list">${semesters.map(planCard).join("\n") || '<p class="empty-note">No semesters yet.</p>'}</div></div>`,
   }));
   for (const s of semesters) {
     writePage(`plan/${s.slug}`, layout({ title: s.title, activeHref: "/plan/", body: `${backLink("Five-Year Plan", "/plan/")}<article class="log detail"><header><h2>${esc(s.title)}</h2><div class="meta">${esc(s.dateRange || "")}</div>${s.intro ? `<p class="subtitle">${esc(s.intro)}</p>` : ""}</header>${commentable(`plan/${s.slug}`, s.html)}</article>` }));
@@ -674,7 +674,7 @@ function build() {
   const biblDir = path.join(ROOT, "static/images/bibliography");
   const biblCover = (b) => (fs.existsSync(path.join(biblDir, `${b.slug}.png`)) || fs.existsSync(path.join(biblDir, `${b.slug}.png.b64`)) ? `/images/bibliography/${b.slug}.png` : null);
   const biblCard = (b) => { const c = biblCover(b); return `<a class="book-card" href="/bibliography/${b.slug}/"><div class="cover-wrap">${c ? `<img class="cover" src="${c}" alt="${esc(b.title)} cover" loading="lazy">` : `<span class="cover-initials">${initials(b.title)}</span>`}</div><div class="title">${esc(b.title)}</div><div class="count">${esc(b.counts || "")}</div></a>`; };
-  writePage("bibliography", layout({ title: "Bibliography", activeHref: "/bibliography/", body: `<div class="page-head"><h1 class="page-title">Bibliography</h1><p class="page-subtitle">The 1,200-book annotated bibliography behind the <a href="/plan/">Five-Year Plan</a>.</p></div><div class="library-grid">${bibliography.map(biblCard).join("\n") || '<p class="empty-note">No entries yet.</p>'}</div>` }));
+  writePage("bibliography", layout({ title: "Bibliography", activeHref: "/bibliography/", body: `<div class="commentable" data-page="bibliography"><div class="page-head"><h1 class="page-title">Bibliography</h1><p class="page-subtitle">The 1,200-book annotated bibliography behind the <a href="/plan/">Five-Year Plan</a>.</p></div><div class="library-grid">${bibliography.map(biblCard).join("\n") || '<p class="empty-note">No entries yet.</p>'}</div></div>` }));
   for (const b of bibliography) {
     writePage(`bibliography/${b.slug}`, layout({ title: b.title, activeHref: "/bibliography/", body: `${backLink("Bibliography", "/bibliography/")}<article class="log detail"><header><h2>${esc(b.title)}</h2><div class="meta">${esc(b.counts || "")}</div></header>${commentable(`bibliography/${b.slug}`, b.html)}</article>` }));
   }
