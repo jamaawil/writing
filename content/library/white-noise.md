@@ -5,6 +5,9 @@ author: "Don DeLillo"
 highlights: 4
 responses: 1
 cover: "https://is3-ssl.mzstatic.com/image/thumb/Publication118/v4/13/57/6d/13576d44-5ec3-8dd2-7c3c-d4c1c420aad8/9781440674471.jpg/1400x0w.jpg"
+first_highlight: "2026-04-01"
+last_highlight: "2026-04-15"
+last_note: "2026-04-10"
 ---
 
 > [!quote] Expressway traffic at night sounds like dead souls murmuring near a dream.

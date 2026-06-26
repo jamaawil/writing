@@ -653,9 +653,16 @@ function build() {
 </section>`;
   writePage("library", layout({ title: "Library", activeHref: "/library/", body: `<div class="commentable" data-page="library">${libBody}</div>` }));
   for (const e of library) {
-    const metaRows = [["Author", e.author], ["Highlights", e.highlights], ["Responses", e.responses]]
+    const metaRows = [
+      ["Author", e.author ? esc(e.author) : null],
+      ["Highlights", e.highlights != null && e.highlights !== "" ? esc(String(e.highlights)) : null],
+      ["Responses", e.responses != null && e.responses !== "" ? esc(String(e.responses)) : null],
+      ["First Highlight", e.first_highlight ? fmtLong(e.first_highlight) : null],
+      ["Last Highlight", e.last_highlight ? fmtLong(e.last_highlight) : null],
+      ["Last Note", e.last_note ? fmtLong(e.last_note) : null],
+    ]
       .filter(([, v]) => v != null && v !== "")
-      .map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(String(v))}</dd></div>`)
+      .map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${v}</dd></div>`)
       .join("");
     const bookHeader = `<header class="book-header">
   <div class="book-header-cover">${e.cover ? `<img src="${e.cover}" alt="${esc(e.title)} cover">` : ""}</div>
