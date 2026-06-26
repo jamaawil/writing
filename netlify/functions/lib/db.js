@@ -4,8 +4,8 @@
 const { neon } = require("@neondatabase/serverless");
 
 function getSql() {
-  const url = process.env.DATABASE_URL || process.env.NETLIFY_DATABASE_URL;
-  if (!url) throw new Error("No DATABASE_URL/NETLIFY_DATABASE_URL set");
+  const url = process.env.DATABASE_URL || process.env.NETLIFY_DATABASE_URL || process.env.jamalgarden;
+  if (!url) throw new Error("No database URL set");
   return neon(url);
 }
 
