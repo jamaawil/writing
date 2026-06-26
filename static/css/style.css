@@ -3376,6 +3376,71 @@ mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(
   margin-bottom: 2rem;
   border-bottom: 1px solid var(--border);
 }
+.fav-header-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.fav-section .toolbar-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-shrink: 0;
+  padding-top: 0.4rem;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.fav-section .meta-cue {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  position: relative;
+  cursor: pointer;
+}
+.fav-section .meta-cue:hover .cue-text,
+.fav-section .meta-cue:focus-visible .cue-text { text-decoration: underline; color: var(--fg); }
+.fav-section .meta-cue:focus-visible { outline: none; }
+.fav-section .meta-cue .cue-text {
+  position: relative;
+  display: inline-block;
+  padding: 0.1rem 0.25rem;
+  isolation: isolate;
+}
+.fav-section .meta-cue .cue-short { display: none; }
+@media (max-width: 720px) {
+  .fav-section .meta-cue .cue-long { display: none; }
+  .fav-section .meta-cue .cue-short { display: inline; }
+}
+.fav-section .meta-cue .cue-text::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 220, 100, 0.45);
+  transform-origin: left center;
+  transform: scaleX(0);
+  z-index: -1;
+  animation: cue-sweep 5s ease-in-out infinite;
+}
+[data-theme="dark"] .fav-section .meta-cue .cue-text::before { background: rgba(255, 200, 80, 0.3); }
+.fav-section .meta-cue .cue-icon,
+.fav-section .meta-cue .cue-count {
+  display: inline-flex;
+  align-items: center;
+  opacity: 0;
+  transform: scale(0.6);
+  animation: cue-pop 5s ease-in-out infinite;
+}
+.fav-section .meta-cue .cue-icon svg { width: 13px; height: 13px; display: block; }
+.fav-section .meta-cue .cue-count { font-variant-numeric: tabular-nums; letter-spacing: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .fav-section .meta-cue .cue-text::before { animation: none; transform: scaleX(1); opacity: 1; }
+  .fav-section .meta-cue .cue-icon,
+  .fav-section .meta-cue .cue-count { animation: none; opacity: 1; transform: scale(1); }
+}
 .fav-filter-bar {
   display: flex;
   gap: 0.4rem;

@@ -539,7 +539,10 @@ function build() {
   };
   const favBody = `<section class="fav-section" id="favSection">
   <div class="fav-header">
-    <div class="page-head"><h1 class="page-title">Favorites</h1><p class="page-subtitle">A short, curated list of essays worth reading first.</p></div>
+    <div class="fav-header-row">
+      <div class="page-head"><h1 class="page-title">Favorites</h1><p class="page-subtitle">A short, curated list of essays worth reading first.</p></div>
+      ${commentCue("favorites")}
+    </div>
     ${favTopics.length ? `<div class="fav-filter-bar" id="favFilterBar">${favFilterPills}</div>` : ""}
   </div>
   <div class="project-timeline fav-timeline" id="favTimeline">
