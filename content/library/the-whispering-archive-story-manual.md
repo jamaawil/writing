@@ -5,6 +5,9 @@ author: "Jamal Awil"
 highlights: 38
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png"
+first_highlight: ""
+last_highlight: ""
+last_note: ""
 ---
 
 > [!quote] Oxford MAs swore never to reconcile with Henry Symeonis.

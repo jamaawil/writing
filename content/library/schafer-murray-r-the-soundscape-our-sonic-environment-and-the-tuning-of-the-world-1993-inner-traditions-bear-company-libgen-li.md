@@ -5,6 +5,9 @@ author: "R. Murray Schafer"
 highlights: 2
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png"
+first_highlight: ""
+last_highlight: ""
+last_note: ""
 ---
 
 > [!quote] The lyre is Homer's instrument and the cornerstone of music theory.

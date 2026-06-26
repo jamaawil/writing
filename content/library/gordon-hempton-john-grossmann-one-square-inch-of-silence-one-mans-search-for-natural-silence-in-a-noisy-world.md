@@ -5,6 +5,9 @@ author: "Gordon Hempton"
 highlights: 7
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-0.c6917d331b03.png"
+first_highlight: ""
+last_highlight: ""
+last_note: ""
 ---
 
 > [!quote] Robert Koch discovered the bacterium causing tuberculosis.

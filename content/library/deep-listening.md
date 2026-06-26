@@ -5,6 +5,9 @@ author: "Pauline Oliveros"
 highlights: 23
 responses: 0
 cover: "https://m.media-amazon.com/images/I/71ANfoJXa-L._SL2000_.jpg"
+first_highlight: ""
+last_highlight: ""
+last_note: ""
 ---
 
 > [!quote] Music should be a restorative practice, as many cultures understand.

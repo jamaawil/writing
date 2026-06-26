@@ -5,6 +5,9 @@ author: "James W. Carey"
 highlights: 26
 responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547466/JW8EqwYjVirviozxVClwRXvmfsdKKxImfs0OF-GEe34-cove_PZU6iSP.jpg"
+first_highlight: ""
+last_highlight: ""
+last_note: ""
 ---
 
 > [!quote] Modern communications drastically altered experience, consciousness, and social relations.

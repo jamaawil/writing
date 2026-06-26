@@ -5,6 +5,9 @@ author: "Hall, Stuart"
 highlights: 2
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547447/qaAwswgtHUQr35qPlV23PMyrq4Xh_Gb84YLAx5Nc2O8-cove_7HqW7FJ.jpg"
+first_highlight: ""
+last_highlight: ""
+last_note: ""
 ---
 
 > [!quote] Stuart located 1956 as a key historical date for him.

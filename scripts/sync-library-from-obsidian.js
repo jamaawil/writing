@@ -166,9 +166,9 @@ function renderEntry(fm, highlights) {
     `highlights: ${highlights.length}`,
     `responses: ${highlights.filter((h) => h.response).length}`,
     fm.cover ? `cover: ${JSON.stringify(fm.cover)}` : null,
-    fm.first_highlight ? `first_highlight: ${JSON.stringify(fm.first_highlight)}` : null,
-    fm.last_highlight ? `last_highlight: ${JSON.stringify(fm.last_highlight)}` : null,
-    fm.last_note ? `last_note: ${JSON.stringify(fm.last_note)}` : null,
+    fm.first_highlight != null ? `first_highlight: ${JSON.stringify(fm.first_highlight)}` : null,
+    fm.last_highlight != null ? `last_highlight: ${JSON.stringify(fm.last_highlight)}` : null,
+    fm.last_note != null ? `last_note: ${JSON.stringify(fm.last_note)}` : null,
     "---",
   ]
     .filter(Boolean)
