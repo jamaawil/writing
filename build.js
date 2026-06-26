@@ -558,22 +558,66 @@ function build() {
 
   /* ---------- index (contribution graph + tag index) ---------- */
   const contribItems = [...essays, ...library.filter((l) => l.date), ...bits];
-  const tagRows = topics.map((t) => {
-    const inTopic = essays.filter((e) => (e.topics || []).includes(t.slug));
+
+  const topicCount = (t) => essays.filter((e) => (e.topics || []).includes(t.slug)).length;
+
+  // Group topics by category
+  const catMap = new Map();
+  for (const t of topics) {
+    const cat = t.category || "General";
+    if (!catMap.has(cat)) catMap.set(cat, []);
+    catMap.get(cat).push(t);
+  }
+  const categories = [...catMap.keys()].sort();
+
+  const totalWords = essays.reduce((sum, e) => sum + (parseInt(e.words, 10) || 0), 0);
+
+  const topicPill = (t) => {
+    const cnt = topicCount(t);
+    return `<a class="cluster-tag" href="/topic/${esc(t.slug)}/"><span class="cluster-tag-name">${esc(t.title)}</span>${cnt ? `<span class="cluster-tag-count">${cnt}</span>` : ""}</a>`;
+  };
+
+  // ROWS view: one row per category with pills
+  const tagRows = categories.length ? categories.map((cat) => {
+    const catTopics = catMap.get(cat);
+    const catEssayCount = catTopics.reduce((s, t) => s + topicCount(t), 0);
     return `<div class="tag-rows-row">
-    <div class="tag-rows-name"><div class="tag-rows-name-label">${esc(t.title)}</div><div class="tag-rows-name-sub">${inTopic.length} <a class="tag-rows-viewall" href="/topic/${t.slug}/">(view all)</a></div></div>
-    <div class="tag-rows-pills">${inTopic.map((e) => `<a class="cluster-tag" href="/essay/${e.slug}/"><span class="cluster-tag-name">${esc(e.title)}</span></a>`).join("")}</div>
-  </div>`;
+  <div class="tag-rows-name">
+    <div class="tag-rows-name-label">${esc(cat)}</div>
+    <div class="tag-rows-name-sub">${catEssayCount} essay${catEssayCount !== 1 ? "s" : ""}</div>
+  </div>
+  <div class="tag-rows-pills">${catTopics.map(topicPill).join("")}</div>
+</div>`;
+  }).join("\n") : '<p class="empty-note">No topics yet.</p>';
+
+  // GROUPS view: sidebar category list + panels
+  const groupBtns = categories.map((cat, i) => {
+    const cnt = catMap.get(cat).reduce((s, t) => s + topicCount(t), 0);
+    return `<button class="cluster-group-btn" data-group="${esc(cat)}"${i === 0 ? ' data-active="true"' : ""}><span class="cluster-group-name">${esc(cat)}</span><span class="cluster-group-count">${cnt}</span></button>`;
   }).join("\n");
-  const indexBody = `${contribGraph(contribItems)}
+  const groupPanels = categories.map((cat, i) => {
+    return `<div class="cluster-panel" data-group="${esc(cat)}"${i === 0 ? ' data-active="true"' : ""}>${catMap.get(cat).map(topicPill).join("")}</div>`;
+  }).join("\n");
+
+  // A>Z view: all topics sorted alphabetically
+  const flatTopics = [...topics].sort((a, b) => (a.title || "").localeCompare(b.title || "")).map(topicPill).join("");
+
+  const topicsHeaderRow = `<div class="topics-page-head">
+  <div class="topics-header-row">
+    <div class="page-head"><h1 class="page-title">Topics</h1><p class="page-subtitle">${topics.length} topic${topics.length !== 1 ? "s" : ""} across ${essays.length} essay${essays.length !== 1 ? "s" : ""}${totalWords ? ` and ${totalWords.toLocaleString()} words` : ""}.</p></div>
+    ${commentCue("index-topics")}
+  </div>
+</div>`;
+
+  const indexBody = `${topicsHeaderRow}${contribGraph(contribItems)}
 <section class="tag-index-section" data-active-view="rows" id="tagIndexSection">
   <div class="tag-index-header">
-    <h3 class="tag-index-heading">Topics</h3>
+    <h3 class="tag-index-heading">Browse</h3>
     <div class="topics-view-toggle" id="topicsViewToggle"><button data-view="rows" class="active">ROWS</button><span class="sep">|</span><button data-view="groups">GROUPS</button><span class="sep">|</span><button data-view="flat">A&gt;Z</button></div>
   </div>
-  <div class="tag-index-rows">${tagRows || '<p class="empty-note">No topics yet.</p>'}</div>
-  <div class="tag-index-grouped"><div class="tag-index-cluster"><div class="cluster-panels"><div class="cluster-panel" data-active="true">${topics.map((t) => `<a class="cluster-tag" href="/topic/${t.slug}/"><span class="cluster-tag-name">${esc(t.title)}</span><span class="cluster-tag-count">${essays.filter((e) => (e.topics || []).includes(t.slug)).length}</span></a>`).join("")}</div></div></div></div>
-  <div class="tag-index">${topics.map((t) => `<a class="cluster-tag" href="/topic/${t.slug}/"><span class="cluster-tag-name">${esc(t.title)}</span></a>`).join("")}</div>
+  <div class="tag-index-rows">${tagRows}</div>
+  <div class="tag-index-grouped"><div class="tag-index-cluster"><div class="cluster-groups">${groupBtns}</div><div class="cluster-panels">${groupPanels}</div></div></div>
+  <div class="tag-index">${flatTopics || '<p class="empty-note">No topics yet.</p>'}</div>
 </section>`;
   writePage("index-topics", layout({ title: "Index", activeHref: "/index-topics/", body: `<div class="commentable" data-page="index-topics">${indexBody}</div>` }));
 
