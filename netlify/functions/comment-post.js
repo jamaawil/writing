@@ -40,7 +40,7 @@ exports.handler = async (event) => {
   try {
     sql = getSql();
   } catch (err) {
-    return json(500, { error: "server not configured" });
+    return json(500, { error: "Comments are not yet enabled on this site." });
   }
 
   try {

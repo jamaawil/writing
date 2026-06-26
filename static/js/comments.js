@@ -205,6 +205,15 @@
     }
   });
 
+  // Hide the button on any click outside it — selectionchange alone isn't
+  // reliable enough on all browsers/devices.
+  document.addEventListener("click", function (e) {
+    if (!addBtn.hidden && e.target !== addBtn && !addBtn.contains(e.target)) {
+      addBtn.hidden = true;
+      pendingSelection = null;
+    }
+  });
+
   var INTRO_KEY = "comments_intro_seen";
 
   function showIntroModal(onContinue) {
