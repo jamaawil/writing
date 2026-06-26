@@ -3364,6 +3364,65 @@ mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(
 }
 [data-theme="dark"] .modal .modal-continue { color: #14140f; }
 
+/* ===== favorites page: vertical timeline + tag filter ===== */
+.fav-section { position: relative; }
+.fav-header {
+  position: sticky;
+  top: var(--banner-h);
+  z-index: 5;
+  background: var(--bg);
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--border);
+}
+.fav-filter-bar {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.fav-filter-bar::-webkit-scrollbar { display: none; }
+.fav-filter-btn {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.22rem 0.75rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.fav-filter-btn:hover {
+  color: var(--fg);
+  border-color: currentColor;
+}
+.fav-filter-btn.active {
+  color: var(--bg);
+  background: var(--fg);
+  border-color: var(--fg);
+}
+.fav-timeline { padding-top: 0.5rem; }
+.fav-timeline .timeline-item h2 a {
+  text-decoration: none;
+  color: var(--fg);
+}
+.fav-timeline .timeline-item h2 a:hover { color: var(--contrib-3); }
+.fav-subtitle {
+  margin: 0.25rem 0 0.5rem;
+  font-family: var(--font-serif);
+  font-size: calc(0.95rem * var(--prose-scale));
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 /* projects fallback (Jamal's projects live as page prose, not structured items) */
 .projects-section .commentable { margin-top: 0.5rem; }
 

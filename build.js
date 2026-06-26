@@ -515,26 +515,36 @@ function build() {
 </section>`).join("\n");
   writePage("essays", layout({ title: "All Essays", activeHref: "/", body: `<div class="commentable" data-page="essays"><div class="page-head"><h1 class="page-title">All Essays</h1></div>${yearSections || '<p class="empty-note">No essays yet.</p>'}</div>` }));
 
-  /* ---------- favorites (featured: MAIN | LIST) ---------- */
+  /* ---------- favorites (vertical timeline + tag filter) ---------- */
   const favs = essays.filter((e) => e.favorite);
-  const excerpt = (html) => esc((html || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().slice(0, 280));
-  const featuredMain = (e) => `<a class="featured-main" href="/essay/${e.slug}/">
-  <div class="featured-card main-left">
-    <div class="card-body">
-      <div class="card-meta">${fmtLong(e.date)}${e.words ? ` · ${e.words} words` : ""}</div>
-      <h3 class="card-title">${esc(e.title)}</h3>
-      ${e.subtitle ? `<p class="card-subtitle">${esc(e.subtitle)}</p>` : ""}
-    </div>
+  const topicTitleMap = Object.fromEntries(topics.map((t) => [t.slug, t.title || t.slug]));
+  const favTopics = [...new Set(favs.flatMap((e) => e.topics || []))].sort();
+  const favFilterPills = [
+    `<button class="fav-filter-btn active" data-filter="all">All</button>`,
+    ...favTopics.map((slug) => `<button class="fav-filter-btn" data-filter="${esc(slug)}">${esc(topicTitleMap[slug] || slug)}</button>`),
+  ].join("");
+  const favTimelineItem = (e) => {
+    const tagSlugs = (e.topics || []).join(" ");
+    const yr = (d(e.date) || new Date()).getUTCFullYear();
+    const tagPills = (e.topics || []).map((slug) => `<span class="tag">${esc(topicTitleMap[slug] || slug)}</span>`).join("");
+    return `<div class="timeline-item" data-tags="${esc(tagSlugs)}" data-year="${yr}">
+  <div class="dot"></div>
+  <div class="content">
+    <div class="meta">${fmtLong(e.date)}${e.words ? ` · ${e.words} words` : ""}</div>
+    <h2><a href="/essay/${esc(e.slug)}/">${esc(e.title)}</a></h2>
+    ${e.subtitle ? `<p class="fav-subtitle">${esc(e.subtitle)}</p>` : ""}
+    ${tagPills ? `<div class="tag-row">${tagPills}</div>` : ""}
   </div>
-  <div class="main-right"><div class="main-right-inner"><p class="main-excerpt">${excerpt(e.html)}…</p><div class="main-foot">Read essay →</div></div></div>
-</a>`;
-  const favBody = `<section class="featured-section" data-active-view="main" id="featuredSection">
-  <div class="featured-toolbar">
+</div>`;
+  };
+  const favBody = `<section class="fav-section" id="favSection">
+  <div class="fav-header">
     <div class="page-head"><h1 class="page-title">Favorites</h1><p class="page-subtitle">A short, curated list of essays worth reading first.</p></div>
-    <div class="view-toggle" id="featuredToggle"><button data-view="main" class="active">MAIN</button><span class="sep">|</span><button data-view="list">LIST</button></div>
+    ${favTopics.length ? `<div class="fav-filter-bar" id="favFilterBar">${favFilterPills}</div>` : ""}
   </div>
-  <div class="featured-view view-main"><div class="featured-main-list">${favs.length ? favs.map(featuredMain).join("\n") : '<p class="empty-note">No favorites yet.</p>'}</div></div>
-  <div class="featured-view view-list"><ul class="all-posts-list favorites-list">${favs.map(favoriteRow).join("\n")}</ul></div>
+  <div class="project-timeline fav-timeline" id="favTimeline">
+    ${favs.length ? favs.map(favTimelineItem).join("\n") : '<p class="empty-note">No favorites yet.</p>'}
+  </div>
 </section>`;
   writePage("favorites", layout({ title: "Favorites", activeHref: "/favorites/", body: `<div class="commentable" data-page="favorites">${favBody}</div>` }));
 

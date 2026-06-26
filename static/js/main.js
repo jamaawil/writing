@@ -257,6 +257,27 @@
     apply();
   })();
 
+  /* ---- favorites: tag filter pills ---- */
+  (function setupFavoritesFilter() {
+    var section = document.getElementById("favSection");
+    var filterBar = document.getElementById("favFilterBar");
+    if (!section || !filterBar) return;
+    var buttons = $$("button", filterBar);
+    var activeTag = "all";
+    function apply() {
+      buttons.forEach(function (b) { b.classList.toggle("active", b.dataset.filter === activeTag); });
+      $$(".timeline-item", section).forEach(function (it) {
+        var tags = (it.dataset.tags || "").split(/\s+/).filter(Boolean);
+        var ok = activeTag === "all" || tags.indexOf(activeTag) !== -1;
+        it.style.display = ok ? "" : "none";
+      });
+    }
+    buttons.forEach(function (b) {
+      b.addEventListener("click", function () { activeTag = b.dataset.filter; apply(); });
+    });
+    apply();
+  })();
+
   /* ---- mobile nav: clone the aside nav into the drawer's top row ---- */
   (function buildMobileNav() {
     var asideNav = $(".aside-nav");
