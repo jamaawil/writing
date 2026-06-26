@@ -209,6 +209,9 @@
   // reliable enough on all browsers/devices.
   document.addEventListener("click", function (e) {
     if (!addBtn.hidden && e.target !== addBtn && !addBtn.contains(e.target)) {
+      // Clicks inside .commentable are text-selection gestures — the click fires on
+      // the same mouseup that just made the button visible, so don't dismiss it.
+      if (e.target.closest && e.target.closest(".commentable")) return;
       addBtn.hidden = true;
       pendingSelection = null;
     }
