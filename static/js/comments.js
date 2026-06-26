@@ -92,6 +92,7 @@
       '<button type="button" class="comment-reply-btn">Reply</button>' +
       buildFormHtml(true);
     block.insertAdjacentElement("afterend", card);
+    suppressNextCardClose = true;
     wireForm(card.querySelector(".comment-form"), { parent_id: comment.id, page_slug: pageSlug });
     card.querySelector(".comment-reply-btn").addEventListener("click", function () {
       card.querySelector(".comment-form").hidden = false;
@@ -340,8 +341,7 @@
 
     form.querySelector(".comment-cancel").addEventListener("click", function () {
       var card = form.closest(".comment-card, .comment-form-panel");
-      if (card && card.classList.contains("comment-form-panel")) card.remove();
-      else form.hidden = true;
+      if (card) card.remove();
     });
 
     form.addEventListener("submit", function (e) {
@@ -423,6 +423,9 @@
   // click after opening — regardless of what it resolves to — sidesteps that race
   // entirely instead of trying to out-guess the retargeted event.
   var suppressNextDocClick = false;
+  // openCard is triggered by a click; without this flag the same click event would
+  // bubble to the document handler and immediately close the card it just opened.
+  var suppressNextCardClose = false;
   function closeFloatingForm() {
     if (floatingPanel) {
       floatingPanel.remove();
@@ -453,12 +456,21 @@
   }
 
   document.addEventListener("click", function (e) {
+    // Read card-suppress flag before any early return so it's always consumed.
+    var skipCardClose = suppressNextCardClose;
+    suppressNextCardClose = false;
+
     if (suppressNextDocClick) {
       suppressNextDocClick = false;
       return;
     }
     if (floatingPanel && !floatingPanel.contains(e.target) && e.target !== addBtn) {
       closeFloatingForm();
+    }
+    if (!skipCardClose) {
+      container.querySelectorAll(".comment-card").forEach(function (card) {
+        if (!card.contains(e.target)) card.remove();
+      });
     }
   });
 
