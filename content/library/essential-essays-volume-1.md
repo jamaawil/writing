@@ -6,7 +6,7 @@ highlights: 3
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547447/qaAwswgtHUQr35qPlV23PMyrq4Xh_Gb84YLAx5Nc2O8-cove_7HqW7FJ.jpg"
 first_highlight: "2026-06-25"
-last_highlight: "2026-06-25"
+last_highlight: "2026-06-26"
 last_note: "2026-06-25"
 ---
 

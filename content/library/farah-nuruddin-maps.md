@@ -6,7 +6,7 @@ highlights: 20
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png"
 first_highlight: "2026-06-25"
-last_highlight: "2026-06-25"
+last_highlight: "2026-06-26"
 last_note: "2026-06-25"
 ---
 

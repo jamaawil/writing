@@ -224,6 +224,13 @@ async function sync() {
     const slug = fm.slug || path.basename(file, ".md");
     const highlights = parseHighlightBlocks(body);
 
+    // Auto-compute dates from file timestamps (Readwise updates mtime on every sync)
+    const stat = fs.statSync(path.join(SRC, file));
+    const toDateStr = (d) => d.toISOString().slice(0, 10);
+    fm.last_highlight = toDateStr(stat.mtime);
+    fm.first_highlight = toDateStr(stat.birthtime && stat.birthtime < stat.mtime ? stat.birthtime : stat.mtime);
+    fm.last_note = highlights.some((h) => h.response) ? toDateStr(stat.mtime) : (fm.last_note || "");
+
     for (const h of highlights) {
       if (!h.quote) continue;
       // Vault already has a claim title (written by frequentation.js) — use it
