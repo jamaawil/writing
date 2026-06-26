@@ -3325,6 +3325,7 @@ mark.comment-anchor.pending::after { content: " (pending…)"; font-family: var(
   background: var(--fg); color: var(--bg); border: none; border-radius: 8px;
   cursor: pointer; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
+.comment-add-btn[hidden] { display: none; }
 .comment-add-btn svg { width: 18px; height: 18px; }
 
 .comment-form-panel, .comment-card {
