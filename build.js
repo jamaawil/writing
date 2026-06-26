@@ -525,7 +525,7 @@ function build() {
     const meta = [e.words ? `${Number(e.words).toLocaleString()} words` : null, rt].filter(Boolean).join(" | ");
     const cover = e.cover || e.image || null;
     return `<a class="fav-card" href="/essay/${esc(e.slug)}/">
-  <div class="fav-card-cover">${cover ? `<img src="${esc(cover)}" alt="${esc(e.title)}" loading="lazy">` : `<div class="fav-card-cover-placeholder"></div>`}</div>
+  ${cover ? `<div class="fav-card-cover"><img src="${esc(cover)}" alt="${esc(e.title)}" loading="lazy"></div>` : ""}
   <div class="fav-card-body">
     <div class="fav-card-date">${favMonthYear(e.date)}</div>
     <h3 class="fav-card-title">${esc(e.title)}</h3>
