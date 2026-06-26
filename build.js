@@ -426,6 +426,7 @@ function build() {
   const bits = readMarkdownDir(path.join(CONTENT, "bits")).sort((a, b) => new Date(b.date) - new Date(a.date));
   const semesters = readMarkdownDir(path.join(CONTENT, "semesters")).sort((a, b) => (a.order || 0) - (b.order || 0));
   const bibliography = readMarkdownDir(path.join(CONTENT, "bibliography")).sort((a, b) => (a.order || 0) - (b.order || 0));
+  const projectItems = readMarkdownDir(path.join(CONTENT, "projects")).sort((a, b) => new Date(b.date) - new Date(a.date));
   const pages = readMarkdownDir(path.join(CONTENT, "pages"));
   const pageBySlug = Object.fromEntries(pages.map((p) => [p.slug, p]));
   HOW_HREF = pageBySlug["how-i-built-this"] ? "/how-i-built-this/" : null;
@@ -639,11 +640,49 @@ function build() {
 <div class="dictionary commentable" data-page="dictionary">${letters.map((L) => `<section class="dict-letter-group" id="letter-${L}"><div class="letter-header">${L}</div><div class="entries">${groups[L].map((def) => `<div class="dict-entry c-region" id="word-${def.slug || ""}"><div class="c-body"><p><strong class="dict-word">${esc(def.title)}</strong>${def.tagline ? ` <span class="dict-particle">${esc(def.tagline)}</span>` : ""}</p>${def.html}</div></div>`).join("")}</div></section>`).join("\n") || '<p class="empty-note">No terms yet.</p>'}</div>`;
   writePage("dictionary", layout({ title: "Dictionary of Terms", activeHref: "/dictionary/", body: dictBody }));
 
-  /* ---------- projects ---------- */
-  const projPage = pageBySlug["projects"];
+  /* ---------- projects (timeline + tag filter) ---------- */
+  const projTags = [...new Set(projectItems.flatMap((p) => p.tags || []))].sort();
+  const projFilterPills = [
+    `<button class="proj-filter-btn active" data-filter="all">All (${projectItems.length})</button>`,
+    ...projTags.map((tag) => `<button class="proj-filter-btn" data-filter="${esc(tag)}">${esc(tag.charAt(0).toUpperCase() + tag.slice(1))}</button>`),
+  ].join("");
+  const projMonthMap = new Map();
+  for (const p of projectItems) {
+    const x = d(p.date);
+    if (!x) continue;
+    const key = `${MONTHS[x.getUTCMonth()]} ${x.getUTCFullYear()}`;
+    if (!projMonthMap.has(key)) projMonthMap.set(key, { key, date: x, items: [] });
+    projMonthMap.get(key).items.push(p);
+  }
+  const projMonthSections = [...projMonthMap.values()].sort((a, b) => b.date - a.date).map(({ key, items }) =>
+    `<div class="proj-month-group">
+  <h3 class="proj-month-heading">${key}</h3>
+  <div class="project-timeline">${items.map((p) => {
+    const tagSlugs = (p.tags || []).join(" ");
+    const yr = (d(p.date) || new Date()).getUTCFullYear();
+    return `<div class="timeline-item" data-tags="${esc(tagSlugs)}" data-year="${yr}">
+  <div class="dot"></div>
+  <div class="content">
+    <h2>${esc(p.title)}</h2>
+    <div class="body">${p.html}</div>
+  </div>
+</div>`;
+  }).join("\n")}</div>
+</div>`).join("\n");
   writePage("projects", layout({
-    title: (projPage && projPage.title) || "Projects", activeHref: "/projects/",
-    body: `<section class="projects-section" id="projectsSection"><div class="projects-header"><h1 class="projects-page-title">Projects</h1></div><div class="commentable" data-page="projects">${projPage ? projPage.html : '<p class="empty-note">No projects yet.</p>'}</div></section>`,
+    title: "Projects", activeHref: "/projects/",
+    body: `<section class="projects-section" id="projectsSection">
+  <div class="projects-header">
+    <div class="projects-header-top">
+      <h1 class="projects-page-title">Projects</h1>
+      ${commentCue("projects")}
+    </div>
+    ${projTags.length ? `<div id="projectsFilter" class="proj-filter-bar">${projFilterPills}</div>` : ""}
+  </div>
+  <div class="commentable" data-page="projects">
+    ${projectItems.length ? projMonthSections : '<p class="empty-note">No projects yet.</p>'}
+  </div>
+</section>`,
   }));
 
   /* ---------- bits ---------- */
