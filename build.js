@@ -776,10 +776,78 @@ function build() {
   }
 
   /* ---------- zettel ---------- */
-  const zettelBody = `<div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked.</p></div><div id="zettel-graph"></div><div class="commentable" data-page="zettel">${zettels.map((z) => `<div class="topic-group"><h2><a href="/zettel/${z.slug}/">${esc(z.title)}</a></h2>${z.html}</div>`).join("\n") || '<p class="empty-note">No zettel notes yet.</p>'}</div>`;
-  writePage("zettel", layout({ title: "Zettel", activeHref: "/zettel/", body: zettelBody }));
+  const zettelBySlug = new Map(zettels.map((z) => [z.slug, z]));
+
+  // Replace [[slug]] and [[slug|Display]] wikilinks with anchor tags
+  function resolveWikilinks(html) {
+    return html.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, slug, display) => {
+      const z = zettelBySlug.get(slug.trim());
+      const text = display ? display.trim() : z ? z.title : slug.trim();
+      return z
+        ? `<a class="zettel-wikilink" href="/zettel/${slug.trim()}/">${esc(text)}</a>`
+        : `<span class="zettel-wikilink-missing">${esc(text)}</span>`;
+    });
+  }
+
+  // Build graph data (deduplicated undirected edges)
+  const graphNodes = zettels.map((z) => ({ id: z.slug, title: z.title, href: `/zettel/${z.slug}/` }));
+  const graphEdges = [];
+  const seenEdges = new Set();
   for (const z of zettels) {
-    writePage(`zettel/${z.slug}`, layout({ title: z.title, activeHref: "/zettel/", body: `${backLink("Zettel", "/zettel/")}<article class="log detail"><header><h2>${esc(z.title)}</h2></header>${commentable(`zettel/${z.slug}`, z.html)}</article>` }));
+    for (const target of (z.links || [])) {
+      const key = [z.slug, target].sort().join("\x00");
+      if (!seenEdges.has(key)) {
+        seenEdges.add(key);
+        graphEdges.push({ source: z.slug, target });
+      }
+    }
+  }
+  const graphJSON = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
+  const graphDataScript = `<script type="application/json" id="zettel-graph-data">${graphJSON}</script>`;
+
+  // Link pills for index and detail pages
+  const linkPills = (links) => (links || []).map((slug) => {
+    const linked = zettelBySlug.get(slug);
+    return linked ? `<a class="zettel-link-pill" href="/zettel/${slug}/">${esc(linked.title)}</a>` : "";
+  }).filter(Boolean).join("");
+
+  // Index note cards
+  const zettelCards = zettels.map((z) => {
+    const pills = linkPills(z.links);
+    return `<div class="zettel-card">
+  <h2 class="zettel-card-title"><a href="/zettel/${esc(z.slug)}/">${esc(z.title)}</a></h2>
+  <div class="zettel-card-body">${resolveWikilinks(z.html)}</div>
+  ${pills ? `<div class="zettel-card-links"><span class="zettel-links-label">Links</span>${pills}</div>` : ""}
+</div>`;
+  }).join("\n");
+
+  const zettelBody = `${graphDataScript}
+<div class="zettel-page-head">
+  <div class="zettel-page-head-text">
+    <div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked and interconnected.</p></div>
+  </div>
+  <div id="zettel-graph"></div>
+</div>
+<div class="commentable" data-page="zettel">
+  <div class="zettel-index">${zettels.length ? zettelCards : '<p class="empty-note">No zettel notes yet.</p>'}</div>
+</div>`;
+  writePage("zettel", layout({ title: "Zettel", activeHref: "/zettel/", body: zettelBody }));
+
+  for (const z of zettels) {
+    const pills = linkPills(z.links);
+    writePage(`zettel/${z.slug}`, layout({
+      title: z.title, activeHref: "/zettel/",
+      body: `${graphDataScript}
+${backLink("Zettel", "/zettel/")}
+<div class="zettel-detail-head">
+  <div class="zettel-detail-meta"><h1 class="zettel-detail-title">${esc(z.title)}</h1></div>
+  <div id="zettel-graph" data-current="${esc(z.slug)}"></div>
+</div>
+<article class="zettel-detail-body commentable" data-page="${esc(`zettel/${z.slug}`)}">
+  ${resolveWikilinks(z.html)}
+  ${pills ? `<div class="zettel-card-links zettel-detail-links"><span class="zettel-links-label">Linked notes</span>${pills}</div>` : ""}
+</article>`,
+    }));
   }
 
   /* ---------- five-year plan ---------- */
