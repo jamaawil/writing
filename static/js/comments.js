@@ -106,7 +106,16 @@
     try {
       all = JSON.parse(localStorage.getItem(PENDING_KEY) || "[]");
     } catch (e) {}
-    return all.filter(function (p) {
+    // Purge pending comments older than 7 days and write the cleaned list back
+    var cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    var fresh = all.filter(function (p) {
+      if (!p.submitted_at) return false;
+      return new Date(p.submitted_at).getTime() > cutoff;
+    });
+    if (fresh.length !== all.length) {
+      try { localStorage.setItem(PENDING_KEY, JSON.stringify(fresh)); } catch (e) {}
+    }
+    return fresh.filter(function (p) {
       return p.page === pageSlug;
     });
   }
