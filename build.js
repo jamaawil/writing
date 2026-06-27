@@ -190,13 +190,8 @@ function libraryHighlightCard(h) {
 }
 
 function libraryHighlightsSections(items) {
-  const withNote = items.filter((h) => h.response);
-  const withoutNote = items.filter((h) => !h.response);
-  const section = (heading, list) =>
-    list.length
-      ? `<section class="highlights-section"><h3 class="section-heading">${heading} (${list.length})</h3><div class="highlights-list">${list.map(libraryHighlightCard).join("\n")}</div></section>`
-      : "";
-  return `${section("Responses", withNote)}${section("Highlights", withoutNote)}`;
+  if (!items.length) return "";
+  return `<div class="highlights-list">${items.map(libraryHighlightCard).join("\n")}</div>`;
 }
 
 function svgIcon(inner) {
