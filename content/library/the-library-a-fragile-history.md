@@ -15,12 +15,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 87</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Libraries survive only as long as people find them useful.
 > If there is one lesson from the centuries-long story of the library, it is that libraries only last as long as people find them useful.
 
 <cite>Andrew Pettegree, The Library, Location 99</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,12 +35,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 104</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Cycles of creation, dispersal, decay, and reconstruction are the historical norm.
 > a repeating cycle of creation and dispersal, decay and reconstruction, turns out to be the historical norm.
 
 <cite>Andrew Pettegree, The Library, Location 106</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -43,12 +55,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 108</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Highlight argues that housing conditions varied from rich palaces to homelessness.
 > Some were housed in richly decorated palaces and others, like that of Erasmus, had no home at all, being carted from house to house after their itinerant owner.
 
 <cite>Andrew Pettegree, The Library, Location 116</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -57,12 +75,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 129</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] European society displays cultural sophistication to show their cultural richness.
 > European society to display their cultural sophistication.
 
 <cite>Andrew Pettegree, The Library, Location 136</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -71,12 +95,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 138</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The Ottoman Empire largely rejected print entirely.
 > The Ottoman Empire largely eschewed print altogether. The unhappy Venetian who presented to the Sublime Porte the first printed copy of the Qur’an was condemned for blasphemy.
 
 <cite>Andrew Pettegree, The Library, Location 148</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -85,12 +115,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 151</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Roman society was at its pinnacle of success.
 > apex of society.
 
 <cite>Andrew Pettegree, The Library, Location 158</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -99,12 +135,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 162</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Oxford Bodleian Library sold its First Folio despite Bodley’s anti-English-text stance.
 > Sir Thomas Bodley’s great work in the re-foundation of the University of Oxford library is rightly celebrated, but he was adamant that he would not tolerate ‘idle books and riffe raffes’ in the collection: by which he meant texts in English rather than Latin. When Oxford received, by donation, a copy of the famous First Folio of Shakespeare’s plays, they sold it a few decades later. In 1905, a copy was bought back for the university, at enormous public cost, to prevent it from falling into the hands of the American collector Henry Folger.6
 
 <cite>Andrew Pettegree, The Library, Location 166</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -113,12 +155,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 174</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Librarians argued pandering to light fiction kills public library services.
 > Even as late as 1969, the former director of the library service in the London Borough of Haringey could write mournfully: ‘There is nothing more deadly to a public library service than pandering to a taste for “light” fiction.’7
 
 <cite>Andrew Pettegree, The Library, Location 177</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -127,12 +175,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 189</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Books were valued as commodities, enabling collectors to indulge passions while planning inheritance.
 > This was an era in which books were valued not just for the knowledge they contained, but as a commodity: innovations in the market such as book auctions meant that collectors could continue buying, secure in the knowledge that on their death their families would be able to realise something close to the real value of the collection. The result was a virtuous circle in which collectors could indulge their passions, while also doing something that passed for inheritance planning.
 
 <cite>Andrew Pettegree, The Library, Location 198</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -141,12 +195,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 203</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Libraries were built to make statements, not primarily to teach.
 > the quintessential cathedral of knowledge? But these were less temples to learning itself than buildings that were created to make a statement, whether the civic pride and values of a new elite (the Boston or New York Public Library) or the evangelical fervour of a missionary faith (the Jesuit libraries of the seventeenth and eighteenth centuries).
 
 <cite>Andrew Pettegree, The Library, Location 204</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -155,12 +215,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 208</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The 1981 burning of the Jaffna Public Library was a principal example.
 > Tamil culture. On the night of 31 May 1981, the library was razed to the ground by a Sinhalese crowd, one of the principal examples of ethnic biblioclasm of the twentieth century.9 A similar melancholic drama was played out in Sarajevo in 1992, when the Bosnian state library was deliberately targeted by the Serbian militia attacking the city. The entire collection of 1.5 million books and manuscripts was consumed in the resulting inferno.
 
 <cite>Andrew Pettegree, The Library, Location 214</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -169,12 +235,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 223</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Neophyte readers argues that beginner or novice readers are brand new to reading.
 > neophyte readers.
 
 <cite>Andrew Pettegree, The Library, Location 245</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -183,12 +255,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 247</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Librarians and literary elites viewed story papers and yellowbacks as deplorables yet.
 > For librarians and those who populated the higher reaches of the literary establishment, the story papers and yellowbacks represented a significant basket of deplorables, though it was more difficult to work out precisely what belonged in the basket.
 
 <cite>Andrew Pettegree, The Library, Location 253</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -197,12 +275,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 259</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Readers lacked time, not ambition or intellect, which explains wartime and depression library growth.
 > What these readers lacked was not ambition or intellect, but time. This helps to explain why nineteenth-century legislation for shorter working days helped boost the library movement, and why libraries were also more intensely frequented in times of war and economic depression.
 
 <cite>Andrew Pettegree, The Library, Location 270</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -211,12 +295,18 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 281</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Only the very rich could afford such libraries to impress others.
 > Only the very rich could afford to treat their libraries as shiny toys with which to impress their friends, passers-by and, more incidentally, posterity.
 
 <cite>Andrew Pettegree, The Library, Location 288</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -225,6 +315,9 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 293</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The ancient library secured UNESCO's influential support in 1990.
@@ -232,9 +325,15 @@ last_note: "2026-06-25"
 
 <cite>Andrew Pettegree, The Library, Location 307</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The Bibliotheca Alexandrina was revived through UNESCO-backed global cooperation to restore Alexandria’s intellectual influence.
 > Nixon would resign two months later, but local academics sniffed an opportunity. Frustrated by Alexandria’s loss of influence to Cairo as a consequence of Gamal Abdel Nasser’s Pan-Arabism and anti-colonialism, they saw the chance to revive a cultural icon, and with it Alexandria’s place in the intellectual world. The appeal to universal civilising values embodied in the ancient library secured the influential support of UNESCO, leading in 1990 to the portentous Aswan Declaration, which committed the governments of Europe, the United States and the Arab world to building a new library as a monument to the ‘quest for universal knowledge’. Saudi Arabia and the Gulf States pledged substantial sums, only to be trumped by Saddam Hussein, whose pledge of $21 million secured for Iraq the place of honour at the 2002 ceremonies.1
 
 <cite>Andrew Pettegree, The Library, Location 305</cite>
+
+> [!Response]
+> 

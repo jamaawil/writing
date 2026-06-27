@@ -15,12 +15,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The ideal community may advantageously be defined along acoustic lines.
 > Community can be defined in many ways: as a political, geographical, religious or social entity. But I am about to propose that the ideal community may also be defined advantageously along acoustic lines.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,12 +35,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Two myths define music as subjective emotion and sonic discovery.
 > In the first of these myths music arises as subjective emotion; in the second it arises with the discovery of sonic properties in the materials of the universe.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -43,12 +55,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] A soundscape consists of events heard, not objects seen.
 > A soundscape consists of events heard not objects seen.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -57,12 +75,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Making loud noises frightened creatures out of their shelters toward hunters.
 > We started to attack the land in front of us with rattles, pots, pans, noisemakers of every sort and shouts in all modulations. Frightened by the noise, every living creature was stirred up and chased out of its shelter in the direction of the hunters.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -71,12 +95,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Captured sound holds magical authority.
 > Chinese legend a king has a secret black box into which he speaks his orders, then sends them around his kingdom, for his subjects to carry out, which I gloss to mean that there is authority in the magic of captured sound.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -85,12 +115,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The author named the transfer of power from natural sounds to church.
 > We have also observed how this power was transferred from natural sounds (thunder, volcano, storm) to those of the church bell and pipe organ. I called this Sacred Noise to distinguish it from the other sort of noise (with a small letter), implying nuisance and requiring noise abatement legislation.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -99,12 +135,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The contemporary soundscape's dynamic hedonism reaffirms music as a search for harmonizing sound.
 > Because the production of sounds is so much a subjective matter with modern man, the contemporary soundscape is notable for its dynamic hedonism. The research I am about to describe represents a reaffirmation of music as a search for the harmonizing influence of sounds in the world about us.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -113,12 +155,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The highlight argues we must focus on acoustic warning devices like bells, whistles.
 > Any sound can be listened to consciously, and so any sound can become a figure or signal, but for the purposes of our community-oriented study we will confine ourselves to mentioning some of those signals which must be listened to because they constitute acoustic warning devices: bells, whistles, horns and sirens.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -127,12 +175,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Disorder has replaced the throng of guards.
 > Around the entrance there is now no throng of guards, arching their backs and trumpeting the menace, ready to die in its defence. There is heard no more the low, even hum, the buzz of toil, like the singing of boiling water, but the broken, discordant uproar of disorder comes forth.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -141,12 +195,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Schoenberg's athematic style emerged non-accidentally alongside recording's commercial success in 1910.
 > I do not think it was accidental, therefore, that Schoenberg and his followers sought to achieve a musical style which was athematic (i.e., without repetitions and recapitulation) about 1910, at the same time as recording became commercially successful.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -155,12 +215,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The book will illustrate how identifiable vocal patterns have been worked out.
 > All of these are identifiable also in the vocal utterances of man, and the purpose of the remainder of this book will be to illustrate how they have been worked out in human communities throughout history.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -169,12 +235,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The environment's rhythms shape the changing soundscape.
 > The environment contains many sets of rhythms: those dividing day from night, sun from moon, summer from winter. Though these may not provide audible pulsations, they do have powerful implications for the changing soundscape.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -183,12 +255,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Soundscape studies will be the middle ground between science, society, and the arts.
 > The home territory of soundscape studies will be the middle ground between science, society and the arts. From acoustics and psychoacoustics we will learn about the physical properties of sound and the way sound is interpreted by the human brain. From society we will learn how man behaves with sounds and how sounds affect and change his behavior.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -197,12 +275,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Maximally dominant structures reveal prominent social institutions of medieval and modern societies.
 > Looking at the profile of a medieval European city we at once note that the castle, the city wall and the church spire dominate the scene. In the modern city it is the high-rise apartment, the bank tower and the factory chimney which are the tallest structures. This tells us a good deal about the prominent social institutions of the two societies.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -211,12 +295,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The pump now merits as a youth soundmark, though I heard it carelessly.
 > The hand-operated pump, also on the decline, now snaps into memory as a soundmark of my youth, though at the time I listened to it carelessly.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -225,12 +315,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Proust called the sea the plaintive ancestress of the earth with lunatic immemorial agitation.
 > Proust called the sea “the plaintive ancestress of the earth pursuing, as in the days when no living creature existed, its lunatic immemorial agitation.”
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -239,12 +335,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Keynote sounds are those created by a landscape's geography and climate.
 > The keynote sounds of a landscape are those created by its geography and climate: water, wind, forests, plains, birds, insects and animals.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -253,12 +355,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Its exposition uses number theories to harmonize the world via acoustic design.
 > Its methods of exposition are number theories. It seeks to harmonize the world through acoustic design.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -267,12 +375,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Human soundmaking contains equivalents for many of these.
 > Equivalents for many of these can be found in human soundmaking.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -281,12 +395,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] A construction site is filled with diverse, rhythmic tool sounds.
 > A saw ate lusciously into wood; planes shuffled, wheezing, to and fro; axes tapped loud and clear; mortar splashed wetly onto masonry, and a whetstone sobbed against a dull axe edge.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -295,12 +415,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Muzak reduces music from figure to background ground.
 > In any historical study of the soundscape, the researcher will repeatedly be struck by shifts in the perceptual habits of a society, instances where the figure and the ground exchange roles. The case of Moozak is one such instance. Throughout history music has existed as figure—a desirable collection of sounds to which the listener gives special attention. Moozak reduces music to ground. It is a deliberate concession to lo-fi-ism. It multiplies sounds. It reduces a sacred art to a slobber. Moozak is music that is not to be listened to.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -309,12 +435,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Rapid rhythmic vibrations become identifiable pitch at 20 cycles per second.
 > As far as aural perception is concerned, a rapid rhythmic vibration will gradually assume an identifiable pitch at about 20 cycles per second. Thus, as the tempo of human activities increases, the rhythms of foot and hand are mechanized, first into the rough, “grainy” concatenation of the Industrial Revolution’s first tools, and finally into the smooth pitch contours of modern electronics. The resolving power of the senses makes it possible to turn some of the nervous agitation of the soundscape into drones which, being less turbulent to the ears, tend to have a pacifying quality.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -323,12 +455,18 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Geographical acoustics substantially affect human life.
 > The natural acoustics of different geographical areas of the earth may have a substantial effect on the lives of people. For instance, on the Arkansas prairies Thomas Nuttall (1819) remarked that “no echo answers the voice, and its tones die away in boundless and enfeebled undulations.” On the other hand, the heavy forests of British Columbia are richly reverberant. “The dense forest around and beyond seemed to echo back the warning tones of the speaker’s voice, and as the congregation united their voices in songs of praise, the very trees seemed to lend their cadence in the melody.”
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -337,6 +475,9 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Group singing by dawn chorus species alternates to prevent vocal masking.
@@ -344,9 +485,15 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, The Soundscape</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Noise is unwanted sound with multiple definitions across contexts.
 > Unwanted sound. The Oxford English Dictionary contains references to noise as unwanted sound dating back as far as 1225. Unmusical sound. The nineteenth-century physicist Hermann Helmholtz employed the expression noise to describe sound composed of nonperiodic vibrations (the rustling of leaves), by comparison with musical sounds, which consist of periodic vibrations. Noise is still used in this sense in expressions such as “white noise” or “Gaussian noise." Any loud sound. In general usage today, noise often refers to particularly loud sounds. In this sense a noise abatement by-law prohibits certain loud sounds or establishes their permissible limits in decibels. Disturbance in any signaling system. In electronics and engineering, noise refers to any disturbances which do not represent part of the signal, such as static on a telephone or snow on a television screen.
 
 <cite>R. Murray Schafer, The Soundscape</cite>
+
+> [!Response]
+> 

@@ -15,9 +15,15 @@ last_note: "2026-06-25"
 
 <cite>Bibliography, Annotated, Location 54</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Mass media erodes authorial control and reorganizes the public sphere.
 > Essential for COMM scholars examining how mass media reorganizes the public sphere and erodes authorial control, with direct bearing on contemporary IP debates over image rights and AI-generated likenesses.
 
 <cite>Bibliography, Annotated, Location 60</cite>
+
+> [!Response]
+> 

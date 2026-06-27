@@ -15,12 +15,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 187</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] IONE leads deep dreaming sessions focused on sound dreaming.
 > Ione, acclaimed poet, therapist, writer, and repository of “dream wisdom” (as Pauline Oliveros puts it). She leads sessions in deep dreaming, with particular attention to sound dreaming or sounds within dreams.
 
 <cite>Pauline Oliveros, Deep Listening, Location 195</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,12 +35,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 198</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Music aims to shatter hearing’s indifference and sensibility’s callousness.
 > to shatter the indifference of hearing, the callousness of sensibility,
 
 <cite>Pauline Oliveros, Deep Listening, Location 212</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -43,12 +55,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 223</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The book is Software for People, Collected Writings 1963–80 by Pauline Oliveros.
 > in Software for People: Collected Essays 1962-1980.15
 
 <cite>Pauline Oliveros, Deep Listening, Location 266</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -57,12 +75,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 318</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Perception in time is an illusion.
 > So perception in time is an illusion.
 
 <cite>Pauline Oliveros, Deep Listening, Location 321</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -71,12 +95,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 322</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] An epiphenomenon argues that a secondary phenomenon arises from but does not.
 > epiphenomenon
 
 <cite>Pauline Oliveros, Deep Listening, Location 317</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -85,12 +115,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 335</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The ear-brain listening process develops from survival reactions to consciousness ideas and.
 > Understanding and interpreting what the ear transmits to the brain is a process developing from instantaneous survival reactions to ideas that drive consciousness. The listening process continues throughout one’s lifetime.
 
 <cite>Pauline Oliveros, Deep Listening, Location 341</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -99,12 +135,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 347</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Acoustic space merges time and space through sound.
 > “Acoustic space is where time and space merge as they are articulated by sound.”
 
 <cite>Pauline Oliveros, Deep Listening, Location 350</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -113,12 +155,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 355</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Deep Listening heightens sound consciousness in all awareness dimensions.
 > Deep Listening is a practice that is intended to heighten and expand consciousness of sound in as many dimensions of awareness and attentional dynamics as humanly possible.
 
 <cite>Pauline Oliveros, Deep Listening, Location 361</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -127,12 +175,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 364</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Listening as a practice trains calm, clear responses to resolve conflicts.
 > Listening (as a practice in this sense) would be training to respond with calmness and clarity of mind. It is a determination and commitment to reconcile and resolve conflicts.
 
 <cite>Pauline Oliveros, Deep Listening, Location 369</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -141,12 +195,18 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 378</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Sonic formations consist of sounds and their relationalities.
 > (sonic formations).
 
 <cite>Pauline Oliveros, Deep Listening, Location 380</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -155,6 +215,9 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 385</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Narrow sound awareness disconnects you from your environment.
@@ -162,9 +225,15 @@ last_note: "2026-06-25"
 
 <cite>Pauline Oliveros, Deep Listening, Location 389</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Compassion and understanding come from listening impartially to the whole space-time continuum.
 > Compassion (spiritual development) and understanding comes from listening impartially to the whole space/time continuum of sound, not just what one is presently concerned about.
 
 <cite>Pauline Oliveros, Deep Listening, Location 393</cite>
+
+> [!Response]
+> 

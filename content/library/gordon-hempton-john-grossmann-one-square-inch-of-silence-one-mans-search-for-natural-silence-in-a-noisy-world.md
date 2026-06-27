@@ -15,12 +15,18 @@ last_note: "2026-06-25"
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 64</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Silence is the presence of everything, not an absence.
 > Silence is not the absence of something but the presence of everything.
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 81</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,12 +35,18 @@ last_note: "2026-06-25"
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 85</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] We must protect vanishing natural quiet to face future environmental crises.
 > If we cannot make a stand here, if we turn a deaf ear to the issue of vanishing natural quiet, how can we expect to fare better with more complex environmental crises?
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 101</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -43,6 +55,9 @@ last_note: "2026-06-25"
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 117</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] A 100% noise-free condition will affect many square miles.
@@ -50,9 +65,15 @@ last_note: "2026-06-25"
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 195</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Protecting one square inch of land from noise ensures quiet prevails over.
 > My logic is simple and not simply symbolic: If a loud noise, such as the passing of an aircraft, can affect many square miles, then a natural place, if maintained in a 100 percent noise-free condition, will likewise affect many square miles around it. Protect that single square inch of land from noise pollution, and quiet will prevail over a much larger area of the park.
 
 <cite>Gordon Hempton, Gordon Hempton_, Location 194</cite>
+
+> [!Response]
+> 

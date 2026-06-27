@@ -15,12 +15,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 20</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] All those" refers to items further away or already mentioned.
 > all those
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 39</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,12 +35,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 38</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The Land of Shadow contains solid, living shades representing the dead who protect others.
 > As you sit contemplatively, your mind journeys to a region where there were solid and prominent shadows which lived on behalf of others who had years before ceased to exist as beings.
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 50</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -43,12 +55,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 59</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The deception is self-conscious.
 > There was an element of self-consciousness in the small thing I had found, she said. It was so self-conscious it moved its hands as though it would wipe away the mess it had been in; it moved its eyes, when not staring at me, she continued, as though to apologize for its shortcomings. And what eyes! What hands!
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 69</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -57,12 +75,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 86</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The cosmos grows larger as man gives to it.
 > “While,” she said to you, “man is the child receiving into himself the cosmos itself, the cosmos grows larger, like a hole, the more she gives.”
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 92</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -71,12 +95,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 101</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] An adult gives gifts so their inner child re-emerges.
 > “Please an adult with gifts and the child therein re-emerges.”
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 104</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -85,12 +115,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 121</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] As-kar was pronounced gently to avoid suspicion.
 > Askar! The letter "s" in your name was gently said so as to arouse no suspicions; whereas the “k” was held in the cosiness of a tongue couched in the unspoken secrets of a sound. As-kar! It was the “r” which rolled like a cow in the hot sand after half-a-day’s grazing. Askar!
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 127</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -99,12 +135,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 134</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Misra bequeathed only a journal and stories.
 > You did not inherit from her any treasures; if anything, she bequeathed to you only a journal and stories told you in snippets by others. And what did you bequeath to Misra? There is a photograph taken when you were very, very small; there is a hand, most definitely yours, stretched outwards, away from your own body, searching for another hand—most probably hers, a hand to touch, a hand to help and to give assurances.
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 146</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -113,12 +155,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 170</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The eyes reveal multiple, simultaneous citizenships across life's kingdoms.
 > described the look in your eyes as “adulted”. Aw-Adan did not appear at all convinced. Then she went on to say, “To have met death when not quite a being, perhaps this explains why he exists primarily in the look in his eyes. Perhaps his stars have conferred upon him the fortune of holding simultaneously multiple citizenships of different kingdoms: that of the living and that of the dead; not to mention that of being an infant and an adult at the same time.”
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 182</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -127,12 +175,18 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 194</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The speaker is tangible and present.
 > I am touchably there.
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 195</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -141,9 +195,15 @@ last_note: "2026-06-25"
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 221</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] They argue that leaving is required whenever they fail to exit the.
 > whenever they didn’t leave the room the moment they were instructed to do so.
 
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 246</cite>
+
+> [!Response]
+> 

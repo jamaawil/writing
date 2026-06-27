@@ -180,9 +180,10 @@ function renderEntry(fm, highlights) {
       const quoteBlock = [quoteLine, ...h.quote.split("\n").map((l) => `> ${l}`)].join("\n");
       const parts = [quoteBlock];
       if (h.citation) parts.push(`<cite>${h.citation}</cite>`);
-      if (h.response) {
-        parts.push(["> [!Response]", ...h.response.split("\n").map((l) => `> ${l}`)].join("\n"));
-      }
+      const responseBody = h.response
+        ? h.response.split("\n").map((l) => `> ${l}`).join("\n")
+        : "> ";
+      parts.push(`> [!Response]\n${responseBody}`);
       return parts.join("\n\n");
     })
     .join("\n\n---\n\n");
@@ -224,6 +225,26 @@ async function sync() {
     const slug = fm.slug || path.basename(file, ".md");
     const highlights = parseHighlightBlocks(body);
 
+    // Preserve any responses the user wrote directly in the content file
+    const destPath = path.join(DEST, `${slug}.md`);
+    if (fs.existsSync(destPath)) {
+      const { content: existingBody } = matter(fs.readFileSync(destPath, "utf8"));
+      const existingHighlights = parseHighlightBlocks(existingBody);
+      const savedResponses = {};
+      for (const eh of existingHighlights) {
+        if (eh.response) {
+          const key = eh.rwId ? `rw:${eh.rwId}` : eh.quote.slice(0, 120);
+          savedResponses[key] = eh.response;
+        }
+      }
+      for (const h of highlights) {
+        if (!h.response) {
+          const key = h.rwId ? `rw:${h.rwId}` : h.quote.slice(0, 120);
+          if (savedResponses[key]) h.response = savedResponses[key];
+        }
+      }
+    }
+
     // Auto-compute dates from file timestamps (Readwise updates mtime on every sync)
     const stat = fs.statSync(path.join(SRC, file));
     const toDateStr = (d) => d.toISOString().slice(0, 10);
@@ -252,7 +273,6 @@ async function sync() {
     }
 
     const rendered = renderEntry({ ...fm, slug }, highlights);
-    const destPath = path.join(DEST, `${slug}.md`);
     const existing = fs.existsSync(destPath) ? fs.readFileSync(destPath, "utf8") : null;
     if (existing === rendered) {
       unchanged++;

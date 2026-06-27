@@ -15,9 +15,15 @@ last_note: "2026-06-25"
 
 <cite>R. Murray Schafer, Schafer, Murray, Location 155</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The speaker has a personal interest or ulterior motive.
 > grind my axe on this point for
 
 <cite>R. Murray Schafer, Schafer, Murray, Location 149</cite>
+
+> [!Response]
+> 

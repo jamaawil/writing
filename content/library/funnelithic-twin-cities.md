@@ -14,3 +14,6 @@ last_note: "2026-06-25"
 > rating, last review date, photos
 
 <cite>Funnelithic, Funnelithic-Twin-Cities, Location 496</cite>
+
+> [!Response]
+> 

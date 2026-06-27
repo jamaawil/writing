@@ -15,12 +15,18 @@ last_note: "2026-06-25"
 
 <cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 91</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The tradition rests on a multipart anthropology.
 > Wande Abimbola, Bolaji Idowu, and contemporary scholars like Segun Gbadegesin, rests on a multipart anthropology.
 
 <cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16909</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,9 +35,15 @@ last_note: "2026-06-25"
 
 <cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16924</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The highlight argues we cannot remove 100% of corruption from a world.
 > not to beat the world's corruption out of it."
 
 <cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16930</cite>
+
+> [!Response]
+> 

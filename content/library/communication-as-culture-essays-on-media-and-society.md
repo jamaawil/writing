@@ -15,12 +15,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 56860</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Contemporary communications revolutions are simply repetitions of an old story.
 > We are dealing with an old story rather than a new one. Although the computer and satellite have reduced time to a picosecond, an instantaneous present, and the globe to a point where everyone is in the same place, this is simply the latest chapter in an old tale. The habits of mind and structures of thought that seem characteristic of our age, particularly the talk of a communications revolution and exalted hopes and equally exaggerated fears of the media, are repetitions so predictable as to suggest undeviating corridors of thought.
 
 <cite>James W. Carey, Communication as, Location 58684</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -29,6 +35,9 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 59806</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] American communication has contradictory notions of voice versus print.
@@ -36,12 +45,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 67825</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Engineering and communication would bind the nation together and enable public discourse.
 > Engineering and communication would bind the nation together, collect representatives to public functions and disperse them to constituencies, and give a vivid presence to a continent-wide public discourse.
 
 <cite>James W. Carey, Communication as, Location 68594</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -52,12 +67,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 71770</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Technology is thoroughy cultural from the outset, not merely a passive tool.
 > Technology, the hardest of material artifacts, is thoroughly cultural from the outset: an expression and creation of the very outlooks and aspirations we pretend it merely demonstrates.
 
 <cite>James W. Carey, Communication as, Location 75299</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -66,12 +87,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 76350</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] The transmission view of communication is defined by imparting or sending information.
 > It is defined by terms such as “imparting,” “sending,” “transmitting,” or “giving information to others.” It is formed from a metaphor of geography or transportation.
 
 <cite>James W. Carey, Communication as, Location 80224</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -80,12 +107,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 80616</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Our basic communication orientation is grounded in the idea of transmission.
 > Our basic orientation to communication remains grounded, at the deepest roots of our thinking, in the idea of transmission: communication is a process whereby messages are transmitted and distributed in space for the control of distance and people.[2](#ch1-n2)
 
 <cite>James W. Carey, Communication as, Location 80252</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -96,12 +129,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 82244</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Gardner Spring is a quality, reliable spring source since 1907.
 > Gardner Spring
 
 <cite>James W. Carey, Communication as, Location 83881</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -110,12 +149,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 84056</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Miller argued that "A Model of Christian Charity" mattered for what it.
 > Perry Miller
 
 <cite>James W. Carey, Communication as, Location 84243</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -124,12 +169,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 85816</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Thoreau's "Civil Disobedience" argues individuals must prioritize conscience over unjust laws.
 > Thoreau’s
 
 <cite>James W. Carey, Communication as, Location 86366</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -138,12 +189,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 86436</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] A ritual view of communication maintains society in time by representing shared beliefs.
 > In a ritual definition, communication is linked to terms such as “sharing,” “participation,” “association,” “fellowship,” and “the possession of a common faith.” This definition exploits the ancient identity and common roots of the terms “commonness,” “communion,” “community,” and “communication.” A ritual view of communication is directed not toward the extension of messages in space but toward the maintenance of society in time; not the act of imparting information but the representation of shared beliefs.
 
 <cite>James W. Carey, Communication as, Location 87674</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -152,12 +209,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 88557</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] This tradition argues that embodying community ideals in material forms creates a.
 > Writers in this tradition often trace their heritage, in part, to Durkheim’s *Elementary Forms of Religious Life* and to the argument stated elsewhere that “society substitutes for the world revealed to our senses a different world that is a projection of the ideals created by the community” (1953: 95). This projection of community ideals and their embodiment in material form—dance, plays, architecture, news stories, strings of speech—creates an artificial though nonetheless real symbolic order that operates to provide not information but confirmation, not to alter attitudes or change minds but to represent an underlying order of things, not to perform functions but to manifest an ongoing and fragile social process.
 
 <cite>James W. Carey, Communication as, Location 89126</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -166,12 +229,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 90995</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Newspapers function as dramatic presentations of reality, not sources of information or functional effects[citation-needed][citation-needed].
 > The model here is not that of information acquisition, though such acquisition occurs, but of dramatic action in which the reader joins a world of contending forces as an observer at a play. We do not encounter questions about the effect or functions of messages as such, but the role of presentation and involvement in the structuring of the reader’s life and time. We recognize, as with religious rituals, that news changes little and yet is intrinsically satisfying; it performs few functions yet is habitually consumed. Newspapers do not operate as a source of effects or functions but as dramatic-ally satisfying, which is not to say pleasing, presentations of what the world at root is. And it is in this role—that of a text—that a newspaper is seen; like a Balinese cockfight, a Dickens novel, an Elizabethan drama, a student rally, it is a presentation of reality that gives life an overall form, order, and tone.
 
 <cite>James W. Carey, Communication as, Location 92907</cite>
+
+> [!Response]
+> 
 
 ---
 
@@ -180,12 +249,18 @@ last_note: "2026-06-26"
 
 <cite>James W. Carey, Communication as, Location 95537</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Communication creates community by enabling shared aims, beliefs, and knowledge.
 > There is more than a verbal tie between the words common, community, and communication. Men live in a community in virtue of the things which they have in common; and communication is the way in which they come to possess things in common. What they must have in common . . . are aims, beliefs, aspirations, knowledge—a common understanding—likemindedness as sociologists say. Such things cannot be passed physically from one to another like bricks; they cannot be shared as persons would share a pie by dividing it into physical pieces. . . . Consensus demands communication (Dewey, 1916: 5–6).
 
 <cite>James W. Carey, Communication as, Location 96819</cite>
+
+> [!Response]
+> 
 
 ---
 

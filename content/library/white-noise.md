@@ -25,6 +25,9 @@ last_note: "2026-06-26"
 
 <cite>Don DeLillo, White Noise, Location 35</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Ample women do not plan conspiracies of the body.
@@ -32,9 +35,15 @@ last_note: "2026-06-26"
 
 <cite>Don DeLillo, White Noise, Location 36</cite>
 
+> [!Response]
+> 
+
 ---
 
 > [!quote] Death is simply documents changing hands.
 > “Maybe there is no death as we know it. Just documents changing hands.”
 
 <cite>Don DeLillo, White Noise, Location 54</cite>
+
+> [!Response]
+> 
