@@ -3706,20 +3706,34 @@
 
 /* Zettel — connections + graph widget */
 /* ===== zettel page ===== */
-.zettel-page-head {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 2rem;
-  margin-bottom: 2rem;
+.zettel-page-wrap {
+  position: relative;
+  padding-top: 0;
+}
+
+/* graph floats in upper-right corner */
+.zettel-page-wrap #zettel-graph {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 260px;
+  height: 260px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--bg);
+  z-index: 1;
+}
+
+/* title sits to the left, leaving room for graph */
+.zettel-page-wrap .page-head {
+  padding-right: 280px;
+  margin-bottom: 1.5rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--border);
 }
-.zettel-page-head-text { flex: 1; min-width: 0; }
-.zettel-page-head .page-head { margin-bottom: 0; }
 
-/* graph canvas — upper-right corner of page head */
-.zettel-page-head #zettel-graph,
+/* detail page graph */
 .zettel-detail-head #zettel-graph {
   width: 240px;
   height: 240px;
@@ -3854,9 +3868,15 @@
 .zettel-detail-links { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 
 @media (max-width: 720px) {
-  .zettel-page-head, .zettel-detail-head { flex-direction: column-reverse; }
-  .zettel-page-head #zettel-graph,
-  .zettel-detail-head #zettel-graph { width: 100%; height: 200px; }
+  .zettel-page-wrap #zettel-graph {
+    position: static;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 1rem;
+  }
+  .zettel-page-wrap .page-head { padding-right: 0; }
+  .zettel-detail-head { flex-direction: column-reverse; }
+  .zettel-detail-head #zettel-graph { width: 100%; height: 180px; }
   .zettel-card {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto auto;

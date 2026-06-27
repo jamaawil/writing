@@ -824,14 +824,12 @@ function build() {
   }).join("\n");
 
   const zettelBody = `${graphDataScript}
-<div class="zettel-page-head">
-  <div class="zettel-page-head-text">
-    <div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked and interconnected.</p></div>
-  </div>
+<div class="zettel-page-wrap">
   <div id="zettel-graph"></div>
-</div>
-<div class="commentable" data-page="zettel">
-  <div class="zettel-index">${zettels.length ? zettelCards : '<p class="empty-note">No zettel notes yet.</p>'}</div>
+  <div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked and interconnected.</p></div>
+  <div class="commentable" data-page="zettel">
+    <div class="zettel-index">${zettels.length ? zettelCards : '<p class="empty-note">No zettel notes yet.</p>'}</div>
+  </div>
 </div>`;
   writePage("zettel", layout({ title: "Zettel", activeHref: "/zettel/", body: zettelBody }));
 
