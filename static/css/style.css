@@ -3707,30 +3707,32 @@
 /* Zettel — connections + graph widget */
 /* ===== zettel page ===== */
 .zettel-page-wrap {
-  position: relative;
-  padding-top: 0;
+  display: flex;
+  flex-direction: column;
 }
 
-/* graph floats in upper-right corner */
-.zettel-page-wrap #zettel-graph {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 260px;
-  height: 260px;
+/* header row: title left, graph top-right */
+.zettel-page-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  min-height: calc(220px + 1.5rem);
+}
+.zettel-page-head .page-head { flex: 1; margin-bottom: 0; }
+
+/* graph in upper-right of header */
+.zettel-page-head #zettel-graph {
+  width: 220px;
+  height: 220px;
+  flex-shrink: 0;
   border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
   background: var(--bg);
-  z-index: 1;
-}
-
-/* title sits to the left, leaving room for graph */
-.zettel-page-wrap .page-head {
-  padding-right: 280px;
-  margin-bottom: 1.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border);
 }
 
 /* detail page graph */
@@ -3753,7 +3755,7 @@
 }
 .zettel-card {
   display: grid;
-  grid-template-columns: 220px 1fr;
+  grid-template-columns: 200px minmax(0, 1fr);
   grid-template-rows: auto auto;
   column-gap: 1.75rem;
   border: 1px solid var(--border);
@@ -3785,6 +3787,9 @@
   font-size: calc(0.9rem * var(--prose-scale));
   line-height: 1.65;
   color: var(--fg);
+  min-width: 0;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 .zettel-card-body p { margin: 0 0 0.6em; }
 .zettel-card-body p:last-child { margin-bottom: 0; }
@@ -3848,6 +3853,7 @@
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
   border-bottom: 1px solid var(--border);
+  min-height: calc(240px + 1.25rem);
 }
 .zettel-detail-meta { flex: 1; min-width: 0; }
 .zettel-detail-title {
@@ -3868,13 +3874,8 @@
 .zettel-detail-links { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 
 @media (max-width: 720px) {
-  .zettel-page-wrap #zettel-graph {
-    position: static;
-    width: 100%;
-    height: 200px;
-    margin-bottom: 1rem;
-  }
-  .zettel-page-wrap .page-head { padding-right: 0; }
+  .zettel-page-head { flex-direction: column-reverse; }
+  .zettel-page-head #zettel-graph { width: 100%; height: 180px; }
   .zettel-detail-head { flex-direction: column-reverse; }
   .zettel-detail-head #zettel-graph { width: 100%; height: 180px; }
   .zettel-card {
