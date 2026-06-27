@@ -3718,41 +3718,44 @@
 .zettel-page-head-text { flex: 1; min-width: 0; }
 .zettel-page-head .page-head { margin-bottom: 0; }
 
-/* graph canvas container — index page */
+/* graph canvas — upper-right corner of page head */
 .zettel-page-head #zettel-graph,
 .zettel-detail-head #zettel-graph {
-  width: 200px;
-  height: 200px;
+  width: 240px;
+  height: 240px;
   flex-shrink: 0;
   border: 1px solid var(--border);
-  border-radius: 10px;
+  border-radius: 12px;
   overflow: hidden;
   background: var(--bg);
 }
 #zettel-graph canvas { display: block; width: 100% !important; height: 100% !important; }
 
-/* zettel index: 2-column card grid */
+/* zettel index: vertical stack of horizontal cards */
 .zettel-index {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  align-items: start;
-}
-.zettel-card {
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  gap: 0.75rem;
+}
+.zettel-card {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  grid-template-rows: auto auto;
+  column-gap: 2rem;
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 1.1rem 1.35rem;
+  padding: 1.1rem 1.5rem;
   overflow: hidden;
   transition: border-color 0.18s, box-shadow 0.18s;
+  align-items: start;
 }
 .zettel-card:hover {
   border-color: var(--contrib-3);
   box-shadow: 0 3px 16px rgba(0,0,0,0.07);
 }
 .zettel-card-title {
+  grid-column: 1;
+  grid-row: 1;
   font-family: var(--font-display);
   font-size: 1rem;
   font-weight: 700;
@@ -3762,11 +3765,12 @@
 .zettel-card-title a { text-decoration: none; color: var(--fg); }
 .zettel-card-title a:hover { text-decoration: underline; color: var(--contrib-3); }
 .zettel-card-body {
+  grid-column: 2;
+  grid-row: 1 / 3;
   font-family: var(--font-serif);
-  font-size: calc(0.88rem * var(--prose-scale));
+  font-size: calc(0.9rem * var(--prose-scale));
   line-height: 1.65;
   color: var(--fg);
-  flex: 1;
 }
 .zettel-card-body p { margin: 0 0 0.6em; }
 .zettel-card-body p:last-child { margin-bottom: 0; }
@@ -3784,13 +3788,15 @@
 
 /* linked-notes pills (index + detail) */
 .zettel-card-links {
+  grid-column: 1;
+  grid-row: 2;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.35rem;
   padding-top: 0.65rem;
+  margin-top: 0.5rem;
   border-top: 1px solid var(--border);
-  margin-top: auto;
 }
 .zettel-links-label {
   font-family: var(--font-sans);
@@ -3850,8 +3856,14 @@
 @media (max-width: 720px) {
   .zettel-page-head, .zettel-detail-head { flex-direction: column-reverse; }
   .zettel-page-head #zettel-graph,
-  .zettel-detail-head #zettel-graph { width: 100%; height: 180px; }
-  .zettel-index { grid-template-columns: 1fr; }
+  .zettel-detail-head #zettel-graph { width: 100%; height: 200px; }
+  .zettel-card {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+  }
+  .zettel-card-title { grid-column: 1; grid-row: 1; }
+  .zettel-card-body { grid-column: 1; grid-row: 2; margin-top: 0.5rem; }
+  .zettel-card-links { grid-column: 1; grid-row: 3; }
 }
 
 /* ---- comment composer (created by comments.js): marks, add button,
