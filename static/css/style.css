@@ -3736,12 +3736,13 @@
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  max-width: 720px;
 }
 .zettel-card {
   display: grid;
-  grid-template-columns: 260px 1fr;
+  grid-template-columns: 220px 1fr;
   grid-template-rows: auto auto;
-  column-gap: 2rem;
+  column-gap: 1.75rem;
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 1.1rem 1.5rem;
