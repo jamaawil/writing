@@ -233,14 +233,15 @@ async function sync() {
       const savedResponses = {};
       for (const eh of existingHighlights) {
         if (eh.response) {
-          const key = eh.rwId ? `rw:${eh.rwId}` : eh.quote.slice(0, 120);
-          savedResponses[key] = eh.response;
+          // Content files have no rw:ID markers, so always key by quote text
+          savedResponses[eh.quote.slice(0, 120)] = eh.response;
         }
       }
       for (const h of highlights) {
         if (!h.response) {
-          const key = h.rwId ? `rw:${h.rwId}` : h.quote.slice(0, 120);
-          if (savedResponses[key]) h.response = savedResponses[key];
+          if (savedResponses[h.quote.slice(0, 120)]) {
+            h.response = savedResponses[h.quote.slice(0, 120)];
+          }
         }
       }
     }

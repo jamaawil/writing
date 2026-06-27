@@ -3,7 +3,7 @@ title: "Communication as Culture: Essays on Media and Society"
 slug: communication-as-culture-essays-on-media-and-society
 author: "James W. Carey"
 highlights: 26
-responses: 1
+responses: 2
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547466/JW8EqwYjVirviozxVClwRXvmfsdKKxImfs0OF-GEe34-cove_PZU6iSP.jpg"
 first_highlight: "2026-06-25"
 last_highlight: "2026-06-26"
@@ -16,7 +16,7 @@ last_note: "2026-06-26"
 <cite>James W. Carey, Communication as, Location 56860</cite>
 
 > [!Response]
-> 
+> The communication revolution has wrought a cosmological-scale symmetry-breaking event.  It mirrors the electroweak phase transition in the early Universe, which makes pre-mass media world highly symmetrical state of perception, locally embedded experience is geographically bounded, social relations formed through physical proximity, and every community is roughly equivalent in its informational isolation. When modern communication emerged with mass print, broadcast radio, TV, the Internet, and now real-time global social networks, it drove the systems through the critical point: the temperature. Analog is the density and speed of information flow. As the information flow spikes past a threshold, the old symmetric ground state becomes unstable,  Irreversibly broken, a unified field into distinct, irrecoverable force that saturates  human consciousness and broke permanently the symmetry between inner and outer experiences, local and global perceptions. This broken symmetry of the ground state reorganizes around globally networked, algorithmically curated realities. Individual experience is no longer equivalent across communities. It becomes symmetric, structured, and ordered, a new vacuum state that modern communication creates. What Raymond Williams identified as "the ordinary sense of being alive" Was there high symmetry around state. We now live in the broken vacuum, the [[**Kibble-Zurek** ]]defects that predicts the density of defects scales with a quench rate as a power law, in terms of social terms, the faster communication technology spreads, the more fragmented the new epistemic landscape becomes and this makes our realities fractured realities, creates echo chambers, and the irreversible rewiring of social experience define modern life.
 
 ---
 
