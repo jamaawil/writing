@@ -3,7 +3,7 @@ title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
 highlights: 19
-responses: 9
+responses: 10
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
 last_highlight: "2026-07-01"
@@ -197,4 +197,5 @@ last_highlight: "2026-07-01"
 <cite>Brian Christian, The Alignment Problem, loc. 90498</cite>
 
 > [!Response]
+> Our work shows how the artifacts of machine learning (word embeddings here) can themselves be interesting objects of sociological analysis. We believe this paradigm shift can lead to many fruitful studies.” Our work shows how the artifacts of machine learning (word embeddings here) can themselves be interesting objects of sociological analysis. We believe this paradigm shift can lead to many fruitful studies.”
 >
