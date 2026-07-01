@@ -2,8 +2,8 @@
 title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
-highlights: 7
-responses: 7
+highlights: 8
+responses: 8
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
 last_highlight: "2026-07-01"
@@ -78,3 +78,14 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > Here, It would then be possible to produce machines to do jobs which have not been fully analysed because of their complexity. It seems likely that learning machines will play a part in such projects as the mechanical translation of languages and the automatic recognition of speech and of visual patterns.”  It would then be possible to produce machines to do jobs which have not been fully analysed because of their complexity. It seems likely that learning machines will play a part in such projects as the mechanical translation of languages and the automatic recognition of speech and of visual patterns.”
+
+---
+
+> [!quote] It is 2012 in Toronto, and Alex…
+> It is 2012 in Toronto, and Alex Krizhevsky’s bedroom is too hot to sleep. His computer, attached to twin Nvidia GTX 580 GPUs, has been running day and night at its maximum thermal load, its fans pushing out hot exhaust, for two weeks.
+
+<cite>Brian Christian, The Alignment Problem, loc. 35002</cite>
+
+> [!Response]
+> “It was very hot,” he says. “And it was loud.”11 He is teaching the machine how to see. Geoffrey Hinton, Krizhevsky’s mentor, is now 64 years old and has not given up. There is reason for hope.
+>
