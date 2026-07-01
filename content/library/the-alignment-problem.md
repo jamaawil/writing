@@ -3,30 +3,30 @@ title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
 highlights: 3
-responses: 1
+responses: 3
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
 last_highlight: "2026-07-01"
 ---
 
 > [!quote] The results were remarkable.
-> The results were remarkable. The word2vec system began humming under the hood of Google’s translation service and its search results, inspiring others like it across a wide range of applications including recruiting and hiring, and it became one of the major tools for a new generation of data-driven linguists working in universities around the world.
-> 
-> No one realized what the problem was for two years.
+> The results were remarkable. The word2vec system began humming under the hood of Google’s translation service and its search results, inspiring others like it across a wide range of applications including recruiting and hiring, and it became one of the major tools for a new generation of data-driven linguists working in universities around the world. No one realized what the problem was for two years.
 
 <cite>Brian Christian, The Alignment Problem, loc. 8492</cite>
 
 > [!Response]
+> One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular? One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
 > 
 
 ---
 
-> [!quote] ecause they were doing their research in…
-> ecause they were doing their research in 2016, the ProPublica team had the equivalent of a crystal ball. Looking at data from two years prior, they actually *knew* whether these defendants, predicted either to reoffend or not, actually did. And so they asked two simple questions. One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
+> [!quote] Because they were doing their research in…
+> Because they were doing their research in 2016, the ProPublica team had the equivalent of a crystal ball. Looking at data from two years prior, they actually *knew* whether these defendants, predicted either to reoffend or not, actually did. And so they asked two simple questions. One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
 
 <cite>Brian Christian, The Alignment Problem, loc. 11160</cite>
 
 > [!Response]
+> One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular? One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
 > 
 
 ---
