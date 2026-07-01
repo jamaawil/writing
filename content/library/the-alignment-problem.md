@@ -2,20 +2,22 @@
 title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
-highlights: 5
-responses: 4
+highlights: 7
+responses: 7
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
 last_highlight: "2026-07-01"
 ---
 
 > [!quote] The results were remarkable.
-> The results were remarkable. The word2vec system began humming under the hood of Google’s translation service and its search results, inspiring others like it across a wide range of applications including recruiting and hiring, and it became one of the major tools for a new generation of data-driven linguists working in universities around the world. No one realized what the problem was for two years.
+> The results were remarkable. The word2vec system began humming under the hood of Google’s translation service and its search results, inspiring others like it across a wide range of applications including recruiting and hiring, and it became one of the major tools for a new generation of data-driven linguists working in universities around the world.
+> 
+> No one realized what the problem was for two years.
 
 <cite>Brian Christian, The Alignment Problem, loc. 8492</cite>
 
 > [!Response]
-> 
+> Each of these binary pixel values is multiplied by an individual negative or positive “weight,” and then they are all added together. If the total is negative, it will output a −1 (meaning the square is on the left), and if it’s positive, it will output a 1 (meaning the square is on the right). Each of these binary pixel values is multiplied by an individual negative or positive “weight,” and then they are all added together. If the total is negative, it will output a −1 (meaning the square is on the left), and if it’s positive, it will output a 1 (meaning the square is on the right).
 
 ---
 
@@ -26,7 +28,6 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular? One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
-> 
 
 ---
 
@@ -37,7 +38,6 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular? One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
-> 
 
 ---
 
@@ -48,7 +48,6 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular? One: Did the model actually correctly predict which defendants were indeed the “riskiest”? And two: Were the model’s predictions biased in favor of or against any group in particular?
-> 
 
 ---
 
@@ -59,4 +58,23 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > Our human, social, and civic dilemmas are becoming technical. And our technical dilemmas are becoming human, social, and civic. Our successes and failures alike in getting these systems to do “what we want,” it turns out, offer us an unflinching, revelatory mirror. Our human, social, and civic dilemmas are becoming technical. And our technical dilemmas are becoming human, social, and civic. Our successes and failures alike in getting these systems to do “what we want,” it turns out, offer us an unflinching, revelatory mirror.
->
+
+---
+
+> [!quote] Rosenblatt has a deck of flash cards,…
+> Rosenblatt has a deck of flash cards, each of which has a colored square on it, either on the left side of the card or on the right. He pulls one card out of the deck and places it in front of the perceptron’s camera. The perceptron takes it in as a black-and-white, 20-by-20-pixel image, and each of those four hundred pixels is turned into a binary number: 0 or 1, dark or light. The four hundred numbers, in turn, are fed into a rudimentary neural network, the kind that McCulloch and Pitts had imagined in the early 1940s. Each of these binary pixel values is multiplied by an individual negative or positive “weight,” and then they are all added together. If the total is negative, it will output a −1 (meaning the square is on the left), and if it’s positive, it will output a 1 (meaning the square is on the right).
+
+<cite>Brian Christian, The Alignment Problem, loc. 26124</cite>
+
+> [!Response]
+> Here Each of these binary pixel values is multiplied by an individual negative or positive “weight,” and then they are all added together. If the total is negative, it will output a −1 (meaning the square is on the left), and if it’s positive, it will output a 1 (meaning the square is on the right). Each of these binary pixel values is multiplied by an individual negative or positive “weight,” and then they are all added together. If the total is negative, it will output a −1 (meaning the square is on the left), and if it’s positive, it will output a 1 (meaning the square is on the right).
+
+---
+
+> [!quote] That same year, *New Scientist* publishes an…
+> That same year, *New Scientist* publishes an equally hopeful, and slightly more sober, article called “Machines Which Learn.”[6](Notes.xhtml#ch1fn6) “When machines are required to perform complicated tasks it would often be useful to incorporate devices whose precise mode of operation is not specified initially,” they write, “but which learn from experience how to do what is required. It would then be possible to produce machines to do jobs which have not been fully analysed because of their complexity. It seems likely that learning machines will play a part in such projects as the mechanical translation of languages and the automatic recognition of speech and of visual patterns.”
+
+<cite>Brian Christian, The Alignment Problem, loc. 30977</cite>
+
+> [!Response]
+> Here, It would then be possible to produce machines to do jobs which have not been fully analysed because of their complexity. It seems likely that learning machines will play a part in such projects as the mechanical translation of languages and the automatic recognition of speech and of visual patterns.”  It would then be possible to produce machines to do jobs which have not been fully analysed because of their complexity. It seems likely that learning machines will play a part in such projects as the mechanical translation of languages and the automatic recognition of speech and of visual patterns.”
