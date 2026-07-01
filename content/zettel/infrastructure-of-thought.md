@@ -1,7 +1,7 @@
 ---
 title: "Mental models are infrastructure, not conclusions."
 slug: "infrastructure-of-thought"
-links: ["knowledge-as-network", "slow-reading"]
+links: []
 ---
 
 A mental model is a simplified representation of how something works. The danger is treating mental models as conclusions — as final answers about how the world is — rather than as tools for navigating it. Tools can be picked up, put down, evaluated, replaced. Conclusions calcify.

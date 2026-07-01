@@ -1,6 +1,6 @@
 ---
 title: "Funnelithic-Twin-Cities"
-slug: funnelithic-twin-cities
+slug: "funnelithic-twin-cities"
 author: "Funnelithic"
 highlights: 1
 responses: 0
@@ -16,4 +16,4 @@ last_note: "2026-06-25"
 <cite>Funnelithic, Funnelithic-Twin-Cities, Location 496</cite>
 
 > [!Response]
-> 
+>

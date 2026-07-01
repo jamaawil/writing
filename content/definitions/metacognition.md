@@ -1,7 +1,7 @@
 ---
-title: Metacognition
-slug: metacognition
-tagline: (n.) thinking about one's own thinking
+title: "Metacognition"
+slug: "metacognition"
+tagline: "(n.) thinking about one's own thinking"
 ---
 
 Metacognition is the capacity to monitor, evaluate, and regulate your own cognitive processes. It includes knowing what you know and don't know (metacognitive knowledge), tracking your comprehension in real time (metacognitive monitoring), and adjusting your strategies when they aren't working (metacognitive control).

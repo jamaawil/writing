@@ -1,8 +1,9 @@
 ---
 title: "Notes on Habit and Consistency"
+slug: "notes-on-habit-and-consistency"
 subtitle: "The unglamorous infrastructure of everything you want to accomplish"
-date: 2025-05-14
-topics: [education, learning]
+date: "2025-05-14"
+topics: ["education","learning"]
 favorite: false
 words: 460
 ---

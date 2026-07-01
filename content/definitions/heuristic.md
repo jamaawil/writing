@@ -1,7 +1,7 @@
 ---
-title: Heuristic
-slug: heuristic
-tagline: (n.) a practical rule of thumb for decision-making under uncertainty
+title: "Heuristic"
+slug: "heuristic"
+tagline: "(n.) a practical rule of thumb for decision-making under uncertainty"
 ---
 
 A heuristic is a mental shortcut that produces good-enough decisions without requiring exhaustive analysis. Unlike algorithms, heuristics do not guarantee an optimal result — they trade accuracy for speed. The tradeoff is often worth it: in most real decisions, gathering all the information needed for an optimal choice is prohibitively expensive, and a reasonable heuristic applied quickly outperforms a perfect answer arrived at too late.

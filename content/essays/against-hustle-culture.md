@@ -1,8 +1,9 @@
 ---
 title: "Against Hustle Culture"
+slug: "against-hustle-culture"
 subtitle: "Working more is not the same as building something worth having"
-date: 2025-03-01
-topics: [business, philosophy]
+date: "2025-03-01"
+topics: ["business","philosophy"]
 favorite: false
 words: 540
 ---

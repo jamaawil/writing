@@ -1,6 +1,6 @@
 ---
 title: "Essential Essays, Volume 1"
-slug: essential-essays-volume-1
+slug: "essential-essays-volume-1"
 author: "Hall, Stuart"
 highlights: 3
 responses: 0
@@ -36,4 +36,4 @@ last_note: "2026-06-25"
 <cite>Hall, Stuart, Essential Essays,, Location 86332</cite>
 
 > [!Response]
-> 
+>

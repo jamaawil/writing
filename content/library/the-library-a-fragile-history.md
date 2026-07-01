@@ -1,6 +1,6 @@
 ---
 title: "The Library a Fragile History"
-slug: the-library-a-fragile-history
+slug: "the-library-a-fragile-history"
 author: "Andrew Pettegree"
 highlights: 33
 responses: 0
@@ -336,4 +336,4 @@ last_note: "2026-06-25"
 <cite>Andrew Pettegree, The Library, Location 305</cite>
 
 > [!Response]
-> 
+>

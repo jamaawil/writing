@@ -69,6 +69,15 @@ const COLLECTIONS = [
     url: (s) => `/zettel/${s}/`,
     fields: (fm, slug, body) => ({ title: fm.title, slug, links: extractWikilinks(body) }),
   },
+  {
+    label: "Library", vaultFolder: "Library", destFolder: "library", requiredTitle: true,
+    url: (s) => `/library/${s}/`,
+    fields: (fm, slug) => ({
+      title: fm.title, slug: fm.slug || slug, author: fm.author,
+      highlights: fm.highlights, responses: fm.responses, cover: fm.cover,
+      first_highlight: fm.first_highlight, last_highlight: fm.last_highlight, last_note: fm.last_note,
+    }),
+  },
 ];
 
 function noteSlug(fm, file) {

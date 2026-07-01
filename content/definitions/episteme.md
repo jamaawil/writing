@@ -1,7 +1,7 @@
 ---
-title: Episteme
-slug: episteme
-tagline: (n.) the foundational knowledge structure of a historical era
+title: "Episteme"
+slug: "episteme"
+tagline: "(n.) the foundational knowledge structure of a historical era"
 ---
 
 A term associated with Michel Foucault, who used it to describe the implicit structure of knowledge that makes certain ideas thinkable in a given historical period. The *episteme* is not a set of beliefs but the conditions under which beliefs can be formed, evaluated, and contested. Change the episteme and you change what counts as knowledge at all.

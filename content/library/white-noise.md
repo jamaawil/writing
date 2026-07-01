@@ -1,6 +1,6 @@
 ---
 title: "White Noise"
-slug: white-noise
+slug: "white-noise"
 author: "Don DeLillo"
 highlights: 4
 responses: 1
@@ -46,4 +46,4 @@ last_note: "2026-06-26"
 <cite>Don DeLillo, White Noise, Location 54</cite>
 
 > [!Response]
-> 
+>

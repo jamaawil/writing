@@ -1,7 +1,7 @@
 ---
-title: Affordance
-slug: affordance
-tagline: (n.) what an object or environment invites or permits
+title: "Affordance"
+slug: "affordance"
+tagline: "(n.) what an object or environment invites or permits"
 ---
 
 Originally coined by psychologist James Gibson to describe the action possibilities latent in an environment — a chair *affords* sitting, a knob *affords* turning, a ledge *affords* stepping on. Don Norman extended the concept to design: a well-designed object communicates its affordances clearly; a poorly designed one obscures them.

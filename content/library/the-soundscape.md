@@ -1,6 +1,6 @@
 ---
 title: "The Soundscape"
-slug: the-soundscape
+slug: "the-soundscape"
 author: "R. Murray Schafer"
 highlights: 49
 responses: 0
@@ -496,4 +496,4 @@ last_note: "2026-06-25"
 <cite>R. Murray Schafer, The Soundscape</cite>
 
 > [!Response]
-> 
+>

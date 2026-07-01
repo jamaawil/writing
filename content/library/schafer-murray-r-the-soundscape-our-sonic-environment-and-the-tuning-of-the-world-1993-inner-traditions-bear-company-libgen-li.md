@@ -1,6 +1,6 @@
 ---
 title: "Schafer, Murray R - The Soundscape_ Our Sonic Environment and the Tuning of the World (1993, Inner Traditions Bear & Company) - libgen.li"
-slug: schafer-murray-r-the-soundscape-our-sonic-environment-and-the-tuning-of-the-world-1993-inner-traditions-bear-company-libgen-li
+slug: "schafer-murray-r-the-soundscape-our-sonic-environment-and-the-tuning-of-the-world-1993-inner-traditions-bear-company-libgen-li"
 author: "R. Murray Schafer"
 highlights: 2
 responses: 0
@@ -26,4 +26,4 @@ last_note: "2026-06-25"
 <cite>R. Murray Schafer, Schafer, Murray, Location 149</cite>
 
 > [!Response]
-> 
+>

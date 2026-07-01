@@ -1,7 +1,7 @@
 ---
-title: Threshold Concept
-slug: threshold-concept
-tagline: (n.) a concept that transforms your understanding once you grasp it
+title: "Threshold Concept"
+slug: "threshold-concept"
+tagline: "(n.) a concept that transforms your understanding once you grasp it"
 ---
 
 Introduced by Meyer and Land in 2003, a threshold concept is a concept within a discipline that, once understood, opens up a new way of thinking. It is "troublesome" (counterintuitive or initially uncomfortable), "transformative" (it changes how you see everything connected to it), and "irreversible" (once you get it, you can't un-get it).

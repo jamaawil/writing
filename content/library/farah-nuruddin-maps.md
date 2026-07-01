@@ -1,6 +1,6 @@
 ---
 title: "Farah, Nuruddin - Maps"
-slug: farah-nuruddin-maps
+slug: "farah-nuruddin-maps"
 author: "Nuruddin Farah"
 highlights: 20
 responses: 0
@@ -206,4 +206,4 @@ last_note: "2026-06-25"
 <cite>Nuruddin Farah, Farah, Nuruddin, Location 246</cite>
 
 > [!Response]
-> 
+>

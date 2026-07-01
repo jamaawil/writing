@@ -1,8 +1,9 @@
 ---
 title: "The Library as a Model for the Mind"
+slug: "the-library-as-a-model-for-the-mind"
 subtitle: "Organization is not storage — it is retrieval"
-date: 2025-07-03
-topics: [learning, philosophy]
+date: "2025-07-03"
+topics: ["learning","philosophy"]
 favorite: false
 words: 590
 ---

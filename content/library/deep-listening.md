@@ -1,6 +1,6 @@
 ---
 title: "Deep Listening"
-slug: deep-listening
+slug: "deep-listening"
 author: "Pauline Oliveros"
 highlights: 23
 responses: 0
@@ -236,4 +236,4 @@ last_note: "2026-06-25"
 <cite>Pauline Oliveros, Deep Listening, Location 393</cite>
 
 > [!Response]
-> 
+>

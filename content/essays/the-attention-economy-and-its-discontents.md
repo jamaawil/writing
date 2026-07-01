@@ -1,8 +1,9 @@
 ---
 title: "The Attention Economy and Its Discontents"
+slug: "the-attention-economy-and-its-discontents"
 subtitle: "We gave our time freely. We are only now reading the invoice."
-date: 2026-03-22
-topics: [technology, culture]
+date: "2026-03-22"
+topics: ["technology","culture"]
 favorite: false
 words: 650
 ---

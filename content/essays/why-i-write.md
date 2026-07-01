@@ -1,8 +1,9 @@
 ---
 title: "Why I Write"
+slug: "why-i-write"
 subtitle: "Writing is the technology I use to think"
-date: 2025-11-08
-topics: [writing]
+date: "2025-11-08"
+topics: ["writing"]
 favorite: true
 words: 430
 ---

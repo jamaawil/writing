@@ -1,7 +1,7 @@
 ---
-title: Praxis
-slug: praxis
-tagline: (n.) knowledge made actionable through embodied practice
+title: "Praxis"
+slug: "praxis"
+tagline: "(n.) knowledge made actionable through embodied practice"
 ---
 
 Drawn from Aristotle and later developed by Marxist and critical theory traditions, *praxis* names the integration of theory and practice — not theory applied to practice, but theory and practice fused in action. Praxis is distinguished from both *theoria* (pure contemplation) and *poiesis* (making things according to a plan). It describes action that is itself the site of understanding.

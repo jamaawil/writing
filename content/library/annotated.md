@@ -1,6 +1,6 @@
 ---
 title: "Annotated"
-slug: annotated
+slug: "annotated"
 author: "Bibliography"
 highlights: 2
 responses: 0
@@ -26,4 +26,4 @@ last_note: "2026-06-25"
 <cite>Bibliography, Annotated, Location 60</cite>
 
 > [!Response]
-> 
+>

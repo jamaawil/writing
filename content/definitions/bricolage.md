@@ -1,7 +1,7 @@
 ---
-title: Bricolage
-slug: bricolage
-tagline: (n.) creative construction from whatever materials happen to be available
+title: "Bricolage"
+slug: "bricolage"
+tagline: "(n.) creative construction from whatever materials happen to be available"
 ---
 
 From the French *bricoler* (to tinker). Claude Lévi-Strauss used the term in *The Savage Mind* to describe a mode of thought that works with the materials at hand rather than requiring purpose-built tools. The *bricoleur* solves problems by rearranging and repurposing what exists; the engineer solves problems by designing precisely the right tool for the task.

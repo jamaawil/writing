@@ -1,8 +1,9 @@
 ---
 title: "What Makes a Business Worth Building"
+slug: "what-makes-a-business-worth-building"
 subtitle: "Value creation is the only honest foundation"
-date: 2026-01-15
-topics: [business]
+date: "2026-01-15"
+topics: ["business"]
 favorite: false
 words: 510
 ---

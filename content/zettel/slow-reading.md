@@ -1,7 +1,7 @@
 ---
 title: "Reading slowly is not a failure of speed — it is a method."
 slug: "slow-reading"
-links: ["knowledge-as-network", "infrastructure-of-thought"]
+links: []
 ---
 
 Speed-reading treats comprehension as a rate problem: words per minute, books per year. But comprehension is not a rate — it is a depth. A book read in two hours and forgotten in two weeks contributed nothing. A book read in two weeks and integrated into how you think contributed everything.

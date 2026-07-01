@@ -1,7 +1,7 @@
 ---
 title: "Knowledge is a network, not a hierarchy."
 slug: "knowledge-as-network"
-links: ["the-communication-has-wrought-a-cosmological-scale-symmetry-breaking-event", "emergence", "infrastructure-of-thought", "slow-reading"]
+links: []
 ---
 
 The traditional model of knowledge is hierarchical: facts nest inside concepts, concepts inside disciplines, disciplines inside some master taxonomy. This model fails in practice. Real understanding doesn't live in trees — it lives in graphs. An idea becomes powerful not from its position in a hierarchy but from the number and quality of its connections to other ideas.

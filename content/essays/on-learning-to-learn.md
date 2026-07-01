@@ -1,8 +1,9 @@
 ---
 title: "On Learning to Learn"
+slug: "on-learning-to-learn"
 subtitle: "Metalearning is the skill that compounds all other skills"
-date: 2026-05-10
-topics: [learning, education]
+date: "2026-05-10"
+topics: ["learning","education"]
 favorite: true
 words: 820
 ---

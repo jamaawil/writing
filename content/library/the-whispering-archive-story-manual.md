@@ -1,6 +1,6 @@
 ---
 title: "The-Whispering-Archive-Story-Manual"
-slug: the-whispering-archive-story-manual
+slug: "the-whispering-archive-story-manual"
 author: "Jamal Awil"
 highlights: 38
 responses: 0
@@ -386,4 +386,4 @@ last_note: "2026-06-25"
 <cite>Jamal Awil, The-Whispering-Archive-Story-Manual, Location 132</cite>
 
 > [!Response]
-> 
+>

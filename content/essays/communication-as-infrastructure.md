@@ -1,8 +1,9 @@
 ---
 title: "Communication as Infrastructure"
+slug: "communication-as-infrastructure"
 subtitle: "How we speak together determines what we can build together"
-date: 2025-09-20
-topics: [communication, culture]
+date: "2025-09-20"
+topics: ["communication","culture"]
 favorite: false
 words: 680
 ---
