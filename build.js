@@ -59,7 +59,7 @@ const FONT_LINK =
 // No-FOUC boot: apply stored theme / font-pair / prose-size before first paint.
 const BOOT = `<script>(function(){try{var d=document.documentElement;
 var t=parseInt(localStorage.getItem('theme-idx'),10);var T=[['light','#fafaf8'],['dark',null],['light','#f5f2e9'],['light','#eef5f1']];if(!(t>=0&&t<4))t=0;d.setAttribute('data-theme',T[t][0]);if(T[t][1])d.style.setProperty('--paper-bg',T[t][1]);
-var f=parseInt(localStorage.getItem('font-pair-idx'),10);var F=[['"Cormorant Garamond", Georgia, serif','"EB Garamond", Georgia, serif','font-pair-cormorant'],['"Khmer MN","Khmer Sangam MN","Baskerville",serif','"Crimson Pro", Georgia, serif','font-pair-khmer'],['"Playfair Display", Georgia, serif','"Merriweather", Georgia, serif','font-pair-playfair']];if(!(f>=0&&f<3))f=0;d.style.setProperty('--font-display',F[f][0]);d.style.setProperty('--font-serif',F[f][1]);d.classList.add(F[f][2]);
+var f=parseInt(localStorage.getItem('font-pair-idx'),10);var F=[['"Cormorant Garamond", Georgia, serif','"EB Garamond", Georgia, serif','font-pair-cormorant'],['"Khmer MN","Khmer Sangam MN","Baskerville",serif','"Crimson Pro", Georgia, serif','font-pair-khmer'],['"Playfair Display", Georgia, serif','"Merriweather", Georgia, serif','font-pair-playfair']];if(!(f>=0&&f<3))f=1;d.style.setProperty('--font-display',F[f][0]);d.style.setProperty('--font-serif',F[f][1]);d.classList.add(F[f][2]);
 var s=parseInt(localStorage.getItem('prose-size-idx'),10);var S=[1,0.875,1.125];if(!(s>=0&&s<3))s=0;d.style.setProperty('--prose-scale',String(S[s]));}catch(e){}})();</script>`;
 
 const markdownPipeline = unified()
@@ -825,8 +825,10 @@ function build() {
 
   const zettelBody = `${graphDataScript}
 <div class="zettel-page-wrap">
-  <div id="zettel-graph"></div>
-  <div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked and interconnected.</p></div>
+  <div class="zettel-page-head">
+    <div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked and interconnected.</p></div>
+    <div id="zettel-graph"></div>
+  </div>
   <div class="commentable" data-page="zettel">
     <div class="zettel-index">${zettels.length ? zettelCards : '<p class="empty-note">No zettel notes yet.</p>'}</div>
   </div>

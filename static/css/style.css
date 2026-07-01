@@ -3747,47 +3747,44 @@
 }
 #zettel-graph canvas { display: block; width: 100% !important; height: 100% !important; }
 
-/* zettel index: vertical stack of horizontal cards */
+/* zettel index: masonry grid matching bits-grid */
 .zettel-index {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
 }
 .zettel-card {
-  display: grid;
-  grid-template-columns: 200px minmax(0, 1fr);
-  grid-template-rows: auto auto;
-  column-gap: 1.75rem;
+  display: flex;
+  flex-direction: column;
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 1.1rem 1.5rem;
   overflow: hidden;
   transition: border-color 0.18s, box-shadow 0.18s;
-  align-items: start;
 }
 .zettel-card:hover {
   border-color: var(--contrib-3);
   box-shadow: 0 3px 16px rgba(0,0,0,0.07);
 }
 .zettel-card-title {
-  grid-column: 1;
-  grid-row: 1;
+  padding: 1.1rem 1.35rem 0.8rem;
+  border-bottom: 1px solid var(--border);
   font-family: var(--font-display);
   font-size: 1rem;
   font-weight: 700;
   margin: 0;
   letter-spacing: -0.005em;
+  line-height: 1.3;
 }
 .zettel-card-title a { text-decoration: none; color: var(--fg); }
 .zettel-card-title a:hover { text-decoration: underline; color: var(--contrib-3); }
 .zettel-card-body {
-  grid-column: 2;
-  grid-row: 1 / 3;
+  padding: 1rem 1.35rem 1.1rem;
   font-family: var(--font-serif);
   font-size: calc(0.9rem * var(--prose-scale));
   line-height: 1.65;
   color: var(--fg);
-  min-width: 0;
+  flex: 1;
   overflow-wrap: break-word;
   word-break: break-word;
 }
@@ -3805,18 +3802,17 @@
 .zettel-wikilink:hover { text-decoration-color: var(--contrib-3); }
 .zettel-wikilink-missing { color: var(--muted); font-style: italic; }
 
-/* linked-notes pills (index + detail) */
+/* linked-notes pills — footer of each card */
 .zettel-card-links {
-  grid-column: 1;
-  grid-row: 2;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.35rem;
-  padding-top: 0.65rem;
-  margin-top: 0.5rem;
+  padding: 0.6rem 1.35rem;
   border-top: 1px solid var(--border);
+  background: rgba(0,0,0,0.025);
 }
+[data-theme="dark"] .zettel-card-links { background: rgba(255,255,255,0.04); }
 .zettel-links-label {
   font-family: var(--font-sans);
   font-size: 0.6rem;
@@ -3878,13 +3874,7 @@
   .zettel-page-head #zettel-graph { width: 100%; height: 180px; }
   .zettel-detail-head { flex-direction: column-reverse; }
   .zettel-detail-head #zettel-graph { width: 100%; height: 180px; }
-  .zettel-card {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto auto auto;
-  }
-  .zettel-card-title { grid-column: 1; grid-row: 1; }
-  .zettel-card-body { grid-column: 1; grid-row: 2; margin-top: 0.5rem; }
-  .zettel-card-links { grid-column: 1; grid-row: 3; }
+  .zettel-index { grid-template-columns: 1fr; }
 }
 
 /* ---- comment composer (created by comments.js): marks, add button,
