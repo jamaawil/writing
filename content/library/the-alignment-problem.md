@@ -2,7 +2,7 @@
 title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
-highlights: 8
+highlights: 9
 responses: 8
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
@@ -88,4 +88,13 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > “It was very hot,” he says. “And it was loud.”11 He is teaching the machine how to see. Geoffrey Hinton, Krizhevsky’s mentor, is now 64 years old and has not given up. There is reason for hope.
+
+---
+
+> [!quote] In 2005, Amazon launched its “Mechanical Turk”…
+> In 2005, Amazon launched its “Mechanical Turk” service, allowing for the recruiting of human labor on a large scale, making it possible to hire thousands of people to perform simple actions for pennies a click. (The service was particularly well suited to the kinds of things that future AI is thought to be able to do—hence its tagline: *artificial* artificial intelligence.) In 2007, Princeton professor Fei-Fei Li used Amazon Mechanical Turk to recruit human labor, at a scale previously unimaginable, to build a dataset that was previously impossible. It took more than two years to build, and had three *million* images, each labeled, by human hands, into more than five thousand categories. Li called it ImageNet, and released it in 2009. The field of computer vision suddenly had a mountain of new data to learn from, and a new grand challenge.
+
+<cite>Brian Christian, The Alignment Problem, loc. 37161</cite>
+
+> [!Response]
 >
