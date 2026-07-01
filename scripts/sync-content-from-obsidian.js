@@ -37,6 +37,20 @@ function isDraft(fm) {
   return fm.draft === true || fm.publish === false || fm.private === true;
 }
 
+// Count non-empty [!Response] callouts in a library note body.
+function countResponses(body) {
+  const parts = body.split(/^> \[!Response\]/im);
+  let count = 0;
+  for (let i = 1; i < parts.length; i++) {
+    const lines = parts[i].split("\n").filter((l) => l.trim() !== "");
+    for (const line of lines) {
+      if (!line.startsWith(">")) break;
+      if (line.replace(/^>\s*/, "").trim().length > 0) { count++; break; }
+    }
+  }
+  return count;
+}
+
 // Collection types: one vault note per site content file.
 const COLLECTIONS = [
   {
@@ -72,9 +86,9 @@ const COLLECTIONS = [
   {
     label: "Library", vaultFolder: "Library", destFolder: "library", requiredTitle: true,
     url: (s) => `/library/${s}/`,
-    fields: (fm, slug) => ({
+    fields: (fm, slug, body) => ({
       title: fm.title, slug: fm.slug || slug, author: fm.author,
-      highlights: fm.highlights, responses: fm.responses, cover: fm.cover,
+      highlights: fm.highlights, responses: countResponses(body), cover: fm.cover,
       first_highlight: fm.first_highlight, last_highlight: fm.last_highlight, last_note: fm.last_note,
     }),
   },

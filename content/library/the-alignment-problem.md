@@ -3,7 +3,7 @@ title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
 highlights: 3
-responses: 0
+responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
 last_highlight: "2026-07-01"
