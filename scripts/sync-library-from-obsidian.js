@@ -19,8 +19,8 @@ const matter = require("gray-matter");
 
 const VAULT =
   process.env.OBSIDIAN_VAULT ||
-  "/Users/polymath/Documents/SmartNotes Starter Kit";
-const SRC = path.join(VAULT, "library", "books");
+  "/Users/polymath/Documents/Awil-site";
+const SRC = path.join(VAULT, "Website", "Library");
 const DEST = path.join(__dirname, "..", "content", "library");
 const PRUNE = process.env.NO_PRUNE !== "1";
 const CACHE_PATH = path.join(__dirname, ".claim-cache.json");
