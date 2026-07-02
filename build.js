@@ -168,30 +168,43 @@ function readLibraryBooks(dir) {
     .map((f) => {
       const raw = fs.readFileSync(path.join(dir, f), "utf8");
       const { data, content } = matter(raw);
-      const items = parseLibraryHighlights(content).map((h) => ({
-        ...h,
-        quoteHtml: markdownPipeline.processSync(h.quote).toString(),
-        responseHtml: h.response ? markdownPipeline.processSync(h.response).toString() : "",
-      }));
+      const slugCounts = new Map();
+      const items = parseLibraryHighlights(content).map((h) => {
+        const item = {
+          ...h,
+          quoteHtml: markdownPipeline.processSync(h.quote).toString(),
+          responseHtml: h.response ? markdownPipeline.processSync(h.response).toString() : "",
+        };
+        if (h.claimTitle) {
+          const base = slugify(h.claimTitle);
+          const n = (slugCounts.get(base) || 0) + 1;
+          slugCounts.set(base, n);
+          item.slug = n > 1 ? `${base}-${n}` : base;
+        }
+        return item;
+      });
       return { ...data, file: f, items };
     });
 }
 
 const PENCIL_ICON = svgIcon('<path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/><path d="M15 5l4 4"/>');
 
-function libraryHighlightCard(h) {
+function libraryHighlightCard(h, bookSlug) {
   const hasNote = Boolean(h.response);
   const cite = h.citation ? `<cite class="highlight-loc">${esc(h.citation)}</cite>` : "";
-  const claim = h.claimTitle ? `<h3 class="highlight-claim">${esc(h.claimTitle)}</h3>` : "";
+  const claimInner = h.claimTitle && h.slug && bookSlug
+    ? `<a class="highlight-claim-link" href="/library/${esc(bookSlug)}/${esc(h.slug)}/">${esc(h.claimTitle)}</a>`
+    : (h.claimTitle ? esc(h.claimTitle) : "");
+  const claim = claimInner ? `<h3 class="highlight-claim">${claimInner}</h3>` : "";
   const note = hasNote
     ? `<div class="callout callout-response"><div class="callout-title"><div class="callout-icon">${PENCIL_ICON}</div><div class="callout-title-text">Response</div></div><div class="callout-content">${h.responseHtml}</div></div>`
     : "";
   return `<article class="highlight-card ${hasNote ? "has-note" : "no-note"}">${claim}<blockquote class="highlight-quote">${h.quoteHtml}${cite}</blockquote>${note}</article>`;
 }
 
-function libraryHighlightsSections(items) {
+function libraryHighlightsSections(items, bookSlug) {
   if (!items.length) return "";
-  return `<div class="highlights-list">${items.map(libraryHighlightCard).join("\n")}</div>`;
+  return `<div class="highlights-list">${items.map((h) => libraryHighlightCard(h, bookSlug)).join("\n")}</div>`;
 }
 
 function svgIcon(inner) {
@@ -202,6 +215,9 @@ function initials(name) {
 }
 function esc(s) {
   return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+function slugify(str) {
+  return String(str || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 }
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 function d(date) {
@@ -668,8 +684,26 @@ function build() {
 </header>`;
     writePage(`library/${e.slug}`, layout({
       title: e.title, activeHref: "/library/",
-      body: `${backLink("all books", "/library/")}${bookHeader}${commentable(`library/${e.slug}`, libraryHighlightsSections(e.items))}`,
+      body: `${backLink("all books", "/library/")}${bookHeader}${commentable(`library/${e.slug}`, libraryHighlightsSections(e.items, e.slug))}`,
     }));
+    for (const h of e.items) {
+      if (!h.slug) continue;
+      const cite = h.citation ? `<cite class="highlight-loc">${esc(h.citation)}</cite>` : "";
+      const note = h.response
+        ? `<div class="callout callout-response"><div class="callout-title"><div class="callout-icon">${PENCIL_ICON}</div><div class="callout-title-text">Response</div></div><div class="callout-content">${h.responseHtml}</div></div>`
+        : "";
+      writePage(`library/${e.slug}/${h.slug}`, layout({
+        title: h.claimTitle, activeHref: "/library/",
+        body: `${backLink(e.title, `/library/${e.slug}/`)}
+<article class="highlight-detail">
+  <header class="highlight-detail-header">
+    <h1 class="highlight-detail-title">${esc(h.claimTitle)}</h1>
+  </header>
+  <blockquote class="highlight-quote highlight-detail-quote">${h.quoteHtml}${cite}</blockquote>
+  ${note}
+</article>`,
+      }));
+    }
   }
 
   /* ---------- dictionary ---------- */
