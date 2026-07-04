@@ -2,11 +2,11 @@
 title: "The Alignment Problem"
 slug: "the-alignment-problem"
 author: "Brian Christian"
-highlights: 19
-responses: 10
+highlights: 24
+responses: 11
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/469784856/rPKmzKxq5gaBx3w0bbgVyynHflcWSNh65C73mIeCr5k-my-c_6pmdStr.jpg"
 first_highlight: "2026-07-01"
-last_highlight: "2026-07-01"
+last_highlight: "2026-07-02"
 ---
 
 > [!quote] The results were remarkable.
@@ -121,7 +121,7 @@ last_highlight: "2026-07-01"
 
 ---
 
-> [!quote] As Concordia University communications professor Lorna Roth notes. [fact]
+> [!quote] “Though the available academic literature is wide-ranging. [fact]
 > We often hear about the lack of diversity in film and television—among casts and directors alike—but we don’t often consider that this problem exists not only in front of the camera, not only behind the camera, but in many cases *inside* the camera itself. As Concordia University communications professor Lorna Roth notes, “Though the available academic literature is wide-ranging, it is surprising that relatively few of these scholars have focused their research on the skin-tone biases within the actual apparatuses of visual reproduction.”
 
 <cite>Brian Christian, The Alignment Problem, loc. 48246</cite>
@@ -198,4 +198,53 @@ last_highlight: "2026-07-01"
 
 > [!Response]
 > Our work shows how the artifacts of machine learning (word embeddings here) can themselves be interesting objects of sociological analysis. We believe this paradigm shift can lead to many fruitful studies.” Our work shows how the artifacts of machine learning (word embeddings here) can themselves be interesting objects of sociological analysis. We believe this paradigm shift can lead to many fruitful studies.”
+
+---
+
+> [!quote] ML [machine-learning] models being trained today might still. [craft]
+> We find ourselves at a fragile moment in history—where the power and flexibility of these models have made them irresistibly useful for a large number of commercial and public applications, and yet our standards and norms around how to use them appropriately are still nascent. It is exactly in this period that we should be most cautious and conservative—all the more so because many of these models are unlikely to be substantially changed once deployed into real-world use. As Princeton’s Arvind Narayanan puts it: “Contrary to the ‘tech moves too fast for society to keep up’ cliché, commercial deployments of tech often move glacially—just look at the banking and airline mainframes still running. ML [machine-learning] models being trained today might still be in production in 50 years, and that’s terrifying.
+
+<cite>Brian Christian, The Alignment Problem, loc. 92711</cite>
+
+> [!Response]
+> “Contrary to the ‘tech moves too fast for society to keep up’ cliché, commercial deployments of tech often move glacially—just look at the banking and airline mainframes still running. ML [machine-learning] models being trained today might still be in production in 50 years, and that’s terrifying. “Contrary to the ‘tech moves too fast for society to keep up’ cliché, commercial deployments of tech often move glacially—just look at the banking and airline mainframes still running. ML [machine-learning] models being trained today might still be in production in 50 years, and that’s terrifying.
+
+---
+
+> [!quote] It remains somewhat of a sad commentary on his. [fact]
+> While mankind has been wandering the American continent since the retreat of the glaciers and possibly before the ice age, it remains somewhat of a sad commentary on his evolution that one of the problems science has just undertaken is the question of an accurate prediction of what a man will do when released from prison on parole.
+
+<cite>Brian Christian, The Alignment Problem, loc. 95876</cite>
+
+> [!Response]
+> 
+
+---
+
+> [!quote] Employment, advertising, health care and policing. [fact]
+> As we’re on the cusp of using machine learning for rendering basically all kinds of consequential decisions about human beings in domains such as education, employment, advertising, health care and policing, it is important to understand why *machine learning is not, by default, fair or just in any meaningful way*.
+
+<cite>Brian Christian, The Alignment Problem, loc. 96456</cite>
+
+> [!Response]
+> 
+
+---
+
+> [!quote] Two widely divergent pictures of the paroled man are. [fact]
+> Two widely divergent pictures of the paroled man are, at present, in the minds of the people of Illinois. One picture is that of a hardened, vicious, and desperate criminal who returns from prison, unrepentant, intent only upon wreaking revenge upon society for the punishment he has sullenly endured. The other picture is that of a youth, perhaps the only son of a widowed mother, who on impulse, in a moment of weakness, yielded to the evil suggestion of wayward companions, and who now returns to society from the reformatory, determined to make good if only given a chance.
+
+<cite>Brian Christian, The Alignment Problem, loc. 98708</cite>
+
+> [!Response]
+> 
+
+---
+
+> [!quote] His conclusion is that rehabilitation is. [fact]
+> His conclusion is that rehabilitation is, in many cases, eminently possible. What’s more, it does appear to be at least somewhat predictable in which cases it will succeed. Wouldn’t a system built on this statistical foundation be better than the status quo of subjective, inconsistent, and idiosyncratic human decisions made by judges on the fly? “There can be no doubt of the feasibility of determining the factors governing the success or the failure of the man on parole,” Burgess writes. “Human behavior seems to be subject to some degree of predictability. Are these recorded facts the basis on which a prisoner receives his parole? Or does the Parole Board depend on the impressions favorable or unfavorable which the man makes upon its members at the time of the hearing?”
+
+<cite>Brian Christian, The Alignment Problem, loc. 101963</cite>
+
+> [!Response]
 >
