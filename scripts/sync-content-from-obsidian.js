@@ -66,7 +66,7 @@ const COLLECTIONS = [
   {
     label: "Scholars", vaultFolder: "Scholars", destFolder: "scholars", requiredTitle: true,
     url: (s) => `/scholars/${s}/`,
-    fields: (fm, slug) => ({ title: fm.title, slug, era: fm.era, field: fm.field }),
+    fields: (fm, slug) => ({ title: fm.title, slug, era: fm.era, field: fm.field, image: fm.image }),
   },
   {
     label: "Topics", vaultFolder: "Topics", destFolder: "topics", requiredTitle: true,

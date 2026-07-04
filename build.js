@@ -784,7 +784,7 @@ function build() {
   writePage("bits", layout({ title: "Bits", activeHref: "/bits/", body: bitsBody }));
 
   /* ---------- scholars ---------- */
-  const scholarCard = (s) => `<a class="book-card scholar-card" href="/scholars/${s.slug}/"><div class="cover-wrap"><span class="cover-initials">${initials(s.title)}</span></div><div class="title">${esc(s.title)}</div><div class="author">${esc(s.field || "")}</div><div class="count">${esc(s.era || "")}</div></a>`;
+  const scholarCard = (s) => `<a class="book-card scholar-card" href="/scholars/${s.slug}/"><div class="cover-wrap">${s.image ? `<img class="cover" src="${s.image}" alt="${esc(s.title)}" loading="lazy">` : `<span class="cover-initials">${initials(s.title)}</span>`}</div><div class="title">${esc(s.title)}</div><div class="author">${esc(s.field || "")}</div><div class="count">${esc(s.era || "")}</div></a>`;
   writePage("scholars", layout({ title: "Scholars", activeHref: "/scholars/", body: `<div class="commentable" data-page="scholars"><div class="page-head"><h1 class="page-title">Scholars</h1><p class="page-subtitle">Thinkers worth returning to.</p></div><div class="library-grid">${scholars.map(scholarCard).join("\n") || '<p class="empty-note">No scholars yet.</p>'}</div></div>` }));
   for (const s of scholars) {
     writePage(`scholars/${s.slug}`, layout({ title: s.title, activeHref: "/scholars/", body: `${backLink("Scholars", "/scholars/")}<article class="log detail"><header><h2>${esc(s.title)}</h2><div class="meta">${esc(s.field || "")}${s.era ? " · " + esc(s.era) : ""}</div></header>${commentable(`scholars/${s.slug}`, s.html)}</article>` }));
