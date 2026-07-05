@@ -92,6 +92,11 @@ const COLLECTIONS = [
       first_highlight: fm.first_highlight, last_highlight: fm.last_highlight, last_note: fm.last_note,
     }),
   },
+  {
+    label: "Projects", vaultFolder: "Projects", destFolder: "projects", requiredTitle: true,
+    url: (s) => `/projects/${s}/`,
+    fields: (fm, slug) => ({ title: fm.title, slug, date: fm.date, tags: fm.tags || [] }),
+  },
 ];
 
 function noteSlug(fm, file) {
