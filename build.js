@@ -743,7 +743,7 @@ function build() {
     return `<div class="timeline-item" data-tags="${esc(tagSlugs)}" data-year="${yr}">
   <div class="dot"></div>
   <div class="content">
-    <h2>${esc(p.title)}</h2>
+    <h2>${p.slug ? `<a class="project-title-link" href="/projects/${esc(p.slug)}/">${esc(p.title)}</a>` : esc(p.title)}</h2>
     <div class="body">${p.html}</div>
   </div>
 </div>`;
@@ -764,6 +764,13 @@ function build() {
   </div>
 </section>`,
   }));
+  for (const p of projectItems) {
+    if (!p.slug) continue;
+    writePage(`projects/${p.slug}`, layout({
+      title: p.title, activeHref: "/projects/",
+      body: `${backLink("Projects", "/projects/")}<article class="log detail"><header><h2>${esc(p.title)}</h2>${p.date ? `<div class="meta">${fmtShort(p.date)}</div>` : ""}</header>${commentable(`projects/${p.slug}`, p.html)}</article>`,
+    }));
+  }
 
   /* ---------- bits (idea cards) ---------- */
   const bitCard = (b) => `<div class="bit-card">

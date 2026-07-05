@@ -2483,6 +2483,14 @@
       color: var(--fg);
     }
     .timeline-item .body a:hover { color: var(--contrib-3); }
+    .timeline-item h2 a.project-title-link {
+      color: inherit;
+      text-decoration: none;
+    }
+    .timeline-item h2 a.project-title-link:hover {
+      color: var(--contrib-3);
+      text-decoration: underline;
+    }
 
     /* ===== topic filter page (/topic/<slug>/) ===== */
     .topic-page-header {
