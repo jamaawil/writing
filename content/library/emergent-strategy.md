@@ -1,0 +1,10 @@
+---
+title: "Emergent Strategy"
+slug: "emergent-strategy"
+author: "adrienne maree brown"
+highlights: 0
+responses: 0
+cover: "https://covers.openlibrary.org/b/id/10131863-L.jpg"
+---
+
+

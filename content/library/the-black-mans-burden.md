@@ -1,0 +1,10 @@
+---
+title: "The Black Man's Burden"
+slug: "the-black-mans-burden"
+author: "Basil Davidson"
+highlights: 0
+responses: 0
+cover: "https://covers.openlibrary.org/b/id/605023-L.jpg"
+---
+
+

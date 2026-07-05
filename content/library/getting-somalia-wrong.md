@@ -1,0 +1,10 @@
+---
+title: "Getting Somalia Wrong?"
+slug: "getting-somalia-wrong"
+author: "Mary Harper"
+highlights: 0
+responses: 0
+cover: "https://covers.openlibrary.org/b/id/12453629-L.jpg"
+---
+
+
