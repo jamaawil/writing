@@ -1,5 +1,5 @@
 ---
-title: "Module 31 — The Berlin Conference and the Partition of Africa"
+title: "Course 31 — The Berlin Conference and the Partition of Africa"
 slug: module-031-the-berlin-conference-and-the-partition-of-africa
 date: 2026-06-05
 tags:

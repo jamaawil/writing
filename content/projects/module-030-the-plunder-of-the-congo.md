@@ -1,5 +1,5 @@
 ---
-title: "Module 30 — The Plunder of the Congo"
+title: "Course 30 — The Plunder of the Congo"
 slug: module-030-the-plunder-of-the-congo
 date: 2026-06-06
 tags:

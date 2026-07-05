@@ -1,5 +1,5 @@
 ---
-title: "Module 26 — The Négritude/Afro-Diasporic Feminine"
+title: "Course 26 — The Négritude/Afro-Diasporic Feminine"
 slug: module-026-the-ngritudeafro-diasporic-feminine
 date: 2026-06-10
 tags:

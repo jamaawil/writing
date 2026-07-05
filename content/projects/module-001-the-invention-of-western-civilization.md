@@ -1,5 +1,5 @@
 ---
-title: "Module 1 — The Invention of \"Western Civilization\""
+title: "Course 1 — The Invention of \"Western Civilization\""
 slug: module-001-the-invention-of-western-civilization
 date: 2026-07-05
 tags:

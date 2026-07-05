@@ -1,5 +1,5 @@
 ---
-title: "Module 78 — Democracy Promotion as Hegemony"
+title: "Course 78 — Democracy Promotion as Hegemony"
 slug: module-078-democracy-promotion-as-hegemony
 date: 2026-04-19
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 6 — Orientalism (Said)"
+title: "Course 6 — Orientalism (Said)"
 slug: module-006-orientalism-said
 date: 2026-06-30
 tags:

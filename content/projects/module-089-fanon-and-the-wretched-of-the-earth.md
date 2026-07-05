@@ -1,5 +1,5 @@
 ---
-title: "Module 89 — Fanon and the Wretched of the Earth"
+title: "Course 89 — Fanon and the Wretched of the Earth"
 slug: module-089-fanon-and-the-wretched-of-the-earth
 date: 2026-04-08
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 65 — The CFA Franc and Monetary Colonialism"
+title: "Course 65 — The CFA Franc and Monetary Colonialism"
 slug: module-065-the-cfa-franc-and-monetary-colonialism
 date: 2026-05-02
 tags:

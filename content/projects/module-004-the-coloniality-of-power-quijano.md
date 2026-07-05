@@ -1,5 +1,5 @@
 ---
-title: "Module 4 — The Coloniality of Power (Quijano)"
+title: "Course 4 — The Coloniality of Power (Quijano)"
 slug: module-004-the-coloniality-of-power-quijano
 date: 2026-07-02
 tags:

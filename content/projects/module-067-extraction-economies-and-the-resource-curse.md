@@ -1,5 +1,5 @@
 ---
-title: "Module 67 — Extraction Economies and the Resource Curse"
+title: "Course 67 — Extraction Economies and the Resource Curse"
 slug: module-067-extraction-economies-and-the-resource-curse
 date: 2026-04-30
 tags:

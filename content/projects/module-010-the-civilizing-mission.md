@@ -1,5 +1,5 @@
 ---
-title: "Module 10 — The Civilizing Mission"
+title: "Course 10 — The Civilizing Mission"
 slug: module-010-the-civilizing-mission
 date: 2026-06-26
 tags:

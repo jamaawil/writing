@@ -1,5 +1,5 @@
 ---
-title: "Module 72 — Land, Enclosure, and the Commons"
+title: "Course 72 — Land, Enclosure, and the Commons"
 slug: module-072-land-enclosure-and-the-commons
 date: 2026-04-25
 tags:

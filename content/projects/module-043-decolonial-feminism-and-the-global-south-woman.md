@@ -1,5 +1,5 @@
 ---
-title: "Module 43 — Decolonial Feminism and the Global South Woman"
+title: "Course 43 — Decolonial Feminism and the Global South Woman"
 slug: module-043-decolonial-feminism-and-the-global-south-woman
 date: 2026-05-24
 tags:

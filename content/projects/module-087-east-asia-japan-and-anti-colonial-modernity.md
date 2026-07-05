@@ -1,5 +1,5 @@
 ---
-title: "Module 87 — East Asia, Japan, and Anti-Colonial Modernity"
+title: "Course 87 — East Asia, Japan, and Anti-Colonial Modernity"
 slug: module-087-east-asia-japan-and-anti-colonial-modernity
 date: 2026-04-10
 tags:

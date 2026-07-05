@@ -1,5 +1,5 @@
 ---
-title: "Module 37 — Cartography and Power"
+title: "Course 37 — Cartography and Power"
 slug: module-037-cartography-and-power
 date: 2026-05-30
 tags:

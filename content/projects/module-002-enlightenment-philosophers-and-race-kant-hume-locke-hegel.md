@@ -1,5 +1,5 @@
 ---
-title: "Module 2 — Enlightenment Philosophers and Race (Kant, Hume, Locke, Hegel)"
+title: "Course 2 — Enlightenment Philosophers and Race (Kant, Hume, Locke, Hegel)"
 slug: module-002-enlightenment-philosophers-and-race-kant-hume-locke-hegel
 date: 2026-07-04
 tags:

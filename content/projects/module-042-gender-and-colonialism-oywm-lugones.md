@@ -1,5 +1,5 @@
 ---
-title: "Module 42 — Gender and Colonialism (Oyèwùmí, Lugones)"
+title: "Course 42 — Gender and Colonialism (Oyèwùmí, Lugones)"
 slug: module-042-gender-and-colonialism-oywm-lugones
 date: 2026-05-25
 tags:

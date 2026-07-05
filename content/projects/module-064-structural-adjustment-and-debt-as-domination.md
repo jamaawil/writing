@@ -1,5 +1,5 @@
 ---
-title: "Module 64 — Structural Adjustment and Debt as Domination"
+title: "Course 64 — Structural Adjustment and Debt as Domination"
 slug: module-064-structural-adjustment-and-debt-as-domination
 date: 2026-05-03
 tags:

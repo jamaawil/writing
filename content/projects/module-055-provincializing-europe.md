@@ -1,5 +1,5 @@
 ---
-title: "Module 55 — Provincializing Europe"
+title: "Course 55 — Provincializing Europe"
 slug: module-055-provincializing-europe
 date: 2026-05-12
 tags:

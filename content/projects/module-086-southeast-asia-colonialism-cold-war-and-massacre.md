@@ -1,5 +1,5 @@
 ---
-title: "Module 86 — Southeast Asia: Colonialism, Cold War, and Massacre"
+title: "Course 86 — Southeast Asia: Colonialism, Cold War, and Massacre"
 slug: module-086-southeast-asia-colonialism-cold-war-and-massacre
 date: 2026-04-11
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 11 — Scientific Racism"
+title: "Course 11 — Scientific Racism"
 slug: module-011-scientific-racism
 date: 2026-06-25
 tags:

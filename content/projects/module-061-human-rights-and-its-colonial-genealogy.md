@@ -1,5 +1,5 @@
 ---
-title: "Module 61 — Human Rights and Its Colonial Genealogy"
+title: "Course 61 — Human Rights and Its Colonial Genealogy"
 slug: module-061-human-rights-and-its-colonial-genealogy
 date: 2026-05-06
 tags:

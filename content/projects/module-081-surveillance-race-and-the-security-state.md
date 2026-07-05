@@ -1,5 +1,5 @@
 ---
-title: "Module 81 — Surveillance, Race, and the Security State"
+title: "Course 81 — Surveillance, Race, and the Security State"
 slug: module-081-surveillance-race-and-the-security-state
 date: 2026-04-16
 tags:

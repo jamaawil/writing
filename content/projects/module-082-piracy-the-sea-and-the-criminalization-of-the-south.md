@@ -1,5 +1,5 @@
 ---
-title: "Module 82 — Piracy, the Sea, and the Criminalization of the South"
+title: "Course 82 — Piracy, the Sea, and the Criminalization of the South"
 slug: module-082-piracy-the-sea-and-the-criminalization-of-the-south
 date: 2026-04-15
 tags:

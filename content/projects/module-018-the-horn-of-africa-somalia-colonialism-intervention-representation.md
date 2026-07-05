@@ -1,5 +1,5 @@
 ---
-title: "Module 18 — The Horn of Africa: Somalia, Colonialism, Intervention, Representation"
+title: "Course 18 — The Horn of Africa: Somalia, Colonialism, Intervention, Representation"
 slug: module-018-the-horn-of-africa-somalia-colonialism-intervention-representation
 date: 2026-06-18
 tags:

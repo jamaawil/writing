@@ -1,5 +1,5 @@
 ---
-title: "Module 98 — Solidarity, Internationalism, and the Global South"
+title: "Course 98 — Solidarity, Internationalism, and the Global South"
 slug: module-098-solidarity-internationalism-and-the-global-south
 date: 2026-03-30
 tags:

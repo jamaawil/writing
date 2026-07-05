@@ -1,5 +1,5 @@
 ---
-title: "Module 60 — NGO Colonialism and the Aid Industry"
+title: "Course 60 — NGO Colonialism and the Aid Industry"
 slug: module-060-ngo-colonialism-and-the-aid-industry
 date: 2026-05-07
 tags:

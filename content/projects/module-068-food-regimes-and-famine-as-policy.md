@@ -1,5 +1,5 @@
 ---
-title: "Module 68 — Food Regimes and Famine as Policy"
+title: "Course 68 — Food Regimes and Famine as Policy"
 slug: module-068-food-regimes-and-famine-as-policy
 date: 2026-04-29
 tags:

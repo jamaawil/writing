@@ -1,5 +1,5 @@
 ---
-title: "Module 44 — Secularism as a Power Formation (Asad, Mahmood)"
+title: "Course 44 — Secularism as a Power Formation (Asad, Mahmood)"
 slug: module-044-secularism-as-a-power-formation-asad-mahmood
 date: 2026-05-23
 tags:

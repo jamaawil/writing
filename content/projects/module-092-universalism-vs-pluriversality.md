@@ -1,5 +1,5 @@
 ---
-title: "Module 92 — Universalism vs. Pluriversality"
+title: "Course 92 — Universalism vs. Pluriversality"
 slug: module-092-universalism-vs-pluriversality
 date: 2026-04-05
 tags:

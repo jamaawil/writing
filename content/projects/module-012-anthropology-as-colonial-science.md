@@ -1,5 +1,5 @@
 ---
-title: "Module 12 — Anthropology as Colonial Science"
+title: "Course 12 — Anthropology as Colonial Science"
 slug: module-012-anthropology-as-colonial-science
 date: 2026-06-24
 tags:

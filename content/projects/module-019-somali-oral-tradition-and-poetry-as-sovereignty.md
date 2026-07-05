@@ -1,5 +1,5 @@
 ---
-title: "Module 19 — Somali Oral Tradition and Poetry as Sovereignty"
+title: "Course 19 — Somali Oral Tradition and Poetry as Sovereignty"
 slug: module-019-somali-oral-tradition-and-poetry-as-sovereignty
 date: 2026-06-17
 tags:

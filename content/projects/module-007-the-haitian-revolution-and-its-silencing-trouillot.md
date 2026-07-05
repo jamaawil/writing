@@ -1,5 +1,5 @@
 ---
-title: "Module 7 — The Haitian Revolution and Its Silencing (Trouillot)"
+title: "Course 7 — The Haitian Revolution and Its Silencing (Trouillot)"
 slug: module-007-the-haitian-revolution-and-its-silencing-trouillot
 date: 2026-06-29
 tags:

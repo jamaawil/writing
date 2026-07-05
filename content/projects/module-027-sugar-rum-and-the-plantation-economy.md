@@ -1,5 +1,5 @@
 ---
-title: "Module 27 — Sugar, Rum, and the Plantation Economy"
+title: "Course 27 — Sugar, Rum, and the Plantation Economy"
 slug: module-027-sugar-rum-and-the-plantation-economy
 date: 2026-06-09
 tags:

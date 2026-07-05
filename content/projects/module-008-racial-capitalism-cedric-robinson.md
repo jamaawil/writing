@@ -1,5 +1,5 @@
 ---
-title: "Module 8 — Racial Capitalism (Cedric Robinson)"
+title: "Course 8 — Racial Capitalism (Cedric Robinson)"
 slug: module-008-racial-capitalism-cedric-robinson
 date: 2026-06-28
 tags:

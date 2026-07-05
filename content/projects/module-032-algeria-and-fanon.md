@@ -1,5 +1,5 @@
 ---
-title: "Module 32 — Algeria and Fanon"
+title: "Course 32 — Algeria and Fanon"
 slug: module-032-algeria-and-fanon
 date: 2026-06-04
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 63 — Development as Neocolonialism"
+title: "Course 63 — Development as Neocolonialism"
 slug: module-063-development-as-neocolonialism
 date: 2026-05-04
 tags:

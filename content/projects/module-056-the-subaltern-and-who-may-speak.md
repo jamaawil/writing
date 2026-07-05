@@ -1,5 +1,5 @@
 ---
-title: "Module 56 — The Subaltern and Who May Speak"
+title: "Course 56 — The Subaltern and Who May Speak"
 slug: module-056-the-subaltern-and-who-may-speak
 date: 2026-05-11
 tags:

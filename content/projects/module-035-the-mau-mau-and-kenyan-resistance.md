@@ -1,5 +1,5 @@
 ---
-title: "Module 35 — The Mau Mau and Kenyan Resistance"
+title: "Course 35 — The Mau Mau and Kenyan Resistance"
 slug: module-035-the-mau-mau-and-kenyan-resistance
 date: 2026-06-01
 tags:

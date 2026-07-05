@@ -1,5 +1,5 @@
 ---
-title: "Module 22 — The Carceral State and Racial Capitalism"
+title: "Course 22 — The Carceral State and Racial Capitalism"
 slug: module-022-the-carceral-state-and-racial-capitalism
 date: 2026-06-14
 tags:

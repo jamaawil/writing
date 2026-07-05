@@ -1,5 +1,5 @@
 ---
-title: "Module 62 — International Law's Colonial Origins"
+title: "Course 62 — International Law's Colonial Origins"
 slug: module-062-international-laws-colonial-origins
 date: 2026-05-05
 tags:

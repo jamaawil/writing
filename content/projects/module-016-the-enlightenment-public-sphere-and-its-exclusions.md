@@ -1,5 +1,5 @@
 ---
-title: "Module 16 — The Enlightenment Public Sphere and Its Exclusions"
+title: "Course 16 — The Enlightenment Public Sphere and Its Exclusions"
 slug: module-016-the-enlightenment-public-sphere-and-its-exclusions
 date: 2026-06-20
 tags:

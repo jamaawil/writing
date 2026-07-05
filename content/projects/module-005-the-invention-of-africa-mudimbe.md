@@ -1,5 +1,5 @@
 ---
-title: "Module 5 — The Invention of Africa (Mudimbe)"
+title: "Course 5 — The Invention of Africa (Mudimbe)"
 slug: module-005-the-invention-of-africa-mudimbe
 date: 2026-07-01
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 40 — The Museum and Looted Heritage"
+title: "Course 40 — The Museum and Looted Heritage"
 slug: module-040-the-museum-and-looted-heritage
 date: 2026-05-27
 tags:

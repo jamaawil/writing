@@ -1,5 +1,5 @@
 ---
-title: "Module 99 — Memory, Testimony, and the Struggle Against Forgetting"
+title: "Course 99 — Memory, Testimony, and the Struggle Against Forgetting"
 slug: module-099-memory-testimony-and-the-struggle-against-forgetting
 date: 2026-03-29
 tags:

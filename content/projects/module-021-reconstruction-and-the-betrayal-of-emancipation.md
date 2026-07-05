@@ -1,5 +1,5 @@
 ---
-title: "Module 21 — Reconstruction and the Betrayal of Emancipation"
+title: "Course 21 — Reconstruction and the Betrayal of Emancipation"
 slug: module-021-reconstruction-and-the-betrayal-of-emancipation
 date: 2026-06-15
 tags:

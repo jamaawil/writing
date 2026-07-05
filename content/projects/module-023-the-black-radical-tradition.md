@@ -1,5 +1,5 @@
 ---
-title: "Module 23 — The Black Radical Tradition"
+title: "Course 23 — The Black Radical Tradition"
 slug: module-023-the-black-radical-tradition
 date: 2026-06-13
 tags:

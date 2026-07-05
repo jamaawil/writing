@@ -1,5 +1,5 @@
 ---
-title: "Module 24 — Négritude and Black Aesthetic Revolt"
+title: "Course 24 — Négritude and Black Aesthetic Revolt"
 slug: module-024-ngritude-and-black-aesthetic-revolt
 date: 2026-06-12
 tags:

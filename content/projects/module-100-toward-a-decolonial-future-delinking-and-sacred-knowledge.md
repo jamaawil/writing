@@ -1,5 +1,5 @@
 ---
-title: "Module 100 — Toward a Decolonial Future: Delinking and Sacred Knowledge"
+title: "Course 100 — Toward a Decolonial Future: Delinking and Sacred Knowledge"
 slug: module-100-toward-a-decolonial-future-delinking-and-sacred-knowledge
 date: 2026-03-28
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 46 — Guantánamo and the State of Exception"
+title: "Course 46 — Guantánamo and the State of Exception"
 slug: module-046-guantnamo-and-the-state-of-exception
 date: 2026-05-21
 tags:

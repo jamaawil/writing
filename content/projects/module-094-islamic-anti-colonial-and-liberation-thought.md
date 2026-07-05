@@ -1,5 +1,5 @@
 ---
-title: "Module 94 — Islamic Anti-Colonial and Liberation Thought"
+title: "Course 94 — Islamic Anti-Colonial and Liberation Thought"
 slug: module-094-islamic-anti-colonial-and-liberation-thought
 date: 2026-04-03
 tags:

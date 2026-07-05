@@ -1,5 +1,5 @@
 ---
-title: "Module 79 — The \"Rules-Based Order\" Critique"
+title: "Course 79 — The \"Rules-Based Order\" Critique"
 slug: module-079-the-rules-based-order-critique
 date: 2026-04-18
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Module 54 — Indigenous Epistemologies and Ways of Knowing"
+title: "Course 54 — Indigenous Epistemologies and Ways of Knowing"
 slug: module-054-indigenous-epistemologies-and-ways-of-knowing
 date: 2026-05-13
 tags:
