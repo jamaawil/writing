@@ -3,7 +3,7 @@ title: "The Odyssey"
 slug: "the-odyssey"
 author: "Homer"
 highlights: 1
-responses: 0
+responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/476918728/dZIJu2Tk-FVHdVLjaZRGd4ugrOu4aPQGPFpbSyg7MCA-cov_vwm9cnY.jpeg"
 first_highlight: "2026-07-16"
 last_highlight: "2026-07-16"
@@ -15,5 +15,4 @@ last_highlight: "2026-07-16"
 <cite>Homer, The Odyssey, loc. 1348</cite>
 
 > [!Response]
-> 
-The word "Odyssey" Became English, which tells us of the sheer power of Greek influence in the English language. Greek literature is seen as the mother of all literatures, as the Eurocentric thinking of today's Westerners is it's canonical in their eyes and not hypocritical. But there are other perspectives that the canon is being contributed by many cultures across the ages, and it is a human heritage I'm not innately "Western".
+> The word "Odyssey" Became English, which tells us of the sheer power of Greek influence in the English language. Greek literature is seen as the mother of all literatures, as the Eurocentric thinking of today's Westerners is it's canonical in their eyes and not hypocritical. But there are other perspectives that the canon is being contributed by many cultures across the ages, and it is a human heritage I'm not innately "Western".
