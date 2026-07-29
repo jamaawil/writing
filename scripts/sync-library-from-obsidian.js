@@ -19,7 +19,7 @@ const matter = require("gray-matter");
 
 const VAULT =
   process.env.OBSIDIAN_VAULT ||
-  "/Users/polymath/Documents/Awil-site";
+  "/Users/polymath/Documents/Knowledge/Distiller-vault/Awil-site";
 const SRC = path.join(VAULT, "Website", "Library");
 const DEST = path.join(__dirname, "..", "content", "library");
 const PRUNE = process.env.NO_PRUNE !== "1";
