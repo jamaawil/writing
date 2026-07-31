@@ -15,7 +15,7 @@ last_highlight: "2026-07-29"
 <cite>Charlotte Bronte, Jane Eyre, loc. 70692</cite>
 
 > [!Response]
-> I love how Brontë is juxtaposing these key concepts in our book, because the passage juxtaposes conventionality versus morality and self-righteousness (a word that I love, It's perfect) Versus religion, she wants to challenge the reader's preconceptions and embody a bold philosophical stance that encourages deeper self-reflection. This reminds me of many people I know, especially many religious people who are extremely pretentious and extremely self-righteous. 
+> I love how Brontë is juxtaposing these key concepts in our book, because the passage juxtaposes conventionality versus morality and **self-righteousness**, a word that I love, It's perfect, Versus religion, she wants to challenge the reader's preconceptions and embody a bold philosophical stance that encourages deeper self-reflection. This reminds me of many people I know, especially many religious people who are extremely pretentious and extremely self-righteous. 
 > 
 
 ---
