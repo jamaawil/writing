@@ -9,7 +9,7 @@ first_highlight: "2026-07-04"
 last_highlight: "2026-07-04"
 ---
 
-> [!quote] Things fall apart when tradition is spoiled. [fact]
+> [!quote] W. [fact]
 > Turning and turning in the widening gyre
 > The falcon cannot hear the falconer; 
 > Things fall apart; the center cannot hold; 
@@ -19,5 +19,4 @@ last_highlight: "2026-07-04"
 <cite>Chinua Achebe, Things Fall Apart; Arrow of…, loc. 14843</cite>
 
 > [!Response]
-> I think the essence of this poem, quoted by Chinua Achebe, is the telling story of how a tradition, or the way people used to manage and reconcile their differences, is being polluted by new, foreign ideas. These ideas will make things fall apart and cause the centre to fall and not hold and unleash anarchy upon the country. 
->
+> I think the essence of this poem, quoted by Chinua Achebe, is the telling story of how a tradition, or the way people used to manage and reconcile their differences, is being polluted by new, foreign ideas. These ideas will make things fall apart and cause the centre to fall and not hold and unleash anarchy upon the country.

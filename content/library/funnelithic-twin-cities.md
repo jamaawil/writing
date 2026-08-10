@@ -4,16 +4,15 @@ slug: "funnelithic-twin-cities"
 author: "Funnelithic"
 highlights: 1
 responses: 0
-cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-0.c6917d331b03.png"
-first_highlight: "2026-06-25"
-last_highlight: "2026-06-26"
-last_note: "2026-06-25"
+cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-0.c6917d331b03.png"
+first_highlight: "2026-05-28"
+last_highlight: "2026-05-28"
 ---
 
-> [!quote] Reviews should include ratings, dates, and photos.
+> [!quote] Rating, last review date, photos. [fact]
 > rating, last review date, photos
 
-<cite>Funnelithic, Funnelithic-Twin-Cities, Location 496</cite>
+<cite>Funnelithic, Funnelithic-Twin-Cities, loc. 496</cite>
 
 > [!Response]
 >
