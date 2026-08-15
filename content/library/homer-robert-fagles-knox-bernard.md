@@ -1,12 +1,13 @@
 ---
 title: "Homer, Robert Fagles_ Knox, Bernard -…"
-slug: "homer-robert-fagles-knox-bernard"
+slug: homer-robert-fagles-knox-bernard
 author: "Unknown"
 highlights: 43
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-4.11327a2af05a.png"
 first_highlight: "2026-08-09"
 last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] The Phoenician alphabet consisted of signs for consonants only. [fact]
@@ -435,4 +436,4 @@ last_highlight: "2026-08-09"
 <cite>Unknown, Homer, Robert Fagles_ Knox,…, loc. 4881</cite>
 
 > [!Response]
->
+> 

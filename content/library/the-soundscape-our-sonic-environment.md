@@ -1,12 +1,13 @@
 ---
 title: "The Soundscape- Our Sonic Environment…"
-slug: "the-soundscape-our-sonic-environment"
+slug: the-soundscape-our-sonic-environment
 author: "Schafer, Murray R"
 highlights: 130
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-5.25188386e520.png"
-first_highlight: "2026-08-05"
-last_highlight: "2026-08-08"
+cover: "https://covers.openlibrary.org/b/id/691232-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] A soundscape consists of events heard not objects seen. [contrarian]
@@ -1305,4 +1306,4 @@ last_highlight: "2026-08-08"
 <cite>Schafer, Murray R, The Soundscape- Our Sonic E…, loc. 920</cite>
 
 > [!Response]
->
+> 

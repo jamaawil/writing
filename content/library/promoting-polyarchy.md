@@ -1,10 +1,13 @@
 ---
 title: "Promoting Polyarchy"
-slug: "promoting-polyarchy"
+slug: promoting-polyarchy
 author: "William Robinson"
 highlights: 0
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/346466-L.jpg"
+first_highlight: "2026-07-05"
+last_highlight: "2026-07-05"
+last_note: ""
 ---
 
 

@@ -1,17 +1,18 @@
 ---
 title: "Philip Chase Bobbitt - Reflections…"
-slug: "philip-chase-bobbitt-reflections"
+slug: philip-chase-bobbitt-reflections
 author: "Philip Chase Bobbitt"
 highlights: 94
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-2.dae1dc4d332b.png"
 first_highlight: "2026-08-11"
 last_highlight: "2026-08-11"
+last_note: ""
 ---
 
 > [!quote] Legitimacy can derive from existing practices rather than external justifications. [contrarian]
 > For some time, the academic debate about U.S. constitutionalism has looked for justifications for our practices, believing this would confer legitimacy on them. In my work, I have endeavored to derive legitimacy from the practices themselves, reserving the task of justification for other
->
+> 
 > *DEFINE: Distinguishes a practices-derived view of legitimacy from a justification-based one, introducing a conceptual framework for constitutionalism.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 15</cite>
@@ -23,7 +24,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Classical constitutional questions ultimately concern legitimacy and legitimation. [definitional]
 > By showing the way in which legitimacy is established and maintained in a constitutional system like ours, I hoped to derive solutions to a number of classical questions, all of which, I believe, are at bottom questions about legitimacy and legitimation. … At the same time, I also wished to propose a way of understanding constitutional law that changed its relationship to jurisprudence, as practiced nowadays, rendering some
->
+> 
 > *DEFINE: This framing recasts familiar constitutional questions as fundamentally about legitimacy — a reframing worth applying to other legal/political contexts.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 16</cite>
@@ -35,7 +36,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Constitutional interpretation is best learned through applied case exercises. [causal]
 > A large part of Constitutional Interpretation is devoted to three constitutional cases: Missouri v. Holland, the confirmation hearings of Robert Bork, and the Iran-Contra Affair. The reader is asked to work through these problems using the techniques developed in Constitutional Fate and recapitulated in ConstitutionalInterpretation. Because the people of this country have an important legal role to play in constitutional law, these exercises are meant to teach the legal methods by which constitutional problems are addressed. And because understanding is the product of learning how to do something, these exercises provide an instance of the process I am claiming to be at work. The reader must judge.
->
+> 
 > *SEED: The pedagogical idea that legal reasoning is learned by doing, not by reading theory, could form an essay on active-learning methods in professional education.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 28</cite>
@@ -57,7 +58,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Constitutional principles may gain legitimacy from use alone. [speculation]
 > This, I believed, meant either that certain propositions of constitutional law functioned as modalities, determining the truth of other propositions, but were themselves indeterminable as to this truth, or that some external structure validated these propositions. If it was the former, then their legitimacy derived from their use alone, and from nothing else.
->
+> 
 > *DEFINE: Distinguishes two ways legal propositions acquire validity: internal modality or external structure.*
 > *Builds on: "Legitimacy can derive from existing practices rather than external justifications."*
 
@@ -70,7 +71,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Founders feared interest groups, not political parties. [definitional]
 > The fear of factions was not, I think, the fear of political parties, but of what we would today call interest groups. The idea of disinterested representation was taken from the lawyer's customary role, not the parliamentarian's.
->
+> 
 > *XREF: Connects to standard civics narratives about Federalist vs. Anti-Federalist debates over factions, refining that familiar picture.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 88</cite>
@@ -92,7 +93,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Essays function as maps of a chosen subject's terrain. [definitional]
 > Every essay is a map." I wanted to map the American constitution, and so I largely neglected mapping the terrain of the current scholarly debate.
->
+> 
 > *DEFINE: Defines the essay as a mapping act, establishing a conceptual framework for the work.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 105</cite>
@@ -114,7 +115,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Critics cannot agree what the Constitution's substantive commitments are. [fact]
 > There are, Powell writes, three fundamental criticisms of my views. First, in contrast to my denial of this position, some critics assert that the Constitution-apart from the Thirteenth Amendment-does in fact enshrine certain substantive moral commitments, though, Powell wryly observes, even these persons do not seem to be able to agree on what these commitments are.6" Second, some persons may believe that the results of the system are so awful that, if I am right in my standard of assessment, the system stands indicted for having legitimated such results. Here, Powell asks only that such persons agree that their criticisms are fundamentally destructive of the system itself.' Finally, some may believe that the recursion to conscience is a kind of trick, too intuitionist, too individualistic, to be of any help.
->
+> 
 > *XREF: Connects to debates about constitutional originalism and moral readings of the text.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 147</cite>
@@ -136,7 +137,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] No single legal theory can satisfy comprehensiveness, certainty, and completeness together. [definitional]
 > Constitutional Fate depended upon two limiting conclusions. First, it argued that the search for a grand theory was misconceived on logical grounds. … This meant that no grand theory privileging any-or all-of these modalities could legitimate and justify their operation in any case. A theory that was comprehensive 6 and complete could not provide certainty, because the modalities could conflict. A theory that was comprehensive and provided certainty by privileging some modalities, as for example, by a hierarchical arrangement, could not be complete because it would require the inclusion of new principles to legitimate the hierarchy, and then new rules to legitimate the operation of these principles, and so on. A theory that was certain and complete (such as strict construction) could not be comprehensive because it excluded some modalities.
->
+> 
 > *DEFINE: The three aspirational attributes — comprehensiveness, certainty, and completeness — form mutually exclusive pairs of goals for grand legal theory.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 177</cite>
@@ -148,7 +149,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Legal justification arises from argument operation, not external frameworks. [definitional]
 > [This book] discards the notion that law takes place within a framework that is independent of the structure of legal argument. It rejects the view that a set of legal presuppositions exists that are discoverable in the absence of legal argument, upon which legal argument is supposed to depend. The entire enterprise in which others are engaged seems to be based on a confusion between the justification [of the system]—which is that legitimation that results from the operation of the various [modalities]—and a hypothesized causal explanation for [law] derived from socio-political thcories.'
->
+> 
 > *XREF: Connects to the author's broader thesis distinguishing legitimation from causal explanation in legal theory.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 181</cite>
@@ -160,7 +161,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Republicans favored strict textual constitutional interpretation to limit federal power [causal]
 > The debate arose over the fundamental question of the source of federal sovereignty. Did the Union derive its authority from the states, or the people acting through the states, or the people acting directly, or from its predecessor (the Confederation or the British Crown)? … Historians have drawn the connection between the Republican and Federalist sides of this debate to the older Country and Court parties of eighteenth-century English politics, but it is Powell who, with characteristic legal insight, links this debate with the choice of constitutional interpretive modes. Republican partisans campaigned for a stringently textual approach to constitutional interpretation, construing grants of congressional authority narrowly vis-Avis the states and more broadly against the Executive.
->
+> 
 > *DEFINE: Clarifies the interpretive-mode distinction: stringently textualist reading construed congressional grants narrowly against states, broadly against the Executive.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 192</cite>
@@ -172,7 +173,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] The Kentucky and Virginia Resolutions later justified nullification and secession. [fact]
 > The Kentucky legislature adopted Jefferson's draft in November 1798; Madison's was endorsed by the Virginia General Assembly on Christmas Eve."° These are the famous resolutions that were used, perhaps unscrupulously, in the defense of slavery and as a basis for the doctrines of nullification and secession.
->
+> 
 > *Pays off: "Republicans favored strict textual constitutional interpretation to limit federal power"*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 196</cite>
@@ -184,7 +185,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Early Americans conflated rights violations with federalism violations. [definitional]
 > There does not seem to have been any distinction between those laws that offended individual rights (like the Alien and Sedition Acts) and those that offended federalism-a modem distinction that makes most sense when the scope of rights is not held to be identical with the limits on the grant of power.
->
+> 
 > *DEFINE: Clarifies the historical distinction between individual rights and federalism limits — a modern conceptual separation not applied in the founding era.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 214</cite>
@@ -196,7 +197,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Constitutional doctrine develops through replication and mutation cycles. [causal]
 > First, regarding ConstitutionalAnalysis, Powell establishes a crucial point about the DNA, as it were, of constitutional doctrine. I intend to argue that there is a fundamental structure to all doctrinal analysis; that every constitutional doctrine can be usefully understood when organized into this structure; and that the development of doctrine, in every area, is best understood as a set of replications, and mutations, of doctrine organized into this fundamental way. The basic parts of this structure have been perpetuated in an environment in which constitutional law has a unique existence beyond the party and policy preferences of the deciders called upon to construe it; indeed, I daresay this structure could not have persisted-through civil war, economic reconstruction, and international conflict-without this status.
->
+> 
 > *XREF: Applies an evolutionary biology metaphor to legal doctrine — connects to Dawkins' memes and cultural evolution theory.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 215</cite>
@@ -208,7 +209,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Constitutionality hinges on the end a measure serves [definitional]
 > In discussing the general powers of the national government, Hamilton identifies a criterion of what is constitutional, and of what is not so. This criterion is the end, to which the measure relates as a mean. If the end be clearly comprehended within any of the specified powers, and if the measure have an obvious relation to that end, and is not forbidden by any particular provision of the Constitution, it may safely be deemed to come within the compass of the national authority.
->
+> 
 > *DEFINE: Explains Hamilton's criterion for constitutionality: a measure is constitutional if its end falls under an enumerated power, has an obvious relation to that end, and isn't forbidden. This is the basis of the doctrine of implied powers.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 220</cite>
@@ -220,7 +221,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] American constitutional design inherited common-law argument forms from Britain. [causal]
 > I have long argued that we have the modalities we do because the Anglo-Americans took the forms of argument at common law and superimposed these on the state when they imposed a written, limiting constitution on the state.
->
+> 
 > *XREF: Connects to the broader Anglophone legal-institutional lineage—how shared procedural traditions shaped distinct constitutional frameworks across former British colonies.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 225</cite>
@@ -252,7 +253,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Tax repeal would top successful referenda in a direct democracy [speculation]
 > Do you think the first successful referenda would be on abortion rights, or prayer in the schools, or a balanced budget? I think it would be a bar on the imposition of the income tax. For all our folly, the system we have functions smoothly and strategically compared to a system whose finances do not have the bare protection of the biennial appropriation and representative government.
->
+> 
 > *QUESTION: A testable hypothesis about voter priorities that could be analyzed against actual ballot initiative data on tax measures across states.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 274</cite>
@@ -274,7 +275,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Only constitutionally designated electors can choose the President. [definitional]
 > I think we must distinguish between the polity in 1787 (or now) and the persons empowered by that polity to elect the President, the electoral college, or, in some circumstances, the reconstituted House. Only the persons empowered by the polity and designated by them in the Constitution can elect the President of the United States.
->
+> 
 > *DEFINE: Clarifies the legal distinction between the general polity and the specific institutions (electoral college, reconstituted House) empowered by the Constitution to elect the President.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 294</cite>
@@ -296,7 +297,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Popular consent legitimizes constitutional enforcement by the people. [causal]
 > And if they so decide, should they not be able to validly and lawfully enforce their judgment, because all constitutional power derives from their consent in the first place?
->
+> 
 > *XREF: Connects to social contract theory — Locke, Rousseau, and the American founding debates about popular sovereignty versus delegated state power.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 309</cite>
@@ -308,7 +309,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Popular sovereignty entitles oppressed peoples to seek foreign assistance. [definitional]
 > The questions of legal intervention in international security turn on matters of compact theory: whether the people of a state are denied constitutional avenues of redress, so that popular sovereignty cannot have a political effect, and thus can enlist foreign assistance (as the French assisted us) is a notion quite at odds with European ideas of popular sovereignty (in which the state embodies that sovereignty).
->
+> 
 > *DEFINE: Contrasts American compact theory—where sovereignty resides in the people and can be alienated—with European views where the state embodies sovereignty.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 314</cite>
@@ -330,7 +331,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Mathematical proofs compel assent through induced decisions, not world-claims. [definitional]
 > Patterson, following Wittgenstein, likely believes we are compelled to accept a mathematical proof, for example, not because it tells us what must be the case in the world, or because it commands our assent, but because we are induced to make a decision that is guided by the proof.
->
+> 
 > *XREF: Connects to Wittgenstein's later philosophy of mathematics and rule-following, which challenges the idea that proofs describe necessary facts about reality.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 341</cite>
@@ -352,7 +353,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Truth-conditions do not exhaust how legal statements acquire meaning. [contrarian]
 > I think, ironically, that it has been a concentration on what renders a legal statement true that has misled us. We think that an understanding of a legal statement must consist in a grasp of what would make it true and that such a grasp must consist in a knowledge of how we could recognize that condition as obtaining. And therefore it is also widely held that only by having a conclusive recognition that the condition obtained could we give meaning to the statement itself, but this I deny. My account of how a proposition acquires meaning differs from the standard account, which is shared by all these schools, so that problems of indeterminacy, authoritativeness, et cetera, do not have the same significance for me that they do for the schools of thought mentioned above.
->
+> 
 > *DEFINE: Distinguishes a truth-conditional account of meaning from an alternative account where meaning does not depend on recognizing the conditions that would make a statement true.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 378</cite>
@@ -364,7 +365,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] People act out when feeling unfairly misread or judged. [causal]
 > I can think only that Winter may have been goaded into this sort of thing because he himself feels unfairly treated, feels that Patterson has mistaken him for holding views-about the need for mediating devices-that he believes he has distanced himself from.
->
+> 
 > *XREF: Connects to attribution theory and how perceived injustice drives behavior—relevant to understanding conflict dynamics.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 383</cite>
@@ -386,7 +387,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Legal meaning derives from practices, not truth conditions. [definitional]
 > The account of meaning in terms of truth conditions has to be replaced by an account of meaning in terms of the conditions under which our practices legitimate our making such statements, including conditions under which the legitimation may be overturned. What legitimates a legal statement does so only in view of the facts of our common practices. This is very much in sympathy with Patterson's efforts to treat law, jurisprudentially, as a practice.
->
+> 
 > *XREF: This is a pragmatist/Practice Theory account of meaning (Wittgenstein, Brandom) applied to jurisprudence, overlapping with Patterson's practice-based approach to law.*
 > *Builds on: "Truth-conditions do not exhaust how legal statements acquire meaning."*
 
@@ -399,7 +400,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Legal truth rests on professional assent, not external reference. [definitional]
 > For Patterson, a proposition of law is true when the reasons advanced in support of the proposition are such as to invite the assent of competent professionals. Consistent with this, Patterson denies that doing law correctly is a matter of correct "interpretation" because this would account for the truth of propositions of law by reference to something outside the legal discourse.
->
+> 
 > *DEFINE: Patterson's pragmatic conception of legal truth: a proposition is true when competent professionals assent to its supporting reasons, rejecting truth-by-interpretation that points outside legal discourse.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 387</cite>
@@ -411,7 +412,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Skepticism itself undermines modernism and defines the postmodern condition. [causal]
 > Patterson's jurisprudence is built on foundations that modernism long ago abandoned, having assumed that skepticism had made them untenable. Ironically, it is precisely skepticism that has killed the project of the modern and that, along with self-reference, characterizes the faith of the postmodern.
->
+> 
 > *XREF: Relates to wider discussions of postmodernism and its relationship to Enlightenment/modernist skepticism about foundations.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 394</cite>
@@ -433,7 +434,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Modernity attempts to elevate law and politics into religion. [contrarian]
 > One sad spectacle of modernity was the effort to try to make law a god, and politics a religion.' In a letter to me, Patterson replies to my portrait of postmodernity by saying: What does a person like myself, who has no faith in God, do?' I think he has in mind my claim that conscience plays a crucial role in the sort of decisionmaking we have built into the American constitutional system, and my further claim that "there is no conscience without faith for without faith there is only expediency."
->
+> 
 > *QUESTION: This is a provocation, not an argument. Does the author actually hold this view, or is he attributing a 'sad spectacle' to modernity in a loaded way? Worth interrogating the claim that conscience requires faith.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 402</cite>
@@ -445,7 +446,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Modalities of constitutional argument may resist exhaustive categorization. [definitional]
 > First, they could believe, having surveyed the practices of American constitutional argument, that I have simply omitted one widely practiced form-that my list of six forms is not comprehensive because some arguments cannot sensibly be made to fit in any of the six categories I offer. Second, they could believe that my list is inadequate to decide cases, and thus they infer that there must be an additional modality.
->
+> 
 > *QUESTION: What forms of constitutional argument might not fit the six-category framework? Worth probing whether the list is genuinely exhaustive.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 408</cite>
@@ -467,7 +468,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Constitutional argument and constitutional discourse are distinct activities. [definitional]
 > Second, they conflate constitutional argument (an activity confined to those persons whose decisions must be explained in terms of legal argument) with constitutional discourse (an activity that takes up the same subjects, and which may include legal argument, but which, though constrained by its own modalities of argument, is not confined to legal argument).
->
+> 
 > *DEFINE: Distinguishes two terms that are often conflated: legal-constitutional argument (restricted to legal decision-makers) versus the broader constitutional discourse (open to all, governed by its own modalities).*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 409</cite>
@@ -479,7 +480,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Modal conflicts decide among incommensurables without requiring derived parameters [definitional]
 > I did not wish to maintain that, even as to the conflicts within modalities, the decider had to consult some parameter to make a decision; I argue only that the parameter can be derived. So the lack of a parallel parameter when the modalities conflict tells us something about the kind of decision being made-that it is among incommensurables-but nothing about whether a decision is possible or not.
->
+> 
 > *DEFINE: Clarifies the concept of a modal conflict: a decision among incommensurables, where no parameter is derivable, yet decision remains possible.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 426</cite>
@@ -491,7 +492,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Practice-based norms validate argument forms without personal endorsement [definitional]
 > In my case, I will sometimes correct an argument that is poorly formed. Or I may say, "That is a conclusion. Give me an argument." Or I may say, "That is not a legal argument. Give me an argument in law." And this practice, the way a golf pro at a country club might watch a club member hit tee shots, is meant to familiarize the student with the forms of constitutional argument. So it can be said that I am (tacitly, perhaps) approving certain forms of argument, but the reason I am doing so is because these forms of argument are the ones that are approved-are validated by their ever-presence in the practice. The "normativity" here is simply that the rules constituting a practice are norms. It is not the normativity of justification. I am not approving these forms of argument because I approve of them.
->
+> 
 > *XREF: Connects to Wittgenstein's rule-following and practices-based normativity, as well as Rawls's 'practice rules' concept.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 437</cite>
@@ -503,7 +504,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Legal truth derives entirely from practice-embedded justificatory argument [definitional]
 > Practice legitimates because legitimacy is a matter of practice. Some may take my obstinate refusal to provide a nontrivial validation of arguments as implying that legal propositions cannot therefore be true or false. I do not deny that legal propositions have truthconditions. I deny only that these can be satisfied in any nontrivial way-in any way external to the practice itself. A proposition of constitutional law is true if it forms part of the rationale offered in support of a legal decision and if that rationale is composed of the kinds of arguments recognized in legal practice as legitimate.
->
+> 
 > *DEFINE: Clarifies a theory of legal truth: propositions are true only insofar as they participate in the rationale of decisions, recognized as legitimate within legal practice itself.*
 > *Builds on: "Legal truth rests on professional assent, not external reference."*
 
@@ -526,7 +527,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Practices exist and are legitimate before being described or mapped. [definitional]
 > Practices, however, consist in many kinds of uses. Practices differ in kind-unlike the undifferentiated slab of meat that arrives for the butcher's work, practices are already differentiated. … Some are evaluative, some are legal, some are aesthetic, pedagogical, political. Existing practices are subject to description-their contours, though often disputed, can be discerned. Practices are legitimate before they are described. They are bounded before their boundaries are drawn by the cartographer. A cartographer's map may be adduced in a border dispute, but that is only because the boundedness at issue was already well understood.
->
+> 
 > *DEFINE: Distinguishes between practices as pre-existing, differentiated human activities and the cartographic descriptions of them — a key conceptual distinction.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 444</cite>
@@ -538,7 +539,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Different rule systems govern distinct social activities simultaneously. [definitional]
 > Every language game has a certain grammar, by which I mean the rules that enable a person to participate and thereby to understand that language game. In even the simplest of human situations, there will be many language games, overlaid as it were. Imagine two parents watching their child play a little-league game. The rules that constrain the child from running from first base directly to third are not part of the same system of rules that constrain the father from shouting abuse at the opposing pitcher or that constrain the coach from selling tickets.
->
+> 
 > *XREF: Connects to Wittgenstein's language games and concept of grammar from Philosophical Investigations; also resonates with sociolinguistic notions of situated norms.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 446</cite>
@@ -560,7 +561,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Legitimacy differs from justification in constitutional reasoning. [definitional]
 > In my case, they see me playing a double game: While I profess to derive legitimacy for legal argument from the use of the modalities, I also want to be able to defend certain decisions and certain practices, and thus I play both a descriptive and a normative role. Balkin and Levinson conclude that I must either accept whatever is practiced or abandon my pose as simply a descriptive observer. These descriptions depend on several assumptions that I do not share, and especially on conflating the ideas of legitimacy and justification and ignoring the distinction between constitutional decisionmaking and constitutional discourse.
->
+> 
 > *QUESTION: The distinction between legitimacy and justification, and between decisionmaking and discourse, seems central to the author's method but isn't fully unpacked here.*
 > *Builds on: "Legitimacy can derive from existing practices rather than external justifications."*
 
@@ -573,7 +574,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Understanding opposing arguments requires grasping their internal standards. [craft]
 > Thus, I am prepared to entertain a great many arguments I do not endorse as legitimate; and indeed, I am able to criticize such arguments precisely because the various modalities of argument give me standards by
->
+> 
 > *DEFINE: Clarifies a key epistemic stance: one can legitimately entertain and critique arguments one doesn't endorse by invoking the standards internal to their modality of argument.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 452</cite>
@@ -605,7 +606,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Observers participate in constructing the change they describe [causal]
 > The static quality of my description, which intelligent critics such as these intuitively feel, inheres in the fact that it is a description. It is, however, a description of a process that is necessarily in transition all the time: the observers who characterize change are also necessary participants in giving meaning.
->
+> 
 > *QUESTION: This raises the observer-participant puzzle: how can one accurately describe change while being embedded within it? Worth chasing the epistemological implications further.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 482</cite>
@@ -617,7 +618,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Law's meaning depends on the participants who enact it. [causal]
 > Our teachers were wrong, captivated by a picture of a dancing class, ignoring the inseparable unribboning relationship between the motion that law must be and the participant-spectators whose presence makes the motion meaningful. In the work that preceded this Afterword, we follow the body of thought as we might that of a dancer.
->
+> 
 > *XREF: Connects to performance/performativity theory (Butler, Austin) and practice-based accounts of social systems where meaning is co-constructed by actors.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 485</cite>
@@ -629,7 +630,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Unconstrained deciders can supplement but not replace legal arguments [definitional]
 > The available forms of argument are different for those deciders who are confined to legal argument-like government officials sometimes are-and those who are not. Sometimes, as in the confirmation example, the forms of legal argument (here, the text) will direct the decider to enlarge her list. And sometimes those deciders who are not so limited-the People, for example-will wish to consult the specifically legal forms, as I shall discuss below.
->
+> 
 > *DEFINE: The passage distinguishes between deciders confined to legal argument forms (government officials) and those free to consult other forms (the People), establishing a key conceptual distinction.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 496</cite>
@@ -641,7 +642,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] "Normative" conflates internal rules with standards from outside practices. [definitional]
 > The word "normative" therefore becomes, in Balkin and Levinson's hands, a very obscuring term: It means the "policing" of a practice by standards wholly derived from that practice ("That's not how to play chess!"), as well as the assessment of a practice according to the standards of a collateral practice ("That's not how a gentleman would play chess!").
->
+> 
 > *DEFINE: Distinguishes two senses of 'normative' — policing a practice by its own internal standards versus judging it by external/collateral standards.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 502</cite>
@@ -653,7 +654,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] External normativity is spoiled by its own threshold problem. [causal]
 > A "bit" of external normativity is utterly spoiling because the decision of how much of a "bit" is required must also rest on external grounds.
->
+> 
 > *DEFINE: The 'bit' of external normativity is presented as a technical concept whose threshold is self-defeating.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 504</cite>
@@ -675,7 +676,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] A constitutional grammar lets nonjudicial officials engage constitutional questions legally. [definitional]
 > One of the objectives of my work in developing this kind of grammar of constitutional law has been to enable constitutional decisionmakers to take up nonjudicial questions and to enable nonjudicial decisionmakers to take up constitutional questions generally, from a legal point of view.
->
+> 
 > *DEFINE: The author is defining a framework — a 'grammar of constitutional law' — designed to expand who can legitimately address constitutional questions and what kinds of questions can be addressed constitutionally.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 526</cite>
@@ -717,7 +718,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Entrenched expectations blind scholars to alternative interpretations entirely [causal]
 > Because Professor Redish's formal expectations were so entrenched, he was apparently disabled entirely from even suspecting that something was going on in a book other than the failure to do the only thing he thought could be done with the subject.
->
+> 
 > *XREF: Connects to the theme of academic rigidity suppressing unconventional readings, echo of the broader argument that canonical texts were misread for generations.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 581</cite>
@@ -759,7 +760,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Quasi-public entities need congressional authorization to use private funds. [definitional]
 > Tushnet misunderstands this profoundly and seems to think that my point was that it is unconstitutional for quasi-private entities to use public funds, when in fact my point was that it is unconstitutional for quasi-public entities to use private funds without congressional authorization.
->
+> 
 > *DEFINE: Distinguishes between quasi-private entities (which may use public funds) and quasi-public entities (which require congressional authorization for private funds).*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 627</cite>
@@ -771,7 +772,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Isolated quotes misrepresent views held with qualifications and context [craft]
 > My point is not that, in these three examples, Professor Tushnet has simply misconstrued my texts. Rather, the views attributed to me are views I hold-but only partially, only in conjunction with other views, and without these accompanying views, the attribution amounts to a mistake (and not simply a misreading).
->
+> 
 > *SEED: This is a useful distinction for writing about intellectual honesty and how to characterize others' positions fairly — quoting coheres to the view only when accompanying views are included.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 639</cite>
@@ -783,7 +784,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Grounding legal legitimacy in external justification leads to infinite regress [causal]
 > For example, if it were sufficient to say that the framers' intention to rely on courts for constitutional review justified that review, we would already have assumed the very legitimacy for historical argument for which we sought a justification in the first place. Grounding legitimacy in extra-legal justifications leads to an infinite regress: Each justification must be independently legitimated, and that legitimacy in turn demands a fresh justification.
->
+> 
 > *DEFINE: Explains the infinite regress problem that arises when trying to justify legitimacy through extra-legal appeals — each justification itself needs independent legitimation.*
 > *Pays off: "External normativity is spoiled by its own threshold problem."*
 
@@ -796,7 +797,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Causalist explanations are irremediably vulnerable to self-reference problems. [causal]
 > I have given an argument that shows that what we thought were issues crucial to legitimacy were not so; and that the objection itself, insofar as it implicates legitimacy, can, I think, be decisively answered. My answer does not require one to count up, as it were, the many reasons for and against judicial review. Instead, it asks that we stick to the actual 'question being asked. Like Albert, Mark Tushnet is distressed by this and wants to re-orient the question so that it fits the calculations that make the problem so bedeviling in the first place. This is, I believe, the crucial move of the map of explanations. It changes ground, and then claims for itself the primacy of the original discussion. In such maps, one invariably encounters such phrases as, "What we're really talking about here is ... " or "What the writer was really doing was...," or "What really motivated him was .. . ." And that is why it is so mortifying when it turns out that the casual causalist has got the facts wrong. … But is that the trouble with such "explanations"? I doubt it. I think, instead, that they are vulnerable to an irremediable flaw. If, as is asserted, the causalist can discern, beneath the surface, an otherwise hidden mechanics, how can we know that he, too, is not motivated by something as obscure to himself as he believes the true motives of others are to them? When, exactly, is Freud's cigar not just a cigar?
->
+> 
 > *XREF: Classic self-reference critique of psychoanalytic/hermeneutic suspicion; evokes similar challenges to ideology critique raised by postmodern and analytic thinkers.*
 > *QUESTION: Worth chasing: is the self-reference objection fatal to all depth explanations, or only preemptory ones?*
 
@@ -809,7 +810,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Tushnet's rigor may drive him to challenge unreflective psychological assumptions. [speculation]
 > Tushnet is one of the most accomplished constitutional scholars of our period. He combines a commitment to utter honesty with a voracious intellect and an indefatigable pen. Surely, if there is anyone capable of overcoming the customary assumptions of explanation that are so much a part of our contemporary intellectual life, it is he. When he comes to believe that the unquestioned aspects of our lives are not the petty stylistics of class, but are the profound tyrannies of unreflectively ascribing psychological dynamics to other people, I should not be surprised if his iconoclasm turns to attack the very shibboleth that currently casts a shadow on his work.
->
+> 
 > *QUESTION: Curious what the "shibboleth casting a shadow" on Tushnet's work is — the author leaves it unnamed.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 667</cite>
@@ -821,7 +822,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Winter conflates Wittgenstein with his interpreters in his scholarship. [contrarian]
 > And he iguores his own citation shortly thereafter to Wittgenstein, who says, "[flor a large class of cases-though not for all-in which we employ the word 'meaning' it can be defined thus: the meaning of a word is its use in the language." Winter has apparently become aware of these inconsistencies, for in his reply to Patterson, composed after his principal paper, he attempts to distance himself from the reader's understandable conclusion that he intends to portray Wittgenstein's views when he gives us, in his first paper, long quotations from Wittgenstein, and numerous citations to texts of Wittgenstein. When, Winter says, he referred to "'the Wittgensteinian,' the careful reader will have discerned, I trust, that this was not old Ludwig himself but a composite of Bobbitt, Rorty, and Fish as documented by my citations." I will return to this bizarre alibi in a moment, but for present purposes it really does not matter whether Winter is providing his understanding of Wittgenstein or of Wittgensteinians.
->
+> 
 > *QUESTION: Why does Winter's 'composite' alibi combine Bobbitt, Rorty, and Fish rather than engaging Wittgenstein directly?*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 698</cite>
@@ -833,7 +834,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Practices resist reduction to explicit rules due to their dynamic variability. [definitional]
 > A practice is a dynamic pattern of performance under varying circumstances. Consequently, it cannot be reduced to a set of rules because no such set could be both explicit enough to give adequate guidance and comprehensive enough to cover [new situations].... … On this view, there is little or nothing one can say about the content or structure of a practice, except perhaps to describe the stepby-step process of rote initiation.
->
+> 
 > *XREF: Echoes Polanyi's tacit knowledge and the knowing-more-than-we-can-tell tradition, as well as critiques of codifying expertise.*
 > *Builds on: "Practices exist and are legitimate before being described or mapped."*
 
@@ -846,7 +847,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Wittgenstein's teaching example actually supports describing practice content. [contrarian]
 > But the third point is absurd. Here, Winter quotes Wittgenstein: "[I]f a person has not yet got the concepts, I shall teach him to use the words by means of examples and by practice.- And when I do this I do not communicate less to him than I know myself." … This scarcely is support for the view that there is nothing one may say about the content or structure of a practice. Indeed, the quoted passage is a profound example of just the sort of thing one might say about virtually all practices: it recapitulates the first two points in Winter's argument and asserts that understanding is a matter of being able to do something.
->
+> 
 > *XREF: Connects to Wittgenstein's private language arguments and the general rule-following debate about practices.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 711</cite>
@@ -868,7 +869,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Logical words derive meaning from subjective experience. [definitional]
 > We wish to know what are the occurrences that make the word "or" useful. These occurrences are not to be sought in the facts that verify or falsify beliefs, which have no disjunctive quality, but are what they are. The only occurrences that demand the word "or" are subjective, and are in fact hesitations. In order to express a hesitation in words, we need "or" or some equivalent word.... … "[N]ot" must derive its meaning from experiences of rejection, and "or" from experiences of hesitation. Thus no essential word in our vocabulary can have a meaning independent of experience.
->
+> 
 > *DEFINE: Defines the origins of logical connectives ('or', 'not') by grounding them in felt experiences of hesitation and rejection rather than external facts.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 732</cite>
@@ -880,7 +881,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Wittgenstein denies psychological effects any necessary role in meaning. [definitional]
 > Remarks like the last may have thrown off readers like Winter. These remarks do not mean that signs have no effect on the mind, nor do they mean that every langnage game is an island without connections to the rest of langnage. If this were so, one could never learn a language. Rather, passages like this are attempts to locate Wittgenstein's purpose: He is attempting to work out a theory of meaning from a logical point of view, one that does not depend upon any particular empirical stimulus to account for its function. He is not denying reality to psychological effects; he is denying they have any necessary role in meaning.
->
+> 
 > *DEFINE: Clarifies Wittgenstein's logical theory of meaning: it works without dependence on empirical/psychological stimulus, though without denying such effects exist.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 740</cite>
@@ -892,7 +893,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Constitutional discourse extends beyond formal judicial interpretation to the public. [definitional]
 > Constitutional interpretation by formal decisionmakers committed to confine their decisions to legal bases is not the same practice as constitutional discourse, which, among other things, evaluates those decisions. Constitutional argument is available to the public at large (which constitutes the largest group of constitutional deciders) only because the language and means of such argument have a resonance in the rest of our cultural life.
->
+> 
 > *DEFINE: Distinguishes formal constitutional interpretation by decisionmakers from broader constitutional discourse that evaluates those decisions and is open to the public.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 767</cite>
@@ -904,7 +905,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Legal modalities are incommensurable and can legitimately conflict. [causal]
 > Thus, when Winter discloses that "[i]n effect, then, Bobbitt concedes that law faces the very predicament that Unger identifies""-that legal decisions are sometimes indeterminate-he discloses nothing because I "concede" nothing. Rather, it is a fundamental part of my views that the modalities may conflict, that they are incommensurable, and thus that no decision-procedure can determine the outcome in advance without sacrificing legitimacy. … It is justified to the extent that it produces results that can be justified-can be judged according to the prevailing moral sense of the day. The system as a whole, however, is justified because it has a role for the conscience within a legitimate system, though it is not the only conceivable system that can be justified on these grounds.
->
+> 
 > *DEFINE: Explains what 'modalities of law' mean: distinct modes of legal argument that can conflict and are incommensurable, so no decision-procedure can pre-determine outcomes.*
 > *Builds on: "Modal conflicts decide among incommensurables without requiring derived parameters"*
 
@@ -917,7 +918,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Justification and meaning-representation should both be retained [contrarian]
 > Having "problematized" my alleged conflict with Unger, Winter offers a solution. We could, he proposes, "accept the Wittgensteinian's first response without buying into the second; we could abandon the notion of justification without relinquishing entirely the concept of representation." Of course for me, this is the worst of both worlds: we should certainly not abandon the important enterprise of justification, nor should we return to the correspondence view of meaning, wherein it is claimed that we understand words and sentences when they represent (or stand for) our thoughts, feelings, or intentions.
->
+> 
 > *XREF: Rejects both naive correspondence theory of meaning and radical abandonment of justification, parallel to Steel's own middle-path positions on other debates.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 790</cite>
@@ -929,7 +930,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Language is inseparable from the activities and lifeforms embedding it [definitional]
 > A principal point of Wittgenstein's concept of a language-game is to emphasize that a language or rhetorical system like law is always "part of an activity, or of a form of life."
->
+> 
 > *DEFINE: This clarifies Wittgenstein's language-game concept: language is not abstract but tied to concrete activities and forms of life.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 793</cite>
@@ -941,7 +942,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Understanding a practice does not require grasping larger social contexts. [contrarian]
 > This is not an argument. It is a complete misconstruction of Wittgenstein's thought, and my own, to say that it "follows" from the relationship between a language game and a form of life that one cannot understand a practice without first understanding the "larger social practices," whatever they may be. But perhaps my own unfamiliarity with Winter's use of these terms concealed some consistency with my own convictions. Perhaps the "larger social practices" were not political and social movements, which are as irrelevant to being able to practice law legitimately as is an understanding of mortgage interest rates to being able to build a structurally sound house.
->
+> 
 > *XREF: Challenges the common reading of Wittgenstein's language game / form of life relationship that many practitioners assume.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 798</cite>
@@ -953,7 +954,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Historical narratives confer constitutional status only through being legally grounded. [contrarian]
 > How would an historical fact simpliciter confer constitutional status on a proposition entirely apart from any legal basis? If it means that the Justices may have been motivated by the importance of the freedom to travel to the American experience, I imagine this may have been so (although consistency with "absent forensic evidence" moves again close to the mystery genre). But the relevance of this point depends upon confusing motivation with causality. The mere wish to celebrate interstate travel does not write an opinion.
->
+> 
 > *DEFINE: Distinguishes judicial motivation from legal causality in constitutional interpretation, clarifying that historical celebration alone doesn't create constitutional doctrine.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 807</cite>
@@ -965,7 +966,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Intellectual arguments mirror detective fiction's narrative structure [craft]
 > A "type" of intellectual response is identified, much as a detective might explain an otherwise esoteric sort of criminal behavior. A list is drawn up of suspects, then the detective explains "the one thing they always overlook." Having set the stage, all the characters are summoned to a meeting in the drawing room. Then, the fatal flaw in the criminal's approach is exposed, and an arrest is made. A few wise reflections on the vagaries of mankind close the scene.
->
+> 
 > *XREF: Parallels the classical structure of deductive argumentation — thesis, evidence, climax, resolution — recast as a whodunit arc.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 817</cite>
@@ -987,7 +988,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Any maxim has an equally plausible counter-maxim. [contrarian]
 > The Setting.-Winter begins with a hypothetical taken from Jeremy Paul that posits a society that uses counsellors much as we use lawyers. These counsellors study maxims and precedents before advising clients on important life-choices. "Inevitably, however, some brash young scholar at one of the elite university schools makes a startling discovery: Every maxim appears to have a counter-maxim that, in any given case, could be applied with equal plausibility."
->
+> 
 > *QUESTION: If every maxim has a counter-maxim, what determines which one a counsellor actually applies? This seems to be the crux the anecdote sets up.*
 > *SEED: Could be an essay angle on how expertise is really discretionary judgment, not rule application — the 'counter-maxim problem' parallels debates in law and ethics.*
 
@@ -1000,7 +1001,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Conflicting proverbs cannot alone generate solutions to problems. [causal]
 > "Traditionalists" maintain that this body of maxims is an authoritative repository of the objective wisdom of the culture and claim that counsellors properly trained in their craft are able to resolve problems entirely by resort to the body of maxims. … "Critics"-whom Winter refers to as adherents to "counselling lore semiotics" or "cls"-maintain that the system of contradictory proverbs cannot itself generate solutions and accordingly accuse Traditionalists of mystifying their profession in order to advance their claims to power and wealth. … "Wittgensteinians" also appear in the cast. They are summoned to point out that both Critics and Traditionalists assume that the legitimacy of
->
+> 
 > *XREF: The Traditionalist/Critic/Wittgensteinian triad echoes Winter's earlier argument patterns about how judge-made law works, and resembles Kuhn's normal/revolutionary science distinction.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 824</cite>
@@ -1012,7 +1013,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Historical periods always harbor islands of decent, free, ordered life. [causal]
 > In the evaluation of the dominant moods of any historical period it is important to hold fast to the fact that there are always islands of self-sufficient order-on farms and in castles, in homes, studies, and cloisters-where sensible people manage to live relatively lusty and decent lives: as moral as they can be, as free as they may be, as masterly as they can be.
->
+> 
 > *DEFINE: Clarifies a historical method: broad 'dominant moods' assessments must account for resilient pockets of order in farms, castles, homes, studes, and cloisters.*
 > *XREF: Connects to the historical-genre fix for anonymous masses — individual livable lives persisting amid turbulent eras.*
 
@@ -1045,7 +1046,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Postmodernism shifted cultural focus from truth to meaning. [definitional]
 > One way to characterize this shift is as a shift from truth to meaning. This is the shift from the modem to the postmodern.
->
+> 
 > *DEFINE: Frames the modern-postmodern distinction as a shift from objective truth-seeking to meaning-making.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 874</cite>
@@ -1067,7 +1068,7 @@ last_highlight: "2026-08-11"
 
 > [!quote] Faith sustains belief in human pricelessness and moral judgment. [causal]
 > Does Patterson believe in the pricelessness of human beings because, of all earthly things, human beings are capable of love? To maintain this belief in the face of the inevitable pricing of human worth requires faith. Does Patterson believe that our decisions are impossible to explain causally because they are the products of free will? To maintain this belief in the face of the usual modern explanation requires faith. Does he believe that our legal decisions are inevitably moral because-not in spite of-the factladen, culture-laden nature of legal judgment that cannot be captured by an external moral calculus (because the decider is also the critic, the observer is the participant) and thus requires an account be given in its own terms, which alone can satisfy the conscience?
->
+> 
 > *XREF: Connects to debates about free will vs. causal determinism in modern philosophy and moral psychology.*
 
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 896</cite>
@@ -1083,4 +1084,4 @@ last_highlight: "2026-08-11"
 <cite>Philip Chase Bobbitt, Philip Chase Bobbitt - Refl…, loc. 900</cite>
 
 > [!Response]
->
+> 

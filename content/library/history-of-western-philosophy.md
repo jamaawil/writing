@@ -1,12 +1,13 @@
 ---
 title: "History of Western Philosophy"
-slug: "history-of-western-philosophy"
+slug: history-of-western-philosophy
 author: "Bertrand Russell"
 highlights: 175
 responses: 0
 cover: "https://img1.od-cdn.com/ImageType-100/0439-1/{B4EA1937-65C7-4D6C-A2A2-9A9FB9321279}Img100.jpg"
-first_highlight: "2026-08-01"
-last_highlight: "2026-08-01"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] If there is any intimate relation between what goes. [fact]
@@ -1755,4 +1756,4 @@ last_highlight: "2026-08-01"
 <cite>Bertrand Russell, History of Western Philosop…, loc. 2943</cite>
 
 > [!Response]
->
+> 

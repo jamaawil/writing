@@ -1,12 +1,13 @@
 ---
 title: "Folk devils and moral panics-the…"
-slug: "folk-devils-and-moral-panics-the"
+slug: folk-devils-and-moral-panics-the
 author: "Cohen, Stanley"
 highlights: 18
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
-first_highlight: "2026-07-27"
-last_highlight: "2026-07-27"
+cover: "https://covers.openlibrary.org/b/id/266701-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] In the end, the Lawrence case lacked three. [fact]
@@ -185,4 +186,4 @@ last_highlight: "2026-07-27"
 <cite>Cohen, Stanley, Folk devils and moral panic…, loc. 891</cite>
 
 > [!Response]
->
+> 

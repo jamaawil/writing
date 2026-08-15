@@ -1,12 +1,13 @@
 ---
 title: "The Library- A Fragile History"
-slug: "the-library-a-fragile-history"
+slug: the-library-a-fragile-history
 author: "Andrew Pettegree, Arthur der Weduwen"
 highlights: 134
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-5.25188386e520.png"
-first_highlight: "2026-08-05"
-last_highlight: "2026-08-08"
+cover: "https://covers.openlibrary.org/b/id/12304332-L.jpg"
+first_highlight: "2026-07-01"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] What Naudé did not discuss in his writings. [contrarian]
@@ -1345,4 +1346,4 @@ last_highlight: "2026-08-08"
 <cite>Andrew Pettegree, Arthur der Weduwen, The Library- A Fragile Hist…, loc. 966</cite>
 
 > [!Response]
->
+> 

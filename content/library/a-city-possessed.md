@@ -1,12 +1,13 @@
 ---
 title: "A City Possessed"
-slug: "a-city-possessed"
+slug: a-city-possessed
 author: "Lynley Hood"
 highlights: 29
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
-first_highlight: "2026-07-26"
-last_highlight: "2026-07-26"
+cover: "https://covers.openlibrary.org/b/id/12850377-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Societies appear to be subject. [fact]
@@ -295,4 +296,4 @@ last_highlight: "2026-07-26"
 <cite>Lynley Hood, A City Possessed, loc. 3486</cite>
 
 > [!Response]
->
+> 

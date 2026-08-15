@@ -1,12 +1,13 @@
 ---
 title: "The Gun and the Olive Branch The Roots…"
-slug: "the-gun-and-the-olive-branch-the-roots"
+slug: the-gun-and-the-olive-branch-the-roots
 author: "David Hirst"
 highlights: 10
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-4.11327a2af05a.png"
-first_highlight: "2026-07-27"
-last_highlight: "2026-07-27"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] The gun, not the olive branch. [contrarian]
@@ -105,4 +106,4 @@ last_highlight: "2026-07-27"
 <cite>David Hirst, The Gun and the Olive Branc…, loc. 1203</cite>
 
 > [!Response]
->
+> 

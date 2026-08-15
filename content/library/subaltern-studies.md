@@ -1,10 +1,13 @@
 ---
 title: "Subaltern Studies"
-slug: "subaltern-studies"
+slug: subaltern-studies
 author: "Guha (ed.)"
 highlights: 0
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/5006025-L.jpg"
+first_highlight: "2026-07-05"
+last_highlight: "2026-07-05"
+last_note: ""
 ---
 
 

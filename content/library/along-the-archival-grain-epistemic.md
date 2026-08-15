@@ -1,12 +1,13 @@
 ---
 title: "Along the Archival Grain_ Epistemic…"
-slug: "along-the-archival-grain-epistemic"
+slug: along-the-archival-grain-epistemic
 author: "Ann Laura Stoler"
 highlights: 92
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-0.c6917d331b03.png"
-first_highlight: "2026-08-08"
-last_highlight: "2026-08-09"
+cover: "https://covers.openlibrary.org/b/id/12169021-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] In the Netherlands Indies. [fact]
@@ -925,4 +926,4 @@ last_highlight: "2026-08-09"
 <cite>Ann Laura Stoler, Along the Archival Grain_ E…, loc. 1529</cite>
 
 > [!Response]
->
+> 

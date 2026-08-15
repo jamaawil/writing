@@ -1,12 +1,13 @@
 ---
 title: "A Kick in the Belly- Women, Slavery and…"
-slug: "a-kick-in-the-belly-women-slavery-and"
+slug: a-kick-in-the-belly-women-slavery-and
 author: "Stella Dadzie"
 highlights: 15
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
-first_highlight: "2026-08-01"
-last_highlight: "2026-08-01"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] I am entitled to say from my own knowledge. [fact]
@@ -155,4 +156,4 @@ last_highlight: "2026-08-01"
 <cite>Stella Dadzie, A Kick in the Belly- Women,…, loc. 427</cite>
 
 > [!Response]
->
+> 

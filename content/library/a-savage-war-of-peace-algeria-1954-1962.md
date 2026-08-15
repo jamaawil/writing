@@ -1,17 +1,18 @@
 ---
 title: "A Savage War of Peace- Algeria 1954-1962"
-slug: "a-savage-war-of-peace-algeria-1954-1962"
+slug: a-savage-war-of-peace-algeria-1954-1962
 author: "Horne, Alistair"
 highlights: 1128
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
+cover: "https://covers.openlibrary.org/b/id/4416846-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-10"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Defeat in Algeria paradoxically produced a stronger post-war France. [contrarian]
 > The war in Algeria (which lasted nearly eight years—almost twice as long as the "Great War" of 1914–18) toppled six French prime ministers and the Fourth Republic itself. It came close to bringing down General de Gaulle and his Fifth Republic and confronted metropolitan France with the threat of civil war. Yet, when defeat led to the cession of this corner-stone of her empire where she had been "chez elle" for 132 years, out of it arose an incomparably greater France than the world had seen for many a generation.
->
+> 
 > *XREF: Connects to broader decolonization literature showing empire's end often strengthened former metropoles, echoing arguments about Britain after 1945.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 8</cite>
@@ -23,7 +24,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonials sincerely believed Algeria was Western civilization's frontier [fact]
 > It was a "war of peace" in that no declaration of hostilities was ever made (unless one should recognise the first FLN proclamation of 1 November 1954 as such), and during most of the eight years the vast majority of Frenchmen lived unaffected by it. Equally, it was undeniably and horribly savage, bringing death to an estimated one million Muslim Algerians and the expulsion from their homes of approximately the same number of European settlers.
->
+> 
 > *XREF: Connects to white man's burden ideology and how imperial powers framed colonial wars defensively. Echoes later treatments of the French defeat narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 9</cite>
@@ -35,7 +36,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's war killed about a million Algerian Muslims [fact]
 > It was a "war of peace" in that no declaration of hostilities was ever made (unless one should recognise the first FLN proclamation of 1 November 1954 as such), and during most of the eight years the vast majority of Frenchmen lived unaffected by it. Equally, it was undeniably and horribly savage, bringing death to an estimated one million Muslim Algerians and the expulsion from their homes of approximately the same number of European settlers.
->
+> 
 > *QUESTION: The one million death estimate is worth verifying against more recent scholarship, which sometimes revises counts of Algerian war dead.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 9</cite>
@@ -57,7 +58,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Algerian war killed roughly a million Algerians. [fact]
 > It was a "war of peace" in that no declaration of hostilities was ever made (unless one should recognise the first FLN proclamation of 1 November 1954 as such), and during most of the eight years the vast majority of Frenchmen lived unaffected by it. Equally, it was undeniably and horribly savage, bringing death to an estimated one million Muslim Algerians and the expulsion from their homes of approximately the same number of European settlers.
->
+> 
 > *DEFINE: Clarifies the peculiar 'war of peace' framing that characterized this undeclared conflict.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 9</cite>
@@ -69,7 +70,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Failed revolutions reveal Western blindness to Third World aspirations. [causal]
 > Not merely one but several "revolutions" were taking place on a variety of distinct levels; there was, inter alia, a profound social revolution going on within the framework of Algerian Muslim society; and, on the French side, "revolutions" first by the army and later by the OAS against the political authority of France. Finally, there was the tug-of-war for the soul of Algeria as fought externally on the rostrum of the United Nations and the platforms of the Third World, and in the councils of both Western and Eastern blocs. For the West as a whole the Algerian War contained the lessons of two classic failures. First, the failure either to meet, or even comprehend, the aspirations of the Third World. This is with us today not least—or so it seems to me —because Boumedienne's Algeria is very much a creature of its revolutionary experiences and, if the consequences of its powerful influence over the Third World are not always agreeable for the West, the reasons might well be sought in the years 1954–62. Secondly, the lesson of the sad, repeated failure of the moderates, or a "third force," to compete against opposing extremes is one of constant relevance to the contemporary scene; whether it be in Northern Ireland, Southern Africa or Latin America. As in 1793 or 1917, in modern revolutions it is the Montagne that triumphs over the Gironde.
->
+> 
 > *XREF: The Montagne-versus-Gironde framing echoes the classical pattern of revolutionary extremism outcompeting moderation noted in the French and Russian revolutions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 10</cite>
@@ -81,7 +82,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Historical distance affects the reliability of war accounts [definitional]
 > There is also the major problem of perspective; in terms of time it falls between the two stools of being neither, strictly speaking, history nor non-vintage contemporary events. I am conscious of the warnings of several participants in the story, including President Bourguiba of Tunisia, that “un peu plus de recul” might be necessary before any definitive account of the Algerian War could be written.
->
+> 
 > *XREF: Connects to how contemporary history writing faces inherent problems of perspective and distance — parallels debates in journalism and historiography about when events can be objectively analyzed.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 11</cite>
@@ -103,7 +104,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian political culture prizes secretiveness and conceals internal strife. [causal]
 > The high walls that surround the houses in Algeria, the delightful courtyards concealed in total privacy behind squalid exteriors in the Casbah, hint at an Algerian characteristic that also does not ease the path of an historian. This natural instinct for secretiveness, developed over the five generations of French suzerainty, was further heightened to the point where few inklings leaked out during the eight years of clandestine warfare of the many internal splits that repeatedly threatened to rive the FLN leadership. It is no less difficult to discover the truth of such divisions today. Compounded with secretiveness there also remains some degree of apprehension. Factionalism of the Revolution continued long after Independence in 1962, and as late as 1967 there was an abortive coup against Boumedienne. Two of the neuf historiques founders of the revolt against France have been mysteriously murdered in exile in Europe; Ben Bella remains in prison, who knows where? Several other former revolutionary leaders live, like Trotsky, nervously in disfavour abroad.
->
+> 
 > *DEFINE: Explains the Algerian 'instinct for secretiveness'—a cultural trait shaped under French rule and intensified by clandestine warfare that frustrates historical research.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 14</cite>
@@ -115,7 +116,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's revolution was rooted in collective, anonymous struggle. [fact]
 > The same applies elsewhere in Algeria, and the explanation is, in part, that the Algerian Revolution was, from the beginning, a movement of collectivity: of collective leadership, of collective suffering, and collective anonymity. Thus, deliberate efforts have been made to veer away from anything resembling a cult of the individual hero or martyr. There is, additionally, a more general factor in that the Arab tradition holds a concept of history that is rather different from the European.
->
+> 
 > *XREF: Connects to broader historiographical contrasts between Arab and European conceptions of history, and postcolonial scholarship on collective identity.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 15</cite>
@@ -137,7 +138,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian war archives remain sealed while witnesses die. [fact]
 > In France the sack-loads of archives removed from the Gouvernement-Général in the last days of the war lie, sealed from the public gaze, in the repositories of the University of Aix-en-Provence; in Algiers, the official archives were only just beginning to be assembled in a splendid new centre in 1984. Yet, meanwhile, memories are fading and eye-witnesses dying, their recollections unrecorded.
->
+> 
 > *QUESTION: What is in those sealed archives at Aix-en-Provence, and why are they still closed decades later? Worth investigating whether they have since been opened.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 36</cite>
@@ -149,7 +150,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's guerrilla war shaped modern insurgent movements globally [causal]
 > Yet this story of how a handful of Algerian guerrillas, primitively armed, but masterfully deploying the weapon of terror, outwitted and out-fought over eight years the best armies that France could provide, remains on the statute books as a prototype of the modern war of national liberation. In South Africa the ANC studied it carefully, prior to the release and apotheosis of Nelson Mandela; in their unleashing of intifada against Israel, Palestinian leaders have looked ardently towards it. So has al-Qaeda.
->
+> 
 > *XREF: Connects to broader histories of national liberation movements and counterinsurgency doctrine.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 38</cite>
@@ -161,7 +162,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Corruption scandals cost Algeria roughly its entire national debt. [fact]
 > The Arab-Israeli War of 1973, with its accompanying surge in oil prices, was partly orchestrated in Algiers. When Boumedienne died in 1978, the seemingly more benign Chadli Benjedid brought hopes of a more liberal Algeria. But these faded as the country wrestled with mountainous economic problems, amid murmurs of corruption estimated to have cost the impoverished country the equivalent of the entire national debt.
->
+> 
 > *QUESTION: What were the specific corruption cases, and how were the estimates derived? Worth digging deeper into the figures.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 39</cite>
@@ -183,7 +184,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's 1992 civil war mirrored the 1954 anticolonial revolt's tactics. [causal]
 > The FIS took advantage of the upsurge in hostility and disillusion with the regime, which had first been expressed in riots in October 1988. After the creation of a new multiparty system in 1989 the FIS successfully posed as the only viable alternative to the regime capable of ejecting the corrupt and despised existing system. In 1992 elections were cancelled, and the FIS disenfranchised. Elements of it took to the hills and the streets in much the same way as the FLN had in 1954. … Starting with the killing of local policemen and regional administrators—just as in 1954, but displaying less coordination—an appalling civil war ensued, with the Algiers government proving as incapable of crushing the revolt as the French Army had been in 1954–62.
->
+> 
 > *XREF: Echoes the pattern of insurgencies born from state repression seen throughout Algerian history; parallels French army's 1954-62 failures with the Algiers government's.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 40</cite>
@@ -195,7 +196,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian civil war followed the same trajectory as the 1954 revolution. [fact]
 > Starting with the killing of local policemen and regional administrators—just as in 1954, but displaying less coordination—an appalling civil war ensued, with the Algiers government proving as incapable of crushing the revolt as the French Army had been in 1954–62. The FIS was in turn thrust aside by a far more extreme band of revolutionaries, the GIA (Armed Islamic Group), prepared to wage war with total ruthlessness.
->
+> 
 > *XREF: Parallels with the earlier 1954-62 Algerian war of independence against France, showing recurring cycles of violent revolution in Algerian history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 41</cite>
@@ -207,7 +208,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] State security forces may have committed massacres blamed on Islamists. [fact]
 > The techniques of murder equally had echoes from the grisly égorgements, the throat-slittings, from days of the Savage War, the "Kablyie Smile" as French servicemen dubbed it with unpleasant humour, frequently accompanied by castration. Beheading victims became common, their heads stuck on road signs as a kind of gruesome sport. Algerians themselves spoke of the "blind war," but in its prolonged, random senselessness it came almost more to resemble Europe's Thirty Years' War of the seventeenth century.
->
+> 
 > *QUESTION: The actual motivation for regime involvement remains murky — worth probing how regimes exploit public bewilderment to shape narratives.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 42</cite>
@@ -219,7 +220,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian war atrocities revived brutal tactics from colonial-era violence. [fact]
 > The techniques of murder equally had echoes from the grisly égorgements, the throat-slittings, from days of the Savage War, the "Kablyie Smile" as French servicemen dubbed it with unpleasant humour, frequently accompanied by castration. Beheading victims became common, their heads stuck on road signs as a kind of gruesome sport. Algerians themselves spoke of the "blind war," but in its prolonged, random senselessness it came almost more to resemble Europe's Thirty Years' War of the seventeenth century.
->
+> 
 > *XREF: Connects to histories of colonial violence and the Thirty Years' War comparison the highlight itself draws.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 42</cite>
@@ -251,7 +252,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian conflicts repeatedly overflowed into violence on French soil. [fact]
 > The problem of immigration became an ever hotter issue for any French government to handle, as carnage in Algeria—on top of overpopulation—persuaded increasing numbers of Algerians to seek refuge, and employment, in France. In the winter of 2005–6, outbursts of rage in the overcrowded banlieues, with their substandard housing, gave the lie to the Gaullist notion that, with the end of the war in 1962, France could wash its hands of the "Algerian Problem." Now there are over five million of Algerian extraction living in France.
->
+> 
 > *XREF: Connects to histories of postcolonial migration and terrorism, including the 1995 Paris Metro bombings and the 1994 Air France hijacking, foreshadowing 9/11.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 46</cite>
@@ -263,7 +264,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian immigration exploded after France's Algerian war ended [causal]
 > The problem of immigration became an ever hotter issue for any French government to handle, as carnage in Algeria—on top of overpopulation—persuaded increasing numbers of Algerians to seek refuge, and employment, in France. In the winter of 2005–6, outbursts of rage in the overcrowded banlieues, with their substandard housing, gave the lie to the Gaullist notion that, with the end of the war in 1962, France could wash its hands of the "Algerian Problem." Now there are over five million of Algerian extraction living in France.
->
+> 
 > *XREF: Connects to the broader post-colonial migration patterns across Europe and the ongoing France-Algeria tensions that persist today.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 46</cite>
@@ -275,7 +276,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's anti-colonial war seeded later global jihad networks. [causal]
 > One cannot stress this fact too often. Nevertheless, in many ways the horrors suffered in Algeria's own civil war do read like a paradigm, a microcosm of present-day Islam's frustrated inadequacy to meet the challenges of the modern world, the anger generated thereby finding itself directed into lashing out against the rich, successful West.
->
+> 
 > *XREF: Connects to broader histories of decolonization and the origins of modern Islamist militancy beyond Algeria, echoing literature on the long afterlife of colonial violence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 47</cite>
@@ -287,7 +288,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's civil war mirrors Islam's modern-world frustrations [connection]
 > One cannot stress this fact too often. Nevertheless, in many ways the horrors suffered in Algeria's own civil war do read like a paradigm, a microcosm of present-day Islam's frustrated inadequacy to meet the challenges of the modern world, the anger generated thereby finding itself directed into lashing out against the rich, successful West.
->
+> 
 > *QUESTION: This claim frames a complex civil war as a 'microcosm' of a broader civilizational tension — worth probing how robust that generalization is.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 47</cite>
@@ -299,7 +300,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Insurgents neutralize collaborators to tie down a stronger army defensively [causal]
 > In the early days of the Algerian War, once the FLN realised it was not strong enough to take on the powerful French Army, it concentrated its attacks on the native police loyal to France. Result: a deadly loss of morale among the police, with defections to the FLN, and the French Army defensively reduced to protecting the police, instead of concentrating on active "search-and-destroy" missions. The "insurgents" in Iraq have learned from this strategy with deadly effect.
->
+> 
 > *XREF: This connects to the FLN's Algeria strategy and its direct echo in Iraq — a classic asymmetric warfare tactic of bypassing the strong power and targeting its local allies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 49</cite>
@@ -321,7 +322,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Cross-border enemy sanctuaries can paralyze a dominant conventional force. [causal]
 > In 1954–62, the winning French Army was paralysed by its inability to pursue its FLN enemy across into its friendly bases in neighbouring Tunisia and Morocco. This is what, in effect, led to the collapse of the French government and the advent of de Gaulle in 1958. In their turn, the Iraq insurgents have been able to use Syria—and now, much more dangerously, Iran—to similar advantage.
->
+> 
 > *XREF: Connects to historical-counterinsurgency parallels the reader is exploring, contrasting Algeria 1954-62 with Iraq insurgency.*
 > *QUESTION: How do today's cross-border sanctuary dynamics (Iran, Syria) play out versus NATO, drones, and precision strike intercepting those sanctuaries?*
 
@@ -334,7 +335,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture in Algeria ultimately caused France's military defeat [causal]
 > In the Algerian War what led—probably more than any other single factor—to the ultimate defeat of France was the realisation, in France and the world at large, that methods of interrogation were being used that had been condemned under the Nazi Occupation. … As a further footnote to my tenet, learned in Algeria, that torture should never, never, never be resorted to by any Western society, I draw readers once again to the testimony of Prefect Teitgen of Algiers (see) which —three decades on—I still find deeply moving.
->
+> 
 > *QUESTION: The claim that torture more than any other factor caused France's defeat is a contestable historical assertion worth probing.*
 > *XREF: Connects to the broader theme of how a nation's moral standing shapes the outcome of asymmetric conflicts.*
 
@@ -347,7 +348,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture delegitimizes a war through public condemnation of methods. [causal]
 > In the Algerian War what led—probably more than any other single factor—to the ultimate defeat of France was the realisation, in France and the world at large, that methods of interrogation were being used that had been condemned under the Nazi Occupation. … As a further footnote to my tenet, learned in Algeria, that torture should never, never, never be resorted to by any Western society, I draw readers once again to the testimony of Prefect Teitgen of Algiers (see) which —three decades on—I still find deeply moving.
->
+> 
 > *DEFINE: Distills the author's core tenet that any Western society must never resort to torture, learned directly from the Algerian War experience.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 51</cite>
@@ -359,7 +360,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture reliably produces counterproductive and unreliable intelligence. [causal]
 > Because of the slowness of communications in the 1950s and 1960s, it took a year or more for the message of abuses perpetrated in Algeria to sink in. Now, with the Internet and al-Jazeera, one set of photos from Abu Ghraib is enough to inflame hatred across the Islamic world against the West, providing excuse for all the beheadings and atrocities carried out by al-Qaeda. From the Inquisition to the Gestapo and the "Battle of Algiers," history teaches us that, in the production of reliable intelligence, regardless of the moral issue, torture is counter-productive.
->
+> 
 > *XREF: Connects to debates about enhanced interrogation effectiveness post-9/11 and how abuses fuel radicalization, echoing arguments from both intelligence and counterterrorism literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 52</cite>
@@ -371,7 +372,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture produces unreliable, counterproductive intelligence across eras [causal]
 > Because of the slowness of communications in the 1950s and 1960s, it took a year or more for the message of abuses perpetrated in Algeria to sink in. Now, with the Internet and al-Jazeera, one set of photos from Abu Ghraib is enough to inflame hatred across the Islamic world against the West, providing excuse for all the beheadings and atrocities carried out by al-Qaeda. From the Inquisition to the Gestapo and the "Battle of Algiers," history teaches us that, in the production of reliable intelligence, regardless of the moral issue, torture is counter-productive.
->
+> 
 > *XREF: Connects to modern intelligence debates and the Abu Ghraib scandal; the historical loop from Algeria to Iraq mirrors recurring counterinsurgency failures.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 52</cite>
@@ -383,7 +384,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture inflicts lasting psychological damage on perpetrators too. [causal]
 > In passing, one should also note France’s painful discovery that, fifty years on, many former “torturers” in the armed services were having to resort to psychiatric “counselling.” The inflicters of torture as well as their victims remain grievously impaired.
->
+> 
 > *XREF: Ties to broader literature on moral injury and trauma affecting perpetrators of violence, not just victims.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 55</cite>
@@ -395,7 +396,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Occupying a conquered territory breeds enduring resistance and unending war. [causal]
 > As long as you keep Algiers, you will be constantly at war with Africa; sometimes this war will seem to end; but these people will not hate you any the less; it will be a half-extinguished fire that will smoulder under the ash and which, at the first opportunity, will burst into a vast conflagration.
->
+> 
 > *QUESTION: This colonial-era warning about Algeria raises questions about how occupation sustains insurgency over generations — worth exploring in modern counterinsurgency contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 63</cite>
@@ -417,7 +418,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The same liberation rhetoric meant opposite things to France and Algeria. [contrarian]
 > If it was liberation that a haggard France was fêting that May day, that too was the magic word mobilising the Muslim community of Sétif. The difference was that the one was celebrating its return; the other, marching in quest of something it considered to be still denied it.
->
+> 
 > *DEFINE: Contrasts how 'liberation' functioned as a mobilising slogan with diametrically opposed reference points: France seeking return, Algeria seeking advance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 67</cite>
@@ -439,7 +440,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] V.E. Day timing magnified the Sétif uprising's symbolic force [causal]
 > If there was indeed to have been a concerted demonstration in favour of Algerian independence (although the evidence for this remains still inconclusive), there could hardly have been chosen a better day than V.E. Day; nor a better place in which to ignite the spark than Sétif. All Europe — and especially France — was rejoicing at deliverance from an occupying power; the United Nations Charter was about to be signed at San Francisco amid pious declarations of self-determination for subject peoples; while in Cairo birth had been given to the Arab League, a day of importance in the cause of Muslim independence everywhere. The French army was still largely preoccupied in Europe, and in Sétif itself there were no more than twenty gendarmes to maintain order.
->
+> 
 > *XREF: Connects to broader patterns of decolonization movements emerging at symbolic historical moments, and the irony of self-determination being celebrated in the UN Charter while denied in colonies.*
 > *SEED: Possible essay angle: how timing—days of symbolic triumph or political vacuum—shapes the fate of nascent independence movements.*
 
@@ -472,7 +473,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] European vigilantes killed far more Algerians than the army did [fact]
 > The casualties inflicted by the armed forces were set officially (by the Tubert Commission Report) at 500 to 600, but the numbers of Muslim villagers killed by the more indiscriminate naval and aerial bombardments may well have amounted to more. Nevertheless, the figure seems to have been but a small proportion of the dead accounted for by the vengeful backlash of an outraged and frightened European population. Spontaneously organised vigilantes seized prisoners out of country gaols and lynched them; Muslims found not wearing the white brassards as prescribed by the army were simply despatched on the spot. At one village alone, held under siege by the Muslims during the uprisings, 219 were reported to have been shot out of hand. At Guelma, where the European fury reputedly reached its highest point, the Algerian Communist Party was well to the fore in the work of reprisal — a factor of significance in the forthcoming revolution.
->
+> 
 > *XREF: Connects to histories of colonial repression and settler violence in North Africa, and to patterns of vigilante backlash seen in other colonial contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 74</cite>
@@ -484,7 +485,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Vigilante Europeans massacred far more Muslims than the army did. [fact]
 > The casualties inflicted by the armed forces were set officially (by the Tubert Commission Report) at 500 to 600, but the numbers of Muslim villagers killed by the more indiscriminate naval and aerial bombardments may well have amounted to more. Nevertheless, the figure seems to have been but a small proportion of the dead accounted for by the vengeful backlash of an outraged and frightened European population. Spontaneously organised vigilantes seized prisoners out of country gaols and lynched them; Muslims found not wearing the white brassards as prescribed by the army were simply despatched on the spot. At one village alone, held under siege by the Muslims during the uprisings, 219 were reported to have been shot out of hand. At Guelma, where the European fury reputedly reached its highest point, the Algerian Communist Party was well to the fore in the work of reprisal — a factor of significance in the forthcoming revolution.
->
+> 
 > *XREF: Relates to accounts of colonial reprisal violence and settler vigilantism in other colonial contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 74</cite>
@@ -506,7 +507,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Sétif death toll estimates vary wildly by political allegiance [fact]
 > Estimates of the toll of Muslim dead exacted in the wake of Sétif fluctuate wildly, as is so often the case. The Tubert Report placed the figure at between 1,020 and 1,300; while Cairo radio immediately claimed that 45,000 had been killed — a total which was to become accepted more or less unquestioningly by the Algerian nationalists. Robert Aron advances a figure of 6,000 which (although the basis whereby it was derived is not entirely clear) now seems generally acceptable to moderate French historians. But even if one were to accept the very lowest figure proffered by the Tubert Report, it still represents a ten to one "over-kill" in relation to the numbers of Europeans massacred; especially when, as was later officially estimated, no more than five per cent of the population had been tainted anyway.
->
+> 
 > *QUESTION: Which figure is most reliable? The 10:1 over-kill ratio even at the lowest estimate is striking and worth verifying.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 75</cite>
@@ -528,7 +529,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial repression in Sétif radicalized returning Algerian soldiers into FLN leaders. [causal]
 > Of more direct significance was the disembarkation, shortly after Sétif, of the 7th Regiment of Algerian Tirailleurs, a unit that had distinguished itself in battle in Europe. Many of its men came from the Constantine area and were utterly appalled by the stories they heard. A number of these returning soldiers were subsequently to become leaders of the F.L.N. Among them was a much-decorated sergeant, Ben Bella, who wrote: “The horrors of the Constantine area in May 1945 succeeded in persuading me of the only path; Algeria for the Algerians.” The Algerian liberal leader, Ferhat Abbas, had condemned the wanton slaughter of Europeans by declaring, at the beginning of the uprising, “those who have urged you to rebellion betray you”. But, on his way to congratulate the Governor-General on the Allied victory, he — like 4,500 of his followers who had had nothing whatever to do with the uprising — was arrested and, later, was forced to admit that Sétif “has taken us back to the days of the crusaders”.
->
+> 
 > *XREF: Connects to broader patterns where state repression of moderates pushes a colonized population toward armed resistance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 79</cite>
@@ -540,7 +541,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pre-colonial Algeria had a functioning civilisation, not anarchy. [contrarian]
 > In 1830, the country lay nominally under a loose suzerainty of Turkish military rule. Successive generations of French historians have, for fairly obvious reasons, claimed that a state approximating tribal anarchy prevailed. This view is now contested by “neutral” as well as Arab historians. In 1847 de Tocqueville declared to the French National Assembly that “The Muslim society in North Africa was not uncivilised; it only had a backward and imperfect civilisation.” He went on to claim “we have rendered Muslim society much more miserable and much more barbaric than it was before it became acquainted with us”. Even some of the early French conquerors paid tribute to signs of Algeria’s civilisation, however rudimentary, with one general noting in 1834, “nearly all the Arabs can read and write; in each village, there are two schools”.
->
+> 
 > *QUESTION: The Turkish suzerainty and tribal structure is described as misjudged by French historians. What was the actual political organisation of pre-1830 Algeria?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 83</cite>
@@ -562,7 +563,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian tribes defied both French invaders and national unifiers. [fact]
 > In December the following year, a time when the U.S.A. had admitted little more than half its eventual complement of states to the Union, the Second Republic declared Algeria an integral part of France, transforming its vast territories into three French departments. It was a historic, indeed unique, step, and one which thereby set up for successive French republics a deadly trap from which they would find it well nigh impossible to escape.
->
+> 
 > *XREF: Connects to broader patterns of colonial resistance and internal tribal fragmentation that recur across colonized territories.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 85</cite>
@@ -574,7 +575,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonialist France's overwhelming weight crushed Algerian national resistance. [fact]
 > In December the following year, a time when the U.S.A. had admitted little more than half its eventual complement of states to the Union, the Second Republic declared Algeria an integral part of France, transforming its vast territories into three French departments. It was a historic, indeed unique, step, and one which thereby set up for successive French republics a deadly trap from which they would find it well nigh impossible to escape.
->
+> 
 > *DEFINE: Establishes the historical context of France's colonial weight against Abd-el-Kader's efforts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 85</cite>
@@ -586,7 +587,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's annexation as French departments created an inescapable colonial trap [causal]
 > In December the following year, a time when the U.S.A. had admitted little more than half its eventual complement of states to the Union, the Second Republic declared Algeria an integral part of France, transforming its vast territories into three French departments. It was a historic, indeed unique, step, and one which thereby set up for successive French republics a deadly trap from which they would find it well nigh impossible to escape.
->
+> 
 > *XREF: Connects to broader histories of settler colonialism in North Africa and decolonization struggles.*
 > *QUESTION: How did this legal incorporation constrain later French attempts to decolonize peacefully?*
 
@@ -609,7 +610,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian land laws enabled dispossession of Muslim farmers [fact]
 > Napoleon III, who was perhaps one of the first French leaders to concern himself seriously with the Algerian plight, in 1863 passed a law aimed at "reconciling an intelligent, proud warlike and agrarian race" in which was stipulated, inter alia, that "France recognises the ownership by Arab tribes of territories of which they have permanent and traditional benefit". As so often with the more liberal acts of this well-intentioned ruler, however, their execution did not match up to his ideals; while a decade earlier he had himself pushed the floodgates of immigration ajar with his own political exiles and the unemployed of the Parisian ateliers. In his constant search for fresh funds abroad, he had also sold to the Compagnie Genevoise some fifteen thousand hectares of the best land round Sétif; but in the long run this would benefit neither France (in that the substantial income off it flowed into the pockets of Swiss bankers) nor Algeria (in that, contrary to Louis-Napoleon's intentions, its intensive operations offered but little employment for land-hungry peasants), and in itself was to provide one of the contributory causes to the 1945 events.
->
+> 
 > *XREF: Connects to the broader historical pattern of colonial land alienation and legalized dispossession, similar to other settler-colonial regimes.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 87</cite>
@@ -621,7 +622,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Napoleon III's liberal Algerian policies failed through poor execution. [causal]
 > Napoleon III, who was perhaps one of the first French leaders to concern himself seriously with the Algerian plight, in 1863 passed a law aimed at "reconciling an intelligent, proud warlike and agrarian race" in which was stipulated, inter alia, that "France recognises the ownership by Arab tribes of territories of which they have permanent and traditional benefit". As so often with the more liberal acts of this well-intentioned ruler, however, their execution did not match up to his ideals; while a decade earlier he had himself pushed the floodgates of immigration ajar with his own political exiles and the unemployed of the Parisian ateliers. In his constant search for fresh funds abroad, he had also sold to the Compagnie Genevoise some fifteen thousand hectares of the best land round Sétif; but in the long run this would benefit neither France (in that the substantial income off it flowed into the pockets of Swiss bankers) nor Algeria (in that, contrary to Louis-Napoleon's intentions, its intensive operations offered but little employment for land-hungry peasants), and in itself was to provide one of the contributory causes to the 1945 events.
->
+> 
 > *XREF: Connects to broader history of colonial land expropriation and how well-intentioned reform backfires, echoing patterns seen in French Algeria land policy.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 87</cite>
@@ -653,7 +654,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French settlers transformed Algerian marshes into rich farmland and vineyards [fact]
 > Undeniably, however, much of the land colonised by the pieds noirs had been carved out of insalubrious wilderness, some of which may have been used as migratory grazing grounds, rather than grabbed directly from Muslim farmers. This was especially true of the mosquito-ridden marshes of the Mitidja, inland from Algiers. Its reputation in the early colonial days was so bad that anyone with a face rendered sallow by fever was said to have a "Boufarik complexion", but under French expertise it was rapidly to become Algeria's richest farming area. In 1843, Trappist monks introduced the vine to the Mitidja; thirty-five years later the coming of phylloxera to France launched the Algerian wine industry, and by the mid-twentieth century it had grown to be one of the Mediterranean's biggest producers. Thus in the all-important realm of agriculture, as indeed in that of industrial development later, the colons could reasonably claim that they had created the country out of virtually nothing. But it was the old, old story of the Europeans with their superior technique, resources and aggressive vigour progressively assimilating the best lands, while at the same time the more numerous indigènes were being pushed out on to the more peripheral lands.
->
+> 
 > *XREF: Connects to broader colonial land-dispossession patterns across French North Africa and settler colonialism more generally.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 89</cite>
@@ -695,7 +696,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonial administration in Algeria was chronically understaffed [fact]
 > The institution of the commune mixte contained many of the elements of what, by the mid-twentieth century, was most unsatisfactory about French rule in Algeria. It was, in fact, an adaptation in modern dress of Père Bugeaud's Bureaux Arabes, which had worked well enough in the early days, but it was simply not equipped to cope with either the advanced technical problems of the twentieth century or its vastly expanded Muslim populations. It is revealing that, whereas in 1922 there were 300 European administrators for the communes mixtes for three million Muslims governed by them, by 1954 the ratio had shifted to 257 for four and a half million. At Arris, for instance, the epicentre of the 1954 revolt in the Aurès, one administrator and two assistants were in charge of 60,000 dispersed over a wide and inaccessible area. The fault lay, to a large extent, with French policy which — possibly out of fear of releasing a genie from the bottle — had consistently shied away from creating an indigenous administrative corps.
->
+> 
 > *XREF: Connects to broader literature on colonial administrative neglect and how under-institutionalization breeds revolt.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 93</cite>
@@ -707,7 +708,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial administrators depended on a stratified Muslim intermediary class. [fact]
 > More and more the administrator came to rely on these Muslim intermediaries; some were venerable and honourable old men, laden with decorations, who had fought for France, or served her loyally and with integrity; others owed their position purely to family and tradition, and were known contemptuously by young nationalists as the Beni-Oui-Oui, the rubber stamps of French policy; still others were appallingly corrupt.
->
+> 
 > *DEFINE: Beni-Oui-Oui is a derogatory term for Muslim intermediaries seen as rubber stamps of French colonial policy.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 95</cite>
@@ -719,7 +720,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Modern communications deepened colonial administrators' isolation from native populations. [contrarian]
 > Paradoxically, the advent of modern communications meant that the over-worked administrator became more, rather than less, out of contact with his flock; he communicated by telephone instead of riding out by horseback, as in the good old days, to stay overnight in the various douars. Many inhabitants in the remoter mountains of the Aurès and Kabylia never saw a European in their lives, their sole contact with France being through a caid, bachaga or the hated local tax-collector.
->
+> 
 > *QUESTION: How did the shift from horseback visits to telephone communication reshape colonial governance and native perceptions of French authority?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 95</cite>
@@ -741,7 +742,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonial rule unfairly privileged Algerian Jews over indigenous Muslims. [causal]
 > There was an important additional anomaly that provoked bitterness whenever the bona fides of "assimilation" with the mother country were questioned. This was the issue of French citizenship. Muslims were automatically French "subjects", but not French "citizens". From the early days legislation had permitted them to be subject to Islamic, as opposed to French, law; this may have been designed as a cultural and religious protection, but it became in effect a prison, because a Muslim wishing to adopt French citizenship had to renounce these rights, thereby virtually committing an act of apostasy. Moreover, in practice many obstacles were placed in the path of the Muslim seeking French citizenship. Back in 1871 tribesmen reporting in front of a judge at Bougie to fill in naturalisation papers were, reportedly, thrown into prison — pour encourager les autres. As a result, by 1936, after seventy-five years of "assimilation", no more than 2,500 Muslims had actually crossed the bar to French citizenship. There were two further inconsistencies. To begin with, in having imposed upon them by the French the Arab judicial system, the Berber Kabyles had been made to accept a social structure that had been alien to them in the first place. Secondly, in 1870 the Crémieux Decrees had made the exception of conferring automatic French citizenship upon the whole Jewish community of Algeria. Here, for Muslims, was a constantly open wound: why should the Jewish minority be open to political privileges denied to the indigenous majority?
->
+> 
 > *XREF: Connects to broader North African decolonization history and the Algerian independence struggle against French rule.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 100</cite>
@@ -753,7 +754,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Muslims in Algeria were French subjects, not citizens. [fact]
 > There was an important additional anomaly that provoked bitterness whenever the bona fides of "assimilation" with the mother country were questioned. This was the issue of French citizenship. Muslims were automatically French "subjects", but not French "citizens". From the early days legislation had permitted them to be subject to Islamic, as opposed to French, law; this may have been designed as a cultural and religious protection, but it became in effect a prison, because a Muslim wishing to adopt French citizenship had to renounce these rights, thereby virtually committing an act of apostasy. Moreover, in practice many obstacles were placed in the path of the Muslim seeking French citizenship. Back in 1871 tribesmen reporting in front of a judge at Bougie to fill in naturalisation papers were, reportedly, thrown into prison — pour encourager les autres. As a result, by 1936, after seventy-five years of "assimilation", no more than 2,500 Muslims had actually crossed the bar to French citizenship. There were two further inconsistencies. To begin with, in having imposed upon them by the French the Arab judicial system, the Berber Kabyles had been made to accept a social structure that had been alien to them in the first place. Secondly, in 1870 the Crémieux Decrees had made the exception of conferring automatic French citizenship upon the whole Jewish community of Algeria. Here, for Muslims, was a constantly open wound: why should the Jewish minority be open to political privileges denied to the indigenous majority?
->
+> 
 > *XREF: Contrasts with the Crémieux Decrees granting automatic citizenship to Algeria's Jewish community — a systemic inequality.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 100</cite>
@@ -775,7 +776,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian veterans' loyalty earned only token citizenship concessions [causal]
 > In 1914–1918 Algerian troops fighting alongside the French had suffered appalling casualties of 25,000 killed out of 173,000 joining the colours. By way of recognition of their courage and loyalty legislation was introduced in 1919 to facilitate Muslim access (in modest numbers) to French citizenship. It aroused the most intransigent and violent opposition from the pieds noirs, reluctant or fearful of change, typical of which was this expostulation by the senator from Oran. "The indigènes have fulfilled their duty vis-à-vis ourselves and deserve to be recompensed. But to do this, is it necessary to resort to imprudent measures?"
->
+> 
 > *XREF: Connects to broader patterns of colonial powers honoring wartime service from colonized peoples with symbolic rather than substantive rights.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 101</cite>
@@ -787,7 +788,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French settler opposition killed Algeria's modest assimilation bill. [causal]
 > Deeply aware of the stirrings of discontent beneath the then apparently placid surface of Algeria, he issued this prophetic warning the year after the centenary: “before twenty years are up we will know the gravest of difficulties in North Africa”. Five years later, Viollette succeeded in getting a set of liberal reforms tabled by the Assembly, the Blum—Viollette Bill. His declared ideal was that “Muslim students, while remaining Muslim, should become so French in their education, that no Frenchman, however deeply racist and religiously prejudiced he might be… will any longer dare to deny them French fraternity”. It spelt, in one word, “assimilation”. The provisions of his bill, however, were once again extremely modest, notably offering citizenship to no more than 25,000 (out of some six million) Muslims, without renouncing their statutory rights to Islamic law. … But the well-oiled mechanism of pied noir protest began to run; the Algerian Press fulminated against the “explosive situation” provoked by Parisian ignorance; the anciens combattants marched through the streets; the mayors threatened to resign; the powerful lobbies in Paris burrowed away. “We will never tolerate that in even the smallest commune an Arab might be mayor” was a not untypical pied noir reaction. Under pressure at home and the threat of Hitler abroad, Leon Blum’s Popular Front hesitated, and finally collapsed before the bill could be passed.
->
+> 
 > *XREF: Connects to broader history of French colonialism and failed assimilation policies, and the path to the Algerian War of independence.*
 > *SEED: The 25,000-of-six-million citizenship figure is a striking statistic for an essay on why tokenist reform fails.*
 
@@ -800,7 +801,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Denied political admission pushes Muslims to forge their own nation [causal]
 > When the Muslims protest, you are indignant; when they approve, you are suspicious; when they keep quiet you are fearful. Messieurs, these men have no political nation. They do not even demand their religious nation. All they ask is to be admitted into yours. If you refuse this, beware lest they do not soon create one for themselves.
->
+> 
 > *QUESTION: This is a striking warning about how exclusion breeds nation-building. Worth investigating the historical context of where this was said and what happened next.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 103</cite>
@@ -812,7 +813,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Repeatedly thwarted reforms pushed Algerian liberals to despair [causal]
 > The still-born Blum—Viollette Bill was the ultimate plea for "assimilation". It aroused the most glowing hopes among Muslim liberals, but when — like every other endeavour of reform between 1909 and 1954 — it was thwarted, they were replaced by black despair.
->
+> 
 > *XREF: Connects to histories of colonial assimilation policies and how failed gradual reform cycles radicalize moderate factions — parallels with other settler-colonial contexts like South Africa or Palestine.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 104</cite>
@@ -824,7 +825,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Repeated thwarted reform fostered Algerian Muslim despair. [causal]
 > The still-born Blum—Viollette Bill was the ultimate plea for "assimilation". It aroused the most glowing hopes among Muslim liberals, but when — like every other endeavour of reform between 1909 and 1954 — it was thwarted, they were replaced by black despair.
->
+> 
 > *XREF: Connects to the broader pattern of failed colonial reform attempts leading to radicalization and the eventual Algerian independence struggle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 104</cite>
@@ -836,7 +837,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial suppression blocked moderate nationalist leaders from emerging in Algeria. [causal]
 > It was a profound and far-sighted analysis. When France, in extremis between 1954 and 1962, was to cast around for interlocuteurs valables, moderate nationalist representatives with whom compromise solutions might be negotiated, among this “human dust” she was to find virtually none. On the other hand, from earliest days the colonial structure had so functioned as to impede and obviate the emergence of any concerted Muslim opposition body, and for long years it succeeded marvellously; yet again, when the ultimate disaster did occur, France would be taken by surprise, because — for the reasons suggested by Cambon — the resistance movements would be “unknown”.
->
+> 
 > *QUESTION: What specific mechanisms did the colonial structure use to impede a concerted Muslim opposition — and how did these same mechanisms make resistance 'unknown' when it finally did erupt?*
 > *XREF: Connects to the broader colonialist paradox where systems that prevent moderate opposition end up making eventual revolt more violent and surprising — a pattern seen across decolonization histories.*
 
@@ -849,7 +850,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Religious doctrine fueled Algerian nationalism under French rule. [causal]
 > Because of Algeria's unique status as an integral part of France, which cut it off from undercurrents of Arab nationalism in the outside world more than its neighbours, one cannot easily state — as with other colonial territories — at what precise point a "resistance movement" began. In broad terms, three separate strands of Algerian nationalism have been defined, each identified with a particular leader. There was the religious movement, as embodied by the Association des Ulema of Sheikh Abdulhamid Ben Badis; the revolutionaries following Messali Hadj; and finally the liberals of Ferhat Abbas.
->
+> 
 > *XREF: Connects to the long scholarly debate about religion's role in anticolonial nationalism across North Africa and the Middle East.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 108</cite>
@@ -861,7 +862,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalism divided into three distinct political strands. [fact]
 > Because of Algeria's unique status as an integral part of France, which cut it off from undercurrents of Arab nationalism in the outside world more than its neighbours, one cannot easily state — as with other colonial territories — at what precise point a "resistance movement" began. In broad terms, three separate strands of Algerian nationalism have been defined, each identified with a particular leader. There was the religious movement, as embodied by the Association des Ulema of Sheikh Abdulhamid Ben Badis; the revolutionaries following Messali Hadj; and finally the liberals of Ferhat Abbas.
->
+> 
 > *DEFINE: Identifies the three strands of Algerian nationalism: religious (Ben Badis's Ulema), revolutionary (Messali Hadj), and liberal (Ferhat Abbas).*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 108</cite>
@@ -873,7 +874,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Messali's 1930s socialism shaped the FLN's independence ideology. [causal]
 > It differed from the Ulema both in a more modernistic interpretation of Islamic dogma and in its social demands, which included the redistribution of land among the fellahs. Much of Messali’s ideals of popularist socialism was later to be inherited by the F.L.N. and present-day Algeria. By 1933 Messali was already talking of “revolution”, and the Étoile programme declared for universal suffrage in Algeria, “a struggle for the total independence” of all three Maghreb nations, and confiscation of all property acquired by the French government or colons.
->
+> 
 > *XREF: Connects to the broader history of Algerian independence and the FLN, relevant to understanding the ideological roots of the anti-colonial movement.*
 > *QUESTION: Worth investigating how direct the lineage is between Messali's Étoile programme and actual FLN policy after independence.*
 
@@ -886,7 +887,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Moderate liberals radicalize into revolutionaries through cascading disillusions [causal]
 > His whole career is one of utmost relevance in this story, for it was symptomatic of how the liberal moderate — through successive disillusions — becomes superseded by the revolutionary extremist.
->
+> 
 > *QUESTION: What specific disillusions trigger this cascade? Worth investigating the mechanism by which successive failures push moderates toward extremism.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 110</cite>
@@ -898,7 +899,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] National identities are historically constructed rather than naturally given [contrarian]
 > Had I discovered the Algerian nation, I would be a nationalist and I would not blush as if I had committed a crime.… However, I will not die for the Algerian nation, because it does not exist. I have not found it. I have examined History, I questioned the living and the dead, I visited cemeteries; nobody spoke to me about it. I then turned to the Koran and I sought for one solitary verse forbidding a Muslim from integrating himself with a non-Muslim nation. I did not find that either. One cannot build on the wind.
->
+> 
 > *DEFINE: Illustrates the constructivist view of nationalism — nations as invented, not eternal entities.*
 > *XREF: Connects to Benedict Anderson's 'imagined communities' and the broader literature on nationalism as a modern construct.*
 
@@ -911,7 +912,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rejected Algerian reforms empowered pied-noir political influence over Paris. [causal]
 > When the Blum-Viollette Bill collapsed, however, an impossible predicament confronted the liberals: on the one hand, they saw themselves looked on as renegades by Messali and the Ulema; on the other, they were rejected by the French. It was a bitter personal disillusion for Abbas, who, from this moment, began to move away from the ideal of assimilation towards some form of autonomy for Algeria. Thus, at least ideologically, he and his supporters were brought a long step closer to the "revolutionaries" — a progression, tragic for France, that was to be repeated each time "moderate" Algerian nationalists found their overtures repulsed by the government of France, or by the pied noir lobbies. Modest as were the reforms it would have introduced, the abortion of the Blum-Viollette Bill undoubtedly marked a vital turning-point for the Algerian nationalist movement. At the same time it also bestowed on the pieds noirs a first dangerous awareness that they could call the tune on any reform initiated by a government in Paris.
->
+> 
 > *QUESTION: What exactly were the reforms in the Blum-Viollette Bill, and how did its failure escalate nationalist sentiment? Worth tracing the historical specifics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 115</cite>
@@ -923,7 +924,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French rejection of moderates pushed Algerian nationalists toward revolution [causal]
 > When the Blum-Viollette Bill collapsed, however, an impossible predicament confronted the liberals: on the one hand, they saw themselves looked on as renegades by Messali and the Ulema; on the other, they were rejected by the French. It was a bitter personal disillusion for Abbas, who, from this moment, began to move away from the ideal of assimilation towards some form of autonomy for Algeria. Thus, at least ideologically, he and his supporters were brought a long step closer to the "revolutionaries" — a progression, tragic for France, that was to be repeated each time "moderate" Algerian nationalists found their overtures repulsed by the government of France, or by the pied noir lobbies. Modest as were the reforms it would have introduced, the abortion of the Blum-Viollette Bill undoubtedly marked a vital turning-point for the Algerian nationalist movement. At the same time it also bestowed on the pieds noirs a first dangerous awareness that they could call the tune on any reform initiated by a government in Paris.
->
+> 
 > *XREF: Echoes a familiar pattern where colonial/metropole rejection radicalizes moderates, paralleling dynamics in other decolonization movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 115</cite>
@@ -935,7 +936,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French rejection of reform pushed Algerian moderates toward radical nationalism. [causal]
 > When the Blum-Viollette Bill collapsed, however, an impossible predicament confronted the liberals: on the one hand, they saw themselves looked on as renegades by Messali and the Ulema; on the other, they were rejected by the French. It was a bitter personal disillusion for Abbas, who, from this moment, began to move away from the ideal of assimilation towards some form of autonomy for Algeria. Thus, at least ideologically, he and his supporters were brought a long step closer to the "revolutionaries" — a progression, tragic for France, that was to be repeated each time "moderate" Algerian nationalists found their overtures repulsed by the government of France, or by the pied noir lobbies. Modest as were the reforms it would have introduced, the abortion of the Blum-Viollette Bill undoubtedly marked a vital turning-point for the Algerian nationalist movement. At the same time it also bestowed on the pieds noirs a first dangerous awareness that they could call the tune on any reform initiated by a government in Paris.
->
+> 
 > *XREF: Echoes a general pattern: state rejection of moderate reformers radicalizes the opposition. Connects to similar dynamics in other colonial and postcolonial independence movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 115</cite>
@@ -947,7 +948,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonial prestige eroded after military humiliation in North Africa [causal]
 > To Muslim minds, particularly sensitive to prestige and baraka, the humiliation made a deep impression. The reaction of many was: "France has had it; so why not pay our taxes to the Germans, instead of to France?" … The population is therefore very poor, and the food and clothing position among the people has caused us all a lot of worry.
->
+> 
 > *XREF: Relates to broader histories of how colonial authority depended on perceived prestige and how rapid defeats — like the 1940 fall of France — unraveled it across empires.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 116</cite>
@@ -959,7 +960,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerians endured shifting French authorities within three years. [fact]
 > On top of the humiliation of defeat was compounded the confusion of not knowing what authority represented the true France. After 1940, while the French colonies in Equatorial Africa went over to de Gaulle, Algeria remained pro-Vichy; thus, within three years, Algerians found their loyalty invoked first to Pétain, then to Darlan, then Giraud and finally de Gaulle. But even after the rise to eminence of de Gaulle, it was the shadow of the Allied colossus in the background that constantly obscured the rekindled, feeble light of the présence française in Algeria. Landing — once again at Sidi-Ferruch — in November 1942, the Anglo-Americans with their overwhelming weight of war material and the power and riches that this implied, in contrast to the puny resources of the Vichy French, made a powerful impact on the Algerian nationalists. They were also soon aware of the anti-colonialist creed of Roosevelt's America, and Abbas had several meetings with Bob Murphy, the President's personal representative in Algiers, to explore the possibility of applying the Atlantic Charter to Algeria.
->
+> 
 > *XREF: Connects to the division between Free France and Vichy, and how imperial subjects were caught between competing claims to legitimacy.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 119</cite>
@@ -981,7 +982,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The 1943 Manifesto marked Algerian politics' turn away from assimilation. [fact]
 > In a more virulent tone than heretofore, he claimed savagely: "The French colony only admits equality with Muslim Algeria on one level; sacrifice on the battlefields." More ambitious than his previous demands, the "Manifesto" now marked a clear turning away from assimilation, calling for an "immediate and effective participation" of Muslims in the government and the establishment of a constitution guaranteeing inter alia, liberty and equality for all Algerians, the suppression of feudal property — as well as various other planks borrowed from the more radical platform of Messali.
->
+> 
 > *XREF: Connects to the broader trajectory of Algerian nationalism and the failure of assimilationist policy leading toward independence struggle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 121</cite>
@@ -993,7 +994,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalists united around a federated autonomous republic demanded from France. [fact]
 > Abbas’s reaction was to bury the hatchet with Messali, and on 14 March in the fateful town of Sétif, and in another rare moment of unity, all the principal components of nationalism joined hands in a new grouping called Amis du Manifeste et de la Liberté (A.M.L.). In the most precise terms yet, it restated its aim as being “to propagate the idea of an Algerian nation, and the desire for an Algerian constitution with an autonomous republic federated to a renewed French republic, anti-colonial and anti-imperialist”. This new brief moment of unity was to perish finally amid the bloodshed and recriminations of Sétif the following year; nevertheless, the A.M.L. declaration did establish a principle of immense political and propaganda importance.
->
+> 
 > *DEFINE: The A.M.L. grouping's foundational aim is spelled out: an autonomous Algerian republic federated to a renewed, anti-colonial France — a precise early articulation of Algerian nationalist goals.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 122</cite>
@@ -1015,7 +1016,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Sétif death-toll estimates diverge wildly among officials. [fact]
 > In an interview with the author in October 1973, President Bourguiba of Tunisia persisted in the belief that “more than 50,000” had been killed after Sétif. Maître Teitgen, the liberal secretary-general of the Algiers prefecture in 1956–7, told the author that he reckoned the Muslim dead at “probably 15,000”. The discrepancy in the figures may (according to Robert Aron) be partly accounted for by the fact that many of the inhabitants of suspect mechtas “disappeared” into the hills in advance of the army ratissages, and were thus subsequently accounted for among the presumed dead.
->
+> 
 > *QUESTION: The 50,000 vs 15,000 discrepancy raises the question of whether official counts were systematically inflated post hoc.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 124</cite>
@@ -1027,7 +1028,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalist leaders often came from liberal professions [fact]
 > It will be noted that many of the nationalist intellectuals (like Ben Khedda, president of the provisional Algerian government in 1962, who was also a pharmacist) were doctors, pharmacists or lawyers — professions where Muslims generally encountered the least barriers to advancement.
->
+> 
 > *XREF: Connects to broader patterns of anti-colonial leadership emerging from educated professional classes across North Africa and the Global South.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 130</cite>
@@ -1039,7 +1040,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's environment profoundly shapes its human character [contrarian]
 > Environment shapes men, and none more so than the vast skies of Algeria — generally blazing down without pity or moderation, but capable of unpredictable, fierce change. Immense, beautiful, sudden, savage and harsh; one gropes inadequately for the right adjectives to describe the country. Distance never ceases to amaze; from Algiers to Tamanrasset in the barren, lunar mountains of the Hoggar is 1,300 miles, or roughly the same as from Newcastle to Algiers; from Algiers to Oran, a flea's hop on the map of North Africa, is little short of 300 miles by road. Four times as big as metropolitan France, with its land area unchanged since the colonial era, present-day Algeria is the tenth largest country in the world. Nine-tenths of it are comprised by the endless Saharan under-belly that sags below the Atlas mountains, the endless wasteland of blistering rock and shifting sand.
->
+> 
 > *XREF: Echoes environmental determinism debates; connects to geopolitics reading on North Africa and colonial-era territorial persistence.*
 > *QUESTION: How much does environment actually shape the political and cultural identity of Algerians versus historical contingencies?*
 
@@ -1052,7 +1053,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonisers transformed Algerian swamp into prosperous Mediterranean farmland [fact]
 > The centre of gravity of French colonisation lay close to the coast, with its big, Europeanised city ports of Algiers, Oran, Bougie, Philippeville and Bône, and the Mitidja — the rich, flat farmland which French ingenuity had created out of malarial swamps. Here, in country which might have been Languedoc, straight eucalyptus-shaded roads led through a prosperous and tidy succession of cereal and citrus farms, drenched with orange-blossom scent in May, and vast vineyards, owned by pieds noirs and operated by Muslim labour. The Mitidja towns — like Blida, where Oscar Wilde, Lord Alfred Douglas and André Gide once vied for the charms of "Arab boys as beautiful as bronze statues" — were unmistakably French. Their main squares, surrounded by well-pollarded plane trees (as well as containing the inevitable, graceless monument aux morts) would almost invariably boast a highly ornate bandstand where, of a Sunday, the band of the local garrison would endeavour to distract the indigènes from their lack of more worldly privileges with rousing martial music. The names of the townships founded by the colons were just as uncompromisingly French; Victor-Hugo, Rabelais, Orléansville, Aumale, Marengo and Inkermann.
->
+> 
 > *XREF: The reclamation of malarial swamps into farmland echoes many settler-colonial agriculture projects elsewhere, and the tension over land redistribution connects to the author's broader argument about Algeria's violent decolonisation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 139</cite>
@@ -1064,7 +1065,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] European settlers comprised only a third of Algiers' population. [fact]
 > Yet of its total population of 900,000 only one-third was in fact European. In their different enclaves the two communities coexisted closely together — which, in time of peace, was to provide Algiers with its most fascinating contrasts, and, later, its most savagely bloody collisions.
->
+> 
 > *XREF: Connects to colonial Algeria history and the broader French colonial enterprise in North Africa.*
 > *SEED: The uneasy coexistence of European and native communities in Algiers — the 'fascinating contrasts' turning to 'bloody collisions' — could anchor an essay on how proximity breeds both cultural richness and violent fracture.*
 
@@ -1087,7 +1088,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Oran's European settlers outnumbered its Muslim population two to one. [fact]
 > Oran, the second city of Algeria, was even more European than Algiers; in fact, with 300,000 pied noir inhabitants to 150,000 Muslims, it was the only centre where they predominated.
->
+> 
 > *DEFINE: Introduces the term 'pied noir' for European settlers in colonial Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 143</cite>
@@ -1099,7 +1100,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's coastal and mountain regions held stark cultural divisions [fact]
 > In a country full of violent contrasts none could be greater than that between the Mediterranean littoral with its Europeanised cities, beaches and flat, cultivated hinterland, and the almost entirely Muslim-populated wild mountain massifs of the Aurès and Kabylia.
->
+> 
 > *XREF: Sets up the geographic/cultural backdrop relevant to the Algerian struggle, likely central to the book the reader is engaging with.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 144</cite>
@@ -1111,7 +1112,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rugged mountain ranges breed enduring guerrilla resistance through time. [connection]
 > Searingly hot summers are succeeded almost immediately by the cutting winds of winter, and the Aurès has long suffered perhaps the most woeful poverty of all Algeria. Equally like the north-west frontier of India, which it closely resembles, it has from time immemorial been a land of unvanquishable guerrillas and banditry.
->
+> 
 > *XREF: Connects comparative terrain analysis across Algeria and the Indian frontier, and echoes classic arguments that inaccessible mountain landscapes host persistent insurgency.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 146</cite>
@@ -1123,7 +1124,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Aurès mountains breed unvanquishable guerrillas due to harsh terrain. [causal]
 > Searingly hot summers are succeeded almost immediately by the cutting winds of winter, and the Aurès has long suffered perhaps the most woeful poverty of all Algeria. Equally like the north-west frontier of India, which it closely resembles, it has from time immemorial been a land of unvanquishable guerrillas and banditry.
->
+> 
 > *XREF: Echoes the classic pattern of insurgent sanctuaries in rugged terrain, like Afghanistan's mountains, which have long sheltered resistance movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 146</cite>
@@ -1155,7 +1156,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian national character resists compromise and strongman leaders. [fact]
 > “The Algerian mentality is characterised by the right-angle. There are no contours or compromises,” explained the Algerian leader, Abderrazak Chentouf, to an American professor. Complexe et complexé, the Algerian is allured by ceremony, military parades and decorations (a susceptibility readily exploited by the Europeans), but at the same time antipathetic to any showy, “cult of the personality” leadership (a Bourguiba would never hold sway in Algeria). He is distrustful by nature, reluctant to place himself under the authority of another — and exceptionally secretive.
->
+> 
 > *QUESTION: This is a sweeping national-character generalization from a single leader — worth questioning its validity and origins.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 150</cite>
@@ -1187,7 +1188,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Only one in five Europeans in Algerian cities was of true French descent. [fact]
 > By 1917 it was estimated that only one European in five was of true French descent (and these included Corsicans and Alsatians), and in the 1950s you could still hear more Spanish than French spoken in the poorer quarters of Oran. Arriving, many of them, under the Second Empire, these Spaniards had adapted themselves readily to the climate and had proved perhaps the best workers on the land. Then there were the Italians who, like most of the Spaniards, had come with empty pockets and with little more than the hope of an Eldorado where either work or land would be readily available. They were artisans, builders, miners and fishermen. There were the Maltese who, being Catholic and speaking a language akin to Arabic, had a foot in both camps and established themselves swiftly as a class of petits commerçants. Of the French, apart from the Alsatians of post-1870, most came from the climatically similar Midi; especially after the phylloxera had wiped out the vineyards there.
->
+> 
 > *XREF: Connects to the broader history of French colonial settlement in North Africa and the pied-noir population.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 152</cite>
@@ -1199,7 +1200,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pied noirs' sensual excess defied northern Cartesian rationality. [fact]
 > "I learned not to separate these creatures bursting with violent energy from the sky where their desires whirl," says Camus of his fellow pieds noirs. The sea and sun, these were factors that were all-conditioning, responsible for their best as well as their worst characteristics. In contrast to the Cartesian rationale in which the northern Gaul so prides himself, the meridional pied noir was first and foremost a creature of the senses. Everything was excess: excessive exuberance, excessive hospitality, excessive affection — and excessive hate.
->
+> 
 > *XREF: Relates to Camus's Mediterranean thought and the binary between northern rationalism and southern sensuality that recurs in his essays.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 156</cite>
@@ -1211,7 +1212,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds-noirs felt ambivalent resentment and love toward France. [fact]
 > If the pied noir loved France, it was with a love that sought constant reassurance: "The French of Algeria would like to be reassured that…" was a theme frequently to be found in Press editorials. For his part, he felt that he had well deserved France's love through his sacrifices in two world wars. "Where is our promised land?" one of the rebel generals of 1961, Edmond Jouhaud, was to demand: "I think we have paid for the right to be French, by the blood that we shed from 1914 to 1918 and from 1939 to 1945." It was an argument with which Britons were made familiar early in the Rhodesian crisis.
->
+> 
 > *DEFINE: Explains the pied noir attitude to metropolitan France: compounded resentment, love, disdain and an inferiority complex.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 158</cite>
@@ -1223,7 +1224,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds noirs sought reassurance of France's love through wartime sacrifice. [causal]
 > If the pied noir loved France, it was with a love that sought constant reassurance: "The French of Algeria would like to be reassured that…" was a theme frequently to be found in Press editorials. For his part, he felt that he had well deserved France's love through his sacrifices in two world wars. "Where is our promised land?" one of the rebel generals of 1961, Edmond Jouhaud, was to demand: "I think we have paid for the right to be French, by the blood that we shed from 1914 to 1918 and from 1939 to 1945." It was an argument with which Britons were made familiar early in the Rhodesian crisis.
->
+> 
 > *XREF: Parallels the Rhodesian crisis rhetoric where white settlers claimed loyalty through wartime service — a recurring pattern across European colonial retreats.*
 > *QUESTION: How did the claim of wartime blood sacrifice fail to translate into political standing for pieds noirs? Worth exploring.*
 
@@ -1236,7 +1237,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial Algeria held three mutually distinct peoples speaking different languages. [definitional]
 > At the time of the projected Blum—Viollette reforms, a pied noir financier remarked to Viollette: "Monsieur le Gouverneur-Général, you reason in the French of France, but we reason in the French of Algeria." It was not at all the same language, as was to become tragically plain later, and in order to understand events from 1954 onwards it is necessary to accept the existence of three totally distinct peoples — the French of France, the French of Algeria, and the Muslims of Algeria.
->
+> 
 > *DEFINE: Contrasts French of France, French of Algeria, and Muslims of Algeria as a conceptual framework for understanding Algerian history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 159</cite>
@@ -1248,7 +1249,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial Algeria held three mutually alien peoples speaking different languages [contrarian]
 > At the time of the projected Blum—Viollette reforms, a pied noir financier remarked to Viollette: "Monsieur le Gouverneur-Général, you reason in the French of France, but we reason in the French of Algeria." It was not at all the same language, as was to become tragically plain later, and in order to understand events from 1954 onwards it is necessary to accept the existence of three totally distinct peoples — the French of France, the French of Algeria, and the Muslims of Algeria.
->
+> 
 > *DEFINE: Clarifies that 'French of Algeria' (pieds noirs) were conceptually and linguistically distinct from metropolitan French, a distinction essential to understanding Algerian history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 159</cite>
@@ -1260,7 +1261,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's racial order defied simple colonial categories. [fact]
 > In the outer world, the most obvious kinsmen to the pied noir are the whites of South Africa, Rhodesia and the "Deep South" of the United States. In terms of the numbers of generations that had come to regard Algeria as "home", and had absolutely nowhere else in the world to go, he stood somewhere between the Afrikaaner and the Rhodesian. At the opposite ends of the social scale, comparisons in their way of life and attitudes could be made between the grands colons and the plantation owners of the "Old South", while the least privileged elements of Bab-el-Oued or Belcourt bore a marked affinity to the "poor whites" of Faulkner, coexisting uneasily alongside the blacks in the torrid, over-crowded American cities of the same epoch.
->
+> 
 > *XREF: Sits against standard US apartheid or Brazilian miscegenation frameworks used elsewhere in comparisons.*
 > *QUESTION: What exactly was Algeria's racial-social arrangement if it fit neither model?*
 
@@ -1273,7 +1274,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pied noirs resembled South African, Rhodesian, and Southern whites. [connection]
 > In the outer world, the most obvious kinsmen to the pied noir are the whites of South Africa, Rhodesia and the "Deep South" of the United States. In terms of the numbers of generations that had come to regard Algeria as "home", and had absolutely nowhere else in the world to go, he stood somewhere between the Afrikaaner and the Rhodesian. At the opposite ends of the social scale, comparisons in their way of life and attitudes could be made between the grands colons and the plantation owners of the "Old South", while the least privileged elements of Bab-el-Oued or Belcourt bore a marked affinity to the "poor whites" of Faulkner, coexisting uneasily alongside the blacks in the torrid, over-crowded American cities of the same epoch.
->
+> 
 > *XREF: Parallels settler-colonial communities across Algeria, South Africa, Rhodesia, and the American South — useful for comparative colonial studies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 160</cite>
@@ -1295,7 +1296,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] European colonists justified domination through racist sexual and demographic fears [causal]
 > If the pied noir attitude to the indigenous Algerian could be summed up in a word, it was, simply, indifference. He was regarded, says Pierre Nora, "as an anonymous figure of whom it sufficed to know that one provided his welfare, so that one had no need to be concerned about him". In so far as he supplied the labour essential for exploiting the country, he was simply "a part of the patrimoine immobilier [real estate inheritance]". At best he would be treated with paternalism, fairness and a kind of formal acceptance of his different religion and culture. But too often he was regarded with disdain, and from a vantage of superiority; which manifested itself in many different ways, and more insidiously among the poorer levels of whites where the frictional contact was closest.
->
+> 
 > *QUESTION: How explicitly did these demographic-virility phobias translate into actual colonial policy and violence?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 161</cite>
@@ -1317,7 +1318,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Liberals comprised 20-25% of 1950s Algeria's population. [fact]
 > At one end of the political spectrum there were the diehard conservatives, both rich and poor, some of them later to become known as "ultras", who stubbornly resisted all change; at the other end, various kinds of liberals supporting reform of one sort or another. By the 1950s, these latter were reckoned to comprise twenty to twenty-five per cent of the overall population, loosely embracing the European professional classes; these figures also include the Muslim évolués and a large section of the Jewish community. But the liberals had little or no proletarian support. Many of the petits blancs were failed farmers who had gravitated towards the cities, and this in itself was to grant them a collective political consciousness not to be found among the more rural settlers of Morocco and Tunisia. Like the poor whites of Rhodesia, they could not afford to be liberal, but tended to be either Communist or reactionary; and, curiously enough, these two opposing forces were largely at one, at least where liberalisation for the Muslims was concerned, as has already been noted at the time of the Sétif uprising.
->
+> 
 > *DEFINE: Clarifies the composition of the liberal faction in colonial Algeria, including European professionals, Muslim évolués, and part of the Jewish community.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 167</cite>
@@ -1329,7 +1330,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French settler intransigence unintentionally united Algeria's independence movement [contrarian]
 > At the Evian peace negotiations in 1962, one of the F.L.N. leaders, Ben Tobbal, claimed to Favrod, the Swiss journalist: "Henri Borgeaud deserves the title of national hero. Without him and those like him, there would never have been a united Algeria."
->
+> 
 > *XREF: Plausibly connects to colonial dynamics elsewhere where oppressor resistance paradoxically consolidated nationalist movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 168</cite>
@@ -1341,7 +1342,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A few settler families dominated Algerian economy and politics in 1954 [fact]
 > Who in fact were the grands colons, the men of power, in Algeria by 1954? Three names, Borgeaud, Schiaffino, Blachette, were the big entrepreneurs of Algeria, between them controlling the greater part of the economy, and, pari passu, wielding immense political power. Top of the list was Henri Borgeaud, a Swiss by origin (two generations back), a big man in his mid-fifties who looked like a jolly farmer from the Auvergne and who was proud to proclaim himself a pioneer of the soil. Centre of the Borgeaud empire was the magnificent mansion of La Trappe at Staouéli, close to Algiers, which had passed to the Borgeaud family after its founders, the Trappist monks who gave it its name, were dispossessed during France's secular "war" in 1905. La Trappe embraced 1,000 hectares of the best land in Algeria, producing regularly four million litres of wine per annum.
->
+> 
 > *XREF: Concentration of colonial wealth echoes other settler economies; ties to discussions of land dispossession.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 168</cite>
@@ -1353,7 +1354,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's new republic retained the most useful colonial shipping magnate. [fact]
 > Then there was Laurent Schiaffino, who controlled probably the biggest fortune in Algeria, including most of its shipping. Although a third-generation Neapolitan, Schiaffino revealed few of the extrovert characteristics one might have expected; with a greyish complexion, he was a cold and retiring personality with a meticulous knowledge of the marine world, but seldom seen outside family or business circles. He too was a senator for Algiers, and owner of the Dépêche Algérienne, which held a reputation principally for being "anti", that is to say, "anti" any measure of liberalisation. (Yet, after 1962, because of the efficiency and indispensability of his marine fleet, he was the only one of the grands colons to be invited to stay on by the new Algerian republic.)
->
+> 
 > *XREF: Connects to decolonization history where pragmatic economic retention trumped ideological expulsion of colonial elites.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 169</cite>
@@ -1375,7 +1376,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian disdain was a ranked ethnic hierarchy ending with Arabs [fact]
 > Many could trace back their antecedents to the expulsions from sixteenth-century Spain; some even claimed them to pre-date the invaders who had surged out of the Arabian peninsula during the eleventh century. Thus they could argue that only relatively were they later arrivals than the Muslims. However, by 1830 the Algerian Jews had become an under-privileged community, fallen into backward squalor, and the advent of the French gave them an opportunity to improve their status. The Crémieux Decrees of 1870, conferring automatic French citizenship, attracted more prosperous Jews from outside Algeria; while at the same time they provoked a sense of unfair prejudice among Muslims. However, it was not the Muslims but the Catholic Maltese, Spanish and Italian pieds noirs who, at the turn of the century, launched a minor pogrom against the Jews, smashing up their shops in protest against the competition of this new class of petits commerçants. (Analysing the various degrees of disdain in Algeria, a pied noir journalist, Albert-Paul Lentin, observed how "the Frenchman despises the Spaniard, who despises the Italian, who despises the Maltese, who despises the Jew; all in turn despising the Arab."
->
+> 
 > *XREF: Complements the colonial stratification seen in other settler societies and aligns with broader patterns of ethnic hierarchy in French Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 171</cite>
@@ -1387,7 +1388,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian Jews faced prejudice from Muslim and European settlers alike. [fact]
 > Many could trace back their antecedents to the expulsions from sixteenth-century Spain; some even claimed them to pre-date the invaders who had surged out of the Arabian peninsula during the eleventh century. Thus they could argue that only relatively were they later arrivals than the Muslims. However, by 1830 the Algerian Jews had become an under-privileged community, fallen into backward squalor, and the advent of the French gave them an opportunity to improve their status. The Crémieux Decrees of 1870, conferring automatic French citizenship, attracted more prosperous Jews from outside Algeria; while at the same time they provoked a sense of unfair prejudice among Muslims. However, it was not the Muslims but the Catholic Maltese, Spanish and Italian pieds noirs who, at the turn of the century, launched a minor pogrom against the Jews, smashing up their shops in protest against the competition of this new class of petits commerçants. (Analysing the various degrees of disdain in Algeria, a pied noir journalist, Albert-Paul Lentin, observed how "the Frenchman despises the Spaniard, who despises the Italian, who despises the Maltese, who despises the Jew; all in turn despising the Arab."
->
+> 
 > *XREF: Connects to broader histories of Mediterranean diaspora communities and colonial-era inter-ethnic tensions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 171</cite>
@@ -1399,7 +1400,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Crémieux Decrees conferred citizenship on Algerian Jews and sparked resentment. [fact]
 > Many could trace back their antecedents to the expulsions from sixteenth-century Spain; some even claimed them to pre-date the invaders who had surged out of the Arabian peninsula during the eleventh century. Thus they could argue that only relatively were they later arrivals than the Muslims. However, by 1830 the Algerian Jews had become an under-privileged community, fallen into backward squalor, and the advent of the French gave them an opportunity to improve their status. The Crémieux Decrees of 1870, conferring automatic French citizenship, attracted more prosperous Jews from outside Algeria; while at the same time they provoked a sense of unfair prejudice among Muslims. However, it was not the Muslims but the Catholic Maltese, Spanish and Italian pieds noirs who, at the turn of the century, launched a minor pogrom against the Jews, smashing up their shops in protest against the competition of this new class of petits commerçants. (Analysing the various degrees of disdain in Algeria, a pied noir journalist, Albert-Paul Lentin, observed how "the Frenchman despises the Spaniard, who despises the Italian, who despises the Maltese, who despises the Jew; all in turn despising the Arab."
->
+> 
 > *XREF: Connects to the layered hierarchy of colonial prejudice, echoing postcolonial studies of internalized gradations of disdain.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 171</cite>
@@ -1411,7 +1412,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial slurs evolved from benign words into deadly epithets. [causal]
 > Bicot, opprobrium of unknown meaning, or origin; melon, slang for "a simpleton"; figuier, "fig tree", because the Algerian peasant allegedly spent his day sitting under its shade; sale raton, "dirty little rat"; hence, later, the odious expression ratonnade, rat-hunt, or Arab-killing (not to be confused with ratissage).
->
+> 
 > *XREF: Connects to broader scholarship on how dehumanizing language enables violence and atrocity, a pattern seen across colonial and genocidal contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 173</cite>
@@ -1423,7 +1424,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonial infrastructure dramatically transformed Algeria's economy and landscape. [fact]
 > Before one dissects the deficiencies, however, one needs briefly to pay tribute to the truly remarkable material achievements that France had wrought in Algeria during the course of her tenancy of a century and a quarter. Even a decade after the ending of France’s rule, a visitor to Algeria could not help but be impressed by the depth of the roots her civilisation left behind; an excellent network of roads often as good in quality as those of France, and over terrain as difficult as anywhere in the world; modern railways and airfields; great cities and a score of ports; electricity and gas and a (slightly less efficient) telecommunications system. She created a medical service and imposed standards of hygiene where none had existed. In agriculture, she increased the 2,000 cultivable square miles of 1830 to 27,000 in 1954; with her capital and know-how, she dug mines and set up vast industries that would not otherwise have existed; she provided jobs in France for several hundred thousand Algerian immigrant workers, and subsidised some eighty per cent of the country’s budget deficit.
->
+> 
 > *XREF: Connects to broader discourse on colonial legacies and whether colonization's material benefits offset its human costs.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 176</cite>
@@ -1435,7 +1436,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial-era Algerian Muslim education and literacy rates were extremely low. [fact]
 > By 1954 it was estimated that, of the Muslims, only one boy in five was attending school, and one in sixteen among girls (though in some country areas the ratio could rise as high as one in seventy); illiteracy (in French) was set at ninety-four per cent for the males, ninety-eight per cent for the females.
->
+> 
 > *QUESTION: These starkly low enrollment and literacy figures for Algerian Muslims in 1954 raise the question of what the comparable figures were for European settlers and how the French administration justified this disparity.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 180</cite>
@@ -1447,7 +1448,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial education created a literate unemployed class [causal]
 > The little French learning was also dangerous, in that it aroused a powerful appetite for more; and it threatened (because of economic problems) to create a class of “literate unemployed”. In words that could have applied to more than just education, an old Kabyle complained sadly to Germaine Tillion: “You’ve led us to the middle of the ford, and there you’ve left us.…”
->
+> 
 > *XREF: Connects to broader critiques of colonial education systems creating dependency and aspiration without opportunity, a pattern seen across postcolonial contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 181</cite>
@@ -1469,7 +1470,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French revolutionary ideals helped turn Algerian students toward revolt. [causal]
 > Furthermore, with its traditional emphasis on the grandiose liberal principles of the "Great French Revolution", French education could hardly help but divert perhaps otherwise passive minds to the nobility of revolt. M'hamed Yazid, one of the more intellectual F.L.N. leaders, notes that school heroes for his generation included Mustafa Kemal, Gandhi and the Irish rebels of the First World War.
->
+> 
 > *XREF: Connects to the broader theme of colonial education systems producing the very nationalists who challenge imperial rule.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 182</cite>
@@ -1491,7 +1492,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Muslim land ownership growth lagged far behind population growth. [fact]
 > Without schools you cannot have industrialisation and, for all French endeavours to this end, agriculture remained the mainstay of Algerian life. But, successful as French technology had been at opening up new lands by drainage or irrigation, it continued to provide a precarious living of ever-diminishing returns. As the European slice of the cake grew, so, relatively speaking, the Muslim slice shrank. Since 1830 the area of cultivable land owned by Muslims had almost doubled; but the population trebled. In 1956 Germaine Tillion reckoned that the country could feed no more than "between two and three million"; and there were then almost nine million Muslims alone. By 1954 some twenty-five per cent of all the farming land was reputedly owned by only two per cent of the total agricultural population.
->
+> 
 > *XREF: Connects to broader colonial dispossession and demographic pressure patterns seen in 19th-20th century settler colonies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 183</cite>
@@ -1503,7 +1504,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's wine industry deepened colonial economic imbalance while bypassing Muslim livelihoods. [causal]
 > The creation of the Algerian wine industry, following the phylloxera catastrophe in France, had only added to the agricultural imbalance. Although it had come to account for half of Algeria’s exports to France and had granted considerable economic power to the wine lobby (as personified by Senator Borgeaud), it hardly helped the economic predicament of the Muslims, providing him with but little steady work, and producing a crop which did not nourish him and offended his religion.
->
+> 
 > *XREF: Connects to broader patterns of settler-colonial economies prioritizing export cash crops over indigenous subsistence, comparable to plantation economies elsewhere.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 184</cite>
@@ -1515,7 +1516,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Malnutrition explains perceived laziness among Algerian workers [causal]
 > Malnutrition induces lethargy at work, which doubtless could to a large extent explain the commonly held pied noir notion that the Algerian worker was, by nature, indolent and idle.
->
+> 
 > *XREF: Connects to broader colonial-era misattributions of character flaws to material conditions, and to histories of how colonizers naturalized economic exploitation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 185</cite>
@@ -1527,7 +1528,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Nearly one million Algerians faced unemployment in 1955. [fact]
 > The official Maspétiol Report of 1955, which deeply shocked the French government, revealed that nearly one million Muslims (or one in nine of the overall population) were totally or partially unemployed, and that another two million were seriously underemployed; in the country this meant that the agricultural worker worked no more than an average of sixty-five days a year — or thirty-five days if female labour were included in the reckoning.
->
+> 
 > *QUESTION: The deep unemployment crisis raises questions about what fueled the Algerian independence movement and the structural failures of French colonial economic policy.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 185</cite>
@@ -1549,7 +1550,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial Algeria's fiscal system taxed poor Muslims disproportionately harder [fact]
 > For a Muslim average earnings throughout Algeria were estimated at 16,000 francs a year — whereas the European equivalent was 450,000 francs, or nearly thirty times as high. At the same time, the taxes he paid on his meagre pittance seemed unfairly weighted. It was reckoned that the 100,000 most impoverished Algerian families might be milked of twelve per cent of their incomes; while at the other end of the scale the 14,000 best off (of whom 10,000 were European), with incomes five times higher than the average for French families, were called upon to pay only twenty-nine per cent of earnings vastly larger than those of the Muslims.
->
+> 
 > *XREF: Connects to patterns of regressive colonial taxation elsewhere in French and European empires, where extraction fell heaviest on subject populations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 186</cite>
@@ -1571,7 +1572,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France developed Algeria chiefly for French benefit, not Algerian welfare. [causal]
 > As a summing up on how Algerians viewed the material benefits bestowed on them by France in 1944, the words of Messali Hadj strike a relevant note: “The achievement of France is self-evident. It leaps to the eyes, and it would be unjust to deny it; but if the French have done a lot, they did it for themselves.” Or, phrased perhaps even more succinctly by a Frenchman, Robert Aron: “France did much for Algeria, too little for the Algerians.”
->
+> 
 > *SEED: The distinction between developing a territory vs. developing its people is a useful lens for contemporary foreign aid and colonial/neocolonial critique essays.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 189</cite>
@@ -1613,7 +1614,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's Vietnam war costs rivaled Marshall Aid and consumed budgets. [fact]
 > The war was a running sore that had consumed over the years more than France received in Marshall Aid; that cost annually ten per cent of the national budget, that swallowed up an entire class of St Cyr officers every three years, and that by the time it ended was to account for 75,000 French casualties in dead and missing alone.
->
+> 
 > *XREF: Relates to broader Cold War decolonization history; Marshall Aid figures often appear in postwar reconstruction studies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 194</cite>
@@ -1625,7 +1626,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Muslim deputies abstained from voting on the 1947 Lahore statute. [fact]
 > Nevertheless, on 27 August 1947 it was finally voted in by 328 to 33, with 208 abstentions — including, discouragingly, those of the fifteen Muslim deputies. The 1947 statute tabled five important reforms which the Muslims had been demanding for many years:
->
+> 
 > *QUESTION: Why did the fifteen Muslim deputies abstain rather than vote against? Their abstention signals skepticism, not outright opposition.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 199</cite>
@@ -1647,7 +1648,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial settlers used procedural rules to neutralize Algerian reforms. [causal]
 > Nevertheless, if the statute had been enacted it would at least have represented a more important reform than anything preceding it. As it was, the pied noir lobby managed to block it just as they had the Blum—Viollette proposals of 1936. A procedural clause was inserted into the statute whereby its five crucial reforms would be made subject to the approval of the Algerian Assembly. Thus, so long as the pieds noirs maintained a majority there, these — like every other attempt at major political reform since 1909 — would never see the light of day. All that remained to be ensured was that this majority would not ever be at risk — which the pied noir politicians set about achieving with ruthless efficiency.
->
+> 
 > *XREF: Connects to broader patterns of colonial rule where procedural mechanisms thwart democratic reform.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 212</cite>
@@ -1659,7 +1660,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian settlers neutralized French reform efforts through procedural obstruction [causal]
 > Nevertheless, if the statute had been enacted it would at least have represented a more important reform than anything preceding it. As it was, the pied noir lobby managed to block it just as they had the Blum—Viollette proposals of 1936. A procedural clause was inserted into the statute whereby its five crucial reforms would be made subject to the approval of the Algerian Assembly. Thus, so long as the pieds noirs maintained a majority there, these — like every other attempt at major political reform since 1909 — would never see the light of day. All that remained to be ensured was that this majority would not ever be at risk — which the pied noir politicians set about achieving with ruthless efficiency.
->
+> 
 > *XREF: Connects to the broader pattern of colonial settler lobbies blocking metropolitan reform proposals across French Algeria's final decades.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 212</cite>
@@ -1671,7 +1672,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian electoral fraud inflated vote lists with fake entries [causal]
 > In the municipal elections of 1947 sweeping victories by Messali's followers alarmed the pied noir leaders. This could not be permitted on a national level. Consequently, when, in 1948, elections for the new Algerian Assembly took place as required by the 1947 statute, they turned out to be a masterpiece of rigging. There was widespread evidence of "stuffing" of election boxes by "loyal" caids or local officials; in some villages registration cards were never issued; in others heavily armed police (sometimes supported by tanks) assumed a menacing presence, and at Dechyma, where the populace refused to vote, the gardes mobiles opened fire, killing seven; nationalist election meetings were broken up and numerous arrests made. At Guelma and Sétif, the two centres of revolt in 1945, the results were simply never announced.
->
+> 
 > *XREF: Connects to broader colonial-era electoral manipulation and Algeria's path to decolonization.*
 > *QUESTION: What systematic mechanisms enabled such blatant ballot-box stuffing across Algeria?*
 
@@ -1684,7 +1685,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French authorities rigged Algerian elections to suppress nationalist victories. [fact]
 > In the municipal elections of 1947 sweeping victories by Messali's followers alarmed the pied noir leaders. This could not be permitted on a national level. Consequently, when, in 1948, elections for the new Algerian Assembly took place as required by the 1947 statute, they turned out to be a masterpiece of rigging. There was widespread evidence of "stuffing" of election boxes by "loyal" caids or local officials; in some villages registration cards were never issued; in others heavily armed police (sometimes supported by tanks) assumed a menacing presence, and at Dechyma, where the populace refused to vote, the gardes mobiles opened fire, killing seven; nationalist election meetings were broken up and numerous arrests made. At Guelma and Sétif, the two centres of revolt in 1945, the results were simply never announced.
->
+> 
 > *XREF: Connects to patterns of colonial election manipulation elsewhere in postwar empires, and to the broader trajectory leading to the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 213</cite>
@@ -1696,7 +1697,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French authorities rigged the 1948 Algerian Assembly elections [fact]
 > In the municipal elections of 1947 sweeping victories by Messali's followers alarmed the pied noir leaders. This could not be permitted on a national level. Consequently, when, in 1948, elections for the new Algerian Assembly took place as required by the 1947 statute, they turned out to be a masterpiece of rigging. There was widespread evidence of "stuffing" of election boxes by "loyal" caids or local officials; in some villages registration cards were never issued; in others heavily armed police (sometimes supported by tanks) assumed a menacing presence, and at Dechyma, where the populace refused to vote, the gardes mobiles opened fire, killing seven; nationalist election meetings were broken up and numerous arrests made. At Guelma and Sétif, the two centres of revolt in 1945, the results were simply never announced.
->
+> 
 > *XREF: Connects to the broader pattern of colonial electoral manipulation and the Sétif 1945 revolt context.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 213</cite>
@@ -1708,7 +1709,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ballot fraud manufactured overwhelming majorities for Algerian government candidates. [fact]
 > But the technique was to be improved upon by the next elections for the Algerian Assembly and the National Assembly, in 1951. At Djelfa neither the M.T.L.D. nor U.D.M.A. collected a single vote; while the government candidate managed to tot up 800 — out of 500 eligible voters! At Port-Gueydon 23,671 votes were cast; 23,645 registered for the government candidate. As a result, the opponents of the regime were reduced in Algiers to no more than seven or eight; in Paris the M.T.L.D. and U.D.M.A. between them were deprived of every single representative — including Ferhat Abbas.
->
+> 
 > *FICTION: The absurd margins (800 votes from 500 electors; 23,645 of 23,671 votes) offer vivid detail for any story about rigged systems or the mechanics of authoritarian control.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 218</cite>
@@ -1720,7 +1721,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Electoral frauds crystallized Muslim rage and destroyed faith in French elections [causal]
 > Combined with the emasculation of the 1947 statute, the electoral frauds marked an important stage in the crystallising of Muslim rage; it also meant that, after 1954, when any French leader talked about offers of "free elections" no Muslim would believe him.
->
+> 
 > *XREF: Connects to later Algerian independence movements and the hardening of anti-colonial sentiment throughout North Africa.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 222</cite>
@@ -1732,7 +1733,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Liberal pied noir leaders recognized French tactics risked radicalizing Muslims. [fact]
 > Writing in 1953, Professor Julien warned prophetically: "It is by closing the normal paths of legality to a mass of eight million people that one risks driving it back into the arms of the declared adversaries of la présence française, who aim to solve the Algerian problem by violence."
->
+> 
 > *XREF: Connects to broader scholarship on how counterinsurgency brutality often radicalizes rather than pacifies colonized populations, echoing patterns in Algeria's war of independence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 223</cite>
@@ -1744,7 +1745,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Denying legality to colonized masses breeds violent resistance. [causal]
 > Writing in 1953, Professor Julien warned prophetically: "It is by closing the normal paths of legality to a mass of eight million people that one risks driving it back into the arms of the declared adversaries of la présence française, who aim to solve the Algerian problem by violence."
->
+> 
 > *QUESTION: Julien's 1953 prophecy proved accurate — how does this historical dynamic recur in contemporary contexts of disenfranchisement?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 223</cite>
@@ -1776,7 +1777,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalism turned to armed resistance via a clandestine organization [fact]
 > Pledged to fight colonialism "by all means", legal or illegal, the O.S. was in effect the first nationalist body dedicated to preparing for an armed confrontation with France — now considered inevitable — and thereby it became the immediate predecessor of the F.L.N.
->
+> 
 > *DEFINE: Clarifies that the Organisation Spéciale was the first Algerian nationalist body dedicated to armed confrontation, predating the F.L.N.*
 > *XREF: Connects to the broader history of anti-colonial armed movements preceding national liberation fronts in Algeria and elsewhere.*
 
@@ -1789,7 +1790,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The first Algerian army preceded the FLN in preparing armed struggle. [fact]
 > Pledged to fight colonialism "by all means", legal or illegal, the O.S. was in effect the first nationalist body dedicated to preparing for an armed confrontation with France — now considered inevitable — and thereby it became the immediate predecessor of the F.L.N.
->
+> 
 > *XREF: Connects to broader histories of anti-colonial nationalist movements in North Africa and the FLN's lineage.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 225</cite>
@@ -1801,7 +1802,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A botched raid launched the FLN with its first funds [fact]
 > Amateurishly mounted, the raid netted a sum of three million francs (little more than £3,000), while leaving ten times this amount scattered on the floor; nevertheless, this modest booty provided the future F.L.N. with its first operational funds. But although it was constructed on a system of watertight compartments that was to be successfully emulated later by the F.L.N., the security of the O.S. was poor and French intelligence efficient.
->
+> 
 > *DEFINE: O.S. (Organisation Spéciale) clearly introduced here as the predecessor whose compartmentalization structure the FLN later emulated.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 226</cite>
@@ -1823,7 +1824,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial segregation policies provoked nationalist resentment among educated Algerians. [causal]
 > Earlier, in his school days, he already noted resentment at having to write down the names of his European colleagues in blue, Muslims in red, and later complained: “My brother returned from Europe with medals and frost-bitten feet! There everyone was equal. Why not here?” On demobilisation Krim broke with his father, who was a retired caid well-trusted by the authorities, and joined the M.T.L.D.
->
+> 
 > *XREF: Connects to broader anti-colonial movements across the Maghreb and the symbolic power of racial classification systems in colonial administration.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 237</cite>
@@ -1855,7 +1856,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Viet-Minh propaganda incited Algerian nationalism after French defeat [causal]
 > By historic chance, this first full meeting of the C.R.U.A. took place the day that the fall of Dien Bien Phu was announced. The impact on the Algerians, many of whose kinsmen had been fighting alongside the French in the besieged camp, was electric. Employing subtlest techniques of psychological warfare, the Viet-Minh suggestively quizzed the Algerians captured there: "Since you are such good soldiers, why do you fight for the colonialists? Why don't you fight for yourselves and get yourselves a country of your own?" Suddenly this unbelievable defeat deprived the glorious French army of its baraka, making it look curiously mortal for the first time. Wild rumours exaggerating the defeat began immediately to take root at home in Algeria, greatly facilitating the C.R.U.A.'s work of recruitment
->
+> 
 > *XREF: Connects to a broad theme of decolonization and how anti-colonial movements learned from and inspired one another across regions.*
 > *QUESTION: Did the Viet-Minh actively support or arm Algerian nationalists beyond psychological warfare? Worth exploring the extent of direct cooperation.*
 
@@ -1868,7 +1869,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian rebels committed to revolution until total independence [fact]
 > By historic chance, this first full meeting of the C.R.U.A. took place the day that the fall of Dien Bien Phu was announced. The impact on the Algerians, many of whose kinsmen had been fighting alongside the French in the besieged camp, was electric. Employing subtlest techniques of psychological warfare, the Viet-Minh suggestively quizzed the Algerians captured there: "Since you are such good soldiers, why do you fight for the colonialists? Why don't you fight for yourselves and get yourselves a country of your own?" Suddenly this unbelievable defeat deprived the glorious French army of its baraka, making it look curiously mortal for the first time. Wild rumours exaggerating the defeat began immediately to take root at home in Algeria, greatly facilitating the C.R.U.A.'s work of recruitment
->
+> 
 > *XREF: Contrasts with limited-revolt strategies common in other decolonization movements that aimed to negotiate concessions rather than total sovereignty.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 241</cite>
@@ -1880,7 +1881,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionaries unanimously chose unlimited war over bargaining concessions [fact]
 > By historic chance, this first full meeting of the C.R.U.A. took place the day that the fall of Dien Bien Phu was announced. The impact on the Algerians, many of whose kinsmen had been fighting alongside the French in the besieged camp, was electric. Employing subtlest techniques of psychological warfare, the Viet-Minh suggestively quizzed the Algerians captured there: "Since you are such good soldiers, why do you fight for the colonialists? Why don't you fight for yourselves and get yourselves a country of your own?" Suddenly this unbelievable defeat deprived the glorious French army of its baraka, making it look curiously mortal for the first time. Wild rumours exaggerating the defeat began immediately to take root at home in Algeria, greatly facilitating the C.R.U.A.'s work of recruitment
->
+> 
 > *SEED: The strategic choice between limited insurgency aimed at negotiation versus total revolutionary war is a rich comparative lens for understanding other independence movements and asymmetric conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 241</cite>
@@ -1892,7 +1893,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The fall of Dien Bien Phu shattered French prestige among Algerians. [causal]
 > By historic chance, this first full meeting of the C.R.U.A. took place the day that the fall of Dien Bien Phu was announced. The impact on the Algerians, many of whose kinsmen had been fighting alongside the French in the besieged camp, was electric. Employing subtlest techniques of psychological warfare, the Viet-Minh suggestively quizzed the Algerians captured there: "Since you are such good soldiers, why do you fight for the colonialists? Why don't you fight for yourselves and get yourselves a country of your own?" Suddenly this unbelievable defeat deprived the glorious French army of its baraka, making it look curiously mortal for the first time. Wild rumours exaggerating the defeat began immediately to take root at home in Algeria, greatly facilitating the C.R.U.A.'s work of recruitment
->
+> 
 > *XREF: Connects to the broader scholarship on how colonial defeats at Dien Bien Phu and later Suez emboldened independence movements across French North Africa, including Sétif and the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 241</cite>
@@ -1904,7 +1905,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's Algerian electoral college favored a small Muslim elite. [fact]
 > The first electoral college comprised all French citizens, some 500,000 eligibles (in 1954), plus a number of "meritorious" Muslims; these included recipients of higher education, civil servants, bachagas and caids, holders of the Legion of Honour and distinguished anciens combattants, and they then numbered 60,000. The second college embraced the eligible voters of all the remaining nine million Muslims.
->
+> 
 > *XREF: Connects to colonial divide-and-rule strategies used across French territories, where limited franchises were granted to assimilated elites.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 245</cite>
@@ -1916,7 +1917,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Roman legionaries saw their sacrifice as defending civilization's benefits. [causal]
 > We had been told, on leaving our native soil, that we were going to defend the sacred rights conferred on us by so many of our citizens settled overseas, so many years of our presence, so many benefits brought by us to populations in need of our assistance and our civilisation. … We were able to verify that all this was true, and, because it was true, we did not hesitate to shed our quota of blood, to sacrifice our youth and our hopes. We regretted nothing, but whereas we over here are inspired by this frame of mind, I am told that in Rome factions and conspiracies are rife, that treachery flourishes, and that many people in their uncertainty and confusion lend a ready ear to the dire temptations of relinquishment.… Make haste to reassure me, I beg you, and tell me that our fellow-citizens understand us, support us and protect us as we ourselves are protecting the glory of the Empire. … If it should be otherwise, if we should have to leave our bleached bones on these desert sands in vain, then beware of the anger of the Legions!
->
+> 
 > *XREF: Imperial rhetoric of 'civilizing missions' echoes later colonial justifications; a striking parallel to 19th-century European imperialism.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 248</cite>
@@ -1928,7 +1929,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rebels chose All Saints' Day for its strategic and symbolic value [causal]
 > THE choice of All Saints’ Day for launching the revolt was by no means fortuitous. Striking on a night when the staunchly Catholic pieds noirs were celebrating so important a festival would, it was argued, find police vigilance at its minimum; while the choice of such a date would carry with it the maximum propaganda impact. For a people as fond of symbolism as the Algerians, and with memories of Sétif still etched in their minds, the fact that All Saints commemorated the persecution of the early Christian martyrs was also not without significance.
->
+> 
 > *XREF: Strategic timing of attacks—choosing moments of low vigilance and high symbolic resonance—connects to other guerrilla and insurgency tactics, like the Tet Offensive during Tết.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 253</cite>
@@ -1940,7 +1941,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] All Saints' Day launch maximized revolt's surprise and symbolism. [causal]
 > THE choice of All Saints’ Day for launching the revolt was by no means fortuitous. Striking on a night when the staunchly Catholic pieds noirs were celebrating so important a festival would, it was argued, find police vigilance at its minimum; while the choice of such a date would carry with it the maximum propaganda impact. For a people as fond of symbolism as the Algerians, and with memories of Sétif still etched in their minds, the fact that All Saints commemorated the persecution of the early Christian martyrs was also not without significance.
->
+> 
 > *XREF: Classic insurgent timing tactics — choosing a date of symbolic meaning to opponents to exploit low vigilance and maximize propaganda. Connects to other revolutionary/insurgency timing patterns.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 253</cite>
@@ -1952,7 +1953,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Algerian rebellion used cellular, compartmentalized structure for security. [causal]
 > The country was divided into six autonomous zones or Wilayas, giving the rebellion an integral structure that it would retain over the next seven and a half years. Operation groups would be formed in watertight compartments, with no more than four or five trusted men knowing each other. On D-Day each group leader was to act in accordance with a very precise plan, and attacks were to be directed against specific public installations, private property of the grands colons, French military personnel and gendarmes, and Muslim collaborators. European civilians — especially women and children — were to be strictly immune; there would be no repetition of Sétif.
->
+> 
 > *XREF: The watertight-compartment structure resembles modern insurgency and terrorist cell networks, suggesting a long lineage of clandestine organizational design.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 254</cite>
@@ -1964,7 +1965,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolt began with just a few hundred captured firearms [fact]
 > Ben Bella claimed that the F.L.N. started the revolt with only 350 to 400 miscellaneous firearms, and virtually nothing heavier than a machine-gun. Not a weapon, it is worth noting, at this stage or for several years to come, was provided by the Communist bloc; nor was more than a modest quantity of guns acquired elsewhere abroad with the F.L.N.’s slender funds. Thus, from the very beginning the theft of French arms from depots or their recovery on the battlefield became a prime military objective.
->
+> 
 > *XREF: Connects to broader literature on asymmetric warfare and insurgents arming themselves through captured enemy equipment, contrasting with externally-funded insurgencies.*
 > *DEFINE: Clarifies that the F.L.N. (National Liberation Front) relied on captured French arms rather than external supply, redefining how this revolt was equipped.*
 
@@ -1977,7 +1978,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Theft armed the Algerian revolt when outside weapons were scarce. [fact]
 > Ben Bella claimed that the F.L.N. started the revolt with only 350 to 400 miscellaneous firearms, and virtually nothing heavier than a machine-gun. Not a weapon, it is worth noting, at this stage or for several years to come, was provided by the Communist bloc; nor was more than a modest quantity of guns acquired elsewhere abroad with the F.L.N.’s slender funds. Thus, from the very beginning the theft of French arms from depots or their recovery on the battlefield became a prime military objective.
->
+> 
 > *DEFINE: Explains how the F.L.N. acquired weapons through theft and capture rather than external supply.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 257</cite>
@@ -2009,7 +2010,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French officers dismissed early warnings of Algerian rebels. [fact]
 > At a top-level conference convened by Vaujour at Constantine on 29 October, just two days before All Saints, one French colonel, when told that a hundred armed fellagha had been spotted in the Aurès exclaimed contemptuously: “Monsieur le Préfet, I’ve been patrolling the roads for a very long time, and I’ve never yet seen a fellagha in front of my jeep!” It was not likely that he would have done; Ben Boulaid’s men were hardly moving along the highways.
->
+> 
 > *QUESTION: How substantially did this official complacency delay the French response to the November 1954 uprising?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 260</cite>
@@ -2021,7 +2022,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Tribal vendetta culture made rural communities ripe for F.L.N. exploitation [causal]
 > The various tribes habitually lived in a state of bloody, Corsican-style vendetta with each other, but would unite when threatened by an outside force. They would complain to the administration at its failure to protect them from banditry; yet, at the same time, they would as a matter of principle not denounce a bandit, or refuse him food and lodging. It was a system ready-made for exploitation by the F.L.N.
->
+> 
 > *XREF: Connects to broader patterns in counterinsurgency literature where pre-existing social codes are leveraged by insurgencies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 264</cite>
@@ -2043,7 +2044,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionaries targeted Kabylia as a future revolutionary stronghold. [fact]
 > It was their ambitious aim to sever its tenuous communications with the rest of Algeria, spark off a general uprising there, and ultimately (according to Ben Bella) make it Algeria’s “principal revolutionary stronghold”.
->
+> 
 > *XREF: Connects to accounts of the Algerian War and how insurgent groups choose geographically isolated strongholds.*
 > *QUESTION: Was Kabylia's mountainous, isolated terrain the reason it was chosen for severing communications?*
 
@@ -2066,7 +2067,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Insurgent attacks depended on precisely synchronized timing sequences. [fact]
 > The most precise, synchronised timing was to be observed; under strictest orders from Ben Boulaid not a shot was to be fired until 03.00 hours on the morning of 1 November.
->
+> 
 > *XREF: This deliberately synchronized coordinated attack (midnight launch) parallels the opening of the Algerian War with simultaneous strikes — echoes of coordinated uprisings like the Easter Rising or Tet Offensive.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 266</cite>
@@ -2078,7 +2079,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ambiguous orders create dangerous interpretive latitude in violent contexts [fact]
 > Deleplanque immediately telephoned the captain of the gendarmerie in Batna, ordering a state of alert for all units. Next he telephoned Army headquarters, but here there was an aggravating delay while a sleepy colonel (the same who had recently claimed never to have seen a fellagha in front of his jeep) at first insisted on receiving written orders “through the proper channels”.
->
+> 
 > *QUESTION: This tension between orders and interpretation in colonial violence raises wider questions about how command ambiguity functions in asymmetric conflicts. The precise historical context of this Algerian example invites further research.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 267</cite>
@@ -2090,7 +2091,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Bureaucratic delays can stall military emergency responses. [fact]
 > Deleplanque immediately telephoned the captain of the gendarmerie in Batna, ordering a state of alert for all units. Next he telephoned Army headquarters, but here there was an aggravating delay while a sleepy colonel (the same who had recently claimed never to have seen a fellagha in front of his jeep) at first insisted on receiving written orders “through the proper channels”.
->
+> 
 > *XREF: Connects to the colonial-era Algeria civil-military dynamics Alistair Horne documents throughout 'A Savage War of Peace'; the sleepy colonel's obstructionism reflects the French army's institutional frictions.*
 > *QUESTION: Was the colonel's insistence on written orders genuine procedure, or a form of passive resistance against Deleplanque's initiative?*
 
@@ -2103,7 +2104,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian war's first soldiers died unable to fire loaded rounds. [fact]
 > In accordance with peace-time standing orders, their rifles were unloaded and the ammunition sewn up in their pouches. With never a chance to get a round off, they were mown down — the first army personnel to be killed in the Algerian war.
->
+> 
 > *XREF: Connects to broader settler-colonial violence histories and the irony of peacetime protocols causing wartime deaths.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 268</cite>
@@ -2115,7 +2116,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A watchman's antique rifle repelled armed rebels at a mine. [fact]
 > At the Ichmoul lead mine, an attack aimed at seizing some 1,500 pounds of dynamite failed equally, with a commando of wildly firing rebels driven off by a Muslim night-watchman, who returned their fire from under his bed with an antique cavalry rifle.
->
+> 
 > *XREF: Connects to the broader Algerian independence conflict being covered in this work, showing the asymmetry of the colonial/insurgent struggle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 269</cite>
@@ -2127,7 +2128,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] First Algerian war casualties included both loyalists and liberals. [fact]
 > In view of the pattern that the war was to assume, there was something tragically symbolic in the fact that among the seven to die on that first day would be a loyal caid and a “liberal” French teacher.
->
+> 
 > *SEED: The symbolic symmetry of a loyalist and a liberal dying on day one could frame an essay on how colonial conflicts consume both sides' bridges to a middle path.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 275</cite>
@@ -2159,7 +2160,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rebel declarations can bind leaders to consistent wartime principles. [fact]
 > Excessively grandiloquent as it may have sounded at the time, the truly remarkable feature of the F.L.N. proclamation as a document was that its basic principles were to be adhered to with absolute fidelity during seven and a half years of war, right through to the final settlement.
->
+> 
 > *XREF: Contrasts with many independence movements whose founding documents are abandoned as war drags on — the FLN's fidelity is the exception worth noting.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 298</cite>
@@ -2171,7 +2172,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French officials wrongly blamed Algerian unrest on Cairo direction. [causal]
 > At a first emergency conference summoned by Léonard early on the morning of the 1st, he, Vaujour and General Cherrière, the Army Commander-in-Chief, all agreed that, from the evidence already available, it was a question of isolated incidents rather than of any general insurrection. Equally it was agreed (thus giving roots to the fateful legend) that all must have been decreed from Cairo, and not set up within Algeria itself.
->
+> 
 > *QUESTION: The 'fateful legend' of Cairo direction — worth tracing how this misattribution shaped later French policy and Algerian nationalist framing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 299</cite>
@@ -2183,7 +2184,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial administrations respond to crises with roundups, then reform too late [causal]
 > It was predictable, not specifically because of the pied noir mentality, but because this is the way an administration caught with its pants down habitually reacts under such circumstances; whether it be the British in Palestine, Cyprus or Northern Ireland, the Portuguese in Mozambique, or the French in Indo-China. First comes the mass indiscriminate round-up of suspects, most of them innocent but converted into ardent militants by the fact of their imprisonment; then the setting of faces against liberal reforms designed to tackle the root of the trouble; followed, finally, when too late, by a new, progressive policy of liberalisation.
->
+> 
 > *XREF: Echoes the classic 'overreaction breeds radicalism' pattern seen across counterinsurgency history, from the French in Algeria to modern counterterrorism crackdowns.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 300</cite>
@@ -2195,7 +2196,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Post-war reformist statutes were shelved until order was fully restored. [causal]
 > Clause (c) could well have been adopted from a rallying-cry at the Battle of Verdun; altogether it meant, as liberals like Jacques Chevallier at once feared, a setting back of the clocks on any suggestion of reform. There could be no question of implementing the statute of 1947 now, let alone of conceding electoral equality to a Muslim community that could murder young French teachers, and certainly not before order was fully restored.
->
+> 
 > *XREF: Connects to broader colonial history where reform is deferred under the justification of restoring order — a recurring pattern across colonial administrations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 307</cite>
@@ -2207,7 +2208,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French political pressure forced bellicose Algeria rhetoric in 1954. [causal]
 > It was an uncompromisingly forthright, fatefully binding statement, and Mendès-France the radical was more than backed up by his Socialist Minister of the Interior, François Mitterrand. He had equally refuted any parallel between French policy in Morocco and Tunisia on the one hand and Algeria on the other at a session of the Assembly’s Commission de l’Intérieur on 5 November, adding the challenge that here, in Algeria, “the only possible negotiation is war”. … In a vote of confidence on the 12th, Mendès-France scraped home with 294 to 265, saved, in effect, by the score of votes controlled by René Mayer’s pro-pied noir lobby. Such subsequent “hawks” as Bidault, Soustelle, Mollet and Lacoste all voted for the government. No ultra-conservative imperialist could have been much more forthright than Mitterrand, and in view of his subsequent career his statements may seem additionally surprising. But in November 1954 the unyielding gospel of l’Algérie, c’est la France very much represented French political opinion of almost all hues; on the other hand, Mendès-France also had reasons of internal politics for making quite such bellicose noises. The fate of his reforming government was at stake. The initial charisma acquired by his liquidation of the Indo-China war in the summer had waned; the Assembly was suspicious (as it had shown on 12 November) of his dealing in Tunisia and Morocco, and it disliked the way he had simply shrugged off responsibility for the torpedoing of the European Defence Community in August; the vocal bistro-owners were up in arms at his worthy but much derided campaign to replace alcohol by milk. Mendès-France was, however, profoundly a reformer and, privately, he was pledged to introduce a “new deal” for Algeria. To him it was clear that colonial rule in Algeria would have to end ultimately, as it was about to do in Morocco and Tunisia. The question was, when? And with whom to negotiate? In Indo-China, Tunisia and Morocco there had been the leaders who were present on the spot — the Ho Chi Minhs and Bourguibas. But in Algeria, because a century and a quarter of francisation had destroyed the native cadres, there existed no ready-made interlocuteurs valables with whom Mendès-France could negotiate, if and when he so wished. Therefore, although initially he would have to act unilaterally, with his incisive intelligence he grasped what it would take his successors another five years to realise; namely that, sooner or later, contact would have to be taken up with Algerians who were, to some extent or other, associated with the revolt. … But All Saints had struck him a mauvais coup; if he were now to start implementing the 1947 statute and instituting honest elections (as he desired) — let alone negotiating with any Algerian nationalists — then the pied noir lobby would cause his government to fall overnight. Thus order had first to be restored. He found himself clad in an “iron maiden” that successive French governments after him — left, liberal and conservative — would be forced to don.
->
+> 
 > *XREF: Relates to how domestic political survival shapes colonial policy decisions, paralleling other historical episodes where leaders adopted hawkish stances to protect domestic agendas.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 317</cite>
@@ -2219,7 +2220,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Francisation had eliminated Algeria's native negotiating partners. [causal]
 > It was an uncompromisingly forthright, fatefully binding statement, and Mendès-France the radical was more than backed up by his Socialist Minister of the Interior, François Mitterrand. He had equally refuted any parallel between French policy in Morocco and Tunisia on the one hand and Algeria on the other at a session of the Assembly’s Commission de l’Intérieur on 5 November, adding the challenge that here, in Algeria, “the only possible negotiation is war”. … In a vote of confidence on the 12th, Mendès-France scraped home with 294 to 265, saved, in effect, by the score of votes controlled by René Mayer’s pro-pied noir lobby. Such subsequent “hawks” as Bidault, Soustelle, Mollet and Lacoste all voted for the government. No ultra-conservative imperialist could have been much more forthright than Mitterrand, and in view of his subsequent career his statements may seem additionally surprising. But in November 1954 the unyielding gospel of l’Algérie, c’est la France very much represented French political opinion of almost all hues; on the other hand, Mendès-France also had reasons of internal politics for making quite such bellicose noises. The fate of his reforming government was at stake. The initial charisma acquired by his liquidation of the Indo-China war in the summer had waned; the Assembly was suspicious (as it had shown on 12 November) of his dealing in Tunisia and Morocco, and it disliked the way he had simply shrugged off responsibility for the torpedoing of the European Defence Community in August; the vocal bistro-owners were up in arms at his worthy but much derided campaign to replace alcohol by milk. Mendès-France was, however, profoundly a reformer and, privately, he was pledged to introduce a “new deal” for Algeria. To him it was clear that colonial rule in Algeria would have to end ultimately, as it was about to do in Morocco and Tunisia. The question was, when? And with whom to negotiate? In Indo-China, Tunisia and Morocco there had been the leaders who were present on the spot — the Ho Chi Minhs and Bourguibas. But in Algeria, because a century and a quarter of francisation had destroyed the native cadres, there existed no ready-made interlocuteurs valables with whom Mendès-France could negotiate, if and when he so wished. Therefore, although initially he would have to act unilaterally, with his incisive intelligence he grasped what it would take his successors another five years to realise; namely that, sooner or later, contact would have to be taken up with Algerians who were, to some extent or other, associated with the revolt. … But All Saints had struck him a mauvais coup; if he were now to start implementing the 1947 statute and instituting honest elections (as he desired) — let alone negotiating with any Algerian nationalists — then the pied noir lobby would cause his government to fall overnight. Thus order had first to be restored. He found himself clad in an “iron maiden” that successive French governments after him — left, liberal and conservative — would be forced to don.
->
+> 
 > *XREF: Connects to broader decolonization history across Indo-China and North Africa, where local nationalist leaders provided negotiating counterparts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 317</cite>
@@ -2231,7 +2232,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French political opinion unanimously treated Algeria as inseparable from France in 1954. [fact]
 > It was an uncompromisingly forthright, fatefully binding statement, and Mendès-France the radical was more than backed up by his Socialist Minister of the Interior, François Mitterrand. He had equally refuted any parallel between French policy in Morocco and Tunisia on the one hand and Algeria on the other at a session of the Assembly’s Commission de l’Intérieur on 5 November, adding the challenge that here, in Algeria, “the only possible negotiation is war”. … In a vote of confidence on the 12th, Mendès-France scraped home with 294 to 265, saved, in effect, by the score of votes controlled by René Mayer’s pro-pied noir lobby. Such subsequent “hawks” as Bidault, Soustelle, Mollet and Lacoste all voted for the government. No ultra-conservative imperialist could have been much more forthright than Mitterrand, and in view of his subsequent career his statements may seem additionally surprising. But in November 1954 the unyielding gospel of l’Algérie, c’est la France very much represented French political opinion of almost all hues; on the other hand, Mendès-France also had reasons of internal politics for making quite such bellicose noises. The fate of his reforming government was at stake. The initial charisma acquired by his liquidation of the Indo-China war in the summer had waned; the Assembly was suspicious (as it had shown on 12 November) of his dealing in Tunisia and Morocco, and it disliked the way he had simply shrugged off responsibility for the torpedoing of the European Defence Community in August; the vocal bistro-owners were up in arms at his worthy but much derided campaign to replace alcohol by milk. Mendès-France was, however, profoundly a reformer and, privately, he was pledged to introduce a “new deal” for Algeria. To him it was clear that colonial rule in Algeria would have to end ultimately, as it was about to do in Morocco and Tunisia. The question was, when? And with whom to negotiate? In Indo-China, Tunisia and Morocco there had been the leaders who were present on the spot — the Ho Chi Minhs and Bourguibas. But in Algeria, because a century and a quarter of francisation had destroyed the native cadres, there existed no ready-made interlocuteurs valables with whom Mendès-France could negotiate, if and when he so wished. Therefore, although initially he would have to act unilaterally, with his incisive intelligence he grasped what it would take his successors another five years to realise; namely that, sooner or later, contact would have to be taken up with Algerians who were, to some extent or other, associated with the revolt. … But All Saints had struck him a mauvais coup; if he were now to start implementing the 1947 statute and instituting honest elections (as he desired) — let alone negotiating with any Algerian nationalists — then the pied noir lobby would cause his government to fall overnight. Thus order had first to be restored. He found himself clad in an “iron maiden” that successive French governments after him — left, liberal and conservative — would be forced to don.
->
+> 
 > *XREF: Connects to the Algerian War narrative and the pied-noir political lobby's influence on French governance.*
 > *QUESTION: How quickly did the 'l'Algérie, c'est la France' consensus erode over the war's eight years?*
 
@@ -2244,7 +2245,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Occupied locals hid hatred behind fear and paralyzed tongues. [fact]
 > Rebel intelligence always seemed to be one leap ahead of the cumbersome, weary French columns: “We had to get there by forced marches,” says Leulliette. “Too late: the Arab bush-telegraph — fires which suddenly lit up from peak to peak — had moved faster than us.” Another excellent “early warning system” was provided by the large yellow and white dogs of the Aurès, which the French discovered could hear a patrol of six men in sandals a mile off. It was a tense and lonely existence: “We were to spend a whole winter on our own, more isolated than conquistadors forgotten in some new world,” Leulliette recalled, “if we passed through one of the douars by day, the fellaghas went there at night. If we camped there at night, they came back the next day, often only a few hours after we had left."
->
+> 
 > *DEFINE: Illustrates how colonial-era fear suppressed dissent and masked underlying hostility among the local population.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 323</cite>
@@ -2276,7 +2277,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Local early-warning networks outmatched the French military's mobility. [fact]
 > Rebel intelligence always seemed to be one leap ahead of the cumbersome, weary French columns: “We had to get there by forced marches,” says Leulliette. “Too late: the Arab bush-telegraph — fires which suddenly lit up from peak to peak — had moved faster than us.” Another excellent “early warning system” was provided by the large yellow and white dogs of the Aurès, which the French discovered could hear a patrol of six men in sandals a mile off. It was a tense and lonely existence: “We were to spend a whole winter on our own, more isolated than conquistadors forgotten in some new world,” Leulliette recalled, “if we passed through one of the douars by day, the fellaghas went there at night. If we camped there at night, they came back the next day, often only a few hours after we had left."
->
+> 
 > *XREF: Parallels asymmetric-warfare dynamics from other insurgency histories, where local knowledge and communication networks offset conventional military power.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 323</cite>
@@ -2298,7 +2299,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Failed army operations drove neutral Algerians to the FLN. [causal]
 > But, for all the trumpeting, there was no bombardment — called off after much argument. As predicted, the army gained the worst of both worlds, bringing down on itself as much ridicule as the fruitless ratissages that repeatedly let Ben Boulaid and his men slip through the teeth of the “fine” comb. And with such losses of face, combined with the inevitable rigours and humiliations imposed on the Auresians in the course of ratissages, a steady flow of the uncommitted began to join the F.L.N. — "more impressed by their cunning and agility than by our ineffectual power", comments Leulliette.
->
+> 
 > *XREF: Counterinsurgency dynamics where heavy-handed operations backfire and recruit for the insurgency — parallels other colonial/suppression campaigns.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 327</cite>
@@ -2310,7 +2311,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonel Ducournau's personal leadership routed a rebel band. [fact]
 > With Ducournau the school of Indo-China arrived in Algeria. Setting up his headquarters in Arris, he immediately decided to pursue relentlessly the F.L.N. into the hills, living with the indigènes according to Mao’s often quoted principle of the “fish in water”, and taking with him as guides and trackers some of the loyal Chaouias that Jean Servier had recruited for the defence of Arris.
->
+> 
 > *DEFINE: The bandit d'honneur (honor bandit) figure is a distinctive historical concept blending criminality with social respect, personified by Belkacem Grine.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 328</cite>
@@ -2322,7 +2323,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French officers applied Mao's counterinsurgency tactics in colonial Algeria [causal]
 > With Ducournau the school of Indo-China arrived in Algeria. Setting up his headquarters in Arris, he immediately decided to pursue relentlessly the F.L.N. into the hills, living with the indigènes according to Mao’s often quoted principle of the “fish in water”, and taking with him as guides and trackers some of the loyal Chaouias that Jean Servier had recruited for the defence of Arris.
->
+> 
 > *XREF: Connects to counterinsurgency warfare theory and the ironies of colonial powers adopting revolutionary tactics, echoing similar dynamics in Vietnam and elsewhere.*
 > *SEED: A possible essay angle: how counterinsurgency tactics migrate between opposing sides and what the 'fish in water' principle reveals about colonial vs. anticolonial legitimacy.*
 
@@ -2335,7 +2336,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ducournau applied Mao's counterinsurgency tactics to crush the F.L.N. [fact]
 > With Ducournau the school of Indo-China arrived in Algeria. Setting up his headquarters in Arris, he immediately decided to pursue relentlessly the F.L.N. into the hills, living with the indigènes according to Mao’s often quoted principle of the “fish in water”, and taking with him as guides and trackers some of the loyal Chaouias that Jean Servier had recruited for the defence of Arris.
->
+> 
 > *XREF: Links the Algerian war to Maoist guerrilla doctrine, a cross-domain inversion where colonial forces adopted the insurgent's own tactics — echoes later Vietnam-era applications.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 328</cite>
@@ -2347,7 +2348,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A guerrilla force can outlast pursuers by ceding ground upward. [causal]
 > The killing of Grine caused a considerable impact in the Aurès, and a serious blow to F.L.N. morale. It could be rated the first major French success of the shooting war so far; yet, in effect, it was something of a flash in the pan. The F.L.N., growing more experienced, wilier and more cautious about accepting combat with superior French forces, became like mountain sheep — always one ledge, one ridge higher up in the wintry mountains than their pursuers. The war in the Aurès began to bog down, to the deep dissatisfaction of Mendès-France and, even more, of the impatient pied noir leaders in Algiers.
->
+> 
 > *XREF: Recalls classic asymmetric-warfare patterns — the Viet Minh and later NLF also avoided set-piece battles with superior French/American power, retreating and waiting out the opponent.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 329</cite>
@@ -2359,7 +2360,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French battlefield success failed to break Algerian guerrilla resistance [causal]
 > The killing of Grine caused a considerable impact in the Aurès, and a serious blow to F.L.N. morale. It could be rated the first major French success of the shooting war so far; yet, in effect, it was something of a flash in the pan. The F.L.N., growing more experienced, wilier and more cautious about accepting combat with superior French forces, became like mountain sheep — always one ledge, one ridge higher up in the wintry mountains than their pursuers. The war in the Aurès began to bog down, to the deep dissatisfaction of Mendès-France and, even more, of the impatient pied noir leaders in Algiers.
->
+> 
 > *XREF: Pattern echoes many counterinsurgency campaigns where tactical victories don't deliver strategic results—relevant to any study of guerrilla warfare or colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 329</cite>
@@ -2381,7 +2382,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Mass arrests and ratissages swelled rebel ranks despite old-guard losses. [causal]
 > If one could draw up a balance-sheet for that first winter of the war in terms of rebel manpower alone, on the debit side the “old guard” had been largely mopped-up; on the credit side there was a plentiful substitution of new recruits resulting from the indiscriminate mass arrests in the cities and overzealous ratissages in the bled. But this remained to some extent a potential, rather than actual, asset.
->
+> 
 > *XREF: Connects to counterinsurgency dynamics where brutal crackdowns generate new recruits from affected civilian populations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 331</cite>
@@ -2393,7 +2394,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Mass arrests recruited replacements for the Algerian resistance's losses. [causal]
 > If one could draw up a balance-sheet for that first winter of the war in terms of rebel manpower alone, on the debit side the “old guard” had been largely mopped-up; on the credit side there was a plentiful substitution of new recruits resulting from the indiscriminate mass arrests in the cities and overzealous ratissages in the bled. But this remained to some extent a potential, rather than actual, asset.
->
+> 
 > *XREF: Connects to the broader pattern of brutal colonial repression backfiring by radicalizing and swelling rebel ranks.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 331</cite>
@@ -2415,7 +2416,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The pieds noirs denied Algerian grievances after the shock subsided [causal]
 > Most disappointingly of all perhaps for the F.L.N. was the fact that, after the initial shock of All Saints had subsided, the pieds noirs resumed their way of life as if absolutely nothing had happened; if anything, they had averted their gaze still further from the root causes of Algerian discontent. In metropolitan France, Mendès-France had not been deflected from carrying out his North American tour in mid-November, and it was still not yet considered necessary to decree a state of emergency in Algeria. Deadlock threatened. Says Pierre Leulliette: "Fear engenders cruelty; cruelty, fear, insanity and then paralysis. In the centre of Dante’s circle, the damned remained motionless." This vicious circle now began in Algeria.
->
+> 
 > *SEED: The fear-cruelty-paralysis vicious circle framework could anchor an essay on how denial perpetuates colonial conflict.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 332</cite>
@@ -2427,7 +2428,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rumors smeared Soustelle as a Soviet agent and Jew. [fact]
 > Soustelle’s appointment was followed by long and heated discussion in the Assembly, accompanied by a vituperative whispering campaign — emanating from Algiers — in which it was suggested that he was, inter alia, a Soviet agent, a Jew like Mendès-France and his real name was “Ben-Soussan”.
->
+> 
 > *QUESTION: The anti-Semitic framing suggests deeper racial/colonial tensions in the Algerian crisis era worth investigating.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 339</cite>
@@ -2479,7 +2480,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Integration policy aimed to make Algeria fully French while preserving difference [definitional]
 > Then Soustelle introduced a new concept: "This means that a choice has been made, and this choice is called 'integration'. It is to make Algeria each day more completely a province, different from the others, certainly, but fully French." Elaborating, later, on the difference between his new policy of "integration" and the old Blum—Viollette ideal of "assimilation", Soustelle explained that it was much the more "realist"; that it recognised the original "personality" of Algeria; that, in economic terms, it aimed at sweeping away "obsolete legacies of an imaginary autonomy affording Algeria no other privilege than that of her misery"; and that, in political terms, it was to be based upon the "immutable equality of all its inhabitants".
->
+> 
 > *DEFINE: Distinguishes Soustelle's 'integration' from the older 'assimilation' ideal — a key conceptual distinction in Algerian colonial history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 343</cite>
@@ -2501,7 +2502,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial reforms aimed to reduce Algerian electoral inequities. [fact]
 > Some of the deeply resented electoral inequities of the two-college system were to be expunged; among such reforms Muslims in the towns were to be granted parity of representation. The equally resented communes mixtes (which Soustelle saw as being "the heart of the political problem" in Algeria) were to be suppressed and broken up into elected rural communes; while to remedy the acute problem of under-administration whereby many an Algerian never encountered a representative of France, Soustelle created an entirely new corps, the Sections Administratives Specialisées or S.A.S.
->
+> 
 > *DEFINE: Explains the S.A.S. (Sections Administratives Specialisées), a new administrative corps Soustelle created to address under-administration in Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 344</cite>
@@ -2513,7 +2514,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Elite French administrators in Algeria became primary FLN assassination targets. [fact]
 > Some 400 S.A.S. detachments were created, each under an army lieutenant or captain who was an expert in Arabic and Arab affairs and could deal with every conceivable aspect of administration; from agronomy, teaching and health, to building houses and administering justice. The képis bleus, as they were affectionately called, were a selflessly devoted and courageous band of men, who made themselves much loved by the local populace, and for that reason were often the principal targets of the F.L.N., suffering the heaviest casualties of any category of administrator. Foreign journalists who saw them at work in the remoter bled, isolated and in constant danger, never ceased to be impressed. Unfortunately, there were always too few képis bleus with all the numerous qualifications that the job required; and, inevitably, there were the bad ones who transformed the S.A.S. into "intelligence centres" where torture was not unknown.
->
+> 
 > *DEFINE: Képis bleus is the affectionate nickname for the S.A.S. detachments — French army officers with deep expertise in Arab affairs who administered remote Algerian regions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 345</cite>
@@ -2535,7 +2536,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial repression and famine shaped Algerian peasant desperation. [fact]
 > In that grim winter of 1954 she had observed the Aurès peasants "watch their goats dying for want of a little fodder … or starving workers eat their grain seed, their hope for the following year". She had been equally shocked by the heavy-handedness of the army's counter-measures.
->
+> 
 > *XREF: Connects to broader histories of famines precipitating anti-colonial revolt — starvation of seed grain signals total desperation.*
 > *SEED: The detail of peasants eating their seed grain could anchor an essay on how subsistence crisis functions as a revolutionary accelerant across colonial contexts.*
 > *QUESTION: How did the army's heavy-handed counter-measures specifically escalate the situation into outright rebellion?*
@@ -2569,7 +2570,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French reprisal raids inadvertently swelled rebel recruitment numbers. [causal]
 > Persuasively he pointed out to Monteil how the French ratissages operations were "our best recruiting agent", and after this extraordinary first meeting between a F.L.N. leader and a French official, Monteil left with the firm impression of "a man of faith, and of good faith, pushed to the limits by a lively sentiment of the injustice that has hit his people".
->
+> 
 > *XREF: Counterinsurgency literature widely documents the phenomenon where harsh tactics backfire and radicalize populations — aligns with works on Algeria and Vietnam.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 348</cite>
@@ -2581,7 +2582,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Imprisoning insurgents strengthens the rebellion rather than weakening it. [causal]
 > Persuasively he pointed out to Monteil how the French ratissages operations were "our best recruiting agent", and after this extraordinary first meeting between a F.L.N. leader and a French official, Monteil left with the firm impression of "a man of faith, and of good faith, pushed to the limits by a lively sentiment of the injustice that has hit his people". … Would the detainees still have gone over to the rebels if they had been released when Monteil interviewed them at the beginning of March? Or if they had never been arrested in the first place? One may speculate, but all one can be sure of is that here Soustelle got the worst of both worlds: the Ben Kheddas were lost to the rebellion; the mistrust of the pieds noirs for French policy was exacerbated. Prison — as was to be relearnt by the French repeatedly in the course of the Algerian war, by the British in Northern Ireland and by every other mid-twentieth-century regime faced with a similar insurrectionary problem — is a marvellous recruiting and training centre.
->
+> 
 > *XREF: Parallels failures of French in Algeria, British in Northern Ireland, and other mid-century counterinsurgency regimes — a recurring historical pattern.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 349</cite>
@@ -2593,7 +2594,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Prison converts detainees into effective rebel recruits. [contrarian]
 > Would the detainees still have gone over to the rebels if they had been released when Monteil interviewed them at the beginning of March? Or if they had never been arrested in the first place? One may speculate, but all one can be sure of is that here Soustelle got the worst of both worlds: the Ben Kheddas were lost to the rebellion; the mistrust of the pieds noirs for French policy was exacerbated. Prison — as was to be relearnt by the French repeatedly in the course of the Algerian war, by the British in Northern Ireland and by every other mid-twentieth-century regime faced with a similar insurrectionary problem — is a marvellous recruiting and training centre.
->
+> 
 > *QUESTION: The counterfactual — would the Ben Kheddas have joined the rebellion if released — remains open; the author's certainty about prison's recruiting effect contrasts with this genuine uncertainty.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 350</cite>
@@ -2615,7 +2616,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Counterinsurgency demands sustained personnel, not just firepower. [causal]
 > Did "pacification", for instance, mean trying to regain the confidence of the inhabitants; or did it mean crushing the rebellion by whatever means available? "Limited repression" did not always make the clearest sense to a patrol of young soldiers caught in a vicious ambush. What was needed were new ideas, new leaders, new weapons, and more men.
->
+> 
 > *XREF: Echoes modern counterinsurgency doctrine (COIN) debates about population-centric vs enemy-centric approaches.*
 > *SEED: Could fuel an essay comparing 'limited repression' ambiguity across eras of asymmetric warfare.*
 
@@ -2638,7 +2639,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Governor delegated lethal force authority verbally to bypass opposition [fact]
 > This was a lapidary and admirable code of conduct that was to become a major bone of contention with the army as the years went by; however, early in Soustelle's term of office he was virtually short-circuited by “Babar” Cherrière, the military commander already under notice. On 14 May he sent this crucial signal to his subordinate in the Constantine area, General Allard: “I delegate you powers to decide, depending circumstances, employment machine-guns, rockets and bombs, on bands in new rebellion zone. Collective responsibility to be vigorously applied. There will be no written instruction given by the Governor [author's italics].”
->
+> 
 > *QUESTION: Why was the instruction deliberately not written down? Was this to shield the Governor from accountability, or standard colonial practice for such operations?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 357</cite>
@@ -2650,7 +2651,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Collective responsibility punishments alienated Algerians and fueled the FLN's revolt. [causal]
 > What "collective responsibility" often actually entailed for the Auresian villagers at its lowest and least pernicious level is well depicted by Pierre Leulliette: "Cutting down tough tree-trunks at night, digging wide holes in the stony track, menaced by rebel guns. And, in the morning, the exhausting work would hardly be finished when they would have to replant the poles and fill up the potholes, once again menaced by guns, this time ours." Somewhat defensively, Soustelle claims that "collective responsibility" was effective, at least when applied to repairs of roads and telegraph poles; it accorded with the Arab mentality of respecting strength, despising weakness. At the same time, however, as Germaine Tillion pointed out, it gravely offended the Chaouias' deep-rooted sense of justice, and, in the eyes of Yves Courrière, based on his interviews of F.L.N. leaders, it provided the F.L.N. with one of its "principal psychological trump cards".
->
+> 
 > *QUESTION: Worth chasing how collective responsibility was formally applied and revoked in French colonial law.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 358</cite>
@@ -2662,7 +2663,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Collective responsibility punished whole Algerian douars for individual acts. [fact]
 > What "collective responsibility" often actually entailed for the Auresian villagers at its lowest and least pernicious level is well depicted by Pierre Leulliette: "Cutting down tough tree-trunks at night, digging wide holes in the stony track, menaced by rebel guns. And, in the morning, the exhausting work would hardly be finished when they would have to replant the poles and fill up the potholes, once again menaced by guns, this time ours." Somewhat defensively, Soustelle claims that "collective responsibility" was effective, at least when applied to repairs of roads and telegraph poles; it accorded with the Arab mentality of respecting strength, despising weakness. At the same time, however, as Germaine Tillion pointed out, it gravely offended the Chaouias' deep-rooted sense of justice, and, in the eyes of Yves Courrière, based on his interviews of F.L.N. leaders, it provided the F.L.N. with one of its "principal psychological trump cards".
->
+> 
 > *XREF: Connects to broader colonial internment practices and the later Algerian regroupment centers.*
 > *SEED: Potential angle on how collective punishment doctrines traveled across colonial contexts from Algeria to Northern Ireland internment.*
 
@@ -2675,7 +2676,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Collective punishment in Algeria meant interning and destroying villages. [fact]
 > What "collective responsibility" often actually entailed for the Auresian villagers at its lowest and least pernicious level is well depicted by Pierre Leulliette: "Cutting down tough tree-trunks at night, digging wide holes in the stony track, menaced by rebel guns. And, in the morning, the exhausting work would hardly be finished when they would have to replant the poles and fill up the potholes, once again menaced by guns, this time ours." Somewhat defensively, Soustelle claims that "collective responsibility" was effective, at least when applied to repairs of roads and telegraph poles; it accorded with the Arab mentality of respecting strength, despising weakness. At the same time, however, as Germaine Tillion pointed out, it gravely offended the Chaouias' deep-rooted sense of justice, and, in the eyes of Yves Courrière, based on his interviews of F.L.N. leaders, it provided the F.L.N. with one of its "principal psychological trump cards".
->
+> 
 > *XREF: Classic tactic of collective village punishment that resonates with Long Kesh internment and echoes modern counterinsurgency tactics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 358</cite>
@@ -2687,7 +2688,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French collective-responsibility punishments alienated Algerian villagers from the colonizers. [causal]
 > What "collective responsibility" often actually entailed for the Auresian villagers at its lowest and least pernicious level is well depicted by Pierre Leulliette: "Cutting down tough tree-trunks at night, digging wide holes in the stony track, menaced by rebel guns. And, in the morning, the exhausting work would hardly be finished when they would have to replant the poles and fill up the potholes, once again menaced by guns, this time ours." Somewhat defensively, Soustelle claims that "collective responsibility" was effective, at least when applied to repairs of roads and telegraph poles; it accorded with the Arab mentality of respecting strength, despising weakness. At the same time, however, as Germaine Tillion pointed out, it gravely offended the Chaouias' deep-rooted sense of justice, and, in the eyes of Yves Courrière, based on his interviews of F.L.N. leaders, it provided the F.L.N. with one of its "principal psychological trump cards".
->
+> 
 > *XREF: Parallels later counterinsurgency history: punishing whole communities for individual acts typically backfires by driving people to the insurgency.*
 > *SEED: Could shape an article on how punitive collective measures in counterinsurgency consistently supply insurgents with propaganda advantages — from Algeria to Iraq/Afghanistan.*
 
@@ -2700,7 +2701,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Foreign Legion patrols executed suspected collaborators alongside captured rebels. [fact]
 > In his book Les Français d'Algérie, Pierre Nora recounts an episode that was to become, depressingly enough, perhaps not so exceptional as the war dragged on: near Sidi-Bel-Abbès a Foreign Legion patrol systematically searched a pied noir farm where they believed fellaghas were hiding, and discovered two in the corner of a barn. They were interrogated, with blows of rifle butts, but appeared not to understand French. This enraged the Foreign Legion lieutenant, who accused nine agricultural workers on the farm of complicity. After further interrogation had produced nothing, the two rebels, plus the nine farmhands, were put against a wall forthwith and shot in the presence of wives and children, according to the pied noir proprietor (who told the story).
->
+> 
 > *QUESTION: How representative was this episode amid the broader war, and how were such incidents documented?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 360</cite>
@@ -2712,7 +2713,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Collective responsibility doctrines echo Nazi justification for the Oradour massacre. [connection]
 > This was the road along which "collective responsibility" inevitably led. Pierre-Henri Simon, the Catholic writer, who had spent nearly five years in Nazi prisoner-of-war camps and was to become a fierce critic of his own country's conduct in Algeria, comments that "collective responsibility" was "exactly the principle by which Hitler's men justified the massacre of Oradour". Happily, during the Algerian war nothing took place approaching the atrocity of Oradour, when in June 1944 an entire French village — totalling 643 men, women and children — was massacred in reprisals by the German S.S.
->
+> 
 > *XREF: Connects colonial counterinsurgency justifications to Nazi reprisal logic—a stark parallel worth holding in mind.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 361</cite>
@@ -2724,7 +2725,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Facing real suffering unsettled French policymakers' support for war. [causal]
 > By the summer of 1955 Soustelle, always trying in Algeria to find a delicate third path between the opposing extremes of the pied noir lobbies and the Muslim nationalists, was being buffeted by mounting pressures from a multiplicity of directions.
->
+> 
 > *QUESTION: How did Soustelle reconcile his humanitarian qualms with continued military action? The tension worth investigating further.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 362</cite>
@@ -2756,7 +2757,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Deliberate terrorism provokes repression, which radicalizes the moderate middle [causal]
 > It is necessary to turn political crisis into armed conflict by performing violent actions that will force those in power to transform the political situation of the country into a military situation. That will alienate the masses, who, from then on, will revolt against the army and the police and blame them for this state of things. … Marighela’s essential philosophy was that a resort to blind terrorism would inevitably provoke the forces of law and order into an equally blind repression, which in turn would lead to a backlash by the hitherto uncommitted, polarise the situation into two extreme camps and make impossible any dialogue of compromise by eradicating the “soft centre”.
->
+> 
 > *DEFINE: This describes the political strategy of purposely violent provocation to force polarization — the mechanism Marighela theorized.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 368</cite>
@@ -2768,7 +2769,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Blind terrorism provokes equally blind repression that eradicates moderates. [causal]
 > It is necessary to turn political crisis into armed conflict by performing violent actions that will force those in power to transform the political situation of the country into a military situation. That will alienate the masses, who, from then on, will revolt against the army and the police and blame them for this state of things. … Marighela's essential philosophy was that a resort to blind terrorism would inevitably provoke the forces of law and order into an equally blind repression, which in turn would lead to a backlash by the hitherto uncommitted, polarise the situation into two extreme camps and make impossible any dialogue of compromise by eradicating the "soft centre".
->
+> 
 > *QUESTION: Does the historical record bear out Marighela's prediction in the Algerian case? Worth verifying whether terror actually produced the two-camp polarisation he described.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 369</cite>
@@ -2780,7 +2781,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorism can be deliberately deployed to provoke state overreaction. [causal]
 > It is necessary to turn political crisis into armed conflict by performing violent actions that will force those in power to transform the political situation of the country into a military situation. That will alienate the masses, who, from then on, will revolt against the army and the police and blame them for this state of things. … Marighela's essential philosophy was that a resort to blind terrorism would inevitably provoke the forces of law and order into an equally blind repression, which in turn would lead to a backlash by the hitherto uncommitted, polarise the situation into two extreme camps and make impossible any dialogue of compromise by eradicating the "soft centre".
->
+> 
 > *QUESTION: A provocative strategic logic — how often has this escalation gambit actually worked versus backfired on the instigators?*
 > *XREF: Connects to familiar contemporary discourse about police provocateurs and tensions escalating public confrontation with authorities.*
 
@@ -2793,7 +2794,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The FLN adopted war against civilians like later terrorist groups. [causal]
 > It was along this road of war without quarter against the civil population that the F.L.N. now began to move, as other terrorist bodies have done since. The consequences would not be all that far-removed from the situation envisaged by Marighela.
->
+> 
 > *XREF: Connects the FLN's Algerian tactics to Marighela's urban guerrilla theory and the broader lineage of anti-civilian insurgency methods.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 371</cite>
@@ -2805,7 +2806,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian rebels declared total war on all French civilians. [fact]
 > In a mood almost of desperation, Zighout and Ben Tobbal convened a council of war at the end of June to launch, for the first time, a policy of total war on all French civilians, regardless of age and sex. Justifying it, Zighout declared: "To colonialism's policy of collective repression [author's italics] we must reply with collective reprisals against the Europeans, military and civil, who are all united behind the crimes committed upon our people. For them, no pity, no quarter!" Simultaneously with military action by cadres of the F.L.N., a true "people's revolt" was to be unleashed in the Constantine region, in which "the largest possible number of Algerians, even hastily armed with only sticks, pitchforks, axes, sickles and knives", was to be involved.
->
+> 
 > *XREF: Connects to histories of asymmetric warfare and justifications for civilian targeting in colonial and anti-colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 373</cite>
@@ -2817,7 +2818,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN declared total war on all French civilians in 1956. [fact]
 > In a mood almost of desperation, Zighout and Ben Tobbal convened a council of war at the end of June to launch, for the first time, a policy of total war on all French civilians, regardless of age and sex. Justifying it, Zighout declared: "To colonialism's policy of collective repression [author's italics] we must reply with collective reprisals against the Europeans, military and civil, who are all united behind the crimes committed upon our people. For them, no pity, no quarter!" Simultaneously with military action by cadres of the F.L.N., a true "people's revolt" was to be unleashed in the Constantine region, in which "the largest possible number of Algerians, even hastily armed with only sticks, pitchforks, axes, sickles and knives", was to be involved.
->
+> 
 > *XREF: Connects to broader decolonization conflict literature and the escalation dynamics in the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 373</cite>
@@ -2829,7 +2830,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Amicable coexistencce did not prevent the massacre at El-Halia. [fact]
 > The peak of horror was reached at Ain-Abid, twenty-four miles east of Constantine, and at El-Halia, a small pyrite mining centre close to Philippeville. El-Halia housed 130 Europeans and some 2,000 Muslims who for years had coexisted amicably enough together. Some were on friendly terms with each others’ families, while in the mine labour relations had been exceptionally good, with a rare degree of equality between the two races. It appears that the whole Muslim community had been aware of what was brewing at least twenty-four hours previously, and a number of families left the village. On the morning of the 20th some fifty Muslim workers absented themselves from the mine — but not an inkling of this was passed on to any of the Europeans.
->
+> 
 > *QUESTION: Why did no Muslim warn the Europeans despite friendly relations? What drove the community to conceal the plot?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 375</cite>
@@ -2841,7 +2842,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Philippeville massacre hardened pied noir and French resolve in Algeria. [causal]
 > Among other butchery, at Ain-Abid an entire pied noir family called Mello perished atrociously: a seventy-three-year-old grandmother and eleven-year-old daughter, the father killed in his bed, with his arms and legs hacked off. The mother had been disembowelled, her five-day-old baby slashed to death and replaced in her opened womb. There were similar scenes of such revolting savagery in attacks elsewhere that day, and what heightened the horror (particularly at El-Halia) was the carefully premeditated planning which clearly lay behind them, with the wanton participation of so many deemed “friendly” Muslims or fellow-workers. The details sicken the stomach, but they need to be recounted for no other reason than to explain the potent and profound effect that the “Philippeville massacre” was to have on the pieds noirs, on Jacques Soustelle, and indeed on the whole subsequent history of the Algerian war.
->
+> 
 > *XREF: Links to how terrorist atrocities often galvanize rather than demoralize settler populations in colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 377</cite>
@@ -2853,7 +2854,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Brutal massacres can yield strategic gains for insurgents. [causal]
 > Though some Muslims may have recoiled in disgust, by October recruitment in the North Constantine area had risen to an estimated 1,400 “regulars”—almost the highest of any of the Wilayas—and from then on it was to remain throughout the war one of the most highly contaminated areas on the army “smallpox chart”. As Soustelle himself admitted, in the war of subversion the Philippeville massacre was a victory; for, between the two communities, “there had been well and truly dug an abyss through which flowed a river of blood”. What had hitherto been, in many respects, a “phoney war”—or drôle de révolution as some French called it—now became a full-blooded war to the end.
->
+> 
 > *XREF: Parallels terror-as-recruitment logic seen in other colonial insurgencies, e.g., the Vietnam War and Iraq, where violence deepened communal polarization and boosted insurgent ranks.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 388</cite>
@@ -2865,7 +2866,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Philippeville massacre was a strategic victory for the F.L.N. [fact]
 > Though some Muslims may have recoiled in disgust, by October recruitment in the North Constantine area had risen to an estimated 1,400 “regulars”—almost the highest of any of the Wilayas—and from then on it was to remain throughout the war one of the most highly contaminated areas on the army “smallpox chart”. As Soustelle himself admitted, in the war of subversion the Philippeville massacre was a victory; for, between the two communities, “there had been well and truly dug an abyss through which flowed a river of blood”. What had hitherto been, in many respects, a “phoney war”—or drôle de révolution as some French called it—now became a full-blooded war to the end.
->
+> 
 > *QUESTION: Interesting counterfactual question: did this 'net gain' calculus actually translate to long-term success, or just short-term recruitment bump?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 388</cite>
@@ -2877,7 +2878,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Philippeville massacre transformed Algeria's conflict into implacable war. [causal]
 > Though some Muslims may have recoiled in disgust, by October recruitment in the North Constantine area had risen to an estimated 1,400 “regulars”—almost the highest of any of the Wilayas—and from then on it was to remain throughout the war one of the most highly contaminated areas on the army “smallpox chart”. As Soustelle himself admitted, in the war of subversion the Philippeville massacre was a victory; for, between the two communities, “there had been well and truly dug an abyss through which flowed a river of blood”. What had hitherto been, in many respects, a “phoney war”—or drôle de révolution as some French called it—now became a full-blooded war to the end.
->
+> 
 > *XREF: Connects to general scholarship on how atrocity events radicalize conflicts and entrench communal division.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 388</cite>
@@ -2899,7 +2900,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Philippeville's repression drove Algerian moderates to reject integration [causal]
 > The first, and perhaps most disappointing, blow came on 26 September when sixty-one Muslim second college deputies signed a statement repudiating “integration”. Denouncing “blind repression” and “collective responsibility” as a cause of their dissatisfaction, they declared the concept of integration to be “now out-dated”, adding: “The overwhelming majority of the population now supports the Algerian national idea.” The impact of Philippeville and its ensuing backlash was clear here, and moderate Muslim leaders had been left in no doubt that the assassination of Ferhat Abbas’s nephew had been intended as a warning for them.
->
+> 
 > *XREF: Connects to the dynamics of colonial repression radicalizing moderate factions, a pattern seen in other decolonization contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 391</cite>
@@ -2921,7 +2922,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Camus's Algerian peace initiative was subverted from within. [fact]
 > His aim was to start by placing a limitation on the murderous character of the war through a “truce” that would outlaw all attacks on civilian non-combatants. … From the beginning the odds were heavily weighted against this idealistic sortie by Camus, perhaps a more effective writer than a politician. In France, led by his old friends Sartre and Simone de Beauvoir, the Left had dismissed him as a “bourgeois” renegade because of his criticism of repression in Stalinist Russia; acidly Simone de Beauvoir remarked that his language “had never sounded hollower than when he demanded pity for the civilians. The conflict was one between two civilian communities.” In Algeria the Muslims felt (not entirely without reason) that he understood their predicament less well than that of his own petit blancs; while to a large body of the more conservative pieds noirs he was totally suspect. Worst of all, the two men whom Camus selected as the Muslim lynch-pin of his campaign—Mohamed Lebjaoui, a prosperous middle-class merchant, and Amar Ouzegane, leader of the Algerian Communist Party and an old friend of Camus from his Communist days—had both become, secretly and unknown to Camus, members of the F.L.N. They decided to “penetrate” thoroughly the “civil truce” organisation and use it for their own purposes as an instrument of F.L.N. propaganda.
->
+> 
 > *QUESTION: What did these infiltrated members actually achieve for the F.L.N. through the truce organisation, and was Camus ever aware?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 394</cite>
@@ -2933,7 +2934,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Camus's peace efforts in Algeria were fatally undermined from all sides [fact]
 > His aim was to start by placing a limitation on the murderous character of the war through a “truce” that would outlaw all attacks on civilian non-combatants. … From the beginning the odds were heavily weighted against this idealistic sortie by Camus, perhaps a more effective writer than a politician. In France, led by his old friends Sartre and Simone de Beauvoir, the Left had dismissed him as a “bourgeois” renegade because of his criticism of repression in Stalinist Russia; acidly Simone de Beauvoir remarked that his language “had never sounded hollower than when he demanded pity for the civilians. The conflict was one between two civilian communities.” In Algeria the Muslims felt (not entirely without reason) that he understood their predicament less well than that of his own petit blancs; while to a large body of the more conservative pieds noirs he was totally suspect. Worst of all, the two men whom Camus selected as the Muslim lynch-pin of his campaign—Mohamed Lebjaoui, a prosperous middle-class merchant, and Amar Ouzegane, leader of the Algerian Communist Party and an old friend of Camus from his Communist days—had both become, secretly and unknown to Camus, members of the F.L.N. They decided to “penetrate” thoroughly the “civil truce” organisation and use it for their own purposes as an instrument of F.L.N. propaganda.
->
+> 
 > *XREF: Connects to Camus's contradictions in the Algerian war, and to Edward Said's critique of Camus in Culture and Imperialism.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 394</cite>
@@ -2945,7 +2946,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Camus's 1956 civil truce proposal marked the end of liberal compromise in Algeria. [fact]
 > Arriving in Algiers, Camus was immediately shocked by the virulence of anti-liberal sentiments among the pieds noirs. At his first public meeting on 22 January 1956, a hostile mob congregated outside the hall and their shouts of "Camus au poteaul!" were clearly audible inside. On the dais with Camus was Ferhat Abbas, in one of his own last appearances as a moderate nationalist. Eloquently Camus urged: "We can at least exercise some influence on the most hateful aspect of the fight; we can propose, without making any change in the present situation, that we refrain from what makes it unforgivable—the murder of the innocent." If this were to fail, the only prospect would be one of "definitive divorce, destruction of all hope, and a calamity of which we have so far only the feeblest idea". Though an F.L.N. militant present accused Camus of having spoken like "a soft sister" (bonne soeur), for a time he held his mixed Muslim and European audience in a unique mood of fraternal fervour that was not to be witnessed again in Algiers until, briefly, the euphoric days of May 1958. Then the mounting hubbub outside forced Camus to cut short the meeting. The inspired but perhaps hopelessly over-idealistic notion of the "civil truce" collapsed from the stresses within and without; and with it there also died the last hope of a liberal compromise in the war.
->
+> 
 > *XREF: Connects to debates about whether moderate voices can matter in escalating civil conflicts; parallels to other last-moderate-standing moments in divided societies.*
 > *QUESTION: Was the civil truce proposal ever realistically achievable, or was the polarization already irreversible by January 1956?*
 
@@ -2958,7 +2959,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Public negotiation announcements signal weakness and embolden insurgents. [causal]
 > In advance of his departure he addressed to the government an important and prophetic "testament", warning it of three main dangers ahead. First, he feared lest the morale of the army might break: "disquiet, discouragement and disgust among the military is at its peak, especially in the lower echelons, that is to say those who get themselves killed feeling that France has no gratitude for them". Secondly, there was the danger of announcing publicly an intention to negotiate with the rebels; this would "suffice to convince the population once and for all that the rebels are winning and to induce it, for fear of reprisals, to take refuge in the camp of the victors". Thirdly, it would be disastrous to attempt to negotiate a settlement through an ad hoc Algerian Assembly acting as an interlocuteur valable because rebel terror would swiftly reduce such a body to subservience, and it would then inevitably opt for secession from France.
->
+> 
 > *XREF: Connects to counterinsurgency doctrine and propaganda theory about the signaling effects of peace overtures.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 397</cite>
@@ -2980,7 +2981,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secrecy proved more vital to insurgents than unity [causal]
 > Throughout the war internal dissent and personal animosities were the F.L.N.'s single greatest enemy; on the other hand, its greatest strength was the secrecy which (like the mutinies in the French army of 1917 that the Germans never learned about until too late) prevented the French from seizing an advantage.
->
+> 
 > *XREF: Parallels tactical secrecy dynamics in other insurgencies and asymmetric conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 401</cite>
@@ -3002,7 +3003,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Egypt's propaganda broadcasts deceived Algerians as much as France. [contrarian]
 > Through much of 1955 Ben Bella himself scurried from one capital to another, canvassing financial support and arms deals. The menace that he had already assumed in French eyes as Number One leader of the revolt is indicated by two mysterious assassination attempts against him behind which the long arm of French secret intelligence seemed unmistakable. … One of the first efforts at gun-running to the F.L.N. came in February 1955 with the “borrowing” of the Queen of Jordan’s private yacht, the Dina. Beached off the Spanish Moroccan coast, the Dina off-loaded a quantity of weapons; Rif peasants drove their sheep back and forth along the beach to cover up traces.
->
+> 
 > *QUESTION: How significant was the actual material support from Cairo versus its rhetorical value? The F.L.N. accepted negligible aid for solidarity's sake.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 403</cite>
@@ -3064,7 +3065,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Amirouche rose to Kabylia command under thirty on his own initiative. [fact]
 > Whether out of nostalgia for the good old days or detestation for the French, in photos he almost invariably appeared in an incongruous Wehrmacht steel helmet. Under Mohamedi Said, and frequently at odds with him, arose another new figure who was renowned and dreaded for his remorseless cruelty, Ait Hamouda, alias Amirouche. A skeletally tall montagnard from the Djurdjura with wide-set eyes and a heavy moustache, Amirouche had been a member of both the religious Ulema and, in Paris, of Messali's M.T.L.D. Of remarkably quick and decisive intelligence, Amirouche when still under thirty had assumed command of a group in Kabylia on his own initiative, following the death of its leader.
->
+> 
 > *QUESTION: What made Amirouche's self-appointed command notable enough to be recorded? Worth chasing the fuller story of his rise.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 408</cite>
@@ -3086,7 +3087,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionaries equated civilian casualties with political impact. [fact]
 > Short in stature, Abane had a smiling, chubby face with lively eyes. They belied a morose personality imbued with an unwavering belief that, just as France had conquered Algeria through violence, nothing but violence would ever shake loose her grip. The sinister dictum, “one corpse in a jacket is always worth more than twenty in uniform”, was a favourite of Abane’s, and representative of his basic thinking.
->
+> 
 > *XREF: Connects to broader themes of asymmetric warfare and terrorism strategy literature, where targeting civilians is framed as a coercive political tactic rather than mere brutality.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 412</cite>
@@ -3118,7 +3119,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN controlled rural Algeria through terror rather than promises. [causal]
 > Though Abane could hardly express satisfaction at the savage slaughter of innocents that accompanied it, his cold reasoning told him that the consequences of the Philippeville uprising would be a net gain for the F.L.N., and they were to encourage him in the initiation of a new offensive of urban terrorism—the Battle of Algiers. Like other revolutionaries both before and since, Abane concurred with his fellow F.L.N. leaders who had reached the conclusion that terror paid.
->
+> 
 > *XREF: Connects to broader scholarship on how liberation movements coerce rural populations versus winning hearts and minds, paralleling other insurgencies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 415</cite>
@@ -3130,7 +3131,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Revolutionary movements abandon ethical constraints when terror yields strategic gains [causal]
 > Though Abane could hardly express satisfaction at the savage slaughter of innocents that accompanied it, his cold reasoning told him that the consequences of the Philippeville uprising would be a net gain for the F.L.N., and they were to encourage him in the initiation of a new offensive of urban terrorism—the Battle of Algiers. Like other revolutionaries both before and since, Abane concurred with his fellow F.L.N. leaders who had reached the conclusion that terror paid.
->
+> 
 > *XREF: Connects to broader literature on revolutionary strategy, e.g., Che Guevara, Mao, and the 'terror pays' calculus in asymmetric warfare.*
 > *QUESTION: Do historians agree that Philippeville's massacre actually netted the FLN strategic gains, or was its cost assessed differently later?*
 
@@ -3143,7 +3144,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Initiation assassinations bound new recruits to revolutionary causes. [causal]
 > At an early stage in the revolution it became a customary initiation ritual for a new recruit to be made to kill a designated “traitor”, mouchard (police spy or informer), French gendarme officer or colonialist, in the company of a “shadow” who would dispatch the recruit himself should he show any sign of flinching. Admitting this policy in an interview in a Yugoslav journal, Krim stated: “An assassination marks the end of the apprenticeship of each candidate for the A.L.N.” Through this “passingout ceremony” the apprentice became both proven in reliability and bound, Faust-like, to the rebel cause by his act of outlawry.
->
+> 
 > *XREF: Connects to broader studies of initiation rituals and how coercive commitment mechanisms bind members to groups — echoes themes in literature on cults, gangs, and resistance movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 416</cite>
@@ -3165,7 +3166,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Anonymous killings widened communal distrust during settler violence. [causal]
 > As far as the deliberately contrived, selective killing of European settlers went, the clear-cut aim was to drive them in from the bled, thus further reducing existing contacts between the two communities. The anonymity of their murderers—as with the Mau-Mau in Kenya—served the same purpose by making the whole of the local Muslim population suspect in the eyes of the fearful Europeans.
->
+> 
 > *XREF: Connects to patterns of asymmetric warfare and how terrorist attackers use anonymity to poison intergroup relations, similar to dynamics in colonial Kenya and elsewhere.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 420</cite>
@@ -3197,7 +3198,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] F.L.N. massacred thousands in 1955 to crush the rival M.N.A. [fact]
 > One such group five hundred strong was created, armed and uniformed in eastern Kabylia under a former M.T.L.D. municipal councillor called Bellounis. At first the F.L.N. reacted by slitting a few random throats. In Algiers, Soustelle's psychological-warfare experts began to toy with the idea of using Bellounis's dissident force as an "anti-guerrilla" along lines that had proved profitable in Indo-China. Then, with the summer of 1955, the ferocious Amirouche—in whose sector Bellounis had appeared—moved in, encircling Bellounis's camp at Guenzet and attacking it by surprise. The internecine massacre lasted forty-eight hours, watched gleefully by neighbouring French troops without intervening. Only Bellounis and a handful of his five hundred men escaped alive. Bellounis now directed his footsteps towards the French. Amirouche's operation did, however, signify the end of the M.N.A. challenge in Kabylia, and the beginning of its elimination as a serious rival to the F.L.N. throughout the country followed in the second half of 1956; an elimination that was to have meaningful echoes when, by the first Evian negotiations of 1961, Gaullist France toyed vainly with hopes of the all but extinct M.N.A. providing an interlocuteur valable alternative to the F.L.N.
->
+> 
 > *DEFINE: Clarifies the internal rivalry between the F.L.N., M.T.L.D., and M.N.A. factions within the Algerian independence struggle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 422</cite>
@@ -3219,7 +3220,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Henri Maillot absconded with army arms in April 1956 [fact]
 > In July 1955 the central committee of the P.C.A. decided to participate in the revolution, but under its own organisation. Stalemate. Then, in September, it found itself dissolved by the Gouvernement-Général. On 4 April 1956 a twenty-eight-year-old pied noir called Henri Maillot, who was a Communist and the son of a Communist, and who had been recalled to serve with the army as an officer cadet, left Miliana with a convoy of arms for Algiers, seventy-five miles to the north-east. Arriving in a wood just outside Algiers, Maillot dismissed the escort to get their breakfast, tied the driver of the arms truck to a tree, and drove off into the blue with a booty including over two hundred automatic weapons as well as a large quantity of grenades and ammunition. It was all too ridiculously easy.
->
+> 
 > *XREF: Connects to histories of the Algerian War and how clandestine networks acquired weapons; also echoes how individual defections can tip the balance in conflict.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 424</cite>
@@ -3231,7 +3232,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian-FLN rivalries shaped post-war Soviet-Algerian relations [causal]
 > In the course of them it was revealed that Maillot’s arsenal lay buried in a tomb at the Clos Salembier cemetery. Disinterred, the weapons were smuggled by truck to Palestro on the western fringes of Kabylia, where, a few weeks later, they were to help Ouamrane perpetrate the bloodiest reverse to date on the French army itself. … Both he and Maillot have since been enshrined as “Heroes of the Revolution” by the F.L.N., but at the time grave suspicions existed that the maquis rouge might have been betrayed to Boualem’s men by the F.L.N. itself. Such suspicions have never been either allayed or confirmed; while even the circumstances of Yveton’s arrest strike a curious note. Whatever the truth, the F.L.N. undoubtedly viewed the rival maquis rouge with ill-concealed hostility, and this liquidation marked in fact the end of the P.C.A. as a separate entity. … P.C.A. members were, however, never fully trusted by the F.L.N., and were frequently detailed to undertake “suicide missions”. From this background — and the prolonged Soviet reluctance to send the F.L.N. effective arms support — stems the markedly cool relations between Algeria and the U.S.S.R. that were to continue beyond the end of the war itself.
->
+> 
 > *XREF: Connects to cold war proxy dynamics and post-colonial international relations literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 425</cite>
@@ -3243,7 +3244,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The F.L.N. liquidated the rival Algerian Communist maquis rouge. [fact]
 > Both he and Maillot have since been enshrined as "Heroes of the Revolution" by the F.L.N., but at the time grave suspicions existed that the maquis rouge might have been betrayed to Boualem's men by the F.L.N. itself. Such suspicions have never been either allayed or confirmed; while even the circumstances of Yveton's arrest strike a curious note. Whatever the truth, the F.L.N. undoubtedly viewed the rival maquis rouge with ill-concealed hostility, and this liquidation marked in fact the end of the P.C.A. as a separate entity. On 1 July a communiqué attributed to the Combattants de la Libération announced their dissolution and integration within the F.L.N. At the same time the important trade union, the Union Générale des Travailleurs Algériens (U.G.T.A.), now came completely under the control of the F.L.N. The Secretary-General of the P.C.A., Bachir Hadj Ali, withdrew in exile to Moscow where he spent the remainder of the war. P.C.A. members were, however, never fully trusted by the F.L.N., and were frequently detailed to undertake "suicide missions". From this background — and the prolonged Soviet reluctance to send the F.L.N. effective arms support — stems the markedly cool relations between Algeria and the U.S.S.R. that were to continue beyond the end of the war itself.
->
+> 
 > *XREF: Connects to broader Cold War history where nationalist movements suppressed communist rivals to consolidate control.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 426</cite>
@@ -3255,7 +3256,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Sophisticated FLN propaganda eroded loyalty of veteran Algerian army units. [causal]
 > Of growing concern to the French was the effect that the more sophisticated propaganda of the F.L.N. under Abane was having on the reliability of veteran Algerian units within the army. … At night on 9 February 1956 a platoon of the 46th Tirailleurs stationed near Tlemcen was called out on an alarm — to be mown down by one of their own number, a caporal-chef, who wounded six soldiers before running off with the attackers. Worse followed ten days later when fifty men of the 50th Tirailleurs defected under another caporal-chef, a returned veteran from Indo-China, in similar circumstances. A French lieutenant and ten men were killed and twenty wounded by the mutineers, who then cleaned out the company’s arms store of over a hundred weapons and joined the F.L.N.
->
+> 
 > *XREF: Relates to broader dynamics of propaganda effectiveness on military unit cohesion, and French-Algerian War counterinsurgency efforts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 427</cite>
@@ -3267,7 +3268,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian soldiers inside French units defected and attacked their own ranks. [fact]
 > Of growing concern to the French was the effect that the more sophisticated propaganda of the F.L.N. under Abane was having on the reliability of veteran Algerian units within the army. … At night on 9 February 1956 a platoon of the 46th Tirailleurs stationed near Tlemcen was called out on an alarm — to be mown down by one of their own number, a caporal-chef, who wounded six soldiers before running off with the attackers. Worse followed ten days later when fifty men of the 50th Tirailleurs defected under another caporal-chef, a returned veteran from Indo-China, in similar circumstances. A French lieutenant and ten men were killed and twenty wounded by the mutineers, who then cleaned out the company’s arms store of over a hundred weapons and joined the F.L.N.
->
+> 
 > *XREF: Connects to the broader theme of colons vs. indigenous soldiers whose loyalties fractured during decolonization wars, echoing similar defections in Vietnam where locals fought for France then turned.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 427</cite>
@@ -3279,7 +3280,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian army units defected with weapons to the F.L.N. [fact]
 > Of growing concern to the French was the effect that the more sophisticated propaganda of the F.L.N. under Abane was having on the reliability of veteran Algerian units within the army. … At night on 9 February 1956 a platoon of the 46th Tirailleurs stationed near Tlemcen was called out on an alarm — to be mown down by one of their own number, a caporal-chef, who wounded six soldiers before running off with the attackers. Worse followed ten days later when fifty men of the 50th Tirailleurs defected under another caporal-chef, a returned veteran from Indo-China, in similar circumstances. A French lieutenant and ten men were killed and twenty wounded by the mutineers, who then cleaned out the company’s arms store of over a hundred weapons and joined the F.L.N.
->
+> 
 > *XREF: Relates to the broader theme of colonial armies' reliability eroding under nationalist propaganda, relevant to similar dynamics in other independence struggles.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 427</cite>
@@ -3301,7 +3302,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Fanon renounced France after experiencing racial inequality in its army. [fact]
 > Another doctor to come over to the F.L.N., body and soul, at this time was the impassioned Martiniquais, Frantz Fanon. During the Second World War Fanon had joined the Free French, been wounded and decorated in the liberation of France, but then made the painful discovery that a black man was not treated as an equal in the French army. In 1956 he wrote a bitter letter to the governor-general, resigning his post at the Blida psychiatric clinic, and joined the underground. He became one of the revolution's most articulate and extreme ideologues, and a violent exponent of anti-colonialism in any shape.
->
+> 
 > *XREF: Connects to Fanon's later works like The Wretched of the Earth, which formalized this anti-colonial radicalism.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 429</cite>
@@ -3313,7 +3314,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian Jews aided the revolution as double agents. [fact]
 > Yet another important group to be won over to the F.L.N., by an adroit combination of carrot and stick, came from the Jewish community of Algeria, notably its intellectuals. In August 1956 a group of Constantine Jews wrote a public letter, declaring that “One of the most pernicious manoeuvres of colonialism in Algeria was, and remains, the division between Jews and Muslims … the Jews have been in Algeria for over 2,000 years; they are thus an integral part of the Algerian people.…” The Jews were to provide invaluable services as “the eyes and ears of the revolution”, in the words of Frantz Fanon; often acting in the role of double agents against the French.
->
+> 
 > *XREF: Frantz Fanon's 'eyes and ears of the revolution' framing connects to his broader work on colonial psychology and the Algerian War.*
 > *QUESTION: Worth investigating how the Jewish community balanced dual identities and what became of these double agents after independence.*
 
@@ -3326,7 +3327,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Moderate Algerian leaders radicalized as colonialist moderation failed [causal]
 > Undoubtedly the most important single acquisition to the F.L.N. during this period was the person of the arch-apostle of moderation, Ferhat Abbas himself. … It marked a long march from Abbas’s oft-quoted statement of 1936 — “I will not die for the Algerian nation, because it does not exist.” A few weeks later, Abbas had an “exploratory” meeting with Abane, Krim and Ouamrane in Algiers. With outright frankness, Abane told him: “The revolution has been unleashed, and it is the work of neither Messali, nor the U.D.M.A. All that is out of date. Your duty is to join the Front.” When Abbas asked Abane what precisely he should do, he was told: “Dissolve the U.D.M.A., and announce that you are going over to the Front.”
->
+> 
 > *XREF: Connects to the arc of anti-colonial leaders who shift from moderate to militant positions when colonial power refuses reform, a recurring pattern across empire.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 432</cite>
@@ -3338,7 +3339,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Moderate leader Abbas abandoned his political past for the F.L.N. [fact]
 > Undoubtedly the most important single acquisition to the F.L.N. during this period was the person of the arch-apostle of moderation, Ferhat Abbas himself. … It marked a long march from Abbas’s oft-quoted statement of 1936 — “I will not die for the Algerian nation, because it does not exist.” A few weeks later, Abbas had an “exploratory” meeting with Abane, Krim and Ouamrane in Algiers. With outright frankness, Abane told him: “The revolution has been unleashed, and it is the work of neither Messali, nor the U.D.M.A. All that is out of date. Your duty is to join the Front.” When Abbas asked Abane what precisely he should do, he was told: “Dissolve the U.D.M.A., and announce that you are going over to the Front.”
->
+> 
 > *XREF: Connects to the broader narrative of how the F.L.N. consolidated all Algerian nationalist factions under one umbrella, absorbing moderates into the revolutionary front.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 432</cite>
@@ -3370,7 +3371,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian independence leader dissolved his party and joined F.L.N. [fact]
 > In April he was in Switzerland negotiating with Ben Bella; a few days later in Cairo, declaring to the world by radio the dissolution of the U.D.M.A., and its incorporation within the F.L.N. That August, at the Soummam Conference, he was elected a member of the F.L.N.'s newly created governing body, the C.N.R.A. (Conseil National de la Révolution Algérienne).
->
+> 
 > *DEFINE: C.N.R.A. (Conseil National de la Révolution Algérienne) is defined as the F.L.N.'s newly created governing body.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 439</cite>
@@ -3412,7 +3413,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Surrounded rebels lost documents that yielded valuable French intelligence. [fact]
 > The worst occurred at the end of September, when Chihani allowed his headquarters at Djeurf, deep in the most inaccessible wastes of the Nementchas, to be surrounded by French troops. Refusing to heed the urgings of his aides, Adjoul and Laghrour, to break out of the net, Chihani lost most of his escort and all his arms; and gravest of all, a large quantity of undestroyed documents, including directives from Ben Bella, that were to present the French Deuxième Bureau with its most valuable windfall to date. Chihani himself made a miraculous escape, having been buried for six days underground after the French had dynamited the entrance of the cave in which he was hiding, but his prestige had gone, and Adjoul and Laghrour decided on his execution.
->
+> 
 > *XREF: Connects to broader patterns in insurgency warfare where captured documents are decisive intelligence windfalls.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 442</cite>
@@ -3424,7 +3425,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French agents booby-trapped a radio to assassinate Ben Boulaid [fact]
 > On the instructions of Adjoul, Chihani's death was kept a strict secret, and it remains uncertain whether it took place before (as Adjoul claims) or after Ben Boulaid's return. Whichever it was, the state of disintegration he found in the Aurès was extreme. Over the next few months he seems to have been partly successful in picking up the pieces. Then a French cloak-and-dagger field unit called the 11th Shock Regiment entered the scene. By carefully contriving what looked like a badly placed parachute drop, the 11th Shock floated down a booby-trapped radio close to Ben Boulaid's headquarters. As it was the latest model available to the French army, the assumption was that curiosity would induce an important rebel leader to investigate. That leader proved to be Ben Boulaid, who was blown to pieces in the ensuing explosion, together with his chief aide and two djounoud. The date was 27 March 1956; a short time later Adjoul defected to the French.
->
+> 
 > *XREF: Connects to the broader Algerian War history and clandestine operations literature, potentially echoing intelligence-warfare themes from other colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 443</cite>
@@ -3436,7 +3437,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionaries concealed internal ethnic and political rifts [fact]
 > Serious as this was for the F.L.N., more intrinsic was the widening rift between Ben Bella in Cairo and the F.L.N. leaders of the “interior” — notably Abane. In the first instance the row was over the continued failure of the external delegation to provide the arms demanded by the “interior”. An angry exchange of correspondence in April 1956 culminated with this insulting ultimatum to Ben Bella: “If you cannot do anything for us outside, come back and die with us. Come and fight. Otherwise consider yourselves as traitors!” … The differences were papered over temporarily, but beneath them also lay to some extent, dangerously latent, the mutual suspicions between Kabyles (Abane, Krim, Ouamrane) and Arabs (Ben Bella). Not a whisper of these dissensions, however, was to reach the world outside, either then or later.
->
+> 
 > *XREF: Connects to broader history of decolonization movements that projected unity while hiding internal divisions — parallels with other anti-colonial fronts.*
 > *DEFINE: Clarifies the distinction between FLN's 'interior' leaders and the external delegation based in Cairo.*
 
@@ -3449,7 +3450,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Firm adversary negotiating terms can outmatch shifting government positions. [causal]
 > The imposing document, forty pages long, that emerged after the twenty-day conference declared categorically the sole legitimacy of the C.N.R.A. in the nation; it alone had the right to make engagements concerning national sovereignty, such as ordering a cease-fire. Two important principles were established, both of them triumphs for Abane; first, the primacy of the political over the military; secondly, the primacy of the “forces of the interior” (i.e. the newly constituted C.C.E.) over the “exterior”.
->
+> 
 > *XREF: Relevant to negotiation dynamics in other colonial conflicts and asymmetric warfare.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 450</cite>
@@ -3491,7 +3492,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] 1956 marked the end of Franco-British great power pretense. [causal]
 > 1956, crammed with events of far-reaching import, was the year of Eden and Mollet, of Khrushchev and the Twentieth Party Congress; of Budapest and Suez. It was the year that Chancellor Macmillan shocked an inflationary Britain by imposing the highest bank rate in a generation — all of 5½ per cent; and it was the last year that France and Britain would be able to strut the world stage wearing morality play masks as "Great Powers".
->
+> 
 > *XREF: Plausibly connects to postwar decolonization and the decline of European empires literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 458</cite>
@@ -3503,7 +3504,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds noirs despised reform-minded officials as capitulators. [causal]
 > Mollet, seldom lacking courage, stoutly refused. Much of the pied noir wrath generated by his visit was directed against the unpopular appointment of General Catroux, whom it was generally assumed Mollet would be bringing with him in his baggage to install as Soustelle's successor. Catroux, at seventy-nine, haggard and weighed down with medals, was of an age hardly likely to recommend him for so arduous an office to the machismo-conscious pieds noirs. Moreover, in their eyes he was also the man who, as wartime high commissioner, had lifted the lid of Pandora's box by his proposed reforms; had then sold out France in Syria and, more recently, in Morocco. He was the quintessence of a bradeur (literally, a "seller-out", or capitulator), and the mere thought of his name was as a red rag to a bull in excitable Algiers.
->
+> 
 > *DEFINE: Explains the term 'bradeur' — a seller-out or capitulator — used as an epithet by pieds noirs against perceived soft-liners.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 459</cite>
@@ -3515,7 +3516,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Veterans' processions and strikes mobilized anti-colonial protest in Algiers. [fact]
 > On 5 February a grim-faced procession of 20,000 anciens combattants, headed by the legless on crutches arm-in-arm with the blind in dark glasses, marched in silence through Algiers, their black-trimmed banners sodden by a glacial rain. For the following day a general strike was proclaimed. … Arriving at the Forum, Mollet found it surrounded by a vast sea of hostile pieds noirs. As he climbed up the steep steps to deposit his wreath solemnly on the monument aux morts, the chanting started: … Then followed the clods of earth and volleys of tomatoes supplied by the obliging restaurateur, Jo Ortiz. The impassioned mob, carried away by its own fury, broke through the C.R.S. cordon and was repelled by savage flailing of batons followed by tear gas; and correspondents present reckoned that, had it not been for the security reinforcements present, the day might well have ended with the lynching of the prime minister of France. Minutes after his departure the mob burst through the barriers to trample to pieces Mollet's wreath.
->
+> 
 > *QUESTION: What event or grievance prompted this 5 February procession? The scale (20,000 marchers) suggests a significant turning point worth investigating.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 462</cite>
@@ -3537,7 +3538,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian settlers' mob nearly lynched France's premier in 1956. [fact]
 > On 5 February a grim-faced procession of 20,000 anciens combattants, headed by the legless on crutches arm-in-arm with the blind in dark glasses, marched in silence through Algiers, their black-trimmed banners sodden by a glacial rain. For the following day a general strike was proclaimed. … Arriving at the Forum, Mollet found it surrounded by a vast sea of hostile pieds noirs. As he climbed up the steep steps to deposit his wreath solemnly on the monument aux morts, the chanting started: … Then followed the clods of earth and volleys of tomatoes supplied by the obliging restaurateur, Jo Ortiz. The impassioned mob, carried away by its own fury, broke through the C.R.S. cordon and was repelled by savage flailing of batons followed by tear gas; and correspondents present reckoned that, had it not been for the security reinforcements present, the day might well have ended with the lynching of the prime minister of France. Minutes after his departure the mob burst through the barriers to trample to pieces Mollet's wreath.
->
+> 
 > *QUESTION: The intensity of pied-noir hostility toward Mollet begs the question: was this mob violence a turning point that pushed France harder toward colonial intransigence rather than reform?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 462</cite>
@@ -3569,7 +3570,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Street violence decided major issues throughout French history. [causal]
 > The mob went wild, and shouts of "Victoire! Victoire!" echoed round the city. Hearing the news Ortiz promptly declared: "We've won! Mollet's yielded in face of force," and ordered his cohorts to stand down the demonstration. … Throughout the turbulent course of French history, many a vital issue has been decided by the "street", and 6 February 1956 was certainly to prove a red-letter day for the French citizens of Algeria. That night, it is recorded that Mollet — perhaps appreciating the genie that he had just unbottled — murmured miserably, "I should not have given in." But it was too late; the Ortizes of Algiers now realised that they could bend to their will — or, possibly, even bring down — any government in Paris. There was nothing that street violence could not achieve — provided it was violent enough. The Forum itself would always, henceforth, wield a strange kind of mesmeric fascination upon the mob demagogue or would-be putschist. A leader of the student faction, one Pierre Lagaillarde, remarked to a colleague that day: "Now I know that we can effect a coup d'état here."
->
+> 
 > *XREF: Connects to broader Revolutionary-era French politics where the street and crowd action repeatedly shaped governments.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 466</cite>
@@ -3611,7 +3612,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Contradictory war-and-negotiation policy emboldened Algerian intransigence [causal]
 > Immediately, Lacoste was shackled by the top priority that Mollet had prescribed and that he had himself endorsed — "First win the war". There was an unmistakable element of contradiction apparent in Mollet's policy; for, although his Socialist government was prepared to go further than any other, and at the risk of international complications, to win the war, he was at the same time dropping hints — very secretly — to the F.L.N. that a compromise might be possible. Thus on the one hand he seemed to be demanding "unconditional surrender" and on the other offering conditions; a contradiction that could only confuse, and thereby offer the F.L.N. additional excuse for intransigence.
->
+> 
 > *QUESTION: Does this dual-track approach in Algeria parallel similar contradictions in later counterinsurgency conflicts, and did it ultimately backfire as predicted?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 475</cite>
@@ -3623,7 +3624,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Agrarian reform backfired as rebels assassinated individual land recipients. [causal]
 > Optimistically, it was hoped that 10,000 landless families might be settled on 150,000 hectares, but this first timid attempt at agrarian reform, well-intentioned as it was, played disastrously into the hands of the F.L.N. Jean Servier recalls how, after a parcel of land had been handed over to a fellah, he "immediately found himself condemned to death. A few days later a patrol found the body of the happy proprietor with his throat slit in his own field." As a result few Muslim peasants henceforth had the courage to come forward to accept the French bounty. In Servier's view it would have been more sensible to redistribute the land to communities instead of individuals — because then the F.L.N. would be forced to kill a whole village, and the villagers might have been encouraged to protect the land collectively.
->
+> 
 > *DEFINE: 'Fellah' refers to a peasant farmer in North Africa; the term and the land-community distinction are worth clarifying.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 476</cite>
@@ -3635,7 +3636,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Belated colonial concessions failed to satisfy Algerian nationalists by 1955. [fact]
 > Politically, however, Lacoste's most striking innovation was to decree that fifty per cent of all vacancies in public service should be reserved for Muslims. Ten years previously it would have been hailed by them as a generous and progressive move; but now it seemed tardy, introduced only under F.L.N. pressure, and a hasty improvisation that rather floated in mid-air in that it remained unsupported by what would have appeared as the essential concomitant of equal citizenship rights.
->
+> 
 > *XREF: Connects to broader colonial-late-reform dynamics and how nationalist movements reject incremental concessions once independence becomes the aim.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 477</cite>
@@ -3647,7 +3648,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French reforms alienated the Algerian caids they depended on. [causal]
 > Politically, however, Lacoste's most striking innovation was to decree that fifty per cent of all vacancies in public service should be reserved for Muslims. Ten years previously it would have been hailed by them as a generous and progressive move; but now it seemed tardy, introduced only under F.L.N. pressure, and a hasty improvisation that rather floated in mid-air in that it remained unsupported by what would have appeared as the essential concomitant of equal citizenship rights.
->
+> 
 > *XREF: Connects to broader patterns of colonial reforms undermining the local intermediaries who sustained colonial rule.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 477</cite>
@@ -3659,7 +3660,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Late concessions lose their political value once pressured into existence. [causal]
 > Politically, however, Lacoste's most striking innovation was to decree that fifty per cent of all vacancies in public service should be reserved for Muslims. Ten years previously it would have been hailed by them as a generous and progressive move; but now it seemed tardy, introduced only under F.L.N. pressure, and a hasty improvisation that rather floated in mid-air in that it remained unsupported by what would have appeared as the essential concomitant of equal citizenship rights.
->
+> 
 > *XREF: Connects to the general pattern where reforms granted under duress are read as weak improvisations rather than goodwill gestures — parallel to other colonial and appeasement dynamics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 477</cite>
@@ -3681,7 +3682,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Egypt shipped arms to Algerian rebels before Suez crisis. [fact]
 > Though sailing under a Sudanese flag, with a Greek captain, the Athos was revealed to be carrying over seventy tons of arms and ammunition — all loaded in Alexandria and purchased with Egyptian money.
->
+> 
 > *XREF: Connects to the wider timeline of Nasser/Egyptian strategy leading up to the 1956 Suez Crisis.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 482</cite>
@@ -3693,7 +3694,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Egyptian-funded arms traveled disguised aboard the Athos to rebel forces. [fact]
 > Though sailing under a Sudanese flag, with a Greek captain, the Athos was revealed to be carrying over seventy tons of arms and ammunition — all loaded in Alexandria and purchased with Egyptian money.
->
+> 
 > *XREF: Relates to Cold War-era proxy arms trafficking and state sponsorship of insurgencies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 482</cite>
@@ -3705,7 +3706,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Athos shipment was the first major Egyptian arms delivery to the FLN. [fact]
 > An insignificant cargo, perhaps, in terms of a major war, but its value to the F.L.N. can be appreciated when it is recorded that, up to that date, it possessed no more than twenty mortars and ten machine-guns throughout the country. The Athos cargo represented the biggest arms shipment yet to the F.L.N.; by far the greatest significance attached to it, however, was that it was the first major Egyptian arms delivery to the F.L.N.
->
+> 
 > *XREF: Context on FLN's arms scarcity — only twenty mortars and ten machine-guns countrywide — makes this shipment strategically pivotal despite its modest size.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 483</cite>
@@ -3717,7 +3718,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ben Bella's capture derailed his counter-offensive against the Soummam Conference. [causal]
 > At the time of the seizure of the Athos, Ben Bella was on his way to Morocco to arrange the reception and distribution of its arms. Deeply chagrined by the news of the Soummam Conference and its decisions taken in his absence, he was intending to reject these (especially the primacy of the “interior” over the “exterior”), and to launch a political counter-offensive to re-establish his own personal pre-eminence. To this end he planned to fly from Morocco to Tunis, to convene there, on 22 or 23 October, his own “summit conference” of the three Maghreb powers. There they would discuss both the future conduct of the war and the furtherance of the peace initiatives then under way secretly with Mollet’s representatives. With both Tunisian and Moroccan leaders disposed towards a negotiated compromise peace at this time, there seemed a reasonable prospect of success for Ben Bella’s initiative.
->
+> 
 > *XREF: Relates to the broader Soummam Conference/internal-exterior power struggle within the FLN, and its intersection with the French capture action.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 484</cite>
@@ -3729,7 +3730,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The French military may have sabotaged peace negotiations on its own initiative. [fact]
 > Lacoste was away on leave in the Dordogne, and to this day there remains some mystery as to whether the coup was in fact a first major instance of the French military acting on its own initiative, in disregard of the civil authorities, expressly with a view to torpedoing the peace negotiations; as to whether Lacoste turned a blind eye; or whether there was some degree of complicity even by the Mollet government, now deeply committed to the Suez adventure. The relevant orders are said to have been destroyed.
->
+> 
 > *QUESTION: The ambiguity about who authorized the coup — Lacoste's army, Lacoste, or the Mollet government — is unresolved because the orders were destroyed. Worth chasing.*
 > *XREF: Connects to broader history of French civil-military tensions during the Algerian War and the lead-up to the 1958 fall of the Fourth Republic.*
 
@@ -3742,7 +3743,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French aircrew tricked five Algerian leaders into a false destination. [fact]
 > On leaving Palma the French air hostess, though noting with concern that Ben Bella had his revolver lodged in the seat pocket in front of him, maintained a superb poker face, chatting up the Algerians so as to distract them from detecting the plane’s change of direction, and announcing coolly as it began its descent: “Attachez vos ceintures et cessez de fumer, s’il vous plaît. Nous atterrissons à Tunis!” The Algerians were totally deceived. One of them, noting from afar the large number of figures on the airfield, exclaimed: “Why, they’ve organised a very handsome reception for us!” It was not until the instant of landing and recognising the French uniforms, tanks and armoured cars that packed the runway that they realised they were in Algiers, not Tunis. With no chance to resist, the five Algerians were led out by armed gendarmes to begin five and a half years of imprisonment in the Santé in Paris, then in a series of other French gaols and strongholds. Indicted for crimes punishable by death, they were given the status of political prisoners but were never brought to trial.
->
+> 
 > *DEFINE: Describes the 1956 hijacking of a Moroccan royal plane carrying Ben Bella and other FLN leaders, rerouted from Tunis to Algiers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 486</cite>
@@ -3774,7 +3775,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French hijacking inadvertently restored F.L.N. internal unity [causal]
 > Overtly expressing outrage at the hijacking, privately Abane and the "interior" were delighted. The major split within the F.L.N., threatened as a consequence of Soummam, had been miraculously avoided; unity had been restored and all argument about the primacy of the "interior" resolved — because now the "exterior" had simply ceased to exist. Any flagging by potential "soft-liners" had been effectively quelled. Thus had the French army devisers of the coup really done the enemy a good turn.
->
+> 
 > *XREF: Connects to classic historical irony where an adversary's action consolidates the opposition's ranks, similar to how external threats often unify factions in revolutionary movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 489</cite>
@@ -3786,7 +3787,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The French coup inadvertently unified the FLN interior faction's control. [causal]
 > Overtly expressing outrage at the hijacking, privately Abane and the "interior" were delighted. The major split within the F.L.N., threatened as a consequence of Soummam, had been miraculously avoided; unity had been restored and all argument about the primacy of the "interior" resolved — because now the "exterior" had simply ceased to exist. Any flagging by potential "soft-liners" had been effectively quelled. Thus had the French army devisers of the coup really done the enemy a good turn.
->
+> 
 > *XREF: Classic strategic folly pattern — an enemy action that backfires and consolidates opposition. Echoes many cases of overreach strengthening rather than weakening a movement.*
 > *QUESTION: To what extent did the exterior leadership's elimination actually strengthen the interior's position long-term, versus merely postponing the schism?*
 
@@ -3809,7 +3810,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Mollet prioritized Israel over Britain's imperial concerns nonetheless. [fact]
 > Mollet in his turn cared little about British imperial problems, but to his death insisted passionately that Israel was his first concern. He was deeply conditioned by the past betrayals of Munich and the Spanish Civil War, and, as a good Socialist, was drawn to Israel as a “pioneer country socialising itself”. He felt she had but one true friend in the world — the United States — which, in the throes of an election, would be unable to help her. He denied hotly that Suez was “done for Algeria”, and yet one is entitled to pose the question: had France not been so embroiled in Algeria, would Mollet have been quite so open to Israeli pressure, and would he in turn have pushed Eden so hard to participate in what was to prove to be such a desperate gamble?
->
+> 
 > *QUESTION: The author inquires whether French entanglement in Algeria made Mollet more receptive to Israeli pressure—a causal chain worth probing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 493</cite>
@@ -3831,7 +3832,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Airborne troops seized Port Said quickly in 1956 Suez invasion. [fact]
 > At dawn the next morning, 5 November, 600 British and 500 French paratroops dropped near Port Said. For all the muddles and delays of the past months, the last minute changes of plan whereby élite airborne troops had been sent in on invasion barges, operations proceeded with remarkable smoothness. Brushing aside fairly feeble resistance, Massu’s fast-moving paras, tempered by the war in Algeria, were well on their way to Suez when Bulganin issued his missile-rattling ultimatum to the “Allies” — just twenty-four hours after Russian tanks had rolled into Hungary to crush her short-lived liberty.
->
+> 
 > *XREF: Plausibly connects to historical knowledge of the Suez Crisis and its timing alongside the Soviet invasion of Hungary.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 494</cite>
@@ -3843,7 +3844,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Suez ended Britain's independent foreign policy and the Entente Cordiale [causal]
 > For Britain, Suez meant that she would not henceforth be capable of a foreign policy independent of the United States; in her dealings with France it meant the end of the old Entente Cordiale and the beginning of an era of mistrust to be exemplified by the Gaullist “Non” to Britain in Europe. In France, as Roy Jenkins rightly noted, “the reaction to Suez was quite different. There was less guilt and more anger. The lesson there learnt was never to trust the Americans and probably not the British either.
->
+> 
 > *XREF: Plausibly connects to the broader narrative of post-1956 Anglo-American and Anglo-French relations that the surrounding work likely traces.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 495</cite>
@@ -3875,7 +3876,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Suez veterans' fury at French civilian leaders seeded later revolt. [causal]
 > On the other hand, the French contingent returning to Algeria felt mortally discouraged. One of Lartéguy's para officers explains in The Centurions, “It's specially bad for our men. They thought they had escaped from prison. Now they're going to be taken back to their cells under police escort.” Indeed, in the French news films of the time the contrast between the tough, confident professionals setting off for Suez and the broken men shambling from their ships at Algiers spoke volumes.
->
+> 
 > *XREF: Connects to French army resentment during the Algerian War, the 1958 Algiers putsch trajectory, and paratrooper culture bred at Indochina and Suez.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 496</cite>
@@ -3887,7 +3888,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Dien Bien Phu veterans returned shattered while Suez reservists left confident [fact]
 > On the other hand, the French contingent returning to Algeria felt mortally discouraged. One of Lartéguy's para officers explains in The Centurions, “It's specially bad for our men. They thought they had escaped from prison. Now they're going to be taken back to their cells under police escort.” Indeed, in the French news films of the time the contrast between the tough, confident professionals setting off for Suez and the broken men shambling from their ships at Algiers spoke volumes.
->
+> 
 > *XREF: Contrasts clearly against the Suez expedition framing discussed nearby; connects to how colonial military failure reshaped French paratrooper identity.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 496</cite>
@@ -3909,7 +3910,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French army modernized and improved after early Algeria fumbling. [fact]
 > In purely military terms at any rate, the French army had come a long way since its first fumbling operations in 1954. At that time it had begun by repeating the early errors of the Indo-China war, of hitting back with tanks and heavy equipment, 1945-style, against will-o'-the-wisp guerrillas. Now the increase in manpower ordained by Mollet, a steady flow of American helicopters to land them swiftly where they could hurt the rebels most, new units, new leaders, new tactics, and a whole new structure and morale within the army itself, had radically improved its striking power. The new commanders studied local circumstances more closely and tailored their security actions to suit.
->
+> 
 > *XREF: Connects to the broader Algeria war history and the French army's earlier Indo-China failures, showing a military learning curve across colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 502</cite>
@@ -3921,7 +3922,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Beaufre partitioned Algeria into three zones of differing military priority [fact]
 > Noting that there was no parallel djemaa tradition in the Arab Constantinois, and critical of the army's prevailing strategy (or lack of one) of attempting to be strong everywhere, Beaufre divided his area into different zones of varying priority. Sparsely populated regions were ordained zones interdites, their inhabitants resettled elsewhere and the army permitted to fire on any person observed there, thus physically denying the F.L.N. all access to food or supplies. Fertile and populous centres were dubbed zones de pacification, where to assure total security Beaufre concentrated the mass of his conscript and reservist forces (aiming for a minimum physical presence of one company per 100 square kilometres), accompanied by a major effort in economic advancement, education and propaganda indoctrination. Finally, there were zones d'opérations — "killing-grounds" where F.L.N. bands were relentlessly pursued and harried by Beaufre's élite mobile forces.
->
+> 
 > *XREF: This zonal counterinsurgency strategy parallels other COIN frameworks (protected vs. contested vs. denied areas) and anticipates modern counterinsurgency doctrine.*
 > *DEFINE: Distinguishes zones interdites, zones de pacification, and zones d'opérations as distinct COIN concepts.*
 
@@ -3934,7 +3935,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French officers copied Maoist guerrilla methods to fight revolutionary warfare. [causal]
 > The new leaders coming to Algeria had been profoundly affected by the disastrous lessons of the Indo-China campaign; particularly of Dien Bien Phu, after which a number had spent humiliating months as prisoners of the Viet-Minh. This experience had provided them with the opportunity to make an intimate study of the victors' technique. They had returned well-versed in Maoist principles and strategy, as adapted by General Giap, and persuaded of the cogency of fighting revolutionary warfare with its own weapons. If the function of the guerrilla was to move like Mao's "fish in water" among the uncommitted masses, then that must be the technique of the counter-revolutionary soldier too; if the Viet-Minh could bend the minds of the populace to their will and extract vital information by resort to subtle — or less subtle — forms of pressure, then so must the security forces. It was no use, says Colonel Roger Trinquier, one of the leading Indo-China hands, merely destroying dispersed armed bands; one had to seek out, crush and eradicate the whole of the clandestine political organisation behind them. If Indo-China had turned its French pupils into superb warriors, it had also made them highly political animals — a fact that was to have as potent an impact upon the French republic as it did on the Algerian war.
->
+> 
 > *XREF: Connects to wider literature on counterinsurgency theory, where doctrine often mirrors insurgent tactics — a recurring pattern beyond this specific French case.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 504</cite>
@@ -4006,7 +4007,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian war violence escalated sharply after Philippeville massacres [causal]
 > Security operations were interrupted by the withdrawal of the paras for the Suez adventure, succeeded by the serious jolt to morale caused by the debacle. From the point of view of the ordinary French combatant, if there was any change in the "war that was not a war" it lay in its ever-increasing brutality, perhaps especially marked since the Philippeville massacres and Abane's subsequent espousal of total terror.
->
+> 
 > *XREF: Connects to the broader arc of French counterinsurgency in Algeria and the escalation dynamics between FLN terror and French reprisals.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 512</cite>
@@ -4018,7 +4019,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Both French and Algerian forces grew in number and skill. [fact]
 > Through 1956 and into 1957 the overall military picture of the war did not improve for the French. It may have looked rosier in some areas (notably General Beaufre's command), but it worsened in others; while all the time those blotches on the "smallpox chart" were spreading. With the arrival of Mollet's reservists and national servicemen numbers on the ground increased, and so did the efficiency of the paras; but at the same time the numbers of the F.L.N., and their expertise and equipment, were also on the upward path.
->
+> 
 > *QUESTION: This escalatory spiral in the Algerian War is worth tracing—what drove the parallel growth in capability on both sides?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 512</cite>
@@ -4040,7 +4041,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture victims are deliberately left alive to prolong suffering. [causal]
 > My poor friend V. lay howling on his bed of stones till morning. He suffered unimaginably, both physically and mentally, a prey to mortal terror. He only really stopped at dawn, when we could perhaps have saved him. For several hours a rebel had been slithering towards him. He could have seen him all that while. There he was. The rebel touched his body. He took away his weapons. Then he gouged out his eyes. Then he slashed his Achilles' tendons, afraid, perhaps, that he might still come back and die with us. But he didn't finish him off, merely wanting him to have to lie still and suffer.
->
+> 
 > *QUESTION: The narrator wonders if dawn's arrival could have mattered—casts an uneasy question about whether rescue timing changed the outcome.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 514</cite>
@@ -4052,7 +4053,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French Legion atrocities in Algeria met with official impunity [fact]
 > In the latter part of the Second World War it was customary in the French army to vaunt the ferocity of "their" Algerian Tirailleurs against the Germans, much as the British took pride in the deeds performed by the Gurkhas with their terrible kukris. But when one's own comrades became the victims… well, that was different. In his Lieutenant en Algérie Servan-Schreiber notes how soldiers in Algeria accustomed themselves never to say "'Watch out, you're going to get yourself killed,' but one repeats several times a day, 'Make a mistake, and you have your balls cut off."' It was what the French soldier expected, and he reacted accordingly.
->
+> 
 > *QUESTION: What accountability, if any, followed these retaliatory massacres in the Nementchas?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 516</cite>
@@ -4084,7 +4085,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Frustrated paras' ratonnade shattered months of S.A.S. community work [causal]
 > Then Manévy was transferred to Constantine where he witnessed a terrorist grenade attack on a 14 July parade. Several paras were wounded. One of Manévy’s age panicked, fired into the crowd, and killed a Muslim woman on a balcony. Next, a hundred of the paras, some evidently fortified with anisette, broke loose, heading towards the Casbah to avenge their wounded with shouts of “Les melons! Les melons!” Unable to find any Muslims, they first smashed up a Jewish shop. At the height of the ratonnade a large French civilian intervened angrily from a nearby billiard saloon: “I am Captain Bottier; I fought myself; I did thirty-seven jumps with the Resistance.… You band of little idiots — you’re doing exactly what the F.L.N. terrorists count on you doing.…” To Manévy, Captain Bottier disclosed that he was an S.A.S. officer in from the bled, adding, “Two months of work as an S.A.S. officer are wrecked in one evening like this.”
->
+> 
 > *XREF: Connects to broader accounts of French-Algerian War counterinsurgency where military brutality undermined pacification/community engagement efforts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 521</cite>
@@ -4106,7 +4107,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Combat indifference erodes soldiers' sensitivity to civilian deaths. [causal]
 > In recording the episode, however, regimental headquarters decides that awkwardness would be avoided if it were stated that arms had been found in the shot-up truck. So the final communiqué reads: “Yesterday at … the occupants of a truck machine-gunned passers-by, miraculously only wounding one."
->
+> 
 > *XREF: Connects to broader military psychology literature on moral injury and desensitization in counterinsurgency, and to Vietnam-era discussions of 'mere gook rule.'*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 522</cite>
@@ -4118,7 +4119,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Official reports can replace truth with convenient awkwardness-avoiding fiction. [contrarian]
 > In recording the episode, however, regimental headquarters decides that awkwardness would be avoided if it were stated that arms had been found in the shot-up truck. So the final communiqué reads: “Yesterday at … the occupants of a truck machine-gunned passers-by, miraculously only wounding one."
->
+> 
 > *DEFINE: Illustrates the concept of official communiqués manufacturing facts to dodge awkwardness.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 522</cite>
@@ -4130,7 +4131,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Counterinsurgency doctrine forces civilians to be treated as suspects. [contrarian]
 > Either you consider a priori that every Arab, in the country, in the street, in a passing truck is innocent until he’s proven the contrary; and permit me to tell you that if that is your attitude … you will immediately be posted, because the parents of reservists one has had killed don’t like it, and will write to their deputies that you’re a butcher.… Or you will … consider that every Arab is a suspect, a possible fellagha … because that, my dear sir, is the truth.… But once you’re here, to pose yourself problems of conscience — and treat possible assassins as presumed innocents — that’s a luxury that costs dear, and costs men, dear sir, young men themselves also innocent, and our own.…
->
+> 
 > *SEED: The moral trade-off between treating civilians as innocent versus safeguarding soldiers — a tension that recurs in any counterinsurgency or occupation context, worth mining for an essay on wartime ethics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 524</cite>
@@ -4172,7 +4173,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French generals' 1940 defeat shaped their Algerian determination. [causal]
 > This determination did not entirely spring from a belief in the sanctity of the présence française — less still from any kindred feeling for the pieds noirs — and to understand it one needs to recall sympathetically the recent history of the French army. Generals like Beaufre were captains at the time of the 1940 debacle, regimental commanders like Bigeard either N.C.O.s or lieutenants, and all remained profoundly conditioned by it.
->
+> 
 > *XREF: The 'never again' mentality of French military officers carried into later conflicts, echoing similar patterns in German and Israeli military culture shaped by foundational defeats.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 526</cite>
@@ -4194,7 +4195,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Dien Bien Phu shattered Western prestige in colonial Asia. [fact]
 > Then followed the catastrophe of Dien Bien Phu; the most humiliating defeat suffered by any Western power since the Second World War and, in its context, as humiliating as 1940 to French army sensibilities in that the victors had been despised “colonials” and “little yellow men”.
->
+> 
 > *XREF: Connects to broader context of French colonial collapse in Indochina and the blow to European imperial prestige that coincided with the 1954 Geneva accords and later US involvement in Vietnam.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 527</cite>
@@ -4206,7 +4207,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French military blamed politicians for its colonial defeats. [causal]
 > On taking up the command in Algeria, General Lorillot had confided with grim emphasis to a political contact: “They made fools of us in Indo-China … They screwed us in Tunisia … We are being screwed in Morocco. But they will never screw us in Algeria, I swear to you. Let this be known in Paris.” Already by 1956 there was a strong feeling in the army that the politicians were a chief source of its misfortunes, and this was to grow from Suez until May 1958.
->
+> 
 > *XREF: Connects to narratives about civil-military friction and the army's grievance that would culminate in the 1958 Algiers putsch.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 528</cite>
@@ -4218,7 +4219,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The military's prolonged Algerian repression bred resentment toward civilian politics [causal]
 > Taking upon itself not only the burden of the fighting but also the severity, and sometimes the beastliness, of the repression, closely in touch with the anxieties of the French population of Algeria and the Muslim auxiliaries, haunted by fear of another Indo-China, another military reverse inflicted on its colours, the army, more than any other body, felt a growing resentment against a political system which was the embodiment of irresolution.
->
+> 
 > *XREF: Connects to historical accounts of civil-military relations and how colonial wars radicalize armed forces against civilian governance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 529</cite>
@@ -4240,7 +4241,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French officers equated colonial nationalism with Communism's global advance [causal]
 > “We want to halt the decadence of the West and the march of Communism,” declared Argoud in court during the Barricades Trial of November 1960: “That is our duty, the real duty of the army. That is why we must win the war in Algeria. Indo-China taught us to see the truth.…” To men like “Boisfeuras” and Argoud the war against Communism was a permanent and unceasing phenomenon; while nationalism, in the Indo-Chinese and Algerian context, was largely equated with Communism.
->
+> 
 > *XREF: Relates to broader Cold War framing of decolonization as anti-Communist struggle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 532</cite>
@@ -4262,7 +4263,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial service and secret intelligence forged Salan's character. [causal]
 > No Frenchman of his generation — in fact, few soldiers anywhere — had fought as much as Salan. … From now on his character was shaped by the twin influences of the colonial army and clandestine intelligence work, the intrigues of which he found far from unappealing. … Then, in 1954, it was Salan who had to preside over the humiliating end of the présence française in Indo-China.
->
+> 
 > *XREF: Connects to the broader theme of generals shaped by colonial warfare (Dien Bien Phu, Algeria) who later turned against their own state.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 535</cite>
@@ -4274,7 +4275,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Nicknames can stem from a person's demeanor, not just provenance. [causal]
 > Salan was known as le Mandarin or le Chinois, but less on account of his long sojourn in the East than for the impassive mysteriousness with which he surrounded himself — and which gave rise to a multitude of rumours about him.
->
+> 
 > *XREF: Relates to how public reputation and rumor are built through opaque personalities — echoes of enigmatic figures in fiction and history.*
 > *FICTION: A mysterious, rumor-generating character could be a strong centerpiece for a story about unreliable public perception.*
 
@@ -4287,7 +4288,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds noirs distrusted Massu as a left-wing sellout. [fact]
 > In December 1956 the pieds noirs were certainly not "beguiled" by the new Commander-in-Chief. To them he was the left-wing general who had sold out in Indo-China and was now coming to do the same in Algeria. They reacted to his appointment with the same irrational, ill-founded rage with which they had greeted first Soustelle, then Catroux. This time, however, some of them were prepared to go much further to demonstrate their mistrust.
->
+> 
 > *XREF: Connects to the broader early-20th-century settler colonial history and the pieds noirs' escalating resistance to French leadership in Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 538</cite>
@@ -4309,7 +4310,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French ministers dismissed Algeria coup warnings dismissively in 1956. [fact]
 > Teitgen, a hero of the Resistance who had survived Dachau, was little disposed towards an army takeover in Algeria in any shape, and he could hardly believe his ears. At first he thought the bronzed and rugged general had gone slightly out of his mind. On second thoughts, however, he decided he should delve a bit deeper, and called Faure in for a further discussion, this time recording it all on a tape. Fortified with it, he then went to warn Lacoste. Distressed by this news, especially as he regarded Faure as a "stout-hearted sort" (un coeur généreux), the governor-general despatched Teitgen to Paris to inform the Minister of Defence, Bourgès-Maunoury. Teitgen has told how the minister's immediate reaction was to hope that the affair would not "make it impossible for one to go ski-ing", and asked him whether he had said anything to "ce con-là", Mitterrand, then Minister of Justice. Shocked by Bourgeès-Maunoury's apparently frivolous lack of interest, as well as his disrespect for a fellow minister, Teitgen then went on to see Mollet himself. Mollet took the matter much more seriously, but in turn used the same expression in deprecating Bourgès-Maunoury — "ce con-là"! Teitgen returned to Algiers, disquieted at the apparent lack of solidarity within the government. Faure was recalled and sentenced to thirty days' fortress arrest — the first senior officer to suffer such a penalty for dissidence in Algeria.
->
+> 
 > *XREF: Precursor to the May 1958 Algerian crisis that brought de Gaulle to power; French government complacency foreshadowed the later collapse.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 540</cite>
@@ -4331,7 +4332,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The bazooka affair's motives remain unexplained despite official inquiries. [fact]
 > In the motives and complicities behind it, the affaire du bazooka remains one of the most mysterious and shadowy episodes of the whole war. Colonel Godard, chief-of-staff to Massu in Algiers, who intensively questioned motives of the principals, himself admits: “I never understood why.” According to Pierre Vidal-Naquet, supported by Maître Teitgen, many of the records were mysteriously destroyed “on orders” after May 1958; though Teitgen himself managed to keep copies and Salan himself prints Kovacs’s testimony in full.
->
+> 
 > *QUESTION: What exactly happened in the bazooka affair? The record destruction and multiple conflicting accounts leave a genuine historical mystery worth pursuing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 542</cite>
@@ -4343,7 +4344,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A failed 1958 plot sought to oust Salan from Indochina. [fact]
 > Under interrogation Castille admitted to setting up the “bazookas” and firing them; while Kovacs revealed that the object behind the plot was to replace the mistrusted bradeur de l’Indochine, Salan, by his former junior there, General Cogny. Following upon this, it was hoped, a “government of national unity” would then be brought to power in Paris. In his deposition Kovacs implicated the involvement behind the conspiracy of a Comité des Six of French politicians — among whom the name of Senator Michel Debré, close associate of General de Gaulle, Minister of Justice in 1958 and later prime minister, figures. After inexplicable delays the “bazooka” trial started in July 1958. Kovacs attended on a stretcher, then “disappeared” to Spain in what the Guardian at the time described as “preposterous circumstances”. He was sentenced to death in absentia; Castille to ten years’ hard labour, Fechoz to six years. Both were liberated by pieds noirs demonstrators during “Barricades Week” of January. Nobody more important was ever brought to trial; though to this day Salan, both in his Mémoires: Fin d’un Empire and privately, still insists on the involvement behind the scenes of Michel Debré and others, but no real evidence has ever been adduced.
->
+> 
 > *XREF: Connects to other knowledge of coup attempts and political conspiracies in France's late-colonial period, possibly leading up to the 1958 Algeria crisis and de Gaulle's return.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 543</cite>
@@ -4355,7 +4356,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A failed assassination plot aimed to replace Salan with Cogny. [fact]
 > Under interrogation Castille admitted to setting up the “bazookas” and firing them; while Kovacs revealed that the object behind the plot was to replace the mistrusted bradeur de l’Indochine, Salan, by his former junior there, General Cogny. Following upon this, it was hoped, a “government of national unity” would then be brought to power in Paris. In his deposition Kovacs implicated the involvement behind the conspiracy of a Comité des Six of French politicians — among whom the name of Senator Michel Debré, close associate of General de Gaulle, Minister of Justice in 1958 and later prime minister, figures. After inexplicable delays the “bazooka” trial started in July 1958. Kovacs attended on a stretcher, then “disappeared” to Spain in what the Guardian at the time described as “preposterous circumstances”. He was sentenced to death in absentia; Castille to ten years’ hard labour, Fechoz to six years. Both were liberated by pieds noirs demonstrators during “Barricades Week” of January. Nobody more important was ever brought to trial; though to this day Salan, both in his Mémoires: Fin d’un Empire and privately, still insists on the involvement behind the scenes of Michel Debré and others, but no real evidence has ever been adduced.
->
+> 
 > *QUESTION: Whether Debré was truly involved behind the scenes remains unproven despite Salan's claims.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 543</cite>
@@ -4367,7 +4368,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French army's deep malaise foreshadowed the Fourth Republic's collapse [causal]
 > Historically, however, what is important about both the “Faure affair” and le bazooka is the profound malady and disaffection that they revealed in the heart of the French army, extending to the higher reaches of the Fourth Republic itself, and which were shortly to burst to the surface with revolutionary force.
->
+> 
 > *XREF: This connects to broader scholarship on French decolonization and the Algerian War period, and how institutional decay preceded regime change.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 544</cite>
@@ -4379,7 +4380,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's euphemistic labeling of the Algerian war forced a new medal. [fact]
 > The French government assiduously refused to recognise operations in Algeria as anything more than the “maintenance of order”; it was not even a “campaign”, thus the Croix de Guerre could not be awarded and a new decoration, the Médaille de la Valeur Militaire, had to be struck.
->
+> 
 > *XREF: Connects to broader histories of how states misname conflicts for political and legal reasons, such as the US 'police action' in Korea.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 547</cite>
@@ -4391,7 +4392,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pied noir counter-terrorists killed seventy Muslims in August bombings. [fact]
 > Announcing that for every guillotined member of the F.L.N. a hundred French would be killed indiscriminately, Ramdane Abane ordered immediate reprisals. Saadi Yacef (who, on the arrest of Bitat, had taken over the Algiers network) was told to "kill any European between the ages of eighteen and fifty-four. But no women, no children, no old people.…" Between 21 and 24 June Yacef's squads roaming Algiers shot down forty-nine civilians. It was the first time that Algiers had been hit by this kind of random terrorism, and the ineluctable escalation now began here.
->
+> 
 > *QUESTION: The discrepancy between pied noir claims and FLN denial of human-targeted bombs raises questions about the reliability of each side's accounts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 553</cite>
@@ -4403,7 +4404,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Random Algerian reprisals sparked the escalation of urban terrorism [causal]
 > Announcing that for every guillotined member of the F.L.N. a hundred French would be killed indiscriminately, Ramdane Abane ordered immediate reprisals. Saadi Yacef (who, on the arrest of Bitat, had taken over the Algiers network) was told to "kill any European between the ages of eighteen and fifty-four. But no women, no children, no old people.…" Between 21 and 24 June Yacef's squads roaming Algiers shot down forty-nine civilians. It was the first time that Algiers had been hit by this kind of random terrorism, and the ineluctable escalation now began here.
->
+> 
 > *XREF: Connects to broader patterns of colonial insurgency and the logic of escalating reprisal warfare seen in other independence struggles.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 553</cite>
@@ -4415,7 +4416,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] An Algerian baker's son transformed the Casbah into a fortress. [fact]
 > Yacef was the twenty-nine-year-old son of a Casbah baker, seventh out of a family of fourteen, who had begun work for his father at the age of fourteen, a highly self-possessed young man with big, mocking brown eyes, a sensual mouth under a thick black moustache and immense confidence in himself. A keen footballer, he was daring and inventive. Arrested in France, he had managed to talk his way out of Barberousse by persuading the French gaolers of his willingness to act as double agent — to such effect that for some time he was regarded with distrust by his former colleagues. Knowing every inch of the tortuous alleys of the Casbah, so narrow that one can often jump from one roof-top to another, and where one square kilometre housed a teeming populace of 100,000 Muslims, he had persuaded Abane of the advantage of "purging" it of all doubtful elements and turning it into a fortress from which a campaign could be launched. With the aid of skilful masons Yacef had created a whole series of secret passages leading from one house to another, bomb factories, caches and virtually undiscoverable hiding-places concealed behind false walls.
->
+> 
 > *XREF: This connects to histories of urban insurgency and the Battle of Algiers, where dense urban geography enabled covert resistance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 554</cite>
@@ -4427,7 +4428,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Women bombers exploited gendered invisibility in colonial Algiers. [fact]
 > On 30 September Zohra Drif, Djamila Bouhired and Samia Lakhdari, veiled, attended a meeting with Yacef in one of his Casbah hideouts. They were told that, the same afternoon, they were to place three bombs in the heart of European Algiers. They had been chosen for the job because, with their feminine allure and European looks, they could pass where a male terrorist could not. Noting the shock on their faces, Yacef treated them to a vivid description of the horrors of the Rue de Thèbes outrage, and told them that they were to avenge the Muslim children killed in it.
->
+> 
 > *XREF: Connects to broader histories of women using femininity as cover in asymmetric warfare.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 556</cite>
@@ -4439,7 +4440,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Zohra Drif firmly placed the Milk-Bar bomb despite momentary revulsion. [causal]
 > Her target was the Milk-Bar, on the corner of Place Bugeaud, across from Salan's 10th Region headquarters. It was a particularly popular spot for pieds noirs on their way home from the beach, and on that Sunday it was filled with children and their mothers. Looking at the young faces sipping their milk shakes, Zohra Drif suffered a moment of revulsion at her task, but steeled herself by recalling Yacef's account of the Rue de Thèbes, pushed her beach-bag under the table, paid, and left at exactly 18.20 hours.
->
+> 
 > *QUESTION: The revulsion and the steeled resolve raise the question of how combatants justify violence against civilians — worth examining the psychology of the Algerian FLN campaign.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 558</cite>
@@ -4451,7 +4452,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Bombing civilians provokes moral outrage despite wartime rationale. [fact]
 > When the two bombs went off a few minutes later the carnage was particularly appalling in the Milk-Bar, where the heavy glass covering the walls was shattered into lethal splinters. Altogether there were three deaths and over fifty injured, including a dozen with amputated limbs, among them several children. Only Djamila Bouhired's bomb, placed in the hall of the Air France terminus, failed to go off, due to a faulty timer. Pied noir reactions were expectedly violent, and those sympathetic to the F.L.N. cause were shocked by the callous placing of the bombs. Dr Pierre Chaulet, who was sheltering Ramdane Abane, expressed his disapproval but was told coldly: "I see hardly any difference between the girl who places a bomb in the Milk-Bar and the French aviator who bombards a mechta or who drops napalm on a zone interdite."
->
+> 
 > *QUESTION: The FLN member's cold logic equating the Milk-Bar bombing with aerial bombardment of villages is worth exploring — when does asymmetric warfare regard civilian casualties as equivalent?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 559</cite>
@@ -4463,7 +4464,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN assassinated urban leaders to widen settler-native divisions [causal]
 > With the F.L.N. clearly winning more points in Algiers than out in the bled, Yacef, in agreement with his superior, Ben M'hidi, decided to exacerbate further the rift between the two communities by assassinating a prominent pied noir leader. The victim selected was seventy-four-year-old Amédée Froger, the "ultra" mayor of Boufarik and President of the Federation of Mayors of Algeria, a distinguished ancien combattant from the First World War and a figure of considerable power and influence; the assassin, Ali Amara, was better known as Ali la Pointe.
->
+> 
 > *XREF: Connects to asymmetric warfare strategy where terrorism targets symbolic leaders to polarize populations of opposing communities.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 560</cite>
@@ -4475,7 +4476,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Prison and underworld experience forged Ali's loyalty to the F.L.N. [fact]
 > Aged twenty-six, Ali la Pointe came of poor parents and had never been to school; instead, he had found his education in the underworld of the Casbah, selling combs and chewing-gum on the street, preyed upon as a pretty boy by pederast beggars, and joining up with gangs of shoe-shine boys reminiscent of Fagin's urchins in Oliver Twist. On his chest he had tattooed "Go forward or die" ("Marche ou crève"), and on his foot "Shut up", exhortations which he followed to the end. Growing up, he graduated to becoming a card-sharper and pimp, and was serving a two-year sentence for resisting arrest when the rebellion broke out in 1954. In Barberousse he was "got at" by F.L.N. militants, told that he was a "victim of colonialism", and urged to join the cause. On being transferred to another prison he escaped and, returning to his old haunts, made contact with Yacef, who submitted him to the accepted test of shooting down a flic. Ali was slipped a pistol by a veiled women, but on firing it three times at the designated victim he discovered it was unloaded. Smashing it in the man's face, he made his getaway and raged at Yacef for tricking him, but was mollified on realising that it was all part of an exacting initiation; and from that moment — with his unique knowledge of the Casbah, its petty crooks, tarts, dope-pedlars and thugs — he became Yacef's most loyal and valuable lieutenant.
->
+> 
 > *XREF: Recalls the Battle of Algiers film and how the F.L.N. recruited from the Casbah's criminal underworld.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 562</cite>
@@ -4497,7 +4498,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Militarizing the Algerian war sealed the Fourth Republic's fate [causal]
 > On a purely tactical level, Lacoste's decision meant that, virtually for the first time in the two years of war, France was accepting the F.L.N.'s challenge, confronting it with total force and backed by the will to use it. The confrontation would have to end in a clear-cut defeat for one side or the other. But beyond this, the calling in of the paras was to signify far more than just a transient cession of power by the civil authorities to the military; for it was never fully to be restored for another five years. That good Socialist and democrat, Robert Lacoste, was in effect placing his signature on the death warrant of the Fourth Republic.
->
+> 
 > *XREF: Connects to governance collapse and civil-military relations literature from other readings.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 564</cite>
@@ -4529,7 +4530,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ben M'hidi conceived the eight-day strike to coincide with the UN session. [fact]
 > The principle of the strike followed as a direct consequence of the priority of externalising the conflict, determined at Soummam the previous September, but specifically, in its timing and duration, it seems to have been the brain-child of Ben M'hidi. It was to coincide with the opening of the United Nations session in New York and was to last eight days.
->
+> 
 > *XREF: Relates to the Soummam Congress strategy of externalizing the Algerian conflict internationally.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 569</cite>
@@ -4541,7 +4542,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The FLN's eight-day terror campaign backfired tactically. [causal]
 > Ramdane Abane crossed the ts by explaining that: "Even if we take risks, our struggle must become known. We could kill hundreds of colonialist soldiers without this ever being publicly announced." The F.L.N. leaders felt that the combination of Yacef's grip of terror on Algiers and the F.L.N.'s acquired influence among the trade unions as a whole — in the shape of the recently-formed U.G.T.A. (Union Général des Travailleurs Algériens) — made them strong enough to accept the risks involved, and over so prolonged a period as eight days. In fact, it was to turn out to be perhaps the F.L.N.'s gravest tactical error of the entire war.
->
+> 
 > *XREF: Connects to broader literature on urban terrorism and how terror campaigns can alienate the very population they target, as later seen in various insurgencies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 571</cite>
@@ -4553,7 +4554,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The French army crushed shopkeepers' strike by dragging off shop shutters. [fact]
 > At first the strike looked like being a total success. Then Massu showed his mettle, applying the full force of his division. Armoured cars arrived, attached hawsers to the closed steel shutters of the shops, and simply dragged them off their fixings. With some relish, Salan describes how the contents of the shops became exposed to the world: "oranges, bananas, honey cakes, jars of multi-coloured sweets.... Urchins playing in the street rushed forward, helped themselves, and took flight...." Algerian sources accused the paras of joining in the pillage; whatever the truth, the unhappy shop-owners were, in any event, forced to emerge in order to protect their unguarded goods, and were then ordered to remain open under threat of imprisonment.
->
+> 
 > *XREF: Shows military tactical suppression of civilian economic resistance during the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 572</cite>
@@ -4575,7 +4576,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Repression of a strike benefited the F.L.N. more than the strike itself. [causal]
 > The main benefit for the F.L.N., however, was to be derived, unexpectedly and indirectly, rather from the methods used in breaking the strike than from anything achieved by it.
->
+> 
 > *QUESTION: What specific repressive methods turned the strike's failure into an organizational advantage for the F.L.N.? This seems to hinge on how the French response radicalized or mobilized Algerians.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 573</cite>
@@ -4607,7 +4608,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Bigeard likely did not personally kill Ben M'hidi. [fact]
 > What seems to be fact is that Bigeard himself interrogated M'hidi after his capture; was told that the F.L.N. was bound to win eventually, but no other useful details; was impressed by the dignity and courage of the F.L.N. leader; treated him with the respect due to a captured enemy commander, and left him alive and unharmed. According to a F.L.N. spy in Algiers police headquarters, who reported to the C.C.E. on 4 March, Bigeard then "was unable to prevent Ben M'hidi being handed over to men of a 'special section' of the paratroops. These interrogated him on their own initiative, and killed him last night." Admitting that M'hidi had had to be transferred to another prison, at Maison Carrée, for administrative reasons, Massu claims that he hanged himself with an electric flex that night but was "still breathing" when taken to the Maillot hospital
->
+> 
 > *QUESTION: The conflicting accounts — FLN spy report vs. Massu's suicide claim — leave the true circumstances of M'hidi's death unresolved. Worth pursuing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 579</cite>
@@ -4619,7 +4620,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A French general publicly admitted torture in Algeria was inevitable. [fact]
 > From the Battle of Algiers onwards this was to become a growing canker for France, leaving behind a poison that would linger in the French system long after the war itself had ended. The resort to torture poses moral problems that are just as germane to the world today as they were to the period under consideration. … As Jean-Paul Sartre wrote in 1958, “Torture is neither civilian nor military, nor is it specifically French: it is a plague infecting our whole era.”
->
+> 
 > *XREF: Connects to debates about wartime morality, the French-Algerian War, and how military leaders retrospectively justify atrocities.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 580</cite>
@@ -4631,7 +4632,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French wartime torture poisoned the national psyche for decades. [causal]
 > From the Battle of Algiers onwards this was to become a growing canker for France, leaving behind a poison that would linger in the French system long after the war itself had ended. The resort to torture poses moral problems that are just as germane to the world today as they were to the period under consideration. … As Jean-Paul Sartre wrote in 1958, “Torture is neither civilian nor military, nor is it specifically French: it is a plague infecting our whole era.”
->
+> 
 > *XREF: Pairs with discussions of French colonial memory and ongoing reckonings over the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 580</cite>
@@ -4643,7 +4644,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture serves victims as a potent propaganda weapon. [causal]
 > From the Battle of Algiers onwards this was to become a growing canker for France, leaving behind a poison that would linger in the French system long after the war itself had ended. The resort to torture poses moral problems that are just as germane to the world today as they were to the period under consideration. … As Jean-Paul Sartre wrote in 1958, “Torture is neither civilian nor military, nor is it specifically French: it is a plague infecting our whole era.”
->
+> 
 > *QUESTION: The victim's incentive to exaggerate torture claims raises broad epistemological challenges for historians of atrocity and for contemporary journalism covering war crimes.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 580</cite>
@@ -4655,7 +4656,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture's moral legacy outlives the conflicts that spawned it. [causal]
 > From the Battle of Algiers onwards this was to become a growing canker for France, leaving behind a poison that would linger in the French system long after the war itself had ended. The resort to torture poses moral problems that are just as germane to the world today as they were to the period under consideration. … As Jean-Paul Sartre wrote in 1958, “Torture is neither civilian nor military, nor is it specifically French: it is a plague infecting our whole era.”
->
+> 
 > *QUESTION: Worth exploring which modern conflicts or policies carry a similar lingering moral poison that historians of the future may identify.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 580</cite>
@@ -4667,7 +4668,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French governors officially banned torture but violence persisted regardless. [fact]
 > As an instrument of state, torture was expressly abolished by the French Revolution (which never practised it) on 8 October 1789, but even well before this French humanist writers had decided that it was both inhuman and inefficient. Article 303 of the French Penal Code (aiming specifically at highwaymen who had an unpleasant habit of “warming up the feet” of their victims) actually imposed the death penalty upon anyone practising torture.
->
+> 
 > *QUESTION: Were these official prohibitions sincere, or performative cover for tacitly sanctioned brutality in Algeria?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 581</cite>
@@ -4679,7 +4680,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture differs from brutality by being systematic and aimed at extracting information. [definitional]
 > As an instrument of state, torture was expressly abolished by the French Revolution (which never practised it) on 8 October 1789, but even well before this French humanist writers had decided that it was both inhuman and inefficient. Article 303 of the French Penal Code (aiming specifically at highwaymen who had an unpleasant habit of “warming up the feet” of their victims) actually imposed the death penalty upon anyone practising torture.
->
+> 
 > *DEFINE: Establishes a precise distinction between brutality (impulsive, short-lived rough treatment) and torture (prolonged, systematic pain deliberately intended to make a suspect talk).*
 > *XREF: Parallels the hot-blood/cold-blood distinction for conventional war crimes applied here to unconventional war.*
 
@@ -4692,7 +4693,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture differs from brutality by being systematic and aimed at extracting information. [definitional]
 > As an instrument of state, torture was expressly abolished by the French Revolution (which never practised it) on 8 October 1789, but even well before this French humanist writers had decided that it was both inhuman and inefficient. Article 303 of the French Penal Code (aiming specifically at highwaymen who had an unpleasant habit of “warming up the feet” of their victims) actually imposed the death penalty upon anyone practising torture.
->
+> 
 > *DEFINE: Distinguishes torture (prolonged, systematic, information-seeking) from mere brutality (heat-of-the-moment violence) via a structural parallel across conventional and unconventional war.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 581</cite>
@@ -4704,7 +4705,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France outlawed torture nearly two centuries before most rivals. [fact]
 > As an instrument of state, torture was expressly abolished by the French Revolution (which never practised it) on 8 October 1789, but even well before this French humanist writers had decided that it was both inhuman and inefficient. Article 303 of the French Penal Code (aiming specifically at highwaymen who had an unpleasant habit of “warming up the feet” of their victims) actually imposed the death penalty upon anyone practising torture.
->
+> 
 > *QUESTION: France abolished torture in 1789 yet seems to have pioneered modern torture techniques decades later during Algeria. Worth chasing that reversal.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 581</cite>
@@ -4716,7 +4717,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Authorities rationalized torture as psychologically mild and health-safe [fact]
 > The water and electricity methods, provided they are carefully used, are said to produce a shock which is more psychological than physical and therefore do not constitute excessive cruelty…. According to certain medical opinion which I was given, the water-pipe method, if used as outlined above, involves no risk to the health of the victim. This is not the case with the electrical method which does involve some danger to anyone whose heart is in any way affected…. I am inclined to think that these procedures can be accepted and that, if used in the controlled manner described to me, they are no more brutal than deprivation of food, drink, and tobacco, which has always been accepted….
->
+> 
 > *QUESTION: This chilling bureaucratic rationalization of torture should be investigated — what documented reasoning led officials to equate water and electricity with deprivation of food and tobacco?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 583</cite>
@@ -4748,7 +4749,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French city surveillance divided Algiers into numbered blocks monitored by local wardens. [fact]
 > In the short term the D.P.U.—which Trinquier describes as forming “a flexible bond bond between the authorities and the populace”—undeniably produced results. It was through its information that Ben M’hidi had been caught, and, according to Trinquier, it meant that “no Muslim was able to enter the European quarters without being reported”. But in the long run it was to place the “loyal” Muslim block-wardens in a thoroughly invidious position, often resulting either in their assassination or in the end of their loyalty to France.
->
+> 
 > *XREF: Recalls the Roman-era quadrillage antecedents and later urban surveillance maps like the 1990s 'mapping' of American cities — a recurring pattern of spatial control via block-level informants.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 588</cite>
@@ -4760,7 +4761,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Loyal informant programs expose collaborators to deadly retaliation. [causal]
 > In the short term the D.P.U.—which Trinquier describes as forming “a flexible bond bond between the authorities and the populace”—undeniably produced results. It was through its information that Ben M’hidi had been caught, and, according to Trinquier, it meant that “no Muslim was able to enter the European quarters without being reported”. But in the long run it was to place the “loyal” Muslim block-wardens in a thoroughly invidious position, often resulting either in their assassination or in the end of their loyalty to France.
->
+> 
 > *XREF: Connects to the broader ethical/theoretical debate on counterinsurgency informant networks and their long-term costs, echoing similar dynamics in Vietnam's Phoenix Program and Iraq's Sons of Iraq.*
 > *QUESTION: What specific conditions determine whether informant networks survive or collapse into assassination cycles? Worth exploring the long-term systemic consequences.*
 
@@ -4773,7 +4774,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Thirty to forty percent of Casbah men were arrested during Algeria's Battle. [fact]
 > The numbers of Muslim suspects passing through the hands of the paras as a result of the D.P.U. and the other forms of intelligence collection ran into enormous figures, with Edward Behr reckoning that between thirty and forty per cent of the entire male population of the Casbah were arrested at some point or other during the course of the Battle of Algiers.
->
+> 
 > *QUESTION: The scale of arrests raises questions about how French intelligence distinguished civilians from insurgents, and what proportion of arrests were actually militarily justified.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 589</cite>
@@ -4785,7 +4786,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French interrogators weaponized Algerian informers wearing hooded sacks to terrify prisoners. [fact]
 > At first his D.O.P. interrogators would attempt to trap him into admissions by displaying omniscient knowledge about the personalities and workings of his group. Often he would be confronted with a boukkara or cagoulard, a Muslim with his head covered in a sack with eye-slits who had broken under interrogation and was now acting as an informer—a particular horror for the Algerians.
->
+> 
 > *QUESTION: The psychological technique of using broken prisoners as informers is striking — worth exploring how this tactic influenced resistance solidarity and paranoia.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 590</cite>
@@ -4797,7 +4798,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Institutionalized torture emerged from reliance on outside help [causal]
 > And this is what happened. Because of the numbers of suspects involved, the D.O.P. “experts” often had to rely on outside help; “in certain cases”, admits Massu, “each of the regimental interrogation teams of the 10th Paratroop Division was obliged to have recourse to violence”. It was at this point, one might say, that torture became institutionalised in the army in Algeria.
->
+> 
 > *QUESTION: At what point does tactical violence become institutional policy? The distinction between orders and tolerated practice is worth probing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 592</cite>
@@ -4809,7 +4810,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture devices gain potency through hope's absence and prolonged use. [fact]
 > The most favoured method of torture was the gégène, an army signals magneto from which electrodes could be fastened to various parts of the human body—notably the penis. It was simple and left no traces. Massu states that he, as well as other members of his staff, tried it out on himself in his own office; what he failed, however, to note in his “experiment” was the cumulative effect of prolonged application of the gégène, as well as of all deprivation of the element of hope—the essential concomitant of any torture.
->
+> 
 > *QUESTION: The torture apologist angle (Massu 'testing' the device on himself) is chilling and worth tracing — did he really believe that made him qualified to judge its effects?*
 > *XREF: The insight that hope deprivation is central to torture's power echoes Hannah Arendt on totalitarianism and psychological coercion — connects to theories of domination.*
 
@@ -4842,7 +4843,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Yielding on core human-respect principles unleashes unlimited justifying cruelty. [causal]
 > Bollardière's sense of outrage was further increased when approached by weeping Muslim women who told him that their sons or husbands had "disappeared in the night", and finally he sought an interview with Massu, telling him that the orders he had been issued were "in absolute opposition to the respect of man, which was the foundation of my life". After this Bollardière commented: "if the leadership yielded on the absolute principle of respect for human beings, enemy or not, it meant an unleashing of deplorable instincts which no longer knew any limits and which could always find means of justifying itself".
->
+> 
 > *XREF: Echoes the 'foot-in-the-door' or slippery-slope dynamic in moral psychology and organizational obedience research.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 603</cite>
@@ -4854,7 +4855,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture proved effective in breaking the FLN's Algiers network [causal]
 > There remains the vital question, with much relevance to today: what did torture achieve in the Battle of Algiers? Putting aside any consideration of morality, was it even effective? Massu, with a courage that demands respect, claims that the end justified the means; the battle was won and a halt was brought to the F.L.N.-imposed terror and the indiscriminate killing and maiming of both European and Muslim civilians. He also notes that, when critics compared them to the Nazis, his paras practised neither extermination nor the taking of hostages. And Edward Behr, who could by no stretch of the imagination be regarded as an apostle of torture, nevertheless reckons "that without torture the F.L.N.'s terrorist network would never have been overcome…. The 'Battle of Algiers' could not have been won by General Massu without the use of torture." Had the Battle of Algiers indeed been lost by the French in 1957, then the whole of Algeria would almost certainly have been swamped by the F.L.N.—leading in all probability to a peace settlement several years earlier than was otherwise the case. … This is certainly true of the short term, but in the longer term—as the Nazis in the Second World War, and as almost every other power that has ever adopted torture as an instrument of policy, have discovered—it is a double-edged weapon. In some of his last utterances even Massu's chief lieutenant, Yves Godard, expressed doubts as to the efficacy of torture; especially when weighed against the emotional weapon it presented the enemy.
->
+> 
 > *QUESTION: The highlight raises the unresolved tension between torture's tactical effectiveness and its moral cost — a question still relevant to contemporary counterterrorism debates.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 608</cite>
@@ -4866,7 +4867,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture yields short-term tactical wins but backfires long-term. [causal]
 > There remains the vital question, with much relevance to today: what did torture achieve in the Battle of Algiers? Putting aside any consideration of morality, was it even effective? Massu, with a courage that demands respect, claims that the end justified the means; the battle was won and a halt was brought to the F.L.N.-imposed terror and the indiscriminate killing and maiming of both European and Muslim civilians. He also notes that, when critics compared them to the Nazis, his paras practised neither extermination nor the taking of hostages. And Edward Behr, who could by no stretch of the imagination be regarded as an apostle of torture, nevertheless reckons "that without torture the F.L.N.'s terrorist network would never have been overcome…. The 'Battle of Algiers' could not have been won by General Massu without the use of torture." Had the Battle of Algiers indeed been lost by the French in 1957, then the whole of Algeria would almost certainly have been swamped by the F.L.N.—leading in all probability to a peace settlement several years earlier than was otherwise the case. … This is certainly true of the short term, but in the longer term—as the Nazis in the Second World War, and as almost every other power that has ever adopted torture as an instrument of policy, have discovered—it is a double-edged weapon. In some of his last utterances even Massu's chief lieutenant, Yves Godard, expressed doubts as to the efficacy of torture; especially when weighed against the emotional weapon it presented the enemy.
->
+> 
 > *QUESTION: The battlefield effectiveness of torture in counterinsurgency remains contested; whether short-term success outweighs long-term strategic costs is worth deeper investigation.*
 > *XREF: Connects to debates about enhanced interrogation techniques post-9/11 and modern counterterrorism ethics.*
 > *SEED: A possible essay: questioning whether torture's tactical effectiveness justifies its strategic costs in asymmetric warfare.*
@@ -4880,7 +4881,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture undermines its adopters in the long term. [contrarian]
 > This is certainly true of the short term, but in the longer term—as the Nazis in the Second World War, and as almost every other power that has ever adopted torture as an instrument of policy, have discovered—it is a double-edged weapon.
->
+> 
 > *XREF: Connects to historical debates about interrogation ethics and the effectiveness of coercive methods versus intelligence-gathering approaches.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 609</cite>
@@ -4892,7 +4893,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture yields false confessions and recruits new enemies. [causal]
 > From a purely intelligence point of view, experience teaches that more often than not the collating services are overwhelmed by a mountain of false information extorted from victims desperate to save themselves further agony. Also, it is bound to drive into the enemy camp the innocents who have wrongly been submitted to torture. As Camus declares: "torture has perhaps saved some at the expense of honour, by uncovering thirty bombs, but at the same time it has created fifty new terrorists who, operating in some other way and in another place, would cause the death of even more innocent people". Torture, one feels, is never warranted; one should never fight for a good cause with evil weapons.
->
+> 
 > *XREF: Connects to counterterrorism debates about the effectiveness of harsh interrogation — the classic 'yield' paradox where coercive methods produce unreliable intelligence and radicalize victims.*
 > *SEED: Could be an angle on the cost-benefit analysis of torture: Camus's arithmetic of thirty bombs versus fifty new terrorists offers a memorable, quotable framework.*
 
@@ -4905,7 +4906,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture creates more terrorists than bombs it uncovers [causal]
 > From a purely intelligence point of view, experience teaches that more often than not the collating services are overwhelmed by a mountain of false information extorted from victims desperate to save themselves further agony. Also, it is bound to drive into the enemy camp the innocents who have wrongly been submitted to torture. As Camus declares: "torture has perhaps saved some at the expense of honour, by uncovering thirty bombs, but at the same time it has created fifty new terrorists who, operating in some other way and in another place, would cause the death of even more innocent people". Torture, one feels, is never warranted; one should never fight for a good cause with evil weapons.
->
+> 
 > *XREF: Connects to ethical debates on counterterrorism, the ticking-bomb scenario, and the French-Algerian war context that Camus addresses.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 611</cite>
@@ -4927,7 +4928,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture psychologically damages the torturer more than the victim. [causal]
 > In a civilised society, torture has no more counter-productive and insidious long-term effect than the way that it tends to demoralise the inflicter even more than his victim. Frantz Fanon, the militant Martiniquais psychiatrist, cites several examples of acute, lingering neurosis induced among the tortured; a kind of anorexia suffered by the innocent who had been put to la question wrongfully; pins-and-needles and a lasting fear of turning on a light switch, or touching a telephone, in those who had experienced the gégène. But just as psychically impaired were numerous cases like that of the European police inspector found guilty of torturing his own wife and children, which he explained as resulting from what he had been required to do to Algerian suspects
->
+> 
 > *XREF: Connects to literature on moral injury and perpetrator trauma — parallels modern understanding of PTSD in soldiers and interrogators.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 614</cite>
@@ -4939,7 +4940,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Punished colonial officers faced no serious career setbacks [fact]
 > In interviews with the author, Lacoste stated that he had “punished 480 officers for brutalisation”; Teitgen, however, counters that none of the punished suffered any serious setbacks to their careers.
->
+> 
 > *QUESTION: What does 'punished' mean here, and how effective was any disciplinary action really if careers were unaffected?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 643</cite>
@@ -4951,7 +4952,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Both sides in conflict believe their cause is just. [connection]
 > The common error of the one and the other is to believe that they are defending a just cause, killing for a just cause, and risking an unjust death. They become cruel like a hunted beast…. Those truly responsible keep a prudent distance.
->
+> 
 > *XREF: Echoes moral symmetry themes found in literature on conflict, where opposing sides each claim righteousness (cf. Orwell on war, or the cycle of violence narratives).*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 644</cite>
@@ -4963,7 +4964,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Paramilitary violence against Algerians went unpunished amid repression. [fact]
 > In a spontaneous reprisal, some of their comrades, led by an informer from Trinquier's D.P.U. to a Turkish bath that was supposed to be a hideout of the F.L.N., sub-machine-gunned all and sundry in it. Nearly eighty Muslims were reported killed; a number of them were poor beggars who habitually came in to find night-time shelter in the baths. Not one of the paras involved was ever brought to justice, although their identity was said to be known at the Gouvernement-Général.
->
+> 
 > *FICTION: A clandestine reprisal killing in a Turkish bath, sanctioned by silence from authorities, holds strong story material for historical fiction or thriller narratives.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 646</cite>
@@ -4985,7 +4986,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French agents used turned Algerian informants to infiltrate terrorist networks. [fact]
 > Under the inspiration of Captain Léger, an Arabic expert with the 11th Shock, selected turncoats clad inconspicuously in workers’ dungarees, or bleus de chauffe, were unleashed in the Casbah to mingle with their former terrorist associates and lead Godard’s intelligence operatives to the bosses’ lairs. The technique was to achieve such success that the expression la bleuite, or “the blues”, later assumed a particularly sinister connotation in the war as a whole.
->
+> 
 > *SEED: The 'bleuite' as a historical case study of counterintelligence infiltration — a compelling angle for an essay on how false-flag operations and informants corrode resistance movements from within.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 661</cite>
@@ -4997,7 +4998,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Tillion organized an anti-concentration-camp commission for Algeria by 1956. [fact]
 > Germaine Tillion had become increasingly disturbed by accounts of torture and public executions in Algeria that percolated through to her from the centres sociaux she had set up under Soustelle's administration. Consequently, reinforced by her own grim experiences of Ravensbrück, she had set to to organise a Commission Internationale contre le Régime Concentrationnaire en Algérie and, backed by a special dispensation from Prime Minister Mollet, she arrived with it in Algiers in June, just as Yacef's new bombing offensive was getting under way.
->
+> 
 > *XREF: Connects to broader scholarship on the Algerian War and on Germaine Tillion's career spanning French ethnography, the Resistance/Ravensbrück, and Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 662</cite>
@@ -5009,7 +5010,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Germaine Tillion founded a commission against Algeria's concentration-camp regime. [fact]
 > Germaine Tillion had become increasingly disturbed by accounts of torture and public executions in Algeria that percolated through to her from the centres sociaux she had set up under Soustelle's administration. Consequently, reinforced by her own grim experiences of Ravensbrück, she had set to to organise a Commission Internationale contre le Régime Concentrationnaire en Algérie and, backed by a special dispensation from Prime Minister Mollet, she arrived with it in Algiers in June, just as Yacef's new bombing offensive was getting under way.
->
+> 
 > *SEED: Tillion's arc from Nazi camp survivor to anti-torture advocate in Algeria offers a rich profile piece on moral continuity across colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 662</cite>
@@ -5021,7 +5022,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's willingness to negotiate preceded his public Algerian policy. [connection]
 > In Paris Madame Tillion immediately made contact with a close friend on Bourgès-Maunoury's staff. Yacef's "deal" was passed on to the premier, and the first indications were encouraging. She was asked to return to Algiers and resume contacts with Yacef; but "at your own risk and peril". … At the same time she had also taken the opportunity of calling upon her old wartime chief, General de Gaulle, in his private office in the Rue Solférino. He had listened to her gravely as she described the horrors of the prison executions and of the tortures she had learned about in Algiers, and then made a remark that would seem full of significance a few years later: "This proves that one must talk, negotiate, prendre langue. One cannot abandon a people—whoever they may be—in quarantine!"
->
+> 
 > *QUESTION: What was the actual timeline between de Gaulle's private remark and his shift toward negotiating with the FLN? The highlight suggests early private signaling.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 670</cite>
@@ -5053,7 +5054,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secret negotiations eroded French military trust in political leaders. [causal]
 > Under extreme pressure Djamal gave away the secret of No. 3 Rue Caton; at the same time he revealed all the details he knew of the parleys that had taken place between Germaine Tillion and Yacef with the blessing of the French government. News of this association with the arch-enemy, Yacef, was regarded by the para leaders as a piece of sheer duplicity on the part of a civil government they were already growing increasingly to distrust and despise.
->
+> 
 > *XREF: Connects to the broader pattern of civil-military discord during the Algerian War, and to similar tensions in other colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 680</cite>
@@ -5075,7 +5076,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Battle of Algiers ironically advanced the FLN's long-term aims. [contrarian]
 > For the F.L.N. the immediate consequence was to force it to face up to a serious defeat and completely review its strategy. Henceforth it realised that large-scale terrorism in the cities would have to be abandoned; and, moreover, the failure in Algiers led it to the appreciation that nowhere in Algeria was its military organisation, the A.L.N., strong enough to face any major armed confrontation with the French army. Thus, it would conclude, the war could really no longer be won inside Algeria itself. Through its defeat in Algiers the F.L.N. also lost important ground in the struggle for the souls of the uncommitted “third force” Muslims, now giving increased indication of war-weariness. Finally, as will be seen shortly, the Algiers defeat was to impose stresses on the leadership resulting in the gravest internal dissension to date. But all this was in the immediate present: in the longer term there were ways in which the Battle of Algiers was to prove a blessing in disguise (though, as Winston Churchill remarked of his electoral defeat in 1945, at the moment it may have seemed “quite effectively disguised”). First of all, by making the C.C.E. quit Algiers, the French would be assisting it to find a base of relative tranquillity in Tunis. Secondly, by pressing upon it the correct strategic conclusions it would help the C.C.E. turn a short-term defeat into a long-term victory. Thirdly, with utmost irony, the Battle of Algiers, by focusing the TV cameras, newsfilms and journalists of the world upon it, had probably done infinitely more to achieve the sought-for “internationalisation” of the war than all Ben Bella’s efforts in Cairo, or Yazid’s at the United Nations. Fourthly, through the reaction they produced both in France herself and elsewhere, the repugnant methods with which the paras had won in Algiers were materially to help bring victory from the outside.
->
+> 
 > *XREF: Connects to the broader irony that French brutality in counterinsurgency can backfire, a theme echoed in later conflicts like Vietnam and Iraq.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 686</cite>
@@ -5097,7 +5098,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Resettlement isolated Algerian communities to cut off FLN support [causal]
 > One factor that was costing the French much goodwill was a new policy designed in the first instance to protect the loyal and the uncommitted from F.L.N. terrorism. This was regroupement, or resettlement, which—to rephrase the oft-quoted axiom—aimed at emptying the water away from the fish by isolating communities from the F.L.N. and thus denying it refuge and supplies.
->
+> 
 > *DEFINE: 'Regroupement' is explained as a French resettlement policy aimed at depriving the FLN of refuge and supplies by isolating communities.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 690</cite>
@@ -5109,7 +5110,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Militarily effective policy often proves politically counterproductive in counterinsurgency. [causal]
 > By uprooting these Algerians from their homes and fields and placing them in camps where they led listless and largely unemployed existences, the French only created a new area of profound social discontent; while by helping “to break up an antiquated rural and tribal structure”, says Dorothy Pickles, they also encouraged “a sense of national solidarity”. Thousands fled over the border into Tunisia or Morocco to join the ranks of the F.L.N. there. Regroupment undeniably made life much more difficult for the A.L.N., but—as so often in the Algerian war—French policy found itself caught in the insoluble paradox of what was good militarily being bad politically, and vice versa. It was a pitfall into which, to some extent, the Americans were to stumble in South Vietnam.
->
+> 
 > *XREF: Connects to the author's explicit parallel with American policy in South Vietnam — a recurring theme in counterinsurgency history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 693</cite>
@@ -5121,7 +5122,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Forced resettlement alienated Algerians while disrupting the insurgency. [causal]
 > By uprooting these Algerians from their homes and fields and placing them in camps where they led listless and largely unemployed existences, the French only created a new area of profound social discontent; while by helping “to break up an antiquated rural and tribal structure”, says Dorothy Pickles, they also encouraged “a sense of national solidarity”. Thousands fled over the border into Tunisia or Morocco to join the ranks of the F.L.N. there. Regroupment undeniably made life much more difficult for the A.L.N., but—as so often in the Algerian war—French policy found itself caught in the insoluble paradox of what was good militarily being bad politically, and vice versa. It was a pitfall into which, to some extent, the Americans were to stumble in South Vietnam.
->
+> 
 > *XREF: The 'emptying the water away from the fish' metaphor and the military-vs-political paradox foreshadow US tactics in Vietnam, which the passage itself notes.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 693</cite>
@@ -5133,7 +5134,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Forced regroupment bred Algerian nationalist solidarity while hurting rebels. [causal]
 > By uprooting these Algerians from their homes and fields and placing them in camps where they led listless and largely unemployed existences, the French only created a new area of profound social discontent; while by helping “to break up an antiquated rural and tribal structure”, says Dorothy Pickles, they also encouraged “a sense of national solidarity”. Thousands fled over the border into Tunisia or Morocco to join the ranks of the F.L.N. there. Regroupment undeniably made life much more difficult for the A.L.N., but—as so often in the Algerian war—French policy found itself caught in the insoluble paradox of what was good militarily being bad politically, and vice versa. It was a pitfall into which, to some extent, the Americans were to stumble in South Vietnam.
->
+> 
 > *XREF: Directly parallels US relocation/strategic hamlet programs in Vietnam — the author draws the comparison explicitly.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 693</cite>
@@ -5145,7 +5146,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The FLN massacred 301 civilians at Mélouza in 1957. [fact]
 > The F.L.N. could not entirely share her views, for it was still locked in its own struggle of intense internecine rivalry with resuscitated elements of Messali Hadj’s M.N.A., a struggle which exploded in an act of appalling savagery right in the middle of the Battle of Algiers, and temporarily distracted the world’s eyes from it. On 31 May the Gouvernement-Général announced that the army had stumbled upon a massacre of peasants at a mechta called Mélouza, down in the remote south of Kabylia. Three nights earlier, apparently, the F.L.N. had rounded up every male above the age of fifteen from the surrounding area, herded them into houses and into the mosque and slaughtered them with rifles, pick-axes and knives: a total of 301 in all, with another fourteen severely wounded survivors.
->
+> 
 > *XREF: Connects to broader histories of the Algerian War and FLN-MNA internecine violence against civilians.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 694</cite>
@@ -5167,7 +5168,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The F.L.N. feared French exploitation of Arab-Kabyle divisions. [causal]
 > For a time the French cherished hopes that Si Chérif might bring over with him the whole of the south, but eventually the F.L.N. skilfully managed to seal off the damage. Nevertheless, in that hard-pressed summer of 1957 the Si Chérif affair opened up to the F.L.N. one of its greatest latent nightmares: the prospect of a sectarian split between Arabs and Kabyles. It was an opportunity for which French intelligence was constantly, and obviously, on the look out.
->
+> 
 > *XREF: Connects to broader colonial divide-and-rule tactics and ethnic fault line exploitation in anti-colonial struggles.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 697</cite>
@@ -5179,7 +5180,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Internal F.L.N. divisions nearly destroyed its leadership in 1957. [fact]
 > Although it was always less visible to the French (and in fact remained almost entirely invisible until years later), the continuing dissension in the F.L.N. leadership still posed an even greater menace to the coherence of the whole movement than any number of defections, single or collective, at lower levels. Greatly exacerbated by the defeat in Algiers and the forced withdrawal of the C.C.E. from the city, internal rifts had brought the F.L.N. leadership to the brink of disaster by the spring of 1957. Once again the basic issue lay in the contention between the “interior” and the “exterior”; and, once again, the figure of Ramdane Abane was at the storm centre.
->
+> 
 > *XREF: Connects to knowledge of Algerian War history and the F.L.N.'s interior/exterior organizational split.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 698</cite>
@@ -5191,7 +5192,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Internal F.L.N. leadership rifts threatened the movement more than defections. [fact]
 > Although it was always less visible to the French (and in fact remained almost entirely invisible until years later), the continuing dissension in the F.L.N. leadership still posed an even greater menace to the coherence of the whole movement than any number of defections, single or collective, at lower levels. Greatly exacerbated by the defeat in Algiers and the forced withdrawal of the C.C.E. from the city, internal rifts had brought the F.L.N. leadership to the brink of disaster by the spring of 1957. Once again the basic issue lay in the contention between the “interior” and the “exterior”; and, once again, the figure of Ramdane Abane was at the storm centre.
->
+> 
 > *XREF: Connects to broader patterns of revolutionary movements unraveling from internal factionalism rather than external pressure.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 698</cite>
@@ -5213,7 +5214,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN leaders regrouped in Morocco and Tunis mid-1957 [fact]
 > Once again a breach within the top echelons of the F.L.N. seemed to have been healed over, with the C.C.E. emerging ascendant. Then, in June, Abane and Saad Dahlab arrived via Tétouan in Morocco, having been preceded shortly by Krim and Ben Khedda. Meanwhile, at various intervals, the “colonels”—as the military leaders of the Wilayas were now titled—were also congregating in Tunis.
->
+> 
 > *XREF: Connects to the broader timeline of the Algerian War of Independence and FLN internal power struggles.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 701</cite>
@@ -5245,7 +5246,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The death of a potential Algerian Tito remains a mystery. [fact]
 > According to these accounts, between 17 and 20 December Krim, Ben Tobbal and Mahmoud Chérif met lengthily in Tunis to decide the fate of Abane. Boussouf was absent, in Morocco, but his views were represented by his close ally, Ben Tobbal, who stated that there was only one choice—“death or prison”. Ben Tobbal added that he was not against death “in principle”, but that he would not accept the responsibility of killing Abane without trial. Krim remarked that, if prison were decided upon, it would not be possible in Bourguiba’s Tunisia; whereas, in Morocco, in the charge of Boussouf, “he would not worry us again”. Mahmoud Chérif protested that Boussouf favoured killing Abane; however, it was finally agreed that Abane should be imprisoned in Morocco, the ultimate responsibility for his fate in the hands of Boussouf, the hard-liner.
->
+> 
 > *QUESTION: Who is this man thought to be a potential Tito or Mao of Algeria? The exact identity and circumstances of his 1958 death are worth chasing down.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 715</cite>
@@ -5267,7 +5268,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonels seized FLN power as France's colonels rose [fact]
 > As 1957 gave way to the new year, running weapons across the Tunisian frontier became the main effort of the A.L.N.; at one moment they totalled an average of a thousand a month. In September 1957, however, the French completed an imposing cordon sanitaire the length of the Tunisian border, the Morice Line, named—like its rather less successful predecessor, the Maginot Line—after the current Minister of Defence. Most of the heavy fighting now took place on the frontier rather than in the interior as A.L.N. katibas attempted to force their way through the barrages of electrified wire, minefields and radar alarm systems, frequently at appalling cost. By the spring of 1958 the balance of the war was, on the whole, a negative one for the F.L.N.—certainly as far as the interior was concerned. In the cities terrorism had been defeated; in the bled operational military successes were few and far between, and morale was down; on the frontiers there was costly stagnation. It continued to be a time of setback and failure within Algeria, but of greater success abroad—and, with historic consequences, the former was the fact most tantalisingly visible to the French army commanders on the spot. Here was the basic contrast: France was strong, militarily, in Algeria, but weak, politically, at home; the F.L.N. was weak, militarily, at home, but strong politically, abroad.
->
+> 
 > *XREF: Parallels civil-military tension; ironic symmetry between FLN colonels and French paratroop colonels seizing influence simultaneously.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 719</cite>
@@ -5279,7 +5280,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN military colonels supplanted political leaders after 1958 assassinations. [fact]
 > As 1957 gave way to the new year, running weapons across the Tunisian frontier became the main effort of the A.L.N.; at one moment they totalled an average of a thousand a month. In September 1957, however, the French completed an imposing cordon sanitaire the length of the Tunisian border, the Morice Line, named—like its rather less successful predecessor, the Maginot Line—after the current Minister of Defence. Most of the heavy fighting now took place on the frontier rather than in the interior as A.L.N. katibas attempted to force their way through the barrages of electrified wire, minefields and radar alarm systems, frequently at appalling cost. By the spring of 1958 the balance of the war was, on the whole, a negative one for the F.L.N.—certainly as far as the interior was concerned. In the cities terrorism had been defeated; in the bled operational military successes were few and far between, and morale was down; on the frontiers there was costly stagnation. It continued to be a time of setback and failure within Algeria, but of greater success abroad—and, with historic consequences, the former was the fact most tantalisingly visible to the French army commanders on the spot. Here was the basic contrast: France was strong, militarily, in Algeria, but weak, politically, at home; the F.L.N. was weak, militarily, at home, but strong politically, abroad.
->
+> 
 > *XREF: Connects to parallel militarization in France, where para colonels also rose to power — both sides of the Algerian conflict saw militaries gain ascendancy simultaneously.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 719</cite>
@@ -5301,7 +5302,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Abane Ramdane was killed by his own FLN colleagues. [fact]
 > Insofar as Krim was Courrière’s source concerning the death of Abane, it should be remembered that Krim was an interested party and possibly had an axe to grind against his former colleagues. He was in fact murdered, in sinister circumstances, while in exile years after the war. On the other hand, neither his nor Lebjaoui’s account—nor a similar version which appeared in the widely circulated Historia magazine series, “La Guerre d’Algérie”, has been refuted by any Algerian source. In Algiers in 1984 a senior Algerian official told the author simply: Abane “was helped to suicide”.
->
+> 
 > *QUESTION: The accounts come from interested parties and are unrefuted rather than confirmed. Is the 'helped to suicide' euphemism verifiable from Algerian sources?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 724</cite>
@@ -5323,7 +5324,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Palestro massacre turned French public opinion against the Algerian war. [causal]
 > Then, only ten days later, had come the shocking headline news of the massacre of the twenty-one conscripts at Palestro. The Press had spared none of the details of the dreadful mutilations and tortures that had killed the boys, most of whom came from the Paris region. The meaning of the war had been brought home to French families in the most brutal possible way and, with the return of Mollet’s rappelés after they had served their time in Algeria, the whole country found itself increasingly involved.
->
+> 
 > *DEFINE: Defines the Palestro massacre of 1956 as a turning-point event that made the Algerian War's brutal reality visible to French families.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 726</cite>
@@ -5355,7 +5356,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Distant observers judge police excesses more harshly than the affected. [causal]
 > It was not only public revelations that brought the "gangrene" of torture home to France; the young men who had been forced to administer it brought it back in their own persons, profoundly—and often permanently—marked by their experiences.
->
+> 
 > *XREF: Connects broadly to themes of moral judgment shaped by proximity versus detachment.*
 > *FICTION: The Algerian prison 'suicides' are a potent plot engine for morally ambiguous historical fiction.*
 
@@ -5388,7 +5389,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Torture's trauma psychologically scarred its French military perpetrators permanently. [causal]
 > It was not only public revelations that brought the "gangrene" of torture home to France; the young men who had been forced to administer it brought it back in their own persons, profoundly—and often permanently—marked by their experiences.
->
+> 
 > *XREF: Connects to the broader psychological literature on perpetrator trauma and moral injury in soldiers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 730</cite>
@@ -5400,7 +5401,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French soldiers more often cited their own atrocities than wounds as worst experiences. [fact]
 > Vidal-Naquet also notes a poll conducted in 1960 by La Vie Catholique in which, in answer to the question “what has been the reader’s worst experience” in Algeria, 126 referred to the hardships of war as such; whereas 132 specified atrocities committed by the French, or acts of torture heard about, witnessed, or participated in; against only six who had cited their own wounds.
->
+> 
 > *XREF: This connects to the wider theme of French complicity in torture during the Algerian War and how soldiers themselves registered moral injury over physical harm.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 732</cite>
@@ -5422,7 +5423,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Army resentment toward civilians grew as France exposed torture in Algeria. [causal]
 > Vidal-Naquet, himself a declared opponent of the established government, admits freely that “no country involved in similar horrors has ever permitted publication of such complete documentation on the subject”. The vehemence of the public outcry, however, was also to have its repercussions in other directions. Army generals like General Allard, corps commander for the Algiers area and Massu’s immediate superior, themselves immaculate of any reproach of association with torture, protested bitterly to the Ministry of Defence against the anti-army attacks in the Press. Their “incessant repetition”, he wrote, “places at risk the morale of the army”. All through the army in Algeria, and, of course, particularly among the paras who saw themselves as the principal target of such attacks, there was an increasingly savage feeling that they had been called in to carry out the dirty work of the civil authorities and were now being carted for it. Once again the plaint, “On nous a fait le coup”, began to be heard in the messes. It was yet another brick in the wall of resentment and contempt rapidly rising against the politicians of the Fourth Republic.
->
+> 
 > *XREF: Connects to the broader theme of civil-military friction and how exposing institutional wrongdoing widens the gap between enforcers and the public, like later leaks exposing abuses.*
 > *QUESTION: How did France's willingness to publish torture documentation compare with other colonial powers' secrecy, and did that decisively shape the army's alienation?*
 
@@ -5435,7 +5436,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Camus condemned both sides' atrocities while opposing Algerian independence. [fact]
 > Condemning even-handedly the atrocities committed by both sides, Camus (in what was a thinly-veiled criticism of the more violently militant supporters of the F.L.N.) had attacked “a section of our opinion” which “thinks obscurely that the Arabs have acquired the right somehow to slit throats and to mutilate”. … Still declaring himself fundamentally opposed to any policy of independence leading to “the eviction of 1,200,000 Europeans from Algeria”, by the beginning of 1958 he had come out in favour of a federalist solution, as recently propounded by a liberal professor of law at Algiers University, Marc Lauriol.
->
+> 
 > *QUESTION: Camus's position on Algeria is famously contested — how did his federalist solution square with his moral stance against independence?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 737</cite>
@@ -5447,7 +5448,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN imposed coercive discipline on Algerian workers in France [fact]
 > Acting under the innocent-sounding name of the Fédération de France, the F.L.N. employed methods similar to those in Algeria: the collection of funds under pressure and threats from café and hotel owners, pimps and shopkeepers, as well as down to even the poorer manual workers; and the selective elimination of informers, M.N.A. cell-leaders, and "friends of France".
->
+> 
 > *XREF: Relates to European colonial-metropolitan connections during the Algerian War; echoes the broader pattern of liberation movements extending operations into the metropole.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 743</cite>
@@ -5469,7 +5470,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Unpaid French volunteers built a civilian support network for the FLN. [fact]
 > Following the arrest of Lebjaoui, Jeanson had spun together a remarkable network—reminiscent of the French Resistance—of no fewer than forty like-minded French men and women. For three years he operated, without receiving any pay or direct orders from the F.L.N. Jeanson's motives, as he explains them, were the "ignoble behaviour of the forces of order" that he had witnessed in Algeria between 1945 and 1954, and he did not want to be yet another of the French "theoreticians" always giving advice to the Algerians, of which they were tired.
->
+> 
 > *XREF: Connects to histories of the Algerian War of Independence and the French Resistance legacy Jeanson's network evoked.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 746</cite>
@@ -5531,7 +5532,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Saharan oil discoveries gave France a motive for winning the Algerian war. [causal]
 > On 7 January 1958 the stopcocks opened at Hassi-Messaoud deep in the sands of the Algerian Sahara, and its first oil flowed towards France. Already in 1945 French oil companies had begun prospecting in the Sahara, and shortly after the beginning of the Algerian war a major strike was made at Edjelé on the Libyan frontier. With the opening up of the Hassi-Messaoud field, French oilmen predicted euphorically that they had at their fingertips resources similar to those of the Middle East. From 5 million tons in the first year, 1958, it was reckoned production would reach 14 million in 1962, and that it would suffice to satisfy all France's oil requirements by 1980. With the menace that Suez presented to Middle East oil supplies, here was a glowing prospect of securing the nation's need for the future, as well as solving her acute balance of payments problem. Quite quietly, France now found herself with a new motive for winning the Algerian war that went far beyond any consideration for the one million pieds noirs.
->
+> 
 > *XREF: Connects to Suez crisis context and France's balance of payments struggles in the postwar era.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 753</cite>
@@ -5553,7 +5554,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Saharan oil gave France a strategic stake in Algeria [causal]
 > On 7 January 1958 the stopcocks opened at Hassi-Messaoud deep in the sands of the Algerian Sahara, and its first oil flowed towards France. Already in 1945 French oil companies had begun prospecting in the Sahara, and shortly after the beginning of the Algerian war a major strike was made at Edjelé on the Libyan frontier. With the opening up of the Hassi-Messaoud field, French oilmen predicted euphorically that they had at their fingertips resources similar to those of the Middle East. From 5 million tons in the first year, 1958, it was reckoned production would reach 14 million in 1962, and that it would suffice to satisfy all France's oil requirements by 1980. With the menace that Suez presented to Middle East oil supplies, here was a glowing prospect of securing the nation's need for the future, as well as solving her acute balance of payments problem. Quite quietly, France now found herself with a new motive for winning the Algerian war that went far beyond any consideration for the one million pieds noirs.
->
+> 
 > *XREF: Connects to colonial/energy resource dynamics; pairs with the Suez crisis economic motive for holding Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 753</cite>
@@ -5575,7 +5576,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Retaining colonies can destroy their economic value for imperial powers. [causal]
 > In a booklet, L’Algérie et la République, published in the summer of 1958, Raymond Aron, the distinguished writer and contributor to the conservative Le Figaro, pointed out that the annual cost of the war “is more or less equal to ten times the profits which would be derived from twenty million tons of crude petroleum,” and that “those who insist or suggest that Algerian autonomy would entail the loss of the petroleum for France are either ignorant or liars….” He predicted: “The best way for France to lose the Sahara oil is to want to keep it for herself.”
->
+> 
 > *XREF: Connects to scholarship on the economics of empire showing colonies often cost more than they yield, an argument later expanded by decolonization theorists.*
 > *QUESTION: Did Aron's contrarian prediction about Algeria prove accurate in later oil politics?*
 
@@ -5588,7 +5589,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Great powers eagerly competed for Algeria's newly discovered oil reserves. [causal]
 > Henceforth it would focus with sharpest clarity the covetous eyes of the all-powerful Anglo-American oil interests on Algeria. Not always without reason, France would be nagged by suspicions that shady deals were being done with the F.L.N. behind her back, with a view to ensuring that her rivals got in on the ground floor in an independent Algeria. Edward Behr, who was a correspondent in France at the time, recalls how "for a brief spell officer-cadets in French military schools were systematically taught a course in 'American imperialism', and it was stated as an incontrovertible fact that the United States had designs on the newly discovered Saharan oil deposits". In addition to the "Anglo-Saxon" villains in this shadowy oil war, there was also Italy's maverick oil operator, the unpredictable Enrico Mattei, who was openly to supply the F.L.N. with money and arms in return for future "considerations".
->
+> 
 > *XREF: Connects to the general pattern of Cold War-era power competition over resource-rich former colonies, echoing decolonization histories in the Middle East and Africa.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 755</cite>
@@ -5610,7 +5611,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalists distrusted American dual support of both sides [fact]
 > Across the ocean George Meany, the powerful boss of the American Federation of Labour, had protested to Mollet about the arrest of Algerian trade union leaders in 1956 and, it was reported, asked that Lacoste be disavowed in the name of socialism. … Herb Greer, an American journalist who made two clandestine visits to the F.L.N., had already had films taken by him televised across America. As well as telling harrowing tales of French brutality, he revealed to the American public disquieting instances of Algerian mistrust. One djoundi in the field is quoted as saying: “I don’t trust America and I don’t know any Arab who does…. You want to be friends with France and so you give them guns and helicopters to fight against us. But you’re also afraid we might win, so just in case you express sympathy, unofficially of course….” Repeatedly Greer encountered suspicion that the Americans were after Algerian oil. Similar plaints were later recorded by Richard and Joan Brace: “on the one hand the United States helps us through the U.N. with wheat and food, and on the other furnishes her ally, France, with the finest military hardware—helicopters, napalm, everything, to kill us off. Which way do the Americans want us, dead or alive?”
->
+> 
 > *XREF: Parallels Cold War dynamics where the U.S. hedged between colonial allies and independence movements, similar to later Arab-Israeli and Vietnam policy tensions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 761</cite>
@@ -5632,7 +5633,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian diplomats cultivated American elites to gain access [causal]
 > Both were extensively-travelled cosmopolitans, popular and at home in salons across the world; good talkers (Yazid often to excess) with perfect command of English, a light-handed sense of humour and easy-going manners. Both had married attractive foreign wives; Chanderli first to a Frenchwoman, then to a beautiful Italian in New York; Yazid to an American, Olive, who helped open many doors to the Algerians in the United States. Both seemed the very antithesis of the hard-eyed revolutionaries and rude men of the maquis bickering among themselves in Tunis. Chanderli exuded a mixture of humanitarian intellectualism and personal well-being, reminding one of a Roy Jenkins (to whom, indeed, he bore some passing physical resemblance), and he achieved early success on the American scene by cultivating liberal “egg-heads” like J. K. Galbraith of Harvard. And through them he became friendly with an up-and-coming young Democrat Senator, John F. Kennedy.
->
+> 
 > *XREF: Connects to the wider story of how the FLN waged a diplomatic/public-relations war in the US to counter French influence, gaining access to Kennedy before his presidency.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 763</cite>
@@ -5644,7 +5645,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French diplomats suppressed propaganda that could have countered Algeria criticism [causal]
 > “I used the U.S. public relations technique to my own advantage,” Chanderli claimed to the author: “I always tried to tell the truth, at least more truth than the French, and let the French get caught out in their own lies.” Sagely he instructed his own staff: “The United States is the land of truth, so give it the truth. But that of others, of the French who are disgusted by the war, and we’ll add no commentary.”
->
+> 
 > *XREF: Connects to broader histories of propaganda suppression and the tension between diplomacy and public relations in colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 764</cite>
@@ -5666,7 +5667,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist violence can paradoxically shift sympathy against the target state. [contrarian]
 > Outrages of terrorism by the F.L.N. such as Mélouza and the Algiers bombings would indeed produce a momentary revulsion in the United States, but the eventual reaction would, perversely, somehow end up as one of irritation against France as being responsible for the war in which such horrors could take place; a psychological process not dissimilar to that in the 1970s where the spate of Palestinian hijacking and terrorism against innocent targets did nothing to make the world less hostile towards Israel. One of the F.L.N. lobbyists at the United Nations is quoted by Edward Behr as saying: “You must realise that every time a bomb explodes in Algiers we are taken more seriously here.”
->
+> 
 > *XREF: Connects to the 1970s Palestinian hijacking parallel the author draws, and to broader literature on terrorism's counterproductive publicity effects.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 765</cite>
@@ -5678,7 +5679,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist violence can backfire, turning sympathy against the target nation. [causal]
 > Outrages of terrorism by the F.L.N. such as Mélouza and the Algiers bombings would indeed produce a momentary revulsion in the United States, but the eventual reaction would, perversely, somehow end up as one of irritation against France as being responsible for the war in which such horrors could take place; a psychological process not dissimilar to that in the 1970s where the spate of Palestinian hijacking and terrorism against innocent targets did nothing to make the world less hostile towards Israel. One of the F.L.N. lobbyists at the United Nations is quoted by Edward Behr as saying: “You must realise that every time a bomb explodes in Algiers we are taken more seriously here.”
->
+> 
 > *XREF: Parallels the 1970s Palestinian hijackings cited here, and connects to modern debates on terrorism's propaganda effects.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 765</cite>
@@ -5710,7 +5711,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] F.L.N. diplomacy shifted American policy toward Algerian independence. [causal]
 > Below the surface, however, international victories were being chalked up by the F.L.N.; not least of all in the shifting of American policy. At the end of February 1957 an Arab “summit” composed of Syria, Jordan, Saudi Arabia and Egypt convened in Cairo and, in a first display of Middle East unity, declared its total support for the Algerian cause. All this was duly noted in Washington, and the following month Vice-President Nixon arrived in Tunis to help celebrate the first anniversary of her independence. Following his meetings with Bourguiba, Nixon proposed to President Eisenhower a referendum whereby the Algerians could choose freely between the loi-cadre statute being prepared by Lacoste, or total independence. Then, in July, Chanderli’s influential friend in the Democratic opposition, Senator John F. Kennedy, rose to make an important pronouncement in the United States Senate. He challenged Eisenhower and Dulles “to place the influence of the United States behind efforts… to achieve a solution which will recognise the independent personality of Algeria and establish the basis for a settlement interdependent with France and the neighbouring nations”. He accused United States policy of representing “a retreat from the principles of independence and anticolonialism”; and, elsewhere, that it “furnished powerful ammunition to anti-Western propagandists through Asia and the Middle East”. No speech on foreign affairs by Senator Kennedy attracted more attention, both at home and abroad, and under such pressure United States official policy on Algeria now began to shift. Henceforth, instead of backing France at the United Nations, the United States would abstain. It was a serious blow for French policy, and a triumph for Chanderli, Yazid and the F.L.N. Finally, at the end of December, another success was registered by the Algerians when, at a new Afro-Asian conference hosted by Nasser in Cairo, they were accepted on an equal footing among the sovereign powers. At the same time an important first contact was made through their delegations with the U.S.S.R. and Red China.
->
+> 
 > *XREF: Connects to broader Cold War history and the Arab summit diplomacy of 1957, and to JFK's early foreign-policy record as a senator.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 767</cite>
@@ -5722,7 +5723,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Bourguiba balanced French and Algerian pressure on Tunisia [causal]
 > In all the F.L.N.’s aspirations for international influence over the period, there was no more important element than the dynamic figure of Habib Bourguiba. With blazing blue eyes and prognathous features that give him an appearance of determined aggressiveness, the Tunisian leader was as unashamedly unretiring and as dedicated to the “cult of the personality” as the F.L.N. was opposed to it. The world produced few more remarkable statesmen in the turbulent third quarter of the twentieth century; still in power after two unbroken decades of paternalistic though moderate rule, in terms of years at the helm Bourguiba is surpassed by few modern statesmen. But only a remarkable leader could have survived the powerful opposing pressures exerted on him: on the one hand by the French, at various times apparently poised to re-occupy his infant state; on the other by the F.L.N., its more extreme moods backed up by the presence on Tunisian soil of seasoned, well-equipped djounoud that would soon be several times stronger than Tunisia’s own embryo army (hence, partly, the urgency of Bourguiba’s plea for Anglo-American arms). In addition, there was always the arch-enemy, Nasser, subverting from the sidelines.
->
+> 
 > *XREF: Connects to decolonization dynamics in North Africa and Cold War politics of the postwar period.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 768</cite>
@@ -5734,7 +5735,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Habib Bourguiba survived contradictory pressures from France and the F.L.N. [fact]
 > In all the F.L.N.’s aspirations for international influence over the period, there was no more important element than the dynamic figure of Habib Bourguiba. With blazing blue eyes and prognathous features that give him an appearance of determined aggressiveness, the Tunisian leader was as unashamedly unretiring and as dedicated to the “cult of the personality” as the F.L.N. was opposed to it. The world produced few more remarkable statesmen in the turbulent third quarter of the twentieth century; still in power after two unbroken decades of paternalistic though moderate rule, in terms of years at the helm Bourguiba is surpassed by few modern statesmen. But only a remarkable leader could have survived the powerful opposing pressures exerted on him: on the one hand by the French, at various times apparently poised to re-occupy his infant state; on the other by the F.L.N., its more extreme moods backed up by the presence on Tunisian soil of seasoned, well-equipped djounoud that would soon be several times stronger than Tunisia’s own embryo army (hence, partly, the urgency of Bourguiba’s plea for Anglo-American arms). In addition, there was always the arch-enemy, Nasser, subverting from the sidelines.
->
+> 
 > *XREF: Connects to the Algerian revolution context and North African decolonization history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 768</cite>
@@ -5786,7 +5787,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] F.L.N. guerrillas staged cross-border raids from Tunisia into Algeria. [fact]
 > Over the previous six months there had been more than eighty shooting incidents on the Tunisia—Algeria frontier. These had culminated on 11 January in the ambushing of a strong French patrol by F.L.N. bands operating in the unusual strength of a failek (a battalion, or three hundred men). The band had come across from Tunisia (allegedly driven to the frontier in Tunisian army trucks), laid their well-prepared ambush, in which fifteen French troops were killed, then escaped back into Tunisia, taking four French prisoners with them, before a riposte could be mounted. A few days later, in this same sector of the frontier, an investigating French plane was shot down by machine-gun fire from a Tunisian village called Sakiet, which gave every appearance of being a strong F.L.N. base. Angry warnings emanated from the French authorities, but early on the morning of 8 February another French plane was hit by machine-gun fire from Sakiet, and made a forced landing behind the Morice Line. Three hours later a squadron of American-built B. bombers appeared overhead and flattened the village with a massive bombing retaliation.
->
+> 
 > *XREF: Connects to histories of the Algerian War and cross-border sanctuaries, useful context for the conflict's internationalization.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 777</cite>
@@ -5808,7 +5809,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Israeli reprisal raids repeatedly struck schools and hospitals in Lebanon. [fact]
 > It happened to be a market day, and—as has occurred many times since in the course of Israeli reprisal raids against Al Fatah camps across the Lebanese frontier—the bombs and rockets hit a school and hospital (which the Tunisians claimed was well marked with a red cross visible from the air), as well as the F.L.N. base. Some eighty people, including a number of women and children, were killed.
->
+> 
 > *XREF: Recalls how wartime targeting of civilian infrastructure recurs across conflicts, from F.L.N. era to present-day Middle East.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 778</cite>
@@ -5820,7 +5821,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Foreign mediation implied French concession to Algerian insurgents. [causal]
 > Angrily, Bourguiba ordered the immediate evacuation of the French garrisons still in Tunisia under treaty, in the meantime blockading them in their barracks, and accused France of "aggression" before the Security Council. Dismayed at the disarray of an ally, the United States and Britain offered to send a "good offices" mission, comprised of the veteran Robert Murphy and Harold Beeley of the Foreign Office, to heal the breach with Tunisia. … But the United States government made little secret of its hopes that the "good offices" mission might also provide a first foot in the door to direct peace negotiations between the F.L.N. and France. That France should even have accepted the principle of such foreign arbitration was, in F.L.N. eyes, something of a victory in itself.
->
+> 
 > *XREF: Connects to broader decolonization history and great-power mediation patterns in North Africa during the Cold War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 779</cite>
@@ -5842,7 +5843,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Sakiet bombing unwittingly internationalized the Algerian war. [causal]
 > No effort of Yazid or Chanderli, or of the whole F.L.N. leadership to date, could have done more to “internationalise” the war than the French bombing of Sakiet. It also set in motion the chain of events that led directly to the final disintegration of the Fourth Republic. For what preceded this gross miscalculation, and its potent consequences, one must return to the French army in Algeria.
->
+> 
 > *QUESTION: What specific chain of events did the Sakiet bombing trigger that led to the Fourth Republic's collapse?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 780</cite>
@@ -5864,7 +5865,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Wilaya 4 replaced rigid hierarchy with democratic equality in 1957. [fact]
 > In the spring of 1957 Wilaya 4 had achieved a character all of its own by replacing the hitherto rigidly hierarchical structure by a system of "democratic equality" and political commissars, for which Si M'hamed's influence was largely responsible. Bearing a close resemblance to Marxist techniques, though none to Marxist political ideology, Si M'hamed's system was largely designed to counter the effectiveness in political warfare of Lacoste's S.A.S. teams that had become progressively entrenched in the Algérois villages.
->
+> 
 > *XREF: Connects to broader anti-colonial warfare history and the political-vs-military dynamic in the Algerian War, parallel to revolutionary cell structures seen elsewhere.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 788</cite>
@@ -5886,7 +5887,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Even model French victories proved incomplete in the Algerian war [contrarian]
 > Militarily speaking, the encounter at Agounennda—a model of well-applied intelligence and hard-hitting mobility—looked like a triumph for the French. Yet it was an incomplete success; the well-laid ambush had not succeeded in wiping out the main body of the force trapped in it. Ideally set up for the French style of warfare, it was also the kind of opportunity that would seldom occur again. Therefore, while the French military might deduce from Agounennda as from the Battle of Algiers that the F.L.N. could never beat them in a clear confrontation, a more dispassionate observer might have questioned whether, if Bigeard's crack unit could not score a total victory on its own terms, there was much hope for winning more elusive engagements in a war that might be indefinitely prolonged.
->
+> 
 > *XREF: Connects to broader discussions of counterinsurgency where tactical success does not yield strategic victory — parallels the Battle of Algiers and asymmetric warfare literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 791</cite>
@@ -5898,7 +5899,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Muslim soldiers stationed near home desert less often [causal]
 > After noting instances where villagers in the Orléansville area had killed F.L.N. scouts with hatchets, Servier—despite considerable official opposition—had gained permission initially to create "light companies" from some thousand men, the able-bodied and trustworthy defectors from the F.L.N., or anciens combattants. Servier insisted that his harki units should be based near their homes, on the sensible grounds that a Muslim soldier away from his family was at the mercy of a threatening letter, and would desert—quite naturally—to save his wife and children.
->
+> 
 > *XREF: Connects to broader counterinsurgency doctrine about force integration and loyalty dynamics — family coercion undermines troop reliability.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 792</cite>
@@ -5920,7 +5921,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Orchestrated infiltration schemes can backfire catastrophically against resistance movements [fact]
 > With the Affaire K you thought you were introducing a Trojan horse into the heart of the Algerian resistance. You were deceived. Those whom you took for traitors to the Algerian nation were pure patriots…. We thank you for having procured us arms that will help us to liberate our country.
->
+> 
 > *XREF: Echoes other historical counterintelligence failures where double agents were actually loyal all along, like Operation Mincemeat inversions or KGB-operated British agents.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 798</cite>
@@ -5942,7 +5943,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The French orchestrated Bellounis's death and defamed him as a traitor [fact]
 > With the death of Bellounis there ended disastrously yet another private army enterprise; at the same time, it also removed for the F.L.N. the last major threat of a rival military bid by the Messalists.
->
+> 
 > *QUESTION: What was Operation Ollivier, and how was Trinquier's account reconciled with the varying French and Italian press versions?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 802</cite>
@@ -5964,7 +5965,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French counterinsurgency depended on coerced Muslim double agents. [fact]
 > Linked to Trinquier's controversial D.P.U. with its system of block-warden informers unpleasantly reminiscent of the Third Reich, and answerable only to Colonel Godard, Léger's G.R.E. assembled a network of top-level Muslim agents, informers who, quite unbeknown to the F.L.N., had turned coat under lesser or greater degrees of coercion at the para interrogating centres. The cornering of Yacef, then of Ali la Pointe, in the final stages of the Battle of Algiers had been ultimately achieved by his bleu double agents.
->
+> 
 > *XREF: Connects to broader literature on colonial reliance on local collaborators and informer networks (e.g., Vichy, anti-insurgency elsewhere).*
 > *QUESTION: Worth chasing: how 'lesser or greater degrees of coercion' shaped the reliability and loyalty of these bleu agents.*
 
@@ -5977,7 +5978,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French deception operations decimated the FLN's Kabylia command. [fact]
 > At the end of January 1958 Hani Mohamed and Safy-le-Pur made a rendezvous at the zone's headquarters outside Bordj-Menaiel, on the western approaches of Kabylia. With them came Léger, disguised in a cachabia, Surcouf and several other members of the G.R.E. The F.L.N. leaders were completely deceived; by the following dawn the zone's entire general staff was aboard helicopters bound for French prisons; a large bomb factory and arms depot had been captured, as well as quantities of incriminating documents that would lead to the mounting of further deadly bleu operations.
->
+> 
 > *XREF: Relates to the broader 'bleu de chauffe' counterinsurgency operations discussed in the surrounding text (FALN/FLN betrayal operations).*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 806</cite>
@@ -5989,7 +5990,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French intelligence staged bombings to prop up fake F.L.N. group. [fact]
 > To enhance credibility, Léger and Surcouf "helped" the new F.L.N. set-up to explode a few harmless bombs in Algiers, and even arranged the bombing of their own headquarters.
->
+> 
 > *XREF: Connects to classic intelligence tradecraft of 'false flag' operations and running front organizations to discredit enemies — echoes similar operations in other colonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 806</cite>
@@ -6001,7 +6002,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A single successful strike shattered the FLN's internal trust irreparably. [causal]
 > Léger’s coup was a success that more than atoned for such past debacles as Oiseau Bleu, Kobus and even Bellounis. The destruction of the post-Yacef network in Algiers was so complete that, in effect, the Z.A.A. was never to be usefully re-created until the last months of the war. But even more far-reaching were the consequences of the mistrust it had sown in Wilaya 3. By what was more or less a random shot, Léger had struck at the Achilles’ heel of the whole F.L.N.: the mutual distrusts, hatreds and fears of betrayal that, as one now knows, seethed constantly just beneath the surface. Immediately Amirouche, like a Stalin in microcosm, launched the most savage and self-perpetuating series of purges.
->
+> 
 > *XREF: Parallels intelligence operations where one lucky penetration triggers paranoid purges that weaken the target more than the strike itself — echoes of Stalin's purges and counterintelligence literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 807</cite>
@@ -6023,7 +6024,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ex-Nazis found refuge and influence in Nasser's Egypt [fact]
 > Respectable names from the United States and from London were involved, but the biggest traffic came through West Germany, particularly the port of Hamburg. The reason was simple to explain: since the demise of the Allied Occupation controls, the Bonn government had done nothing to replace the previous strict limitations on the arms trade. While this gap remained unplugged, the Federal Republic was a happy hunting-ground for the dealers.
->
+> 
 > *XREF: Connects to the broader postwar 'ratlines' that smuggled Nazi officials to the Middle East and South America.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 810</cite>
@@ -6045,7 +6046,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Sabotage agents covertly replaced or degraded munitions in arms factories. [fact]
 > A consignment of plastic explosive from Sweden would turn out to have been mysteriously transformed into casein somewhere along the way. Two arms factories in Switzerland and Spain actually became “controlled” by Bureau 24 in much the same way that Léger had played the recrudescent F.L.N. network in Algiers, and busied themselves fabricating faulty firearms and instantaneous fused grenades for the arms salesmen.
->
+> 
 > *XREF: Connects to the broader pattern of clandestine Bureau 24 operations against arms suppliers, echoing similar sabotage described in the FLN network context in Algiers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 811</cite>
@@ -6067,7 +6068,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Czechoslovakia secretly manufactured Mauser carbines for the FLN. [fact]
 > The most active of them all, and the top target of Bureau 24, was another German called Georges Puchert, who operated out of Tangiers, was impervious to threats and for two years led a charmed life. Dealing with Boussouf in Morocco, Puchert learned that one of the F.L.N.’s most favoured weapons was the German Mauser 7.92 mm. carbine from the Second World War. The principal stocks of these were to be found in Czechoslovakia, accumulated from the 1945 defeat, but as they were soon insufficient to meet demand the Communist Czech regime had obligingly set up plants to construct Mausers, perfect down to the last detail, including the swastika engraved in the metal, as a guarantee of top quality.
->
+> 
 > *XREF: Connects to Cold War covert arms trafficking and communist bloc support for Algerian decolonization.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 813</cite>
@@ -6079,7 +6080,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France massed eighty thousand troops to seal Algerian borders [fact]
 > Defending the line was a force some 80,000 strong, the most powerful concentration of French combat troops in Algeria. There were mechanised and armoured units, four para regiments—including the crack 1st R.E.P. of Colonel Jeanpierre who had been wounded during the capture of Yacef—and plentiful helicopters to spot any crossing-points and track the crossers.
->
+> 
 > *XREF: Relates to the broader Algerian War counterinsurgency literature, and connects to the concept of border sealing operations in COIN doctrine.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 814</cite>
@@ -6091,7 +6092,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Berlin Wall featured layered lethal defenses far beyond the wall itself [fact]
 > The nucleus of the Line was an eight-foot electric fence charged with five thousand volts; on either side of this was a fifty-yard belt liberally sprinkled with anti-personnel mines and backed up with continuous barbed-wire entanglements of the style of the First World War.
->
+> 
 > *DEFINE: Describes the physical configuration of East German border defenses — electric fence, minefields, and barbed wire entanglements forming the 'Line'.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 814</cite>
@@ -6113,7 +6114,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Political instability in France eased Algeria's frontline breach [causal]
 > But those of the A.L.N. were crippling, by far the worst that it had suffered in the war to date; out of a total of 820 men crossing the Line, no less than 620 were killed or captured, including a failek commander. With them were taken 416 rifles or sub-machine-guns, and forty-six machineguns. (The disproportionate number of arms to rebels captured, however, is once again a testimony to the efficiency of the F.L.N. system of weapon recovery, which aimed at never leaving behind the previous firearm of a fallen djoundi.)
->
+> 
 > *XREF: Builds a broader pattern of insurgent groups timing offensives around their enemy's political vulnerability rather than purely military conditions.*
 > *QUESTION: Worth probing whether the FLN's Sakiet-aware calculus reflects a deliberate doctrine of exploiting international pressure for tactical gain.*
 
@@ -6136,7 +6137,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN exploited French political weakness and international outcry at Sakiet. [causal]
 > But those of the A.L.N. were crippling, by far the worst that it had suffered in the war to date; out of a total of 820 men crossing the Line, no less than 620 were killed or captured, including a failek commander. With them were taken 416 rifles or sub-machine-guns, and forty-six machineguns. (The disproportionate number of arms to rebels captured, however, is once again a testimony to the efficiency of the F.L.N. system of weapon recovery, which aimed at never leaving behind the previous firearm of a fallen djoundi.)
->
+> 
 > *XREF: Connects to the broader theme of how colonial insurgencies time operations to exploit the metropole's political instability and diplomatic pressure.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 819</cite>
@@ -6148,7 +6149,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The F.L.N. recovered most weapons from fallen fighters. [fact]
 > But those of the A.L.N. were crippling, by far the worst that it had suffered in the war to date; out of a total of 820 men crossing the Line, no less than 620 were killed or captured, including a failek commander. With them were taken 416 rifles or sub-machine-guns, and forty-six machineguns. (The disproportionate number of arms to rebels captured, however, is once again a testimony to the efficiency of the F.L.N. system of weapon recovery, which aimed at never leaving behind the previous firearm of a fallen djoundi.)
->
+> 
 > *XREF: Shows tactical discipline and resource efficiency in asymmetric warfare, comparable to other insurgent weapon-recovery systems.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 819</cite>
@@ -6190,7 +6191,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Static fortifications breed defensive mindsets and invite decisive defeats. [causal]
 > There were many senior French officers who agreed with Colonel Trinquier that, although the Line had served its primary purpose well, it was accompanied by all the traditional disadvantages of fixed fortifications (plus the mentality that had led, painfully, to Dien Bien Phu). The only way, they felt, to deal decisively with the F.L.N. was to strike into the foreign territories harbouring rebel forces—as indeed, noted Trinquier, had been the accepted norm in the pacification wars of the nineteenth century.
->
+> 
 > *XREF: Echoes the Maginot Line psychology lesson and general histories of fixed fortification failure.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 821</cite>
@@ -6202,7 +6203,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Soldiers distrusted politicians who negotiated while victory seemed near. [connection]
 > Thus, in Algeria, the senior French army commanders, under pressure from foreground events, were constantly blinkered to higher realities; to the state of the war in the international, political arena, or, later, to public opinion at home. By the spring of 1958, however, they could deduce with the most clear-cut conviction that they were winning the immediate shooting war on all fronts—and for the first time since November 1954. The Battle of Algiers, Agounennda, Souk-Ahras, the blocking of the barrier-runners on the Moroccan frontier as on the Tunisian, the new successes in the underground war; every sign vindicated this conviction. Yet, at the same time, more thoughtful senior officers felt menaced also by a mounting and harrowing sense of urgency. Was this perhaps the last moment when a military victory could be exploited? How long would it be before the flow of weapons from the Communist bloc, and possibly more direct means of support, might reverse the tide? The smell of victory was strong, but there was also, coupled with it, a nasty smell of negotiations in the air; the bons offices episode and other indications all pointed to this. And negotiations implied surrender. Were the politicians getting ready to sell the army down the river once again? The memories of the Third Republic and 1940, of Dien Bien Phu and Mendès-France, were always too close for comfort.
->
+> 
 > *XREF: Recalls the deep French military distrust of civilian leadership after 1940 and Dien Bien Phu betrayals.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 823</cite>
@@ -6214,7 +6215,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Military victories can coincide with political defeat for commanders. [causal]
 > Thus, in Algeria, the senior French army commanders, under pressure from foreground events, were constantly blinkered to higher realities; to the state of the war in the international, political arena, or, later, to public opinion at home. By the spring of 1958, however, they could deduce with the most clear-cut conviction that they were winning the immediate shooting war on all fronts—and for the first time since November 1954. The Battle of Algiers, Agounennda, Souk-Ahras, the blocking of the barrier-runners on the Moroccan frontier as on the Tunisian, the new successes in the underground war; every sign vindicated this conviction. Yet, at the same time, more thoughtful senior officers felt menaced also by a mounting and harrowing sense of urgency. Was this perhaps the last moment when a military victory could be exploited? How long would it be before the flow of weapons from the Communist bloc, and possibly more direct means of support, might reverse the tide? The smell of victory was strong, but there was also, coupled with it, a nasty smell of negotiations in the air; the bons offices episode and other indications all pointed to this. And negotiations implied surrender. Were the politicians getting ready to sell the army down the river once again? The memories of the Third Republic and 1940, of Dien Bien Phu and Mendès-France, were always too close for comfort.
->
+> 
 > *XREF: Echoes the broader theme of the Algerian War where battlefield success was undone by political and diplomatic realities.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 823</cite>
@@ -6226,7 +6227,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Army officers assumed civil governance during the Algerian crisis [causal]
 > The process had started with Mollet's expansion of the army by recalling the reservists, and it was under that good Socialist that it had been truly introduced to politics through his encouraging it to indulge in political warfare. With Massu's takeover of civil powers during the Battle of Algiers, a point of no return had been reached. By January 1958 an estimated 1,600 army officers and 1,000 N.C.O.s—among the best in the army—were totally employed in civil affairs of one category or another.
->
+> 
 > *XREF: Connects to the broader narrative of the Algerian War and French civil-military relations, and to patterns of militaries assuming political roles in decolonization contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 824</cite>
@@ -6248,7 +6249,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Gaillard's government fell over Algerian bons offices impasse [fact]
 > In Paris the Sakiet affair had effectually inflicted the death wound upon the Gaillard government; but, like a frog in a laboratory, the corpse had continued to twitch on for another two months. Messieurs les bons offices had not helped matters, the suggestion of Anglo-American interference in Algerian affairs alienating the centre from its support of Gaillard. Soustelle declared emotionally, "It's the total liquidation of the French positions in North Africa that is being prepared. That's the policy of the petroleum monopolies who want to kick us out of the Sahara." On another occasion he was heard to utter the loaded words: "A government of Public Safety must take over." Another bout of massive strikes shook the country; in March even the police demonstrated in front of the Assembly for "danger money"; on 1 April all the public services went out. On 15 April the Gaillard government fell by 321 to 255 on a vote of confidence about the bons offices. The Communists and the centre had improbably united forces, with Deputy Soustelle—now cast in the role of premier-slayer—putting in the boot as he had with Bourgès-Maunoury six months previously. Once more France faced a vacuum of leadership; this time, the most perilous yet.
->
+> 
 > *XREF: Part of the cascade of French government collapses in 1957-58 that set up de Gaulle's return, connecting to the broader May 1958 crisis narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 828</cite>
@@ -6260,7 +6261,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN executed French captives at random in retaliation. [fact]
 > On 24 April, despite Germaine Tillion's endeavours of the previous year to halt the chain of executions, Yacef's bomb-manufacturer, Taleb Abderrahmane, and two other convicted terrorists were guillotined in Algiers. In advance of the execution, El Moudjahid had warned that henceforth "each Algerian patriot to mount the scaffold signifies one French prisoner before the firing squad". On 9 May the F.L.N. Press office in Tunis announced that three French soldiers had been sentenced to death by a special A.L.N. tribunal on charges of torture, rape and murder. The unfortunate soldiers had already been in F.L.N. hands for over eighteen months and, far from there having been any semblance of a "fair trial", it appeared, for want of other evidence, that they had simply been selected at random and killed. The French reaction, both in France and Algeria, was one of profound shock and horror. For the army, it was the missing detonator.
->
+> 
 > *DEFINE: Establishes the escalation dynamic where retaliatory executions replaced formal legal process during the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 831</cite>
@@ -6322,7 +6323,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A colonial officer's politics stagnated at an adolescent stage. [fact]
 > Arriving in Algeria as chief-of-staff to Ducournau's 25th Airborne Division, Thomazo had been transferred to command the Unités Territoriales (U.T.) of part-time pied noir militiamen, with whose views he wholeheartedly identified himself. Tournoux describes him as being “fifty years old by civil status, a thousand by right of military service, but eighteen years old politically”. There was not an intrigue in Algiers into which he had not thrown himself with the total enthusiasm of a Dumas musketeer, and without any fear of compromising himself.
->
+> 
 > *XREF: The 'teenage political maturity but old military experience' paradox is a striking character sketch that connects to broader studies of zealotry and organizational loyalty.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 842</cite>
@@ -6344,7 +6345,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Elite paras displayed physical but not civil courage. [fact]
 > Lagaillarde himself had returned to study law at Algiers University the previous autumn, having completed his military service as a sous-lieutenant with the paras. This had taken him to Suez and through the Battle of Algiers, and the redoubtable Colonel Trinquier had been sufficiently impressed to invite him to stay on, which Lagaillarde had refused with the contemptuous rebuff: "The paras have every physical courage, but no civil courage!"
->
+> 
 > *XREF: Connects to broader themes about military units and political/civil responsibility, linking to discussions of the Algerian War and the role of the paras.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 848</cite>
@@ -6356,7 +6357,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French military leaders sought Algerian independence from Metropole parliament [fact]
 > Lagaillarde regarded the Gaullist "antenna" with detached contempt, remarking to Nez-de-Cuir at an early stage that he wanted "to have nothing to do with the Punch-and-Judy coup d'état of M. Chaban-Delmas". His fellow members of "The Group of Seven" went even further in their antipathy to de Gaulle. In this they were representative of the deep-seated Pétainist inclinations of the pieds noirs, inherited from the internal conflicts of French North Africa during the Second World War.
->
+> 
 > *XREF: Connects to the broader context of decolonization and the Algerian War, as well as the parallel case of Ian Smith's UDI in Rhodesia.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 849</cite>
@@ -6378,7 +6379,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian pieds noirs harbored deep Pétainist sympathies from wartime conflicts. [causal]
 > Lagaillarde regarded the Gaullist "antenna" with detached contempt, remarking to Nez-de-Cuir at an early stage that he wanted "to have nothing to do with the Punch-and-Judy coup d'état of M. Chaban-Delmas". His fellow members of "The Group of Seven" went even further in their antipathy to de Gaulle. In this they were representative of the deep-seated Pétainist inclinations of the pieds noirs, inherited from the internal conflicts of French North Africa during the Second World War.
->
+> 
 > *XREF: Connects to the broader history of French North Africa in WWII and the Vichy/Algerian factions, as well as the 1961 Algiers putsch context.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 849</cite>
@@ -6430,7 +6431,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Chergui desert wind exacerbated tensions and distorted judgment. [causal]
 > On the 11th, a Sunday, he printed in the Écho's weekly sister, Dimanche Matin, an unequivocal call to de Gaulle to intervene, under the clarion headline PARLEZ, … PARLEZ VITE, MON GÉNÉRAL. Coming from such a long-standing Pétainist, the article had—in Sérigny's own words—"the effect of a bomb in Algeria". Delbecque and the Gaullists were delighted by this powerful acquisition to their cause, but the "Seven" were thrown into a turmoil. On the evening of the 12th a meeting was held in Dr Lefèvre's villa. The Chergui, the wind from the desert that exacerbates passions and distorts reason, had been blowing for two days. Amid an atmosphere tense with febrile rumours, the pied noir leaders allowed themselves to be persuaded—wrongly—that Delbecque was all set to launch a coup in the name of de Gaulle the night following the morrow's demonstrations, and before Pflimlin could be sworn in. Therefore the Gaullists had to be beaten to it.
->
+> 
 > *DEFINE: The Chergui is defined as a desert wind that inflames passions and warps reason.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 861</cite>
@@ -6442,7 +6443,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Authorities knew of the May 13 invasion beforehand yet did nothing. [fact]
 > One of the surprising aspects of the "spontaneous" events of 13 May is that so many people were informed about what was going to happen, and nothing was done to stop it. On the 12th, the correspondent of Le Figaro had cabled back to Paris: "It is probable that tomorrow afternoon the Gouvernement-Général will be invaded by the mob." Returning from Paris that same day, the former secretary-general of the Algiers police, Paul Teitgen, warned an impassively disbelieving Salan of the impending invasion, telling him that the paras would do nothing to stop it. He then sent a warning to Pflimlin, via the curiously circuitous route of the United States consul-general, the State Department and the Quai d'Orsay. But by the time it reached Paris it would be too late in any case.
->
+> 
 > *QUESTION: Why did the authorities, who were actively warned, take no preventive action? The passivity might reveal hidden sympathies or deliberate tolerance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 866</cite>
@@ -6454,7 +6455,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Authorities were forewarned of the Algiers coup but did nothing. [fact]
 > One of the surprising aspects of the "spontaneous" events of 13 May is that so many people were informed about what was going to happen, and nothing was done to stop it. On the 12th, the correspondent of Le Figaro had cabled back to Paris: "It is probable that tomorrow afternoon the Gouvernement-Général will be invaded by the mob." Returning from Paris that same day, the former secretary-general of the Algiers police, Paul Teitgen, warned an impassively disbelieving Salan of the impending invasion, telling him that the paras would do nothing to stop it. He then sent a warning to Pflimlin, via the curiously circuitous route of the United States consul-general, the State Department and the Quai d'Orsay. But by the time it reached Paris it would be too late in any case.
->
+> 
 > *XREF: Connects to the classic pattern of intelligence warnings ignored before political upheavals, as in Pearl Harbor or the 9/11 memo.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 866</cite>
@@ -6466,7 +6467,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial Algiers' protest violence consumed the American Cultural Centre. [fact]
 > In preparation, European Algiers had imposed on itself a total shutdown. All through the morning pied noir farmers from the Mitidja, whipped in by Martel, poured into the city. Cars raced through the streets, sounding out on their horns the now familiar tattoo of AL-GÉR-IE FRANÇAISE. The university had been thoroughly organised by Lagaillarde, and a special "commando" detailed to stand by in readiness outside the railings of the "G—G". Shortly after midday Lagaillarde appeared at the Otomatic (now recovered from its bombing of the previous year) and announced dramatically to the students there: "From now on I consider myself an insurgent." By early afternoon the Rue Michelet and its tributaries were a solid mass of demonstrators and banners, an estimated 20,000 strong (Salan says 100,000). As passions rose, a first victim—ritualistically as in almost every civil upheaval since 1945—was the American Cultural Centre, sacked by an angry detachment of pieds noirs.
->
+> 
 > *QUESTION: Why did the American Cultural Centre become the ritual first target for pied noir demonstrators in 1945 onward upheavals?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 867</cite>
@@ -6498,7 +6499,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A power vacuum paralyzed authorities during the Algiers insurrection. [causal]
 > Lacoste ordered that under no circumstances were the insurgents to be fired upon. But beyond Lacoste no helpful authority was forthcoming; the outgoing Gaillard felt he was no longer responsible, and Pflimlin had not yet been sworn in. In an attempt to pacify the mob, Ducournau—unable to make his voice heard—appeared on the balcony with a blackboard bearing the words: "I have just telephoned Paris to call for a government of public safety." The crowd applauded, but continued with its sack of the building.
->
+> 
 > *XREF: Echoes the classic pattern of coups succeeding when authority is ambiguous or in transition between governments.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 869</cite>
@@ -6510,7 +6511,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rival Algerian plotters competed to seize control of the city. [fact]
 > At about ten o'clock Delbecque arrived on the scene, having been caught out of Algiers that day and somewhat discountenanced to have been beaten to the draw by Lagaillarde, who remarked to him sardonically: "I recognise that I am a little ahead of your scenario!" Initially there were some sharp words between Delbecque and the military, with Colonel Ducournau accusing him of opening the way for a front populaire by his conspiracy. It was only at this point, so it seems, that an outraged Massu certainly, and Salan probably, first became aware of the various complots.
->
+> 
 > *XREF: Connects to the Algerian War and de Gaulle's return to power in 1958.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 875</cite>
@@ -6562,7 +6563,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Deliberate ambiguity in public statements can intimidate political rivals. [causal]
 > Using carefully measured words, he declared to the nation that “in the face of the trials that again are mounting toward it, it should know that I am ready to assume the powers of the republic”. But there was no how or when. As Prime Minister Macmillan noted in his journal, it was “an equivocal statement, but one which has terrified the French politicians. It is cast in his usual scornful but enigmatic language.”
->
+> 
 > *SEED: This historical example of equivocal rhetoric as a political weapon could inspire an essay on strategic ambiguity in leadership communication.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 885</cite>
@@ -6574,7 +6575,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian Muslims briefly joined pied noirs in pro-France demonstrations. [fact]
 > More than ever, Salan was now the hero of the hour, and this sudden access of popularity and influence could not help but affect him as indeed it had Soustelle two years previously. The next day, 16 May, the euphoria of the moment occasioned one of the more remarkable and inexplicable phenomena of the whole war. Into the excited pied noir crowds that thronged the Forum, which had now become well-established as the centre of the daily entertainment, that evening there merged dense groups of Muslims. Waving tricolours and crosses of Lorraine, and banners that proclaimed “We demand a Government of National Unity”, or even “Vive Massu!”, they came in their thousands from the Algiers Casbah and from douars throughout Algeria; old men sporting wartime decorations, young students, pregnant fatmas in haiks. A voice from the “G—G” balcony shouted, “Here are our Muslim brothers! Make a place for them!” and there followed extraordinary scenes of mass emotion. Pieds noirs linked arms with Muslims, embraced them; European girls lifted the veils of acquiescent Muslim women; all together sang the Marseillaise and the military Chant des Africains. From the famous balcony the stentorian voice of Massu rang out, welcoming “with pride” this “spontaneously organised” assemblage of Muslims, and asserting, “Let them know that France will never abandon them.”
->
+> 
 > *XREF: Connects to the Algerian War and Salan/Soustelle's rise, likely relevant to broader readings on decolonization and settler-colonial dynamics.*
 > *QUESTION: Why did thousands of Muslims participate in these pro-France rallies only days before the tide turned? The author calls it 'inexplicable.'*
 
@@ -6587,7 +6588,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Mass fraternisation in Algiers outstripped French expectations of staged tactics [contrarian]
 > Historians still find the “fraternisation” phenomenon of 16 May hard to explain. The official line of the F.L.N., as well as that of French sceptics, is that the whole demonstration was phoney, rigged by the psychological warfare experts of the French Cinquième Bureau; that the women who had so joyfully cast away their haiks were simply tarts rounded up for the occasion. But this at best can only be a half-truth. It is true that on the previous day para teams organised by Godard, Trinquier and Léger, who had all become intimately acquainted with the Casbah during the Battle of Algiers, had been hard at work coaxing the Muslims to turn out and stirring them up with heady assurances of equality and integration. But, unaccountably, success snowballed beyond all their expectations; instead of a hoped-for 5,000, it was a crowd of something like 30,000 Muslims that reached the Forum that evening. Stern critics of Algérie française like Le Monde and François Mauriac agreed on the genuineness of the demonstration, acclaiming it as a basis for new optimism. What thoughts and hopes lay behind those deeply etched, inscrutable Muslim faces on the Forum that day is difficult to divine, except perhaps a mystical, irrational belief that somehow the magical figure of de Gaulle was going to solve everything.
->
+> 
 > *QUESTION: The genuine hopes behind those 30,000 Muslim faces remain inscrutable — what drove ordinary Algerians to accept French integration rhetoric so enthusiastically?*
 > *DEFINE: Explains 'fraternisation' as the 16 May mass demonstration where Algerian women cast off haiks and crowds of 30,000 hailed de Gaulle, officially denied as a rigged show by the F.L.N. and French sceptics.*
 
@@ -6610,7 +6611,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Soustelle escaped police surveillance to reach Algiers disguised beneath a rug. [fact]
 > On 17 May the long-awaited Jacques Soustelle arrived in Algeria; his departure from Paris had been as spectacular in its way as his send-off from Algiers two years previously. Having failed to get away on the crucial night of the 13th, the former governor-general and arch-Gaullist had been under closest police surveillance, with some ten policemen watching his apartment in the Avenue Henri-Martin. On the 15th Soustelle let it be known that he was suffering from la grippe and confined to bed. Two days later friends drove a car into the courtyard, brazenly smuggled Soustelle out of Paris half-stifled under a rug reeking of moth-balls, and rushed him across the Swiss frontier where a plane ferried him to Algeria. It was a getaway worthy of his wartime operations.
->
+> 
 > *QUESTION: Why did Soustelle need to evade police to reach Algeria in May, and what role would he play once there?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 890</cite>
@@ -6622,7 +6623,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Mollet's support legitimized de Gaulle's return to power. [causal]
 > On 18 May Guy Mollet—for once out of harmony with his party—decided to back de Gaulle, provided he were to receive his authority from the Assembly, and not from the Algiers “rebels”. The next morning a completely abortive general strike called by the Left showed just how ill-organised it would be if it came to mustering any counter-coup.
->
+> 
 > *XREF: This connects to the broader narrative of the 1958 Algerian crisis and the fall of the Fourth Republic, showing how the Socialist leader's backing secured parliamentary legitimacy for de Gaulle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 891</cite>
@@ -6664,7 +6665,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle publicly renounced seizing power through military force. [fact]
 > That day Guy Mollet, though at first deterred by de Gaulle's refusal to disallow the use of armed force, endeavoured to act as intermediary between Pflimlin and the general. Late on the night of the 26th, the weather having turned icily cold, a clandestine meeting of the two took place at St Cloud. The choice of the place, the famous terrace of the 18th Brumaire, so steeped in associations of Napoleonic coups d'états, seemed a curious one. De Gaulle was embarrassed, not having thought of the historical association, while Pflimlin was frankly disturbed by it. His misgivings were not allayed by de Gaulle's continued refusal to repudiate the use of force by the Algiers leaders, and notably the takeover of Corsica. As he had insisted at every private and public meeting since 13 May, he repeated that, at his age, he had no desire to become either a Napoleon I or Napoleon III. "You know very well", he assured Pflimlin, "that I will never return to power brought in by force. I will not be the man of an insurrection. Never will I accept a military dictatorship, never, never." But he steadfastly refused Pflimlin's request to appeal to the army for restraint, as President Coty had done. "M. Coty wasn't obeyed. I can only risk my authority. And if I am not heeded?"
->
+> 
 > *XREF: Connects to the May 1958 Algerian crisis and de Gaulle's return to power, which he nonetheless achieved shortly after despite these assurances.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 898</cite>
@@ -6676,7 +6677,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle refused to disavow military force to reach power. [fact]
 > That day Guy Mollet, though at first deterred by de Gaulle's refusal to disallow the use of armed force, endeavoured to act as intermediary between Pflimlin and the general. Late on the night of the 26th, the weather having turned icily cold, a clandestine meeting of the two took place at St Cloud. The choice of the place, the famous terrace of the 18th Brumaire, so steeped in associations of Napoleonic coups d'états, seemed a curious one. De Gaulle was embarrassed, not having thought of the historical association, while Pflimlin was frankly disturbed by it. His misgivings were not allayed by de Gaulle's continued refusal to repudiate the use of force by the Algiers leaders, and notably the takeover of Corsica. As he had insisted at every private and public meeting since 13 May, he repeated that, at his age, he had no desire to become either a Napoleon I or Napoleon III. "You know very well", he assured Pflimlin, "that I will never return to power brought in by force. I will not be the man of an insurrection. Never will I accept a military dictatorship, never, never." But he steadfastly refused Pflimlin's request to appeal to the army for restraint, as President Coty had done. "M. Coty wasn't obeyed. I can only risk my authority. And if I am not heeded?"
->
+> 
 > *XREF: Ties to the 1958 Algerian crisis and de Gaulle's return to power, relevant to French political history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 898</cite>
@@ -6688,7 +6689,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle preempted a coup by rejecting paramilitary seizure of power. [causal]
 > On the morning of the 27th the crisis reached its peak. Parisians looked up nervously at every plane passing overhead; Simone de Beauvoir had Freudian nightmares about a python dropping on her from the sky; and in the Ministry of the Interior Jules Moch received an intelligence report that “Résurrection” was now scheduled to take place on the following night. He ordered his C.R.S. force to prepare to defend government buildings. Meanwhile, young para officers were arriving in the capital in civilian clothes, carrying suspiciously heavy suitcases. Among their targets was the kidnapping of Jules Moch himself, and with them—on his own mission—came Lagaillarde. Then, early in the afternoon, de Gaulle—apparently as a result of the mounting pressures upon him—issued a communiqué announcing that he had begun the “regular process” of forming a legitimate republican government, and condemning any threat to public order. At the same time he sent a signal to Salan couched in even more categoric terms, and astutely sent via official channels, in which he called for the dropping of all thoughts of “Résurrection”. … I want to be summoned as an arbiter coming at the demand of the whole country, to take over direction of the country so as to spare it useless rendings. I must appear as the man of reconciliation and not as the champion of one of the factions currently confronting each other.
->
+> 
 > *XREF: Connects to the broader May 1958 Algerian crisis and de Gaulle's return to power, a pivotal moment in French postwar political history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 899</cite>
@@ -6710,7 +6711,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Moderate French Left preferred de Gaulle over the military's rebellion. [fact]
 > The theme of "rather de Gaulle than Massu" (in itself bearing echoes from the days of the pre-war Front Populaire), as expressed by Beuve-Méry, the editor of Le Monde, had become the view generally endorsed by the moderate Left of France. In purely practical terms, any physical confrontation with the paras would, said Mollet, "have been a Spanish civil war without the republican army".
->
+> 
 > *XREF: Connects to Front Populaire history and the broader French-Algerian conflict, plus the Spanish Civil War parallel.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 902</cite>
@@ -6722,7 +6723,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle nearly abandoned the return over constitutional scruples. [fact]
 > On the night of the 28th a fresh constitutional impasse arose at a meeting convened in the Elysée by President Coty between de Gaulle and the presidents of the Senate and the Assembly. Le Troquer, President of the Assembly, raised a number of constitutional objections to de Gaulle and his terms, some of them seemingly trivial, made a few unfortunate parallels with Vichy and threatened to attempt to form a government himself. De Gaulle riposted that, if the Assembly backed Le Troquer, then "I shall have no alternative but to let you have it out with the paratroops, while I go back into retirement and shut myself up with my grief." In what seems to have been a moment of genuine despair, de Gaulle with tears in his eyes turned to Gaston Monnerville, the Antillean President of the Senate: "Is the return of de Gaulle possible? Is it not possible? After all, you know, France will bury us all. We pass. She alone is eternal. If my return is not possible, I shall go back to my village with my chagrin." The meeting broke up without conclusion. Meanwhile, a fresh ultimatum had reached President Coty from Algiers; either it was de Gaulle by 15.00 hours on the 29th, or "Résurrection" would go in at 01.00 hours the following morning. After a sleepless night and feeling the full burden of his seventy-six years, the President, "this good old Frenchman", as de Gaulle described him, took a decision of immense courage which was finally to break the log-jam. On the morning of the 29th he announced that he had himself invited de Gaulle to form a government and that if this were rejected by the Assembly he would resign. It was the first time since 1875 that a President of the Republic had threatened resignation, and the significance of it was immense.
->
+> 
 > *QUESTION: How close was the 1958 transition to failure or military intervention? The paratroops threat and 'Résurrection' ultimatum suggest the stakes were genuinely high.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 903</cite>
@@ -6734,7 +6735,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle demanded sweeping emergency powers before assuming office. [fact]
 > On Sunday 1 June de Gaulle presented himself to the National Assembly, the first time he had entered it since January 1946. The terms he announced for taking over were: full powers to rule by decree for six months, an enforced "holiday" of the Assembly for four months, and a mandate to submit a new constitution to the country. When the Coty communication was read out, pandemonium reigned; the Communists thumped their desks and shouted, "Le fascisme ne passera pas!" For Algeria, the prime cause of his being there that day, de Gaulle proffered no formula—any more than he had done in his previous pronouncements since 13 May.
->
+> 
 > *XREF: Details from the Algerian crisis and France's transition to the Fifth Republic.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 904</cite>
@@ -6756,7 +6757,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Lacoste staged a quiet, undramatic exit from Algiers. [fact]
 > When asked by the author why he had left Algiers before de Gaulle came to power, Lacoste explained, "I didn't want to leave in disorder, like Soustelle—so I thought it was much better to go in discretion, and not submit enflamed Algeria to another tearing-apart demonstration like that one…. So, I went quietly—no flags—no music. I left my wife behind to give the impression that I would come back; though I had decided, once and for all, to leave."
->
+> 
 > *XREF: Relates to colonial withdrawal strategies and how officials manage the optics of departure—echoes other accounts of decolonization exits.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 907</cite>
@@ -6768,7 +6769,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle tolerated military takeover as a last resort [fact]
 > Soustelle, who says he was in Salan's office when Dulac returned to render an account of his meeting with de Gaulle, claims that (quoting Dulac) de Gaulle had added “If I do not succeed, alors faites le nécessaire.” Soustelle took this to mean that de Gaulle favoured a military take-over if all else failed.
->
+> 
 > *QUESTION: Is Soustelle's account reliable, or is he interpreting an ambiguous remark to fit his own hopes? The phrase could also mean 'do whatever is necessary' in a political sense.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 908</cite>
@@ -6780,7 +6781,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's deferred return prevented French civil war over Algeria. [causal]
 > By waiting, de Gaulle had come back vested, first of all, in an acceptable degree of legitimacy; and secondly, he had not come back as the army's man. If it were not for these two factors, it can be doubted whether the Algerian war could have ended without civil war in France.
->
+> 
 > *XREF: Connects to counterfactual history and the paradox that patience/legitimacy, not military force, resolved a colonial crisis.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 911</cite>
@@ -6792,7 +6793,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's apparent reversals served one fixed vision of French grandeur. [causal]
 > From his great height the eyes quested far over the heads of lesser humans to the peaks of a distant promised land. If there was one thing in the pursuit of which he was unwavering all through his life, it was the grandeur de la France, dreamed of in those solitary years in the wilderness. In the long term nothing else mattered, or would be allowed to stand in its way, and this should be retained in the mind as a key to all the enigma of his subsequent actions. He would achieve his dream; even though in the course of it Algeria would be lost, had to be lost.
->
+> 
 > *DEFINE: Explains the apparent contradictions in de Gaulle's Algeria policy by reframing them as consistent with his one constant goal.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 913</cite>
@@ -6804,7 +6805,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's singleminded vision of France's grandeur drove all his actions. [fact]
 > From his great height the eyes quested far over the heads of lesser humans to the peaks of a distant promised land. If there was one thing in the pursuit of which he was unwavering all through his life, it was the grandeur de la France, dreamed of in those solitary years in the wilderness. In the long term nothing else mattered, or would be allowed to stand in its way, and this should be retained in the mind as a key to all the enigma of his subsequent actions. He would achieve his dream; even though in the course of it Algeria would be lost, had to be lost.
->
+> 
 > *XREF: Connects to leadership psychology and how a fixed overarching vision can justify costly sacrifices, similar to analyses of Churchill or Bismarck.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 913</cite>
@@ -6826,7 +6827,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Crowds elevate a single man as symbol in crisis or triumph. [causal]
 > At the time of the historic Liberation promenade down the Champs Elysées in 1944, Georges Bidault recalls how … Practically no one shouted "Long live France!" but everyone called out "Long live de Gaulle!" In moments of great distress or great joy, the crowd has a natural tendency to turn to one man and make him the symbol of their need to admire or to be protected.
->
+> 
 > *XREF: Connects to crowd psychology, charisma, and leadership dynamics — parallels with other writings on collective identity and the cult of personality.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 924</cite>
@@ -6838,7 +6839,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] de Gaulle's Algerian speeches were deliberately ambiguous for different audiences [causal]
 > That he was already speaking in two voices, however—one for the elated masses, another for his own private, clairvoyant pessimism—seems to be indicated by a coldly cynical remark de Gaulle uttered to quell the jubilation of an over-eager aide immediately on his return from this peak of triumph: “L’Afrique est foutue, et l’Algérie avec!” Of his Mostaganem exclamation of “Vive l’Algérie française!” which its exponents would regard as the holy writ, he later explained dismissively that it had just “escaped” from him; it was superficial, just like talking about “French Canada”. On the other hand, those even more controversial words, Je vous ai compris, de Gaulle states were “seemingly spontaneous but in reality carefully calculated”; their purpose was “to establish emotional contact”. But just what did this mean? De Gaulle explained later that his whole message of June was “tantamount to saying that the day would come when the majority amongst them could decide the destiny of all”. Certainly, however, no one who heard the words agreed on understanding exactly what de Gaulle had understood. The army for one had become “dupes”, said Charles-Henri Favrod, to his “incantatory” language.
->
+> 
 > *XREF: Connects to the craft of political rhetoric and how leaders use ambiguity to manage multiple constituencies simultaneously.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 926</cite>
@@ -6850,7 +6851,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds noirs misread de Gaulle's call for majority rule as flattery [causal]
 > It was the people to whom the enigmatic words had been principally addressed—the pieds noirs—however, who understood them least well. In all his speeches during that first tour de Gaulle, by constantly repeating the phrase “only Frenchmen à part entière”, made it fairly clear that he was thinking in terms of equality between the races and thus, by extension, eventually majority rule. What de Gaulle “understood” about the pieds noirs was certainly by no means as flattering as they wished to believe, and as the realisation of this sank in Je vous ai compris became the bitterest of insults.
->
+> 
 > *DEFINE: Clarifies that 'Je vous ai compris' carried implications of racial equality and eventual majority rule, not the reassuring meaning pieds noirs took from it.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 927</cite>
@@ -6892,7 +6893,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle pressured colonies to choose between membership and total severance. [fact]
 > In the run-up to the referendum, de Gaulle with apparently inexhaustible energy stumped the French Commonwealth expounding the merits of his constitution. The alternatives were baldly stated; either continued association, with all the weighty material benefits that this would bring; or total severance. “Make no mistake,” de Gaulle told the principal doubter, Sékou Touré of Guinée, “the French Republic you are dealing with is no longer the one you knew, which preferred expediency to decision…. She lived for a long time without Guinée. She will live for an equally long time if she is severed from her.” Challenging words. For Algeria, however, the question posed was different; it was not yet one of self-determination (that would come later), but essentially one of carte blanche confidence in de Gaulle and his policy—whatever that might prove to be.
->
+> 
 > *DEFINE: Clarifies the referendum's binary structure for French Commonwealth territories in 1958.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 933</cite>
@@ -6904,7 +6905,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian voters defied FLN threats with record referendum turnout [fact]
 > In Algeria, despite every threat and blandishment by the F.L.N. to abstain, there was an astonishingly high turnout of 79.9 per cent and a “oui” majority representing 76.4 per cent of the total electorate and 96.6 per cent of those who voted. Pressure and propaganda by the Cinquième Bureau was undoubtedly strong, but there was little evidence of any fraudulent vote-rigging as had been known in Algeria in earlier times.
->
+> 
 > *QUESTION: How did the FLN respond to this electoral defeat, and did this turnout shape subsequent referendum or independence dynamics in Algeria?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 934</cite>
@@ -6916,7 +6917,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian women first voted alongside men in 1958 referendum. [fact]
 > On 28 September all Algeria—women included—went to the polls for the first time “like Europeans”, casting their votes in a single electoral college. The referendum proved to be a huge personal success for de Gaulle everywhere. In France the Communists and their allies had fought hard against it, with Sartre speaking of “this constitution of contempt” and declaring that he would “rather vote for God, He is more modest.” At most both the Gaullists and their enemies reckoned on a sixty to sixty-five per cent “oui” vote in metropolitan France; but in the event it totalled over eighty per cent, on a record turnout of eighty-five per cent.
->
+> 
 > *XREF: Connects to broader Algerian war of independence and de Gaulle's decolonization history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 934</cite>
@@ -6928,7 +6929,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle mandated Muslim majority representation in Algeria's legislature. [fact]
 > In his speech de Gaulle added a reminder that in the forthcoming legislative elections Algeria would vote under the same conditions as the mother country, but that “at least two-thirds of her representatives will have to be Muslim citizens”, and he concluded with a direct appeal to the F.L.N.: Why kill? We must enable people to live. Why destroy? Our duty is to build. Why hate? We must co-operate.
->
+> 
 > *XREF: Connects to Algerian War history and de Gaulle's decolonization policy toward Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 937</cite>
@@ -6940,7 +6941,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] An ambitious plan promised to industrialize colonial Algeria [fact]
 > In order that “this country, so vital and so courageous, but so difficult and suffering, should be profoundly transformed”, an ambitious Five-Year Plan was to be launched, with the object of turning backward Algeria into an industrialised nation. 400,000 new jobs were to be created; 250,000 hectares of new land distributed to Muslim farmers; salaries and wages raised to a par with metropolitan France; and administrative posts made available to Muslims on a ratio of one to ten with those of the mother country; vast new horizons of schooling to be opened to Muslim children. In Paris Lacoste grumbled in disgruntlement that it all offered nothing new over his discarded loicadre; maybe, but the important difference was that the Constantine Plan had the name of de Gaulle, and all his newly acquired authority and weight, attached to it.
->
+> 
 > *XREF: The Constantine Plan, named for de Gaulle's authority, parallels other colonial development initiatives like the Marshall Plan's political branding utility.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 937</cite>
@@ -6972,7 +6973,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian integration threatened to overwhelm France demographically and politically. [causal]
 > In France serious intellects standing well outside the anti-Gaullist Left, such as Raymond Aron, pointed out the flaws by pragmatic arguments. On demographic calculations alone, Aron reckoned that within twenty-five years an integrated Algeria 18 million strong would swamp a metropolitan France of 48 million, politically if not numerically. Acting as a bloc, the seventy-five Muslim deputies which it would be Algeria's right to send to the Palais Bourbon could provide a balance of power to whichever side of the Assembly they wished, thus preventing it from functioning normally. Integration would also slow down, if not halt, any rise in the French standard of living, and he concluded, "An Algerian France, if it pretends to regenerate France by governing it, will irremediably tear asunder the nation."
->
+> 
 > *QUESTION: Did these demographic projections prove accurate, and how did they shape French opposition to integration?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 943</cite>
@@ -6984,7 +6985,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian integration slogans masked a demographic power struggle. [causal]
 > In France serious intellects standing well outside the anti-Gaullist Left, such as Raymond Aron, pointed out the flaws by pragmatic arguments. On demographic calculations alone, Aron reckoned that within twenty-five years an integrated Algeria 18 million strong would swamp a metropolitan France of 48 million, politically if not numerically. Acting as a bloc, the seventy-five Muslim deputies which it would be Algeria's right to send to the Palais Bourbon could provide a balance of power to whichever side of the Assembly they wished, thus preventing it from functioning normally. Integration would also slow down, if not halt, any rise in the French standard of living, and he concluded, "An Algerian France, if it pretends to regenerate France by governing it, will irremediably tear asunder the nation."
->
+> 
 > *QUESTION: How did the differing demographic ratios shape the actual political outcomes of the Algerian War?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 943</cite>
@@ -6996,7 +6997,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Post-war racial integration windows closed decisively by 1958 [causal]
 > In France serious intellects standing well outside the anti-Gaullist Left, such as Raymond Aron, pointed out the flaws by pragmatic arguments. On demographic calculations alone, Aron reckoned that within twenty-five years an integrated Algeria 18 million strong would swamp a metropolitan France of 48 million, politically if not numerically. Acting as a bloc, the seventy-five Muslim deputies which it would be Algeria's right to send to the Palais Bourbon could provide a balance of power to whichever side of the Assembly they wished, thus preventing it from functioning normally. Integration would also slow down, if not halt, any rise in the French standard of living, and he concluded, "An Algerian France, if it pretends to regenerate France by governing it, will irremediably tear asunder the nation."
->
+> 
 > *XREF: Relates to moments of historical possibility in race relations — echoes the idea of 'missed windows' in reconciliation literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 943</cite>
@@ -7008,7 +7009,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Demographic math made Algerian integration politically unviable for France [fact]
 > In France serious intellects standing well outside the anti-Gaullist Left, such as Raymond Aron, pointed out the flaws by pragmatic arguments. On demographic calculations alone, Aron reckoned that within twenty-five years an integrated Algeria 18 million strong would swamp a metropolitan France of 48 million, politically if not numerically. Acting as a bloc, the seventy-five Muslim deputies which it would be Algeria's right to send to the Palais Bourbon could provide a balance of power to whichever side of the Assembly they wished, thus preventing it from functioning normally. Integration would also slow down, if not halt, any rise in the French standard of living, and he concluded, "An Algerian France, if it pretends to regenerate France by governing it, will irremediably tear asunder the nation."
->
+> 
 > *DEFINE: Illuminates why integration of a large Muslim population was rejected through concrete demographic calculus rather than ideology alone.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 943</cite>
@@ -7080,7 +7081,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle misjudged Algeria's independence by two decades. [fact]
 > Having noted how the attitude of the Muslim majority had now hardened towards independence since the initial euphoria of May, Delouvrier remarked: "Mon général, Algeria will be independent." At which de Gaulle is said to have waved him aside with, "In twenty-five years, Delouvrier, in twenty-five years…."
->
+> 
 > *QUESTION: When did de Gaulle actually accept Algerian independence, and how did the timeline shift from his 25-year estimate to the 1962 reality?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 950</cite>
@@ -7102,7 +7103,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle staged civil supremacy over military in Algeria arrival. [fact]
 > On 19 December the new team arrived in Algiers; Delouvrier, the "Delegate-General" (a less imposing title than "governor-general" to show a break with the past) was clad conspicuously in civilian clothes, carrying a black "Anthony Eden" hat; Challe, in uniform, walked equally conspicuously one or two paces to the rear. It was a symbolic demonstration of the civil over the military, of Paris over Algiers. De Gaulle had at least made this point forcefully and clearly.
->
+> 
 > *XREF: Connects to the broader pattern of military-civilian tension in French colonial governance and De Gaulle's handling of the Algerian crisis.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 953</cite>
@@ -7124,7 +7125,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle planned five atomic divisions after Algeria [fact]
 > Already in mid-September de Gaulle was writing to Eisenhower and Macmillan, informing them that N.A.T.O. "was no longer adapted to the needs of our defence…the alliance should henceforth be placed under a triple rather than a dual direction, failing which France would take no further part". In equally brutal language he was soon torpedoing Macmillan's hopes for a Free Trade Area in Europe; while to his intimates he was revealing his ambitions to create a truly modern army at the earliest opportunity: "As soon as the Algerian war is ended, I shall form five atomic divisions…."
->
+> 
 > *XREF: Reveals Cold War-era French nuclear ambitions and De Gaulle's military modernization program, connects to broader post-war European defense history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 954</cite>
@@ -7136,7 +7137,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle prioritized overhauling France's domestic system over Algerian policy. [causal]
 > Already in mid-September de Gaulle was writing to Eisenhower and Macmillan, informing them that N.A.T.O. "was no longer adapted to the needs of our defence…the alliance should henceforth be placed under a triple rather than a dual direction, failing which France would take no further part". In equally brutal language he was soon torpedoing Macmillan's hopes for a Free Trade Area in Europe; while to his intimates he was revealing his ambitions to create a truly modern army at the earliest opportunity: "As soon as the Algerian war is ended, I shall form five atomic divisions…."
->
+> 
 > *XREF: Relates to broader Gaullist political reform and the instabilities of the Fourth Republic that directly preceded it.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 954</cite>
@@ -7148,7 +7149,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle demanded France share allied control under NATO. [fact]
 > Already in mid-September de Gaulle was writing to Eisenhower and Macmillan, informing them that N.A.T.O. "was no longer adapted to the needs of our defence…the alliance should henceforth be placed under a triple rather than a dual direction, failing which France would take no further part". In equally brutal language he was soon torpedoing Macmillan's hopes for a Free Trade Area in Europe; while to his intimates he was revealing his ambitions to create a truly modern army at the earliest opportunity: "As soon as the Algerian war is ended, I shall form five atomic divisions…."
->
+> 
 > *QUESTION: What specifically made NATO's 'dual direction' inadequate for France's defence needs in 1958?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 954</cite>
@@ -7170,7 +7171,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's peace process stalled for nearly a year. [fact]
 > In Algeria he had the pieds noirs at least temporarily under control. But as far as peace was concerned only disappointment could be recorded. His first attempt to obtain a cease-fire had been rejected with a crushing snub by the F.L.N. and the November elections had not led to the emergence of any tangible “third force” of interlocuteurs valables. Thus everything was at an impasse, and would remain so for the best part of the ensuing year. And, as well as that initial momentum, he had lost time that was irretrievable.
->
+> 
 > *XREF: Connects to the broader historical context of the Algerian War of Independence and the failure of French negotiations with the FLN.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 957</cite>
@@ -7232,7 +7233,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionaries lost momentum to de Gaulle's consolidation. [fact]
 > To regain the initiative that had passed to de Gaulle, and before his regime had time to consolidate itself, Ouamrane urged: the speedy proclamation of a provisional Algerian government; a new diplomatic offensive to take full advantage of East-West rivalry in the Cold War; the launching of a “second front” of terrorism inside metropolitan France itself. … Ferhat Abbas expressed strongly to Krim the view that Abane’s death had left a blot on the C.C.E. which could only be expunged if it were dissolved and swallowed up in the wider framework of a properly constituted government.
->
+> 
 > *XREF: Connects to broader patterns of revolutionary movements losing steam and facing consolidation by established powers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 964</cite>
@@ -7244,7 +7245,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Internal Algerian rivalries reshaped FLN strategy against de Gaulle [causal]
 > To regain the initiative that had passed to de Gaulle, and before his regime had time to consolidate itself, Ouamrane urged: the speedy proclamation of a provisional Algerian government; a new diplomatic offensive to take full advantage of East-West rivalry in the Cold War; the launching of a “second front” of terrorism inside metropolitan France itself. … Ferhat Abbas expressed strongly to Krim the view that Abane’s death had left a blot on the C.C.E. which could only be expunged if it were dissolved and swallowed up in the wider framework of a properly constituted government.
->
+> 
 > *XREF: Connects to the broader theme of de Gaulle's decolonization maneuvers and how colonial liberation movements internal factionalism shaped negotiation leverage.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 964</cite>
@@ -7266,7 +7267,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Khrushchev snubbed Algeria to cultivate de Gaulle and split NATO [causal]
 > The nations of the Arab world hastened to recognise the new government, though Nasser did so concealing much ill-humour at the fact of not having been consulted about the move, and at the G.P.R.A.’s choice of Tunis, rather than Cairo, for their “capital”. China and other countries of the Communist bloc followed suit, but Khrushchev’s U.S.S.R. remained annoyingly aloof, it being the Russian leader’s evident, and excellent, calculation that by not upsetting de Gaulle more mileage could be made in the disruption of the Western Alliance than could be gained in recognising the G.P.R.A. As with past Russian snubs, it was a stance the Algerians would not forget in a hurry.
->
+> 
 > *XREF: Connects to Cold War realpolitik and Soviet strategy of driving wedges within the Western Alliance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 966</cite>
@@ -7318,7 +7319,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The FLN shifted terrorist activity to France proper. [fact]
 > But it was in the mother country that the F.L.N.—similarly to the I.R.A. in times of maximum stress in the 1970s—now concentrated its terrorist activities.
->
+> 
 > *XREF: Parallels IRA strategy of shifting operations to the UK mainland during peak pressure in the 1970s.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 969</cite>
@@ -7330,7 +7331,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorism then avoided indiscriminate bombing of civilians. [fact]
 > In all this wave of terrorism it should be noted, however, that there was not one act of promiscuous bombing against civilians such as had been commonplace in Algiers and was to become so on a larger scale in Britain under the scourge of the I.R.A. a decade and a half later.
->
+> 
 > *XREF: Connects to the broader history of terrorism's evolution from targeted to indiscriminate violence, relevant to any study of asymmetric warfare tactics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 970</cite>
@@ -7342,7 +7343,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist cease-fires on referendum day signal tactical defeats. [fact]
 > Nevertheless, the campaign provoked unexpectedly violent reactions among French workers and the Left where the F.L.N. could most expect to find friends. The Communist leader, Maurice Thorez, was particularly severe in his condemnation: “The methods employed by the F.L.N. in France have not, it must be stated categorically, served the just cause of the Algerian people…. If the F.L.N. is proposing to arouse public opinion, it is practising self-deception. It is arousing feelings against itself….”
->
+> 
 > *QUESTION: Would be worth verifying the broader context of this referendum and terrorist offensive to understand the full strategic picture.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 971</cite>
@@ -7364,7 +7365,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France imprisoned Algerian rebels on the isle of Napoleon's 1815 exile. [fact]
 > This too was unsuccessful, though as part of his general amnesty measures on assuming the presidency in January 1959 de Gaulle ordered the prisoners transferred to the slightly more comfortable surroundings of the île d’Aix, the fortress isle in the Bay of Biscay where Napoleon had passed his last days on French soil in July 1815 before being transported to his ultimate exile aboard H.M.S. Bellerophon.
->
+> 
 > *XREF: Connects to Algerian war history/de Gaulle's amnesty policies and the symbolic irony of using a Napoleonic exile site as a French prison.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 972</cite>
@@ -7396,7 +7397,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rejecting de Gaulle's peace offer paradoxically secured F.L.N. victory. [contrarian]
 > For, with the shaky state of morale both among the civilians and A.L.N. units inside Algeria, had they accepted the paix des braves, even only as preliminary parley, the revolution might well have begun to flicker out and would have been extremely difficult to rekindle if the talks assumed a course unfavourable to the F.L.N. De Gaulle would have won the war; on the other hand, by rejecting the paix des braves the F.L.N. were, eventually, to win it.
->
+> 
 > *QUESTION: Would accepting the peace offer as a preliminary parley really have extinguished the revolution, or was de Gaulle's sincerity stronger than assumed?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 975</cite>
@@ -7418,7 +7419,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian rebel army peaked in strength around 1958 [fact]
 > Yet, seen in retrospect, the A.L.N. of the interior would seem to have reached its apogee of military power in 1958. At the beginning of the year French estimates had put the total strength of A.L.N. regulars, or moudjahiddine, at about 30,000, of whom approximately half were operating in the interior at any one time. On top of this were reckoned to be another 30,000 irregulars, or moussebiline, most of whom were in the interior. Of these effectives, the French claimed that 25,534 had been killed or captured during the first seven months of the year. Although (as with the notorious United States army “head counts” in Vietnam) it may be questioned just how many of these casualties were actually genuine, hard-core moudjahiddine, they nevertheless represented a serious drain of effectives.
->
+> 
 > *XREF: Echoes of the Vietnam-era US head count controversy the author flags, drawing a parallel between French and American counterinsurgency casualty accounting.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 978</cite>
@@ -7440,7 +7441,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French counter-intelligence deliberately provoked brutal purges within the F.L.N. [causal]
 > Under mounting French military pressure, a fresh set of rifts had been provoked in the higher echelons of the F.L.N., both between the Wilayas and the “exterior” of the G.P.R.A., and within the various Wilayas themselves. The years of 1958 and 1959 were, above all, a time when the Wilaya leaders were scourged by terrible apprehensions of treachery, or purported treachery. Genuine acts of betrayal had existed, certainly, but they had been used with extreme cunning by French intelligence operatives to demoralise the maquis through playing upon the innate suspiciousness of the Algerian. It has already been noted how teams of bleu double-agents controlled by Captain Christian Léger during the Battle of Algiers had subsequently succeeded in penetrating the Western Zone headquarters of Wilaya 3 (Kabylia), rounding it up in its entirety. Colonel Godard, the expert on counter-revolutionary warfare, followed up the confusion and distrust generated in the wake of this coup by adroitly “dropping” incriminating correspondence with French intelligence among other immaculate leaders in the Wilayas. The bait was snapped up greedily by Amirouche, the jeweller from the Beni-Yenni and the most ruthless of any Wilaya commander, entering into the “game” with unparalleled zest and instituting massive purges like a latter-day Vyshinsky.
->
+> 
 > *XREF: Echoes Cold War security services weaponizing paranoia to destabilize adversaries, e.g., NKVD show trials or Stasi operations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 980</cite>
@@ -7452,7 +7453,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Amirouche's terror executed roughly three thousand Kabyle people. [fact]
 > Under mounting French military pressure, a fresh set of rifts had been provoked in the higher echelons of the F.L.N., both between the Wilayas and the “exterior” of the G.P.R.A., and within the various Wilayas themselves. The years of 1958 and 1959 were, above all, a time when the Wilaya leaders were scourged by terrible apprehensions of treachery, or purported treachery. Genuine acts of betrayal had existed, certainly, but they had been used with extreme cunning by French intelligence operatives to demoralise the maquis through playing upon the innate suspiciousness of the Algerian. It has already been noted how teams of bleu double-agents controlled by Captain Christian Léger during the Battle of Algiers had subsequently succeeded in penetrating the Western Zone headquarters of Wilaya 3 (Kabylia), rounding it up in its entirety. Colonel Godard, the expert on counter-revolutionary warfare, followed up the confusion and distrust generated in the wake of this coup by adroitly “dropping” incriminating correspondence with French intelligence among other immaculate leaders in the Wilayas. The bait was snapped up greedily by Amirouche, the jeweller from the Beni-Yenni and the most ruthless of any Wilaya commander, entering into the “game” with unparalleled zest and instituting massive purges like a latter-day Vyshinsky.
->
+> 
 > *QUESTION: What was the broader historical context that made Amirouche's reign of terror possible, and how did the perceived traitor-hunting spiral of violence sustain itself?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 980</cite>
@@ -7464,7 +7465,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French intelligence manipulated FLN mistrust into brutal internal purges [causal]
 > Under mounting French military pressure, a fresh set of rifts had been provoked in the higher echelons of the F.L.N., both between the Wilayas and the “exterior” of the G.P.R.A., and within the various Wilayas themselves. The years of 1958 and 1959 were, above all, a time when the Wilaya leaders were scourged by terrible apprehensions of treachery, or purported treachery. Genuine acts of betrayal had existed, certainly, but they had been used with extreme cunning by French intelligence operatives to demoralise the maquis through playing upon the innate suspiciousness of the Algerian. It has already been noted how teams of bleu double-agents controlled by Captain Christian Léger during the Battle of Algiers had subsequently succeeded in penetrating the Western Zone headquarters of Wilaya 3 (Kabylia), rounding it up in its entirety. Colonel Godard, the expert on counter-revolutionary warfare, followed up the confusion and distrust generated in the wake of this coup by adroitly “dropping” incriminating correspondence with French intelligence among other immaculate leaders in the Wilayas. The bait was snapped up greedily by Amirouche, the jeweller from the Beni-Yenni and the most ruthless of any Wilaya commander, entering into the “game” with unparalleled zest and instituting massive purges like a latter-day Vyshinsky.
->
+> 
 > *XREF: Connects to counter-insurgency tactics where infiltrators weaponize a movement's internal suspicions, echoing similar dynamics in other colonial and revolutionary conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 980</cite>
@@ -7476,7 +7477,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Purges eliminated Algerian students for merely asking questions. [fact]
 > By the summer of 1959 all was havoc, its leader, Si M’hamed, having been encouraged—partly by the example of Amirouche, partly as a result of assiduous “moling” by Léger’s teams—to carry out a murderous purge of the numerous young students and intellectuals who had joined the Wilaya on fleeing from the Battle of Algiers. The “capital” crimes of which they were found guilty often amounted to little more than asking questions, or revealing an “incorrect revolutionary stance”.
->
+> 
 > *DEFINE: This illustrate how vague ideological infractions served as capital crimes during the 1959 Wilaya purges.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 981</cite>
@@ -7498,7 +7499,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A captured Algerian commander staged a fake defection to deceive French intelligence [fact]
 > In all this saga of upheaval in the echelons of Wilaya 4, French Intelligence suffered one notable reverse at the hands of Major Azedine, the former boiler-maker and deputy military commander to Si M’hamed. In November 1958 Massu had mounted a powerful sweep of the country round Palestro in the course of which Azedine had been captured, with a shattered forearm. Under interrogation Azedine declared convincingly that he was at odds with the conduct of the war by the G.P.R.A. He felt it should now make peace with de Gaulle, whose return to power had made the whole struggle “senseless”. Azedine offered to negotiate a surrender with the leaders of Wilaya 4, and actually made several trips into the maquis to this end, on “parole”. At the same time he fed his captors with quantities of false information, and exploited a local cease-fire to get a shipment of supplies through to his Wilaya. Then one day in December he vanished quietly into the mountains behind Blida and was never seen again—until he emerged as the F.L.N. commander negotiating the take-over of Algiers in the last days of the war.
->
+> 
 > *QUESTION: This is a remarkable double-agent episode - worth digging deeper into Azedine's full story and whether other French intelligence reverses of this kind occurred during the Algerian war.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 985</cite>
@@ -7510,7 +7511,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonels plotted to overthrow Tunisia's GPRA after failed offensive [fact]
 > Selecting, symbolically, the All Saints anniversary of 1 November, a full-scale offensive had been mounted to breach the Morice Line and get supplies through to the suffering Wilayas 1 and 2. It was too obvious a date for the French army to be caught napping, and—like so many of those disastrous “big pushes” on the Western Front of 1914–18—it ended in a welter of blood and total failure in the barbed wire of the Morice Line. Morale among those involved hit rock bottom and four colonels, led by Colonel Lamouri, decided to act. With secret support, apparently, from Nasser (whose relations with the new G.P.R.A. were icy) they intended to march on Tunis, chuck out the G.P.R.A. and liquidate the “three Bs”, replacing it with a completely “military” regime.
->
+> 
 > *QUESTION: This obscure military coup plot involving the GPRA and Nasser's chilly relations is a fascinating thread worth pulling. What became of the four colonels and Lamouri?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 988</cite>
@@ -7532,7 +7533,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Boumedienne's extreme secrecy made him widely unknown despite his eminence [fact]
 > For all his eminence in the post-war decade, Boumedienne remains one of the least known of all the war leaders of either side, and in his secretiveness and retiring modesty he is most characteristically Algerian. In 1973 one leading Western ambassador was unable to tell the author where the then President of Algeria lived, or whether he was married or not; in three years he had met him once. There exists no official—or even unofficial—biography of Boumedienne, only the scantiest of entries in International Who's Who, and pen-portraits differ widely as to the date he was born, and whether it was in Oranie or Constantinois, at opposite ends of the country. There are contradictions as to where and when he received his military training; some say at a guerrilla school in Egypt, one of his closer collaborators thought it was in General Kassem's Iraq, while there were extravagant French rumours that Boumedienne had somehow found time for training in both Moscow and Peking. Yet there is, apparently, no truth in any of these speculations. Even after years of being not only President of Algeria but also one of the most influential leaders of the Third World, he has never shaken off his intense dislike of any form of publicity, and in his rare interviews with writers and journalists he steadfastly declines to discuss the war, or his role in it.
->
+> 
 > *QUESTION: Why was Boumedienne so secretive? The passage hints it is 'most characteristically Algerian,' which could be worth exploring as a cultural pattern.*
 > *XREF: Connects to broader literature on leaders who cultivate obscurity or mystique as a political strategy, and to the difficulty of historical biography for secretive figures.*
 
@@ -7545,7 +7546,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Withdrawal into sanctuary masked the true scale of Algerian setbacks. [causal]
 > Under pressure from the French army, he adopted a decisive new strategy: instead of attempting to back up the Wilayas at appalling cost across the Morice Line, the A.L.N. would be regrouped and reorganised inside the Tunisian sanctuary, and held there in readiness for future military and political opportunities. It was a strategy that would, to some extent, deceive the French Army Command into believing the military successes of the Challe Plan were greater than in fact they were—with consequences that will shortly be seen.
->
+> 
 > *XREF: Connects to other war strategies where tactical retreats intentionally deceive an enemy about genuine success, similar to strategic withdrawals in other insurgency conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 993</cite>
@@ -7557,7 +7558,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Political timing gave the FLN respite from military pressure. [causal]
 > If de Gaulle could have followed up the momentum of his first weeks with a concerted peace drive, or if the Challe offensive had begun in 1958 instead of 1959, the prospects would have looked incomparably bleak. But, as it happened, the long build-up to the referendum and the November legislative elections, followed by the run-down from the paix des braves olive-branch, had given the F.L.N. an invaluable respite in which to regain its breath. And when in 1959 the A.L.N. was confronted with the gravest military threat to its existence, it was already moving in—and under—a new direction.
->
+> 
 > *XREF: Counterfactual-dependent outcomes — the Algerian war's turning points hinged on electoral timing, echoing similar dynamics in Vietnam's Tet and US election cycles.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 994</cite>
@@ -7569,7 +7570,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Executed ALN colonels were deliberately expunged from official memory. [fact]
 > It is worth noting that, while fulsome tributes were paid to Amirouche and Si Haouès by Krim and others in succeeding issues of El Moudjahid, no reference was made to the execution of the four A.L.N. colonels.
->
+> 
 > *QUESTION: What were the political circumstances behind the execution of the four ALN colonels, and why was it suppressed while others were honored? This suggests an internal power struggle worth investigating.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 997</cite>
@@ -7581,7 +7582,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian guerrillas endured extreme deprivation to sustain resistance operations [fact]
 > In small packets they would descend from the djebel, blow up power pylons, mine a train or an army convoy, murder a pro-French caid or shoot up the isolated outpost of one of the heroic corps of French S.A.S. officers; and then vanish again whence they came. Existing as they did under terrible conditions of cold, hunger, and constant pursuit by the French army, that they could still act at all must of itself be a testimony to the remarkable stoicism, tenacity and dedication of the individual moudjahid.
->
+> 
 > *DEFINE: 'Djebel' (mountain), 'caid' (local chief), 'S.A.S.' and 'moudjahid' are all clarified by context — useful terminology for anyone writing about the Algerian War.*
 > *XREF: Parallels other anti-colonial insurgencies like the Viet Minh or Mau Mau, where harsh terrain and relentless pursuit shaped guerrilla operations.*
 
@@ -7624,7 +7625,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe aimed to disrupt rebels, not annihilate them. [fact]
 > In contrast to this, Challe adopted as his guiding principle the slogan "Neither the djebel nor the night must be left to the F.L.N." Once hit, a rebel unit must be hit again, and remain hit; the army must penetrate the querencia where—like a fighting bull—it was at home, and stay there, driving it out into unknown and unfriendly territory. Life must be made enduringly unendurable for the moudjahiddine. The hunter must become the hunted. … Disruption, not annihilation, which he considered to be unattainable, was Challe's objective; above all, the rebel O.P.A. (Organisation Politico-Administrative) had to be so smashed that it could not reestablish itself once the offensive wave had receded.
->
+> 
 > *DEFINE: Clarifies the distinction between disruption and annihilation as military objectives in the Algerian context, and introduces the O.P.A. acronym.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1006</cite>
@@ -7636,7 +7637,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe aimed to make life permanently unendurable for Algerian rebels [contrarian]
 > In contrast to this, Challe adopted as his guiding principle the slogan "Neither the djebel nor the night must be left to the F.L.N." Once hit, a rebel unit must be hit again, and remain hit; the army must penetrate the querencia where—like a fighting bull—it was at home, and stay there, driving it out into unknown and unfriendly territory. Life must be made enduringly unendurable for the moudjahiddine. The hunter must become the hunted. … Disruption, not annihilation, which he considered to be unattainable, was Challe's objective; above all, the rebel O.P.A. (Organisation Politico-Administrative) had to be so smashed that it could not reestablish itself once the offensive wave had receded.
->
+> 
 > *XREF: Counterinsurgency doctrine that inverts conventional wisdom — the hunter becoming the hunted resonates with modern asymmetric warfare literature and population-centric COIN debates.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1006</cite>
@@ -7648,7 +7649,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe sought enemy disruption over total annihilation. [causal]
 > In contrast to this, Challe adopted as his guiding principle the slogan "Neither the djebel nor the night must be left to the F.L.N." Once hit, a rebel unit must be hit again, and remain hit; the army must penetrate the querencia where—like a fighting bull—it was at home, and stay there, driving it out into unknown and unfriendly territory. Life must be made enduringly unendurable for the moudjahiddine. The hunter must become the hunted. … Disruption, not annihilation, which he considered to be unattainable, was Challe's objective; above all, the rebel O.P.A. (Organisation Politico-Administrative) had to be so smashed that it could not reestablish itself once the offensive wave had receded.
->
+> 
 > *DEFINE: Challe's strategy is defined by contrast between disruption and annihilation, and introduces the O.P.A. term.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1006</cite>
@@ -7680,7 +7681,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French forces could airlift two battalions within five minutes. [fact]
 > By summer 1959 the Challe Plan really got into its stride, with a massive force of two first-class divisions earmarked for the key Réserve Générale. The modern, mechanised equipment backing up this force was impressive. In contrast to the early days when the French had at their behest only a handful of small helicopters, there were now enough big, American-made “Flying Bananas” to lift into action two whole battalions in a matter of five minutes. … (At the same time, the use of so much American military equipment supplied for the benefit of France in N.A.T.O. was the source of increasing embarrassment to the American government, and of alienation between them and the already prickly de Gaulle.)
->
+> 
 > *XREF: Connects to NATO military aid dynamics and de Gaulle's strained relations with the US during the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1011</cite>
@@ -7692,7 +7693,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Counter-insurgent commandos grounded in local terrain outperformed conventional forces. [causal]
 > On the ground, the expanded harki units forming the nucleus of Challe’s Commandos de Chasse showed themselves contributing more effectively than ever before—or afterwards. Modelled on the katibas themselves, the Commandos would strike off into the djebel for days at a time, living off the land and at the same time severing the adversary from his sources of supply, ruthlessly hunting down the hunter. They were constantly in radio communication with Challe’s command post, and immediately contact was made with a katiba the Commandos would bring down helicoptered shock troops from the Réserve Générale to hem it in from all sides.
->
+> 
 > *XREF: Connects to broader counterinsurgency theory about local knowledge and mobility — echoes current debates on special forces and auxiliary troops.*
 > *SEED: The harki/Commando model is a case study for how irregular adversaries shape the structure of the forces hunting them.*
 
@@ -7705,7 +7706,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe's surprise Hodna strike cut rebel strength in half in twelve days. [fact]
 > But on the eve of launching “Binoculars”, Challe’s intelligence received news of A.L.N. movements in the Hodna mountains which link Kabylia with the Aurès. Overnight Challe switched regiments due to move into Kabylia, and struck a lightning, surprise sideswipe at the Hodna which in twelve days (he claims) knocked out fifty per cent of the rebel strength there. Typical of the speed and flexibility with which Challe operated, it also, in effect, created something of a moat or cordon sanitaire across which it would be difficult for Mohand Ou El-Hadj’s Kabyles to escape into the Aurès when fleeing from the impending pressure of “Binoculars”.
->
+> 
 > *XREF: Connects to broader reading on counterinsurgency tactics and the flexibility of commanders in asymmetric warfare.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1013</cite>
@@ -7717,7 +7718,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Double-agent infiltration eroded civilian trust in resistance fighters. [causal]
 > In the maquis were also operating, with extraordinary fearlessness, Captain Léger and a section of his bleus; their double-agent activities, as usual, were so successful that villagers refused any longer to give food supplies to the A.L.N., not knowing whether they were true moudjahiddine or Léger’s turncoats. Conditions in the field became terrible, with men dying as often from hunger as from enemy bullets.
->
+> 
 > *XREF: Parallels to counterinsurgency tactics in other colonial wars, where deception by agents undermines population support for irregular forces.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1014</cite>
@@ -7729,7 +7730,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French counterinsurgency suffocation nearly exterminated Algerian resistance forces. [fact]
 > “One could no longer move,” stated one of Mohand Ou El-Hadj’s lieutenants: … One no longer ate. I was so weak that I could no longer even manage to carry my sub-machine-gun. The establishment of military posts, the multiplying of self-defence communities and intelligence agents was making life impossible, and even survival itself…. It was only by executing traitors one after the other that we did manage to survive. But one was never able to regain the initiative.
->
+> 
 > *DEFINE: Illustrates the 'ratissage'/suffocation strategy where military posts and informants starved guerrillas of movement and supplies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1015</cite>
@@ -7771,7 +7772,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Western Front only ended with one decisive offensive. [fact]
 > On the balance sheet, Challe's own forces had suffered losses rarely exceeding a ratio of one to ten, a few hundred killed; while on his departure he reckoned that over half the regular katibas of the interior had been destroyed in the course of the past year's offensives. The proportion of prisoners to killed had, significantly, risen to forty-two per cent from twenty-seven for the previous year, and a number of those who gave themselves up switched allegiances to join the harkis. In arms, the French claimed to have collected five for every one lost to the rebels (also a significant change from the early months of the war; the A.L.N. were losing 300 weapons net per month, and it was estimated that by September 1959 their logistic potential had sunk more than twenty per cent over the past year). Thus, statistically, the A.L.N. looked defeated by the time of Challe's departure in 1960. … "We have pacified the country so well", Edward Behr quotes one captain as reporting to his commanding officer at about this time, "that the fellagha have almost disappeared. Nowadays, almost no one joins the guerrillas. It is more practical to stay put and campaign for independence in a thousand legal ways." The whole chain of command between the katibas and the O.P.A., and the Wilayas and the G.P.R.A., so laboriously constructed since the Soummam Conference of 1956, had been disrupted.
->
+> 
 > *XREF: Relates to broader WWI scholarship on the 1918 Hundred Days offensive versus the failed Ludendorff spring offensive.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1019</cite>
@@ -7783,7 +7784,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe's offensives devastated Algeria's rebel military structure by 1960. [fact]
 > On the balance sheet, Challe's own forces had suffered losses rarely exceeding a ratio of one to ten, a few hundred killed; while on his departure he reckoned that over half the regular katibas of the interior had been destroyed in the course of the past year's offensives. The proportion of prisoners to killed had, significantly, risen to forty-two per cent from twenty-seven for the previous year, and a number of those who gave themselves up switched allegiances to join the harkis. In arms, the French claimed to have collected five for every one lost to the rebels (also a significant change from the early months of the war; the A.L.N. were losing 300 weapons net per month, and it was estimated that by September 1959 their logistic potential had sunk more than twenty per cent over the past year). Thus, statistically, the A.L.N. looked defeated by the time of Challe's departure in 1960. … "We have pacified the country so well", Edward Behr quotes one captain as reporting to his commanding officer at about this time, "that the fellagha have almost disappeared. Nowadays, almost no one joins the guerrillas. It is more practical to stay put and campaign for independence in a thousand legal ways." The whole chain of command between the katibas and the O.P.A., and the Wilayas and the G.P.R.A., so laboriously constructed since the Soummam Conference of 1956, had been disrupted.
->
+> 
 > *XREF: Connects to asymmetric-warfare literature where superior force ratio does not guarantee political outcome, since the rebels later won desegregation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1019</cite>
@@ -7795,7 +7796,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French regroupment camps inflicted mass suffering on Algerian villagers. [fact]
 > By July 1959 over one million Muslim villagers had been transferred to "re-groupment camps", which varied from resembling the fortified villages of the Middle Ages to the concentration camps of a more recent past. In the latter conditions were nothing short of scandalous. Hunger first, and cold secondly, were the enemies. At one camp just outside Constantine, inmates were found eating grass in the field, and in the overcrowded, tented encampments for nomads of the south infants were often found dead of cold in the mornings. Tuberculosis and other ailments of malnutrition raged.
->
+> 
 > *QUESTION: How widely is this regroupment camp system covered in standard histories of the Algerian War? The scale and brutality are striking.*
 > *XREF: Echoes other 20th-century forced-removal and internment systems, e.g., concentration camps, and similar counterinsurgency population-control tactics.*
 
@@ -7818,7 +7819,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French regroupment camps inflicted mass starvation and disease on Algerians [fact]
 > By July 1959 over one million Muslim villagers had been transferred to "re-groupment camps", which varied from resembling the fortified villages of the Middle Ages to the concentration camps of a more recent past. In the latter conditions were nothing short of scandalous. Hunger first, and cold secondly, were the enemies. At one camp just outside Constantine, inmates were found eating grass in the field, and in the overcrowded, tented encampments for nomads of the south infants were often found dead of cold in the mornings. Tuberculosis and other ailments of malnutrition raged.
->
+> 
 > *QUESTION: How did these camps compare numerically and systematically to other forced-resettlement campaigns of the 20th century?*
 > *XREF: Connects to broader literature on colonial concentration camps (Spanish in Cuba, British in South Africa) and forcible resettlement.*
 
@@ -7831,7 +7832,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French internment camps conditions stayed hidden until mid-1959. [fact]
 > All this, however, remained concealed from the gaze of the public in France until, in July 1959, the conservative Figaro launched a bombshell in the form of a searing report from a correspondent who had visited a camp near Philippeville. For two years the inhabitants had been living in tents, fifteen to each, where in summer the temperature reached 110ŶF. Many of the children were unable to attend school because of lack of clothes, and the hunger was acute: "I shall not easily forget those arms hardly thicker than a stick, those fearful expressions, those hollow faces." The Figaro report provoked a major uproar, on Left and Right, and was followed by a spate of similar accounts in other newspapers.
->
+> 
 > *XREF: Connects to histories of colonial concentration camps and media exposés that finally publicize long-suppressed atrocities.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1022</cite>
@@ -7863,7 +7864,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France pursued sweeping economic development investments in Algeria during 1959-60. [fact]
 > During 1959 242 milliard francs had been invested, and a further 326 milliards earmarked for 1960; 132 new industrial enterprises had been projected, 400,000 acres of arable land (still not very much in relation to demand) handed over to Muslim farmers; the number of jobs for manual workers had been increased by eight per cent in only six months, while school attendance for Muslim children had risen from 510,000 in 1958 to 840,000 at the beginning of 1960. Under the “thousand villages programme”, designed to counter the miseries of regroupment, 38,000 housing units had been constructed. In November 1959 the oil pipeline from Hassi-Messaoud to Bougie entered into service; in March 1960 work was to begin on the Hassi-R’Mel—Arzew pipeline for natural gas, and plans were under way to build a major steel complex at Bône. All this represented a considerable advance over anything done, socially or economically, for Algeria in the past—as well as being a pledge and an assurance to the Muslims that France had no intention of pulling out.
->
+> 
 > *XREF: This pre-independence investment blitz contrasts sharply with post-independence economic realities in Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1028</cite>
@@ -7875,7 +7876,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle rejected Algeria's imposed colonial integration as obsolete. [contrarian]
 > What they want, is to return to 'Papa's Algeria'. But Papa's Algeria is dead, and if they don't understand that they will die with it."
->
+> 
 > *XREF: Connects to decolonization history and the collapse of French colonial empire narratives.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1029</cite>
@@ -7897,7 +7898,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Clemency offers failed to sway hard-line F.L.N. negotiators. [causal]
 > Neither de Gaulle’s clemency measures nor his other olive sprigs of 1959 produced any more flicker of a quid pro quo from the hard core of the F.L.N. than British governments were to obtain from the I.R.A. The principal effect they had was to anger the army and arouse mistrust among the pieds noirs. … In France, Mollet continued to support de Gaulle on Algeria, while Soustelle was becoming increasingly alienated. There also seemed to be a divergence between de Gaulle and his Prime Minister, Debré; in August when the latter declared that “France would do anything—anything at all—to keep Algeria French,” de Gaulle was saying: “Peace is a necessity. This absurd war….”
->
+> 
 > *XREF: Parallels with British experience negotiating with the I.R.A. suggest a general pattern where hard-line insurgencies resist conciliatory overtures, potentially relevant to other colonial or counterinsurgency conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1030</cite>
@@ -7909,7 +7910,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] de Gaulle crafted his Algeria policy during a vacation retreat [causal]
 > In August de Gaulle took a relatively long vacation of three weeks, his first while in office, accompanied by a note carefully drafted by Tricot and others on the prospects for an Algerian peace settlement. Among the points studied was the pursuit of a cease-fire that could be regarded by the F.L.N. not as an act of surrender, but as a transitional period leading to definitive negotiations; also it contained the proposition that the Algerians be consulted (presumably by referendum) on the future status of their country. It was during these weeks of withdrawal from the daily pressures of the office that, one can assume, de Gaulle thoughtfully deliberated his Algeria policy.
->
+> 
 > *XREF: Connects to leadership strategy literature about how distance and withdrawal from daily pressures enables deliberation — echoes Churchill's wilderness years and other works on contemplative decision-making.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1031</cite>
@@ -7921,7 +7922,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A Muslim sub-prefect told de Gaulle pacification required a ceasefire. [fact]
 > On the way de Gaulle had had an illuminating private conversation with a remarkable Muslim, Mahdi Belhaddad, a veteran who had lost his right arm at Cassino, currently sub-prefect of a one-horse town on the fringes of the Aurès, the only Muslim to hold such a post. Taking Belhaddad aside, the President had asked him for his views on the exposé of the situation that the local military had just given. Belhaddad began by complaining of the limitations imposed upon his own freedom of action, and at the fact that—after all the administrative reforms of the past years—there was still no other Muslim sub-prefect apart from himself, and that there was no Muslim in Delouvrier’s cabinet. He then offered the opinion that no genuine pacification could be achieved without a cease-fire.
->
+> 
 > *XREF: Connects to French colonial administration in Algeria and the limited Muslim representation despite nominal reforms.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1033</cite>
@@ -7933,7 +7934,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle recognized colonial administration's era was ending [fact]
 > In Algeria, "We shall not have the Algerians with us, if they do not want that themselves…. The era of the European administration of the indigenous peoples has run its course."
->
+> 
 > *XREF: Connects to general decolonization literature and France's broader retreat from empire in the 1950s-60s.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1036</cite>
@@ -7955,7 +7956,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle and Challe give contradictory accounts of a private briefing. [fact]
 > In his memoirs de Gaulle declares that, “In saying this I was giving my audience an inkling of my intention to recognise Algeria’s right to self-determination,” and he adds that before leaving Challe that day he informed him in private “precisely what I was soon to announce publicly. Challe replied: ‘It’s feasible!’ and assured me that I could count on him whatever happened.” Challe, however, insists that he was left no wiser than any of the hundred other officers present at the earlier briefing, and never once in his whole tournée des popotes did de Gaulle actually mention the key-word, “self-determination”, which was to create such a furore a few weeks later.
->
+> 
 > *XREF: Contradictory testimony in memoirs — connects to the broader reliability question of self-serving memoirs in historical reconstruction, akin to other contested event narratives.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1039</cite>
@@ -7967,7 +7968,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secession means a nation leaves a land without its consenting residents. [definitional]
 > Either—secession, where some believe independence would be found. France would then leave the Algerians who had expressed their wish to become separated from her. They would organise, without her, the territory in which they live, the resources which they have at their disposal, the government which they desire.
->
+> 
 > *XREF: Connects to decolonization debates and how sovereignty over territory is understood in imperial contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1049</cite>
@@ -7979,7 +7980,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Guinée was the only French Commonwealth state to reject membership in 1958 [fact]
 > This would, in effect, be the terrible renunciation of grace that Sékou Touré’s Guinée had chosen, alone of the French Commonwealth, in 1958. Then, secondly, there was the option of “out-and-out identification with France, such as is implied in equality of rights…Dunkirk to Tamanrasset”. i.e., the old principle of “integration”. Or, finally:
->
+> 
 > *XREF: Connects to decolonization history and the 1958 referendum under de Gaulle that offered colonies a choice between full integration or independence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1050</cite>
@@ -8001,7 +8002,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's self-determination proposal should have come earlier and doomed Algérie française. [causal]
 > In a world of such rapid change it was also unreal to suggest that four whole years would have to elapse between any cease-fire and the referendum deciding, on de Gaulle's three options. Given the precedent of past bad experiences with French government promises for the future, from Blum—Viollette onwards, it was asking a lot of trust and confidence from the Algerian Muslims of all political hues. Nevertheless, it is reasonable to believe (as does Edward Behr) that "Had such an offer been made in the first three years of the rebellion, it is virtually certain that it would have been immediately accepted by the rebel leaders." It is also no exaggeration to regard de Gaulle's "self-determination" speech of 16 September 1959 as one of the most decisive events of the whole war. Here was a true watershed; nothing that went before was any longer relevant, and nothing could be the same again. There could no longer be any convincing prospect of Algérie française. The genie was out of the bottle; once the fateful word "self-determination" was spoken, it could never be corked up again. In retrospect this was also, perhaps, the last moment in the war when there was a possibility of a compromise peace by which the pieds noirs could have remained in their beloved homeland, one way or another.
->
+> 
 > *XREF: Connects to broader decolonization history and the failure of late reforms to avert revolutionary violence, echoing patterns in other colonial wars.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1056</cite>
@@ -8033,7 +8034,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French officers in 1959 sensed the Algerian war was already lost. [fact]
 > Some of his subordinates, however, immediately placed a much less favourable view on de Gaulle's intent. At the 1st Para Regiment of the Foreign Legion, encamped next to Challe's headquarters in the Djurdjura, Captain Sergent told his commanding officer, Colonel Dufour: "For me, the F.L.N. flag is floating over Algiers from now on. Algeria will be independent." Dufour replied, "You're much too pessimistic." But at this moment Sergent says he asked himself, "What was the point any more?…on 16 September 1959 I felt myself the very old citizen of a very old country."
->
+> 
 > *XREF: Connects to the broader narrative of France's withdrawal from Algeria and the sense of imperial decline among disillusioned military officers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1060</cite>
@@ -8045,7 +8046,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's Algerian policy shift demoralized even loyal officers [causal]
 > Some of his subordinates, however, immediately placed a much less favourable view on de Gaulle's intent. At the 1st Para Regiment of the Foreign Legion, encamped next to Challe's headquarters in the Djurdjura, Captain Sergent told his commanding officer, Colonel Dufour: "For me, the F.L.N. flag is floating over Algiers from now on. Algeria will be independent." Dufour replied, "You're much too pessimistic." But at this moment Sergent says he asked himself, "What was the point any more?…on 16 September 1959 I felt myself the very old citizen of a very old country."
->
+> 
 > *XREF: Connects to the broader narrative of French decolonization and the psychological rupture experienced by pied-noir and military loyalists.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1060</cite>
@@ -8057,7 +8058,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The FLN won a key war round through de Gaulle's concessions. [fact]
 > The tone of the official F.L.N. spokesmen was suspicious, critical and reserved; but the G.P.R.A. greeted the principle of "self-determination" as a step in the right direction, and announced that it was ready, under certain conditions, to begin preliminary talks. But to the most simpleminded member of the G.P.R.A. it must have been self-evident that one of the most important rounds in the war had been won, on the brink of military defeat. To his hard-pressed djounoud of the interior, the F.L.N. Minister of Defence, Belkacem Krim, issued a communiqué declaring: "Your struggle has obliged the enemy to talk of self-determination, thus renouncing the oft-repeated myth of Algérie française. His retreat is the fruit of your efforts." The principle of "self-determination" conceded, all the F.L.N. had to do now was to fight an obdurate battle to ensure that they, and no one else, would be the interlocuteur valable with whom de Gaulle would be forced to negotiate it.
->
+> 
 > *XREF: Connects to broader Algerian War history and de Gaulle's decolonization strategy.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1061</cite>
@@ -8069,7 +8070,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pied-noir militants framed Algerian secession as an insult to France's dead. [fact]
 > The tone of the official F.L.N. spokesmen was suspicious, critical and reserved; but the G.P.R.A. greeted the principle of "self-determination" as a step in the right direction, and announced that it was ready, under certain conditions, to begin preliminary talks. But to the most simpleminded member of the G.P.R.A. it must have been self-evident that one of the most important rounds in the war had been won, on the brink of military defeat. To his hard-pressed djounoud of the interior, the F.L.N. Minister of Defence, Belkacem Krim, issued a communiqué declaring: "Your struggle has obliged the enemy to talk of self-determination, thus renouncing the oft-repeated myth of Algérie française. His retreat is the fruit of your efforts." The principle of "self-determination" conceded, all the F.L.N. had to do now was to fight an obdurate battle to ensure that they, and no one else, would be the interlocuteur valable with whom de Gaulle would be forced to negotiate it.
->
+> 
 > *DEFINE: Introduces 'pieds noirs' as European settlers in Algeria whose militant faction developed around a nationalist, honor-based opposition to secession.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1061</cite>
@@ -8081,7 +8082,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French self-determination concession marked an FLN victory despite military setbacks. [causal]
 > The tone of the official F.L.N. spokesmen was suspicious, critical and reserved; but the G.P.R.A. greeted the principle of "self-determination" as a step in the right direction, and announced that it was ready, under certain conditions, to begin preliminary talks. But to the most simpleminded member of the G.P.R.A. it must have been self-evident that one of the most important rounds in the war had been won, on the brink of military defeat. To his hard-pressed djounoud of the interior, the F.L.N. Minister of Defence, Belkacem Krim, issued a communiqué declaring: "Your struggle has obliged the enemy to talk of self-determination, thus renouncing the oft-repeated myth of Algérie française. His retreat is the fruit of your efforts." The principle of "self-determination" conceded, all the F.L.N. had to do now was to fight an obdurate battle to ensure that they, and no one else, would be the interlocuteur valable with whom de Gaulle would be forced to negotiate it.
->
+> 
 > *XREF: Connects to the broader logic of wars of independence where political concessions precede and outpace battlefield outcomes.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1061</cite>
@@ -8093,7 +8094,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French enlistment of harkis hinged on guarantee of never abandoning Algeria. [causal]
 > This expansion of the harkis, Challe stresses with maximum emphasis to the present day, was only to be achieved if the harkis could be assured that France would never abandon Algeria and leave them to face a night-of-long-knives at the hands of a triumphant F.L.N. Challe insists that de Gaulle's personal guarantee was implicit.
->
+> 
 > *XREF: Relates to the broader history of France's withdrawal from Algeria and the fate of the harkis, which connects to colonial abandonment narratives across French decolonization.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1062</cite>
@@ -8115,7 +8116,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Political symbols reveal a movement's fascist affiliations [fact]
 > The political orientations of the F.N.F. were left in little doubt by the symbol which Ortiz, the Poujadist and admirer of Salazar, had chosen for it; the Celtic cross of the unashamedly fascist Jeune Nation movement.
->
+> 
 > *DEFINE: The Celtic cross functioned as a visual identifier for fascist movements like Jeune Nation, beyond its Christian heritage meaning.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1066</cite>
@@ -8127,7 +8128,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Susini's right-wing extremism directly reversed his father's Communist allegiances. [fact]
 > In the shadows behind Ortiz there now emerged a new and more effectual figure: Jean-Jacques Susini. Aged only twenty-five in 1959, Susini, who was of Corsican origin, had missed the great moments of both February 1956 and May 1958, when Ortiz and Lagaillarde had made their names with the mob, because he was still studying medicine in France. In contrast to his father, a Communist worker on the Algerian railways with pro-F.L.N. sympathies, young Jean-Jacques was as far to the Right as his father was to the Left.
->
+> 
 > *XREF: Resembles the common pattern of second-generation extremists rejecting their parents' ideology — parallels with other such biographical inversions in political history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1066</cite>
@@ -8139,7 +8140,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Nazi-era French colonist leaders contrasted brute demagogue with intellectual orator [fact]
 > There could hardly have been more disparate figures than the two F.N.F. leaders. Ortiz, the burly, bonhomous bar-keeper with the hooked, prizefighter nose, whose swarthy features, bright ties and well-cut suits testified to his Spanish origins, epitomised the pied noir with his emotional vehemence. Born of poor parents, he had certainly shown no lack of physical courage, having fought in the French campaign of 1940, been taken prisoner but escaped, and then re-enlisted to fight again in Italy. His political philosophy, said The Times (of 27 January 1960), "in a woolly sort of way is authoritarian and neo-Fascist"; he was an unimpressive speaker, but a potent rabble-rouser through sheer volume of noise. On the other hand, Susini, sickly of physique and unprepossessing, with sparse fair hair and eyes of fire in a chalky face, was a frigid but brilliant political intellect and an impelling orator.
->
+> 
 > *XREF: Contrast with other paired-leadership dynamics in historical movements where one figure supplies visceral appeal and another strategic intellect.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1067</cite>
@@ -8151,7 +8152,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds noirs were prone to reflex violence and brutality [fact]
 > Together with Susini they shared to the full one of the commoner and less attractive characteristics of the pied noir, that capacity for reflex violence and brutal action so penetratingly exemplified by Camus' "Outsider".
->
+> 
 > *XREF: Connects to Camus' The Outsider, whose protagonist Meursault exemplifies this pied noir disposition — Camus was himself a pied noir.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1069</cite>
@@ -8163,7 +8164,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Frequent regime changes fractured French army loyalties uniquely. [fact]
 > Since the execution of Louis XVI in 1793, the French army had been subject to the First Republic, the Directory, the Consulate, the First Empire, the First and Second Restorations, the “Bourgeois Monarchy” of Louis-Philippe, the Second Republic, the Second Empire, the Commune, the Third Republic, Pétain’s Vichy and de Gaulle’s Free French Committee, the Fourth Republic, and now the Fifth Republic. Each change of regime had contributed fresh divisions within the army, and added new confusion as to where loyalties were ultimately due—a compound of experience shared by no other army in the world (outside, perhaps, Latin America).
->
+> 
 > *DEFINE: Lists the 14 successive French regimes from 1793 to the Fifth Republic, clarifying the extent of political upheaval France experienced during this period.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1078</cite>
@@ -8175,7 +8176,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's army faced more regime changes than any other military. [fact]
 > Since the execution of Louis XVI in 1793, the French army had been subject to the First Republic, the Directory, the Consulate, the First Empire, the First and Second Restorations, the “Bourgeois Monarchy” of Louis-Philippe, the Second Republic, the Second Empire, the Commune, the Third Republic, Pétain’s Vichy and de Gaulle’s Free French Committee, the Fourth Republic, and now the Fifth Republic. Each change of regime had contributed fresh divisions within the army, and added new confusion as to where loyalties were ultimately due—a compound of experience shared by no other army in the world (outside, perhaps, Latin America).
->
+> 
 > *XREF: Connects to how institutional loyalty and identity persist (or fracture) across political upheavals — parallels loyalty questions in other institutions facing frequent restructuring.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1078</cite>
@@ -8207,7 +8208,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Military involvement in politics leads only to blunders. [fact]
 > “But they will, Delouvrier,” de Gaulle replied impatiently, “the military will obey. When a soldier gets mixed up in politics he only commits stupidities [conneries]. Look at Dreyfus. Their job is to fight on the ground.”
->
+> 
 > *DEFINE: De Gaulle's dismissive view conflates the Dreyfus affair with a general rule that soldiers who enter politics make 'conneries' (stupidities).*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1082</cite>
@@ -8229,7 +8230,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Military commanders in Algeria threatened to defy de Gaulle over Algérie française. [fact]
 > When asked what the army's principal concern was, Massu, according to Kempski, replied: "That the government should help us to see the future clearly, in order that we can succeed in maintaining Algérie française." From there on Massu waxed warmer and warmer in his criticism of de Gaulle: "We no longer understand the policy of President de Gaulle. The army could not have anticipated that he would adopt such a policy…. Our greatest disillusion has been to see General de Gaulle become a man of the Left." When the German pointed out that "It was, after all, you and your friends who brought him back to power," Massu replied bitterly: "De Gaulle was the only man available. Perhaps the army made a mistake." Finally, when asked whether the army would obey, Massu was quoted as declaring: "Myself, and the majority of officers in a position of command, will not execute unconditionally the orders of the Head of State."
->
+> 
 > *XREF: Connects to the broader history of the 1958 Algiers putsch and the generals' plot of 1961 against de Gaulle.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1088</cite>
@@ -8241,7 +8242,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A trusted loyal general's criticism proved devastatingly more damaging than a flood. [causal]
 > Far from being the “lid”, he himself provided that extra head of steam to blow up the whole cauldron. Kempski’s scoop was published with maximum prominence on 18 January. At that time the French Press was still preoccupied with news of the new “heavy” franc which had been launched on 1 January to replace the old franc at a ratio of one to 100, by the Jaccoud murder trial in Geneva, by the tragic death of Albert Camus, killed in a car accident, and by the appalling disaster on the Riviera where, on 3 December, the Fréjus dam had burst, killing over 300 people and causing milliards of francs’ worth of damage. But the bombe Massu swept all else aside almost as devastatingly as the flood waters at Fréjus.
->
+> 
 > *XREF: Connects to general dynamics of political scandal, where credibility of the source amplifies impact of the message.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1089</cite>
@@ -8253,7 +8254,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A scoop about Massu overshadowed news from early 1960 France. [fact]
 > Far from being the “lid”, he himself provided that extra head of steam to blow up the whole cauldron. Kempski’s scoop was published with maximum prominence on 18 January. At that time the French Press was still preoccupied with news of the new “heavy” franc which had been launched on 1 January to replace the old franc at a ratio of one to 100, by the Jaccoud murder trial in Geneva, by the tragic death of Albert Camus, killed in a car accident, and by the appalling disaster on the Riviera where, on 3 December, the Fréjus dam had burst, killing over 300 people and causing milliards of francs’ worth of damage. But the bombe Massu swept all else aside almost as devastatingly as the flood waters at Fréjus.
->
+> 
 > *XREF: Relates to journalism history and how a single story can dominate the news cycle despite competing major headlines.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1089</cite>
@@ -8265,7 +8266,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The 1960 Algiers insurrection was a premeditated coup, not a spontaneous outburst. [contrarian]
 > At the time the impression was fostered that the insurrection of 24 January was a spontaneous outburst of rage on the part of the pieds noirs against the removal of their beloved Massu. It was, in fact, nothing of the sort, but a deliberately and long-prepared coup-de-main for which the bombe Massu was only a pretext; in any event, as Ortiz repeatedly made plain to his associates, he had little confidence in Massu himself as being a man who would go as far as he, Ortiz, wanted.
->
+> 
 > *QUESTION: What exactly were Ortiz's aims and how far did he want to push beyond Massu's plans?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1091</cite>
@@ -8277,7 +8278,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Despairing Algerian ultras ignored metropolitan French reactions entirely [causal]
 > Ortiz aimed, immediately, for a replay of 13 May 1958, but this time ending with a total and irreversible victory for the pieds noirs. … Once again there was no thought in the despairing minds of the “ultras” of “what then?” Nothing revealed better the egoistic isolationism of their despair and the unreal world which it drove them to inhabit than Susini’s wild declaration at this time: “The irreversible process is now under way. Between the republic and Algeria, we choose Algérie française!” Characteristically, the possible reaction of fifty million metropolitan Frenchmen was simply not taken into account.
->
+> 
 > *QUESTION: What ultimately snapped the ultras out of this unreal isolationism? At what point did metropolitan reality reassert itself?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1092</cite>
@@ -8299,7 +8300,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ultra leaders' desperation blinded them to mainland French power. [causal]
 > Ortiz aimed, immediately, for a replay of 13 May 1958, but this time ending with a total and irreversible victory for the pieds noirs. … Once again there was no thought in the despairing minds of the “ultras” of “what then?” Nothing revealed better the egoistic isolationism of their despair and the unreal world which it drove them to inhabit than Susini’s wild declaration at this time: “The irreversible process is now under way. Between the republic and Algeria, we choose Algérie française!” Characteristically, the possible reaction of fifty million metropolitan Frenchmen was simply not taken into account.
->
+> 
 > *XREF: Fits the author's broader pattern of depicting the pieds noirs' siege mentality and isolationism across the Algerian crisis.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1092</cite>
@@ -8351,7 +8352,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Frenchmen killing Frenchmen in Algeria invoked earlier civil trauma [fact]
 > For the first time Frenchmen had fired upon, and killed, other Frenchmen; to the historically minded the dreadful spectre of the 1940s and, farther back, of 1871 presented itself. Across the breadth of France would echo the dying words of one of the Algiers gendarmerie lieutenants: “For two years I’ve been fighting against the fellagha. Now I’m dying at the hands of people who cry Algérie française! I don’t understand…!”
->
+> 
 > *XREF: Parallels the Algerian War's internal fractures with France's 1940 Vichy collapse and the 1871 Paris Commune, both earlier moments of French-on-French violence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1100</cite>
@@ -8363,7 +8364,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Barricade fraternization united settlers but excluded Algerian Muslims [fact]
 > In the course of that first night, the deadly fusillade soon forgotten, some extraordinary scenes of fraternisation took place on the barricades. Arriving at the university, Captain Pierre Sergent of the 1st R.E.P. strode up to shake Lagaillarde by the hand, assuring him, “I’ll never have you fired upon.” Women of the F.N.F. men behind the barricades were allowed to come and go as they pleased, bringing supplies of croissants, thermos flasks of coffee and wine, which were readily shared out with the passively attendant paras. On the same barricades the barmen of the Saint-George and Aletti hotels, normally bitter rivals, were found jointly dispensing hospitality. As Lagaillarde remarked at his trial, the barricades “instead of dividing, united everybody”, and, for the first three days as the weird stalemate continued, a kind of picnic spirit prevailed in the unusually balmy January weather. But amid the fraternisation one important ingredient was still pointedly missing: the Muslims. With a big effort, a few pathetic handfuls of elderly veterans were drummed up, many of them maimed and of First World War vintage; but, on the other hand, large groups of Casbah urchins gathered to chant at a discreet distance: “Algérie Arabe! À bas Massu!”
->
+> 
 > *XREF: Connects to the broader Algerian War dynamics of pied-noir unity against both the FLN and French government, where the settler population cohered around European identity while Muslims remained outside the fold.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1102</cite>
@@ -8375,7 +8376,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Army officers openly threatened de Gaulle's removal over Algerian policy. [fact]
 > It was Colonel Argoud who dotted the is by declaring that the only possible solution was for de Gaulle to renounce “self-determination”; otherwise he would be replaced by General Challe. Upon which, Debré expostulated to Delouvrier, “But you have a soviet of colonels here!”
->
+> 
 > *XREF: Relates to the broader French Algerian crisis and the 1961 putsch attempt that followed during the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1104</cite>
@@ -8407,7 +8408,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle addressed Algerians yet won no support there. [fact]
 > In a short, unbending broadcast to the nation, he accused the Algiers insurgents of striking “a stab in the back for France, before the world.” He adjured them to return to order, adapting words that had rung out in 1940: “Nothing is lost for a Frenchman when he rejoins his mother, France.” He had been brought back to lead the country, to find for Algeria “une solution qui soit française” (a phrasing that drew growls of rage at its ambiguity in Algiers), and he intended to carry through this responsibility. He closed with an expression of his “profound confidence” in Delouvrier and Challe (a confidence that, in fact, he was far from feeling as in private he criticised both for their “irresolution”). Like Challe’s, the speech made little impact in Algiers.
->
+> 
 > *XREF: Connects to the broader picture of the Algerian War and De Gaulle's rhetorical approach to a destabilized colony.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1107</cite>
@@ -8439,7 +8440,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Authority withdrawal startled insurgents and marked Barricades Week turning point. [causal]
 > But, in fact, the speech and the news that the "authorities" had withdrawn from Algiers together produced an unexpectedly powerful effect on the insurgents, and were to mark a turning-point in "Barricades Week". The insurgents were dumbfounded by the inexplicable withdrawal, which reminded some disquietingly of the tactics of the Soviet army during the Budapest uprising, reculant pour mieux sauter, then returning to smash ruthlessly the surprised freedom fighters.
->
+> 
 > *XREF: Recalls the Budapest 1956 precedent of forces withdrawing before a crushing counterattack — a tactical pattern echoing elsewhere in 1960s decolonization upheavals.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1113</cite>
@@ -8451,7 +8452,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's emotional BBC address rallied immediate widespread loyalty [fact]
 > After a loaded pause, de Gaulle’s harsh tone gave way to a note of imploring appeal: “Finally, I speak to France. Well, my dear country, my old country, here we are together, once again, facing a harsh test.” If he, de Gaulle, were to yield to “the guilty ones, who dream of being usurpers”, then France “would become but a poor broken toy adrift on the sea of hazard”. … Within minutes of his ending, telegrams and messages of endorsement flowed in by the thousand to the Elysée; in Algeria, the first quarter of an hour brought Delouvrier forty declarations of loyalty from army units, including one from a Dragoon colonel offering to place his tanks at the immediate disposal of the authorities to crush the insurrection.
->
+> 
 > *DEFINE: Illustrates how a personal, emotional appeal to national identity ('my dear country') can function as a rhetorical device to mobilize institutional support in a crisis.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1119</cite>
@@ -8463,7 +8464,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Weather can shape the emotional mood of political events. [causal]
 > Nothing new had been said, not a single concession offered; yet it was as if, after an appallingly long week of perplexity and the nightmare of civil war, or fascism, here was the catharsis, the clear call to duty, that all Frenchmen had unknowingly been waiting for. Once again de Gaulle had got his timing superbly right.
->
+> 
 > *SEED: An angle on how environmental conditions incline historical outcomes and are later narrated as symbolic. Could explore the rhetorical use of weather in history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1120</cite>
@@ -8475,7 +8476,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rhetorical timing alone can transform an audience's readiness into catharsis. [causal]
 > Nothing new had been said, not a single concession offered; yet it was as if, after an appallingly long week of perplexity and the nightmare of civil war, or fascism, here was the catharsis, the clear call to duty, that all Frenchmen had unknowingly been waiting for. Once again de Gaulle had got his timing superbly right.
->
+> 
 > *SEED: Explores how delivery and timing outweigh new content in persuasive speech — a strong piece on the mechanics of rhetoric at moments of national crisis.*
 > *QUESTION: What specific rhetorical techniques made the speech hypnotic when its content was unoriginal? Worth investigating de Gaulle's actual text.*
 
@@ -8488,7 +8489,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle timed his public appearances to meet French emotional needs. [causal]
 > Nothing new had been said, not a single concession offered; yet it was as if, after an appallingly long week of perplexity and the nightmare of civil war, or fascism, here was the catharsis, the clear call to duty, that all Frenchmen had unknowingly been waiting for. Once again de Gaulle had got his timing superbly right.
->
+> 
 > *SEED: Could form basis for an essay on how great leaders manufacture cathartic political moments through timing rather than new content.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1120</cite>
@@ -8520,7 +8521,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Faced insurgent honorably rather than strictly punished it. [fact]
 > Meanwhile, Delouvrier was using Colonel Dufour—the officer most respected by Lagaillarde, the ex-para—to “negotiate terms”. By that night a most remarkable “deal” had been concluded. Lagaillarde’s men would be permitted to march out of their “Alcazar” as “soldiers”, bearing arms, and would be accorded full honours by Dufour’s 1st R.E.P. But they would not be allowed to march through the town; instead, they would be loaded into trucks and transported inconspicuously out to the R.E.P. base at Zéralda, where those who so wished could opt to join a unit attached to the Foreign Legion and fighting with them out in the bled. There would be a free pardon for all—except the leaders of the insurrection.
->
+> 
 > *XREF: Connects to the broader pattern of negotiated surrender in the Algerian War and French colonial crises, where the state often granted honors to armed opponents to avoid escalation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1124</cite>
@@ -8552,7 +8553,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Doctors frequently participated in the violence of the Algerian war on both sides. [fact]
 > One of the more curious and less easily explained sidelights of the Algerian war was the presence in its more violent aspects, on both sides, of so many from a profession dedicated to the saving of human life.
->
+> 
 > *QUESTION: What motivated physicians to engage in killing despite their Hippocratic oath? Genuinely curious about the psychology and circumstances.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1130</cite>
@@ -8564,7 +8565,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's surrender speech moved even cynical foreign journalists [fact]
 > Watching the speech on the television set of a Paris bistro, I vividly recall how tears were brought to the eyes of most of those in the room, including cynical foreign journalists, when de Gaulle uttered those words of semi-mystical communion, “Eh bien, mon cher et vieux pays, nous voici donc ensemble, encore une fois….” I do not remember any fighting, wartime broadcast of Churchill having a greater effect.
->
+> 
 > *XREF: Connects to histories of Vichy France and the 1940 armistice, and to Churchill's wartime broadcasts as comparative rhetorical moments.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1132</cite>
@@ -8596,7 +8597,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Extraordinary circumstances handed political leaders easily renewed emergency powers. [connection]
 > It had looked a dangerously fine-run thing, but once again his timing had been supreme, and when others had lost their nerve he had shown an inspiring example of dignity and leadership. Almost eagerly—with a vast majority of 441 to seventy-five—the Assembly granted him anew "special powers" for a year.
->
+> 
 > *XREF: The pattern of leaders winning sweeping mandates through crisis resonates with contemporary debates over emergency powers and executive overreach.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1139</cite>
@@ -8608,7 +8609,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's speech proved the decisive break of the insurrection. [fact]
 > Four events broke the insurrection: the first was the withdrawal from Algiers by Delouvrier and Challe, with its implied threat that at least part of the armed forces might be prepared to face civil war; the second was the inability of Ortiz and the "ultras" to gain any palpable Muslim support; the third was the chance break in the weather and the deluging rain it brought; and the fourth was the impact of de Gaulle's speech of the 29th. But of all four it was de Gaulle's voice that proved the most effective.
->
+> 
 > *XREF: Connects to de Gaulle's broader political style during the Algerian crisis — framing his leadership as centered on rhetorical authority.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1139</cite>
@@ -8660,7 +8661,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's Algerian intentions remain fundamentally ambiguous to historians [contrarian]
 > At this point one comes back inevitably to the riddle that was as central to the latter stages of the Algerian war as it was difficult to unravel. To one acute French observer in 1960, de Gaulle and his intentions resembled Molière's Don Juan who had "promised marriage to five or six women and absolutely had to avoid being pinned down by any one of them". But on which one had he really set his heart? Did he change his mind? If so, when? Why was he always so ambiguous in declaring his intentions? Whole books have been dedicated to the subject, and still the controversy thrives. To Massu, de Gaulle always "intended to pull out, from the beginning"; to Mendès-France, he was for Algérie française, from the beginning; to General Beaufre he "made a formula, then saw it didn't work"; to Louis Joxe, "he seemed always groping"; to Bernard Tricot, he never believed in integration; to Tournoux, he always hoped he could talk the Muslims out of secession; while Harold Macmillan admits, "I was rather alarmed, at one time, that de Gaulle would try to hold on to Algeria. After our experiences I was certain he couldn't do so." Who read the oracle aright?
->
+> 
 > *QUESTION: The passage poses an unresolved riddle — did de Gaulle always plan to withdraw from Algeria, or did he genuinely change course? This leaves a fascinating open interpretive question.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1145</cite>
@@ -8672,7 +8673,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] de Gaulle's Algiers ambiguity traced to communication and public opinion [causal]
 > One is left with the question, why did de Gaulle practise such ambiguity, even to baffling Tricot and fudging up the record afterwards (a practice not unknown in the memoirs of ex-heads of state)? If he had believed in “self-determination” in 1958, why had he not then said so outright, instead of letting his supporters deceive themselves and the war drag on for over another year before coming out with it? Tricot, bravely loyal, suggests that part of the reason may have lain in the hazards of communication between de Gaulle and his subordinates. … French public opinion was certainly not ready in 1958 to admit the possibility of Algerian autonomy. So many thousands of young Frenchmen had done their national service in Algeria and their emotions were still deeply committed there.
->
+> 
 > *QUESTION: The puzzle of de Gaulle's deliberate ambiguity invites deeper investigation into whether it was strategy or evasion, and how memoirists fudge records.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1154</cite>
@@ -8684,7 +8685,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Open opposition triggers backlash, so reformers navigate discreetly toward their goal. [causal]
 > Were I to announce my intentions point-blank, there was no doubt that the sea of ignorant fear, of shocked surprise, of concerted malevolence through which I was navigating would cause such a tidal wave of alarms and passions in every walk of life that the ship would capsize. I must, therefore, manoeuvre without ever changing course until such time as, unmistakably, common sense broke through the mists….
->
+> 
 > *XREF: Evokes the political-strategist's dilemma of announcing intentions versus working quietly, familiar from reform movements and institutional change literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1155</cite>
@@ -8696,7 +8697,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle deceived the army to preserve it for the future. [causal]
 > The first was that his great personal prestige would persuade the Muslim majority to accept his terms. (Whether the pieds noirs would was always of secondary importance to de Gaulle.) But, as he received one snub after another from the F.L.N., his prestige waned until by the end of 1960 it was doubtful whether it could have carried an effective majority. Secondly, he fundamentally misunderstood the nature of the F.L.N., thinking, as a military man himself, that he was dealing with a conventional armed insurrection led by modern Abd-el-Kaders who would sooner or later recognise military defeat and the advantages of sensible compromise. But he could not seem to grasp that his adversaries were ruthless and adroit political revolutionaries, deeply committed to totalitarian principles of "no compromise". Finally, he somehow persuaded himself that time would wait upon him while he found the correct formula and then imposed peace with it. But time would be wrenched from him.
->
+> 
 > *DEFINE: This passage explains the mechanism behind de Gaulle's 'double-talk' — he lied to the army for its own long-term preservation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1158</cite>
@@ -8768,7 +8769,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Political recognition is an adversarial zero-sum bargaining objective. [causal]
 > The problems of each side ran curiously parallel; no sooner had a peaceful-sounding overture been made than pressure from the protagonists of "no compromise" would force the respective leader to counterpoint with harsh and intransigent noises towards the other side, which in turn would engender more mistrustful reservations.
->
+> 
 > *XREF: Parallels dynamics seen in many negotiations where recognition of an insurgent group's legitimacy is itself the prize.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1165</cite>
@@ -8790,7 +8791,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Compromise offers get undermined by hardline factions on both sides. [causal]
 > The problems of each side ran curiously parallel; no sooner had a peaceful-sounding overture been made than pressure from the protagonists of "no compromise" would force the respective leader to counterpoint with harsh and intransigent noises towards the other side, which in turn would engender more mistrustful reservations.
->
+> 
 > *XREF: This mirrors contemporary political dynamics where hardline wings repeatedly torpedo negotiated settlements between opposing parties.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1165</cite>
@@ -8802,7 +8803,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalists sabotaged de Gaulle's offer to discredit him. [causal]
 > Yes, they would discuss "self-determination" with de Gaulle, but their delegates to any talks would have to be Ben Bella and the other four hijacked leaders, still languishing under lock and key in France. It was an adroitly calculated move, designed to provoke rejection by de Gaulle. For the G.P.R.A. recognised that the "self-determination" gambit had won for France more points both in Washington and at the United Nations than anything previously attempted; therefore, de Gaulle's initiative could not be allowed to prosper, and he himself must be made to appear culpable for torpedoing it.
->
+> 
 > *XREF: Strategic provocation to force an opponent's self-damaging move echoes Cold War diplomacy and decolonization tactics elsewhere.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1170</cite>
@@ -8834,7 +8835,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Power in the F.L.N. shifted toward Boumedienne's army faction [connection]
 > At the same time the hard-liners were pressing vigorously for a new policy of sharpened revolutionary zeal within Algeria, involving imposition of a tighter control over the population. Supported by the moderate Saad Dahlab, Ferhat Abbas resisted this on the grounds that it would only make the F.L.N. look more extremist to the outside world, and thus render the prospects of negotiations with de Gaulle even more precarious. But it was plain that Abbas was in a minority position, and his own future increasingly uncomfortable.
->
+> 
 > *XREF: This traces a power transition within Algerian revolutionary leadership that parallels broader patterns of military-ascendancy during decolonization movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1172</cite>
@@ -8856,7 +8857,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian hard-liners read victories as presaging total French surrender. [causal]
 > With justification the hard-liners could point out that the first four years of fighting had overthrown the Fourth Republic and brought in de Gaulle and electoral franchise for Algerian Muslims; the next year had achieved "self-determination" and, now, the sixth year of the war had begun with Frenchmen firing on Frenchmen — altogether a not unsatisfactory balance. All that was required was to fight on for a few more months, a year or two at most, and de Gaulle would be forced to negotiate — on F.L.N. terms.
->
+> 
 > *XREF: Connects to the broader trajectory of the Algerian War and de Gaulle's decolonization policy described elsewhere in this source.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1173</cite>
@@ -8868,7 +8869,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Hardliners in both camps drove the leaders' intransigence. [causal]
 > With justification the hard-liners could point out that the first four years of fighting had overthrown the Fourth Republic and brought in de Gaulle and electoral franchise for Algerian Muslims; the next year had achieved "self-determination" and, now, the sixth year of the war had begun with Frenchmen firing on Frenchmen — altogether a not unsatisfactory balance. All that was required was to fight on for a few more months, a year or two at most, and de Gaulle would be forced to negotiate — on F.L.N. terms.
->
+> 
 > *XREF: Pattern of hardliners forcing public posturing contradicts actual negotiating positions — connects to other sources on why public rhetoric hardens during conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1173</cite>
@@ -8880,7 +8881,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Constitutional provisions reasserting party primacy shaped later Algerian negotiations. [causal]
 > With justification the hard-liners could point out that the first four years of fighting had overthrown the Fourth Republic and brought in de Gaulle and electoral franchise for Algerian Muslims; the next year had achieved "self-determination" and, now, the sixth year of the war had begun with Frenchmen firing on Frenchmen — altogether a not unsatisfactory balance. All that was required was to fight on for a few more months, a year or two at most, and de Gaulle would be forced to negotiate — on F.L.N. terms.
->
+> 
 > *XREF: Connects to the broader pattern of single-party constitutions in postcolonial revolutionary movements, where symbolic supremacy clauses become decisive at bargaining tables.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1173</cite>
@@ -8892,7 +8893,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian hard-liners saw prolonged war as forcing de Gaulle's collapse. [causal]
 > With justification the hard-liners could point out that the first four years of fighting had overthrown the Fourth Republic and brought in de Gaulle and electoral franchise for Algerian Muslims; the next year had achieved "self-determination" and, now, the sixth year of the war had begun with Frenchmen firing on Frenchmen — altogether a not unsatisfactory balance. All that was required was to fight on for a few more months, a year or two at most, and de Gaulle would be forced to negotiate — on F.L.N. terms.
->
+> 
 > *QUESTION: How accurate was the hard-liners' confidence that continued fighting would compel de Gaulle to negotiate on FLN terms? Their calculation evidently proved wrong.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1173</cite>
@@ -8904,7 +8905,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A captured Algerian commander escaped by faking surrender plans [fact]
 > The changeable fortunes of Wilaya 4 have already been recounted, from the time when, during the Battle of Algiers, it had presented a model command to the period when its infection by la bleuite (caught from Amirouche’s Wilaya 3) had almost brought it to its knees in a welter of debilitating purges. The one bright spot for the Wilaya 4 command then had been the adroit fooling of French intelligence by that redoubtable fighting commander, Major Azedine, who, when captured, had persuaded them of his intention to negotiate a surrender on behalf of the Wilaya leaders, and had then decamped, leaving his inquisitors humiliated — and extremely suspicious.
->
+> 
 > *FICTION: Major Azedine's ruse — convincing interrogators he would negotiate surrender, then escaping — is a vivid scene of tactical deception during capture that could inspire a story beat.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1175</cite>
@@ -8916,7 +8917,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian commanders secretly sought peace talks with de Gaulle [fact]
 > Then, on 17 March 1960, the cadi of Médéa, a small town nestling in the Atlas some fifty miles south-west of Algiers, received three clandestine visitors. They were Si Lakhdar, a former mason with a reputation for aggressive courage who had succeeded Si Salah as intelligence chief of Wilaya 4, Halim, the political boss of the Wilaya, and Abdellatif, commander of the Médéa zone. The message they brought the astonished cadi was that Colonel Si Salah and themselves were desirous of negotiating de Gaulle's formula of a paix des braves — so brusquely rejected by the G.P.R.A. — for Wilaya 4 and any others that might follow suit. But they would not negotiate with local military or civil representatives, of whom they were distrustful; it had to be a high authority in Paris.
->
+> 
 > *XREF: This clandestine peace initiative by FLN Wilaya commanders contrasts with the official G.P.R.A. rejection, relevant to histories of the Algerian War's final negotiations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1176</cite>
@@ -8928,7 +8929,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Internal Algerian maquis commanders threatened to break with their exiled leadership [fact]
 > In January a message from Si Salah to Boumedienne accused the "exterior" of neglectful arrogance, and cautioned it that "the maquis is tired and disheartened. De Gaulle proposed the paix des braves, and complete equality for all. That's what we ourselves want…. If you don't provide us with the means for waging war we shall accept that proposition. You can't expect otherwise…." … Is it true [he asked] that de Gaulle has addressed a peace plan to the G.P.R.A.? Why do they not take the advice of the "interior"? The struggle cannot continue: the people are tired, the combatants discouraged. If the G.P.R.A. does nothing, Wilaya 4 will make contact with the French to negotiate an end to the fighting. We shall hide a portion of the arms that remain….
->
+> 
 > *XREF: Shows the interior/exterior split in the FLN that parallels broader anti-colonial movements where frontline fighters distrusted diaspora leadership.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1177</cite>
@@ -8950,7 +8951,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Negotiated surrenders allowed maquisards to preserve honor via face-saving formulas. [causal]
 > Their first concern was that honour should remain intact; that acceptance of a paix des braves should in no way be allowed to look like capitulation. Accordingly, Bernard Tricot worked out a formula whereby the maquisards would “deposit for safe-keeping” their weapons in local gendarmeries (specifically not turning them over into army hands); they would then file away to their villages; only those guilty of “murder” would be placed under surveillance until the definitive end of hostilities; on reaching this point, France was to be trusted to institute a massive amnesty.
->
+> 
 > *DEFINE: Clarifies the meaning of 'paix des braves' — a peace between brave men that avoids capitulation's shame through ritualized, symbolic concessions rather than outright surrender.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1184</cite>
@@ -8962,7 +8963,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle summoned his enemy to a secret Paris meeting [fact]
 > Then, on either his fourth or fifth flight between Paris and Algiers, with the inspiration that altitude sometimes brings, “an unprecedented idea” occurred to Bernard Tricot; why not confound the doubters by whisking Si Salah to Paris for a meeting with the president himself? Surprisingly, de Gaulle immediately said “Yes”.
->
+> 
 > *XREF: Bold leadership decisions to meet adversaries directly recall similar dramatic reconciliation gestures in other conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1186</cite>
@@ -8984,7 +8985,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle publicly invited Algerian insurrection leaders to negotiate peace by mid-June 1962. [fact]
 > On 14 June de Gaulle made his television broadcast, beginning somewhat patronisingly about the backwardness of his “old country”, which he said, must be made to “marry her time”. He spoke of a glowing future when “the Sahara natural gas, the reserves of which are inexhaustible, would be capable of transforming the existence of Algeria and influencing that of Europe”. Finally, he addressed himself, “in the name of France, to the leaders of the insurrection. I declare to them that we await them here in order to find with them an honourable end to the fighting that drags on”.
->
+> 
 > *QUESTION: How did the insurrection leaders respond to this direct invitation, and what followed from it?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1189</cite>
@@ -8996,7 +8997,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Si Salah and his delegation vanished after meeting French officials in 1958. [fact]
 > On the 20th the G.P.R.A. in Tunis announced that, under certain conditions, it accepted de Gaulle’s invitation and would send a delegation to France. On the 21st Jacquin deposited Si Salah and his colleagues at the appointed meeting place in Kabylia. It was the last time that any of them were seen alive by Jacquin or any other French official.
->
+> 
 > *QUESTION: What happened to Si Salah and his colleagues? This disappearance merits further investigation into the fate of the GPRA delegation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1190</cite>
@@ -9008,7 +9009,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The two maquisard leaders' deaths buried evidence of a covert operation. [fact]
 > According to General Jacquin, as he is today, a “killer” despatched from Tunis from the G.P.R.A. forced Si Mohamed — always the most reluctant of the Wilaya 4 leaders — to return to the fold, and imposed upon him the execution of his guilty peers. Lakhdar, Halim and Abdellatif were summarily put to death, while Si Salah — on account of his seniority and distinction as a maquisard — was ordered to make his way to Tunis and stand trial there. Many months elapsed, unaccountably, with Si Salah apparently still under arrest in Algeria. Jacquin’s B.E.L. attempted a cloak-and-dagger operation to liberate him, but without success. Then, in July the following year, Si Salah, evidently on his way to Tunisia at last, was killed in an ambush by a French patrol; little more than two weeks later, but in another corner of Algeria, Si Mohamed was also tracked down and killed in an opération ponctuelle mounted by the 11th Shock. The coincidence, and curious circumstances, of the deaths of the two leaders have encouraged anti-Gaullists in the French army to speculate, even today, that there may have been more to it all than met the eye. Undeniable it was that, following their deaths, no one was left on the Algerian side able to give evidence about the whole sad story of “Operation Tilsit”.
->
+> 
 > *XREF: Connects to the broader account of Operation Tilsit and the French-Algerian covert contacts during the war's closing phase.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1192</cite>
@@ -9020,7 +9021,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Perceived betrayal, not facts, triggered the Generals' Revolt. [causal]
 > Whether these arguments are realistic or not is almost less important than the fact that General Challe, in particular, believed them and they were to play a decisive role in his own future actions. As Yves Courrière remarks, the Si Salah fiasco "was the point of departure for what, less than a year later, was to be called the Revolt of the Generals. For them, following his meeting with Si Salah, de Gaulle committed an act of betrayal on 14 June 1960."
->
+> 
 > *XREF: Connects to broader historiography of 1961 Algerian Generals' putsch and de Gaulle's Algerian policy reversals.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1201</cite>
@@ -9032,7 +9033,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Negotiating with the F.L.N. eliminated Algeria's viable third-force alternative. [causal]
 > There was one final point: whatever the potential of Si Salah, by renouncing him in favour of talks with the G.P.R.A. emissaries, de Gaulle was in effect dealing, on behalf of the G.P.R.A., yet another blow at the evanescent "third force" in Algeria. Even if he had just intended to use Si Salah as the lever to make the G.P.R.A. negotiate, the fact of their accepting it meant that de Gaulle — regardless of his protests to the contrary — would eventually be forced to negotiate solely with the F.L.N., because there would be no one else, no other interlocuteur valable. Thus, from "Tilsit" and Melun onwards the battle between France and the F.L.N. now began to depart from the blood-stained bled of Algeria for higher realms of politics and diplomacy.
->
+> 
 > *XREF: This connects to broader decolonization dynamics where colonial powers often seek 'moderate' interlocuteurs only to find them non-viable.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1202</cite>
@@ -9044,7 +9045,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Signals intelligence enabled a French deception operation against Algerian rebels [fact]
 > In operations involving signals intelligence, the B.E.L. seems to have reached a peak of excellence at about this time. According to Jacquin, almost simultaneously with "Tilsit" a successful coup had also been mounted against the command of Wilaya 5 (Oranie). Intercepts revealed that Boumedienne's successor, Colonel Lotfi, was on his way back from Morocco to his headquarters in western Algeria. His precise route determined, he and his escort were ambushed and wiped out. Before A.L.N. headquarters in Morocco could learn of the Wilaya commander's fate, the B.E.L. had a "false Colonel Lotfi" reporting on the air over the captured transmitter. For several months the "playback" continued, with "Colonel Lotfi" calling repeatedly for reinforcements, arms and money, all of which fell into French ambushes, until finally the ruse was tumbled to. The operation only increased the general sense of insecurity suffered by the Wilayas of the "interior", and distrust between them and the high command of the "exterior".
->
+> 
 > *XREF: A classic example of signals intelligence-driven 'playback' deception, echoing similar WWII double-cross operations like Operation MINCEMEAT.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1219</cite>
@@ -9056,7 +9057,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Si Salah was executed on Boumedienne's orders, not by a French patrol. [fact]
 > It is now accepted that, in the first place, the grievances of Si Salah and Wilaya 4 against Boumedienne's “exterior” were real indeed. Secondly, Si Salah on his return from Paris was not (as surmised on p. 393) killed by a French patrol. Instead it appears that, after spending nearly a whole year in semi-captivity, Si Salah was executed on the orders of Boumedienne and the G.P.R.A. As of 1984, the official view of Si Salah seems to be an essentially tragic one; he had breached discipline in treating with the French, but was no traitor — simply a victim of the wiles of de Gaulle at his most Machiavellian.
->
+> 
 > *QUESTION: The book updates its earlier account (p. 393). Worth clarifying whether the execution narrative is now firm or still contested historically.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1222</cite>
@@ -9068,7 +9069,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Boumedienne ordered the execution of Si Salah in 1962. [fact]
 > It is now accepted that, in the first place, the grievances of Si Salah and Wilaya 4 against Boumedienne's “exterior” were real indeed. Secondly, Si Salah on his return from Paris was not (as surmised on p. 393) killed by a French patrol. Instead it appears that, after spending nearly a whole year in semi-captivity, Si Salah was executed on the orders of Boumedienne and the G.P.R.A. As of 1984, the official view of Si Salah seems to be an essentially tragic one; he had breached discipline in treating with the French, but was no traitor — simply a victim of the wiles of de Gaulle at his most Machiavellian.
->
+> 
 > *QUESTION: This corrects an earlier surmise in the source (p. 393). Worth chasing how subsequent historical work has refined or revised this account.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1222</cite>
@@ -9110,7 +9111,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Military defeat strengthened the revolution's political influence [causal]
 > Therefore, on this tangible and readily discernible evidence Challe could well claim to have been proved right in all his calculations. Yet, paradoxically, while the armed rebellion might be seen to be "withering away", at the same time the political imprint of the revolution was imposing itself more and more indelibly on the population. As the katibas disintegrated under Challe's pressure, their members would filter back to their own villages and often, far from abandoning the cause, they would there reinforce the political struggle by establishing new clandestine cells under the Organisation Politico-Administrative.
->
+> 
 > *XREF: Parallels the classic counterinsurgency insight that crushing armed wings often disperses and radicalizes the political infrastructure into the population.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1228</cite>
@@ -9122,7 +9123,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secluded Algerian women anchored anti-colonial resistance in their homes [causal]
 > Because of her traditional seclusion inside her house and behind her haik, hitherto the Algerian woman had always remained more immune to French culture and social penetration than her menfolk; thus, when the revolt began, in many a household it was the woman who provided a hard nucleus of anti-colonial militancy.
->
+> 
 > *QUESTION: Fanon's account is filtered through the source being quoted — is the haik-as-weapon framing his rhetoric or a documented practice? Worth verifying against other Algerian war histories.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1230</cite>
@@ -9144,7 +9145,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secluded Algerian women became harder anti-colonial resisters than men [causal]
 > Because of her traditional seclusion inside her house and behind her haik, hitherto the Algerian woman had always remained more immune to French culture and social penetration than her menfolk; thus, when the revolt began, in many a household it was the woman who provided a hard nucleus of anti-colonial militancy.
->
+> 
 > *XREF: Counterintuitive inversion of the assumption that seclusion/subordination produces passivity; relates to broader dynamics of colonized women's resistance in Frantz Fanon's work.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1230</cite>
@@ -9166,7 +9167,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Women in guerrilla struggle gained genuine equality with men. [fact]
 > Here, for the first time, she met and coexisted with unmarried men on equal terms, and with equal rights. She adapted herself to guerrilla activities with remarkable speed and effectiveness. It was a heady experience: “The woman ceased to be a mere complement for the man. Indeed it might be said that she had pulled up her roots through her own exertions,” says Fanon.
->
+> 
 > *XREF: Connects to Fanon's writings on decolonization and the transformative potential of revolutionary struggle on gender relations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1233</cite>
@@ -9178,7 +9179,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The F.L.N. replaced French schools with their own ideological education. [fact]
 > The burning of new schoolhouses, proudly built by the French as part of their "cultural offensive" against the F.L.N., the terrorising of "loyal" schoolteachers — these were seldom random acts of savagery. Gloomily Soustelle records a conversation during his tenure of office between an F.L.N. leader and a teacher: "We shall not cease, even after we have thrown all the French into the sea. We shall destroy all the schools because they represent the French culture, which we want nothing of."
->
+> 
 > *XREF: Parallels how anti-colonial and revolutionary movements typically create parallel institutions to supplant the colonizer's cultural apparatus.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1234</cite>
@@ -9190,7 +9191,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Attacks on French schools were deliberate, not random savagery. [causal]
 > The burning of new schoolhouses, proudly built by the French as part of their "cultural offensive" against the F.L.N., the terrorising of "loyal" schoolteachers — these were seldom random acts of savagery. Gloomily Soustelle records a conversation during his tenure of office between an F.L.N. leader and a teacher: "We shall not cease, even after we have thrown all the French into the sea. We shall destroy all the schools because they represent the French culture, which we want nothing of."
->
+> 
 > *XREF: Connects to colonial resistance scholarship and the use of education as a tool of cultural assimilation — parallel to Algerian decolonization historiography.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1234</cite>
@@ -9222,7 +9223,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's national war channeled criminal anger into political violence. [causal]
 > Since 1954, alleges Frantz Fanon, common crime among Algerians had almost disappeared, for "the national conflict seems to have canalised all anger". Certainly, after six years of war, hatred and violence and their habit had become etched deep into souls, deeper than could be excoriated by any amount of purely military successes.
->
+> 
 > *XREF: Contrasts with standard criminology where war typically increases crime; connects to Fanon's decolonial psychology of redirected aggression.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1241</cite>
@@ -9234,7 +9235,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The FLN constitution made revolution a statutory national principle. [fact]
 > In place of a nation a whole ethos had had to be created from 1954 onwards. When furnishing itself with a provisional constitution at the Third C.N.R.A. of January 1960, the G.P.R.A. had declared: “At the same time that it is conducting the war of liberation, the F.L.N. is also directing a revolution….” Thereby “revolution” had been made statutory.
->
+> 
 > *DEFINE: Clarifies that the GPRA's 1960 provisional constitution formally codified 'revolution' as an official doctrine alongside conducting the war of liberation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1242</cite>
@@ -9246,7 +9247,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Soviet coolness chilled Algerian trust in communism for decades [causal]
 > The coolness of the U.S.S.R. towards the Algerian revolution had several motives. In the first place they were committed to support the French Communist Party and its sister in Algeria, the P.C.A., both of whom had ambivalent attitudes in that they in turn were committed to support the petit pied noir workers, as well as the largely anti-Algerian workers of metropolitan France. Secondly, the advent of de Gaulle and his threats to break up the Atlantic Alliance persuaded the Kremlin that its longer-term interests lay better in doing nothing that might seriously upset de Gaulle. Thirdly, in its espousal of the new Khrushchev doctrine of "peaceful coexistence", the Kremlin was compelled to pay lip-service to condemning violent revolution as "infantile disorders"; and, fourthly, it was increasingly clear that the F.L.N. was throughout a nationalist and not a Marxist liberation movement, and showed few signs of becoming one. In turn, the coolness of the Soviets was to freeze any inclination the F.L.N. might otherwise have nurtured for Soviet Communism, leaving it with a mistrust and an aversion that would linger significantly into the post-war Algerian world.
->
+> 
 > *QUESTION: How did the F.L.N.'s early Soviet mistrust shape Algeria's later foreign-policy alignments, such as ties with China or the non-aligned movement?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1245</cite>
@@ -9258,7 +9259,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The F.L.N. felt deep kinship with Tito's Yugoslavia. [causal]
 > Perhaps because of the language and proximity, the F.L.N. was always strongly influenced by the French Resistance, but if there was one Communist country — apart from Maoist China — with whose revolutionary struggle they felt a particularly warm identity, it was Tito's Yugoslavia. From the earliest days, the Yugoslavs had given the F.L.N. staunch support both in arms and on international platforms; they were of the approved "third world", not representing the massive, monolithic menace of the Soviet system; they did not thrust their ideology at the F.L.N.; and their brand of decentralised Socialism was not unappealing to the Algerians. In the style of the war of liberation there was also some kinship with the partisans' experiences of 1941–5; the F.L.N. had been waging simultaneously a "war within a war" against the M.N.A., just as Tito had had his parallel struggle against the Četniks of Mihailović but, above all, both sets of revolutionaries were to emerge proclaiming in victory that they had won through their own courage and largely on their own resources, without "foreign" intervention.
->
+> 
 > *XREF: Connects to broader decolonization and non-aligned movement history; Yugoslav support for liberation struggles parallels other third-world revolutions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1246</cite>
@@ -9270,7 +9271,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Communism influenced the F.L.N. war effort only minimally. [contrarian]
 > The fact is that, despite contemporary French claims to the contrary, Communism exerted but little influence on the F.L.N. war effort. As Abbas told a French Marxist towards the end of the war, "these Communists give people bread to eat, and that's good; but man does not live by bread alone. We're Muslims, you see, we believe in God, we want to elevate their minds; the mind must be nourished too." Marxist materialism was at least as alien to the F.L.N. ethos as were other external Arab ideologies such as Moroccan monarchism, Tunisian Bourguibism, or Egyptian Nasserism. The F.L.N. had always been quite unyielding in never accepting Communists into their ranks as a "block membership"; if they came, they came as individuals, forswearing all former allegiances. The Communist world was, if anything, more exploited than exploiting; as Edgar O'Ballance aptly remarks: "The F.L.N. outsmarted the Communists all along the line by taking all it could from them, and then playing them off at their own game."
->
+> 
 > *XREF: Connects to broader Cold War historiography about Communist-aligned anti-colonial movements, where this complicates the simple story of Moscow backing Third World liberation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1247</cite>
@@ -9282,7 +9283,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian nationalists had little discussion of future social aims [fact]
 > In reading El Moudjahid, once one has scraped away the thick gravy layers of propaganda, one finds little serious discussion of social aims of the future Algerian society, and this was especially so from the death of the super-political Abane onwards.
->
+> 
 > *XREF: Relates to broader scholarship on decolonization movements prioritizing political liberation over social vision.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1248</cite>
@@ -9294,7 +9295,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN wartime disputes were personal, not ideological [fact]
 > Although, because of the all-smothering blanket of secretiveness, it is hard to be categoric, the impression one has is that in general the wartime debates and dissents within the F.L.N. were far more a matter of personalities than of ideologies. Most of the leaders were men of simple learning. There was a paucity of well-read intelligentsia; few, like Boumedienne, had university educations, and they tended to be indoctrinated in Islamic rather than Marxist thought. Essentially inward-looking, the F.L.N. leaders as a whole do not impress one as having been well-read on revolutionary practice and theory; if they had absorbed the techniques of the Viet-Minh, it was through the direct experiences some had had as members of the ill-fated French forces in Indo-China.
->
+> 
 > *XREF: Connects to Algerian war history and comparisons with other nationalist/guerrilla movements like the Viet-Minh.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1248</cite>
@@ -9326,7 +9327,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian election boycotts signaled underground organization's real authority. [causal]
 > Proof that this kind of national consciousness existed, and of the control which the geographically absent G.P.R.A. exerted now over the Algerian people, was detectable in the local elections held in May 1960 where, though still mainly supporting de Gaulle, only fifty-six per cent of the electorate voted; while in the Casbah of Algiers the turn-out was down to thirty per cent, and in Sétif (the home town of Ferhat Abbas) to only fourteen per cent.
->
+> 
 > *XREF: Relates to patterns of civil disobedience and legitimacy contests in other anti-colonial movements — where boycotts become a measure of a shadow governance structure's actual control.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1250</cite>
@@ -9338,7 +9339,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Violence won Algerians a seat at the negotiating table. [causal]
 > The more one studies the Algerian revolution, the more one comes to realise how well the F.L.N. leadership succeeded in spinning an impenetrable cocoon of secrecy around the incessant rifts and dissents at the top (and it may well contain a lesson for the West in its present-day fits of political self-destruction). Much as the maquisards of the "interior" may have railed and raged at the "exterior" in its failure to furnish military replenishment, to the Muslim masses of Algeria the mere appearance of this seemingly unruffled, undivided and unrelenting façade was immeasurably heartening and encouraging, and probably did more to keep the flame of the revolution alight than a steady flow of dozens of fresh katibas across the Morice Line would have done. The moral effect of the Melun talks and their skilful exploitation by the G.P.R.A. has already been indicated, and this in turn was more grist to the mill of the hard-liners. Their line of argument was that "self-determination" had been wrested from de Gaulle simply by five years of remorseless violence initiated by the F.L.N. — not by the softer methods of Abbas or Messali. The direct consequence of "self-determination" had been the negotiating table at Melun.
->
+> 
 > *QUESTION: Interesting question about whether negotiation really only became possible through violence, or whether other factors paved the way.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1251</cite>
@@ -9350,7 +9351,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Unified leadership façades can sustain a revolution more effectively than arms. [causal]
 > The more one studies the Algerian revolution, the more one comes to realise how well the F.L.N. leadership succeeded in spinning an impenetrable cocoon of secrecy around the incessant rifts and dissents at the top (and it may well contain a lesson for the West in its present-day fits of political self-destruction). Much as the maquisards of the "interior" may have railed and raged at the "exterior" in its failure to furnish military replenishment, to the Muslim masses of Algeria the mere appearance of this seemingly unruffled, undivided and unrelenting façade was immeasurably heartening and encouraging, and probably did more to keep the flame of the revolution alight than a steady flow of dozens of fresh katibas across the Morice Line would have done. The moral effect of the Melun talks and their skilful exploitation by the G.P.R.A. has already been indicated, and this in turn was more grist to the mill of the hard-liners. Their line of argument was that "self-determination" had been wrested from de Gaulle simply by five years of remorseless violence initiated by the F.L.N. — not by the softer methods of Abbas or Messali. The direct consequence of "self-determination" had been the negotiating table at Melun.
->
+> 
 > *QUESTION: Is this a portable historical insight about how illusions of unity win moral victories, or specific to the FLN's secrecy regime?*
 > *XREF: Connects to general political science on how perceived unity vs. public factionalism affects legitimacy and mass support.*
 > *SEED: Could make an essay contrasting how public displays of internal discord undermine modern Western political movements while the FLN's monolithic facade strengthened theirs.*
@@ -9424,7 +9425,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Small dispersed raids can freeze enemy forces at frontiers. [causal]
 > To staff officers in Tunisia Boumedienne disclosed his new military tactics a month after his assumption of office: the previous policy of periodic, massive breaching attempts on the Morice Line with their "decimating" losses was to be abandoned; liaison agents would still have to run the gauntlet through the Line to keep up contact with the "interior", but they would only go in small, highly trained packets, taking advantage of electric storms which fused the high-tension barrier. Using its increasing firepower, the A.L.N. would harass the French army with repeated, painful "pin-pricks", shelling and mortaring units from the safety of their Tunisian and Moroccan sanctuaries. This, Boumedienne reckoned with reason, would "freeze" on the frontiers substantial numbers of French troops — thereby granting the hard-pressed "interior" as much relief as the reinforcements that could be run through to them at appalling and unacceptable cost. Meanwhile, the "interior" was instructed to maintain a low profile; to refuse combat in the face of continuing French ratissages; to break up and dissipate in small groups and, if necessary, take refuge in another Wilaya far from the current offensive. Without in any way launching a new wave of terrorism that would inevitably bring massive counter-measures, the fidayine were just to keep the pot simmering with an occasional grenade thrown into a café here, a burst of machine-gun fire against bathers on a beach there. The aim was to continue to terrorise Muslims away from lending support to any possible "third force", and also constantly to remind the outside world that the F.L.N. remained in existence.
->
+> 
 > *XREF: Echoes classic insurgent economy-of-force doctrine and parallels similar strategies in other protracted guerrilla wars (e.g., Vietnam's low-profile phase).*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1266</cite>
@@ -9436,7 +9437,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Boumedienne replaced costly breaching with small-scale harassment tactics [causal]
 > To staff officers in Tunisia Boumedienne disclosed his new military tactics a month after his assumption of office: the previous policy of periodic, massive breaching attempts on the Morice Line with their "decimating" losses was to be abandoned; liaison agents would still have to run the gauntlet through the Line to keep up contact with the "interior", but they would only go in small, highly trained packets, taking advantage of electric storms which fused the high-tension barrier. Using its increasing firepower, the A.L.N. would harass the French army with repeated, painful "pin-pricks", shelling and mortaring units from the safety of their Tunisian and Moroccan sanctuaries. This, Boumedienne reckoned with reason, would "freeze" on the frontiers substantial numbers of French troops — thereby granting the hard-pressed "interior" as much relief as the reinforcements that could be run through to them at appalling and unacceptable cost. Meanwhile, the "interior" was instructed to maintain a low profile; to refuse combat in the face of continuing French ratissages; to break up and dissipate in small groups and, if necessary, take refuge in another Wilaya far from the current offensive. Without in any way launching a new wave of terrorism that would inevitably bring massive counter-measures, the fidayine were just to keep the pot simmering with an occasional grenade thrown into a café here, a burst of machine-gun fire against bathers on a beach there. The aim was to continue to terrorise Muslims away from lending support to any possible "third force", and also constantly to remind the outside world that the F.L.N. remained in existence.
->
+> 
 > *XREF: Evokes classic asymmetric-warfare doctrine (freezing enemy forces, preserving strength) paralleling theories in counterinsurgency literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1266</cite>
@@ -9458,7 +9459,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Political polarization escalates until centrists are effectively eliminated [causal]
 > As 1960 went on it had increasingly little of comfort to offer de Gaulle. It was the year of polarisation, with opposing extremes becoming more extreme, and more powerful, and progressively crushing the life out of the moderates in the centre. "I saw better than ever what had to be done," de Gaulle wrote in his memoirs of his sentiments in the aftermath of "Barricades Week": "I doubted less than ever that it was my duty to accomplish it But I needed as much as ever the support of the French people."
->
+> 
 > *QUESTION: This describes a specific year of polarization — worth identifying which year and what the moderates' fate was.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1271</cite>
@@ -9470,7 +9471,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Extreme polarization in 1960 crushed France's political moderates. [fact]
 > As 1960 went on it had increasingly little of comfort to offer de Gaulle. It was the year of polarisation, with opposing extremes becoming more extreme, and more powerful, and progressively crushing the life out of the moderates in the centre. "I saw better than ever what had to be done," de Gaulle wrote in his memoirs of his sentiments in the aftermath of "Barricades Week": "I doubted less than ever that it was my duty to accomplish it But I needed as much as ever the support of the French people."
->
+> 
 > *QUESTION: How did the crushing of centrists reshape de Gaulle's strategy and the Fifth Republic's trajectory?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1271</cite>
@@ -9482,7 +9483,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French unions united to demand peace in Algeria despite ideological divides. [fact]
 > In a remarkable summer entente, the Communist and non-Communist trade unions had joined together to plead for successful peace negotiations, with threats of a general strike "as an answer to any insurrection or coup d'état that might tend to impede the Algerian peace", and the government had actually had to ban all demonstrations in favour of peace. … Among the youth of France the Algerian war was coming to be known as "The Hundred Years' War"
->
+> 
 > *XREF: Relates to broader colonial-war opposition movements and the role of trade unions in anti-war politics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1272</cite>
@@ -9494,7 +9495,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Celebrity desertion appeals dramatically shifted France's Algeria War politics [causal]
 > Out of all this inflammation of liberal feelings there emerged on 5 September the "Manifesto of the 121". Sub-titled a "Declaration on the Right of Insubordination in the Algerian War", it incited French conscripts there to desert. The 121 signatories were all celebrities, including Sartre, de Beauvoir, Françoise Sagan and Simone Signoret. Most were of the Left and many identified as committed "fellow-travellers" (but, it was worth noting, no Communist Party members); nevertheless, the presence among them of such heroes of the Resistance as "Vercors" ensured that the document was taken seriously in wider circles. "In the course of a few weeks," says Vidal-Naquet, "the political climate changed fundamentally," and at the end of October there were demonstrations in support of the "121" bringing several hundred thousand out on to the streets throughout France. The launching of the "Manifesto" also coincided with another event that afforded the anti-war lobby with the maximum publicity: the "Jeanson Network" trial.
->
+> 
 > *XREF: Connects to broader history of French intellectuals in political protest, predating 1968.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1273</cite>
@@ -9506,7 +9507,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Celebrity signatories amplified the anti-war manifesto's national impact. [causal]
 > Out of all this inflammation of liberal feelings there emerged on 5 September the "Manifesto of the 121". Sub-titled a "Declaration on the Right of Insubordination in the Algerian War", it incited French conscripts there to desert. The 121 signatories were all celebrities, including Sartre, de Beauvoir, Françoise Sagan and Simone Signoret. Most were of the Left and many identified as committed "fellow-travellers" (but, it was worth noting, no Communist Party members); nevertheless, the presence among them of such heroes of the Resistance as "Vercors" ensured that the document was taken seriously in wider circles. "In the course of a few weeks," says Vidal-Naquet, "the political climate changed fundamentally," and at the end of October there were demonstrations in support of the "121" bringing several hundred thousand out on to the streets throughout France. The launching of the "Manifesto" also coincided with another event that afforded the anti-war lobby with the maximum publicity: the "Jeanson Network" trial.
->
+> 
 > *XREF: Connects to civil disobedience theory and how elite endorsement legitimizes protest movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1273</cite>
@@ -9538,7 +9539,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A secret F.L.N. support network grew to 4,000 French members. [fact]
 > From its early nucleus of Christian—Marxist humanists (not unlike the tercio mundo Catholics operating against the Chilean Junta of the 1970s), Francis Jeanson's network, created to run funds for the F.L.N. and help deserters and F.L.N. terrorists in hiding, had by the beginning of 1960 come to embrace some 4,000 members in all walks of life. Having been astonishingly tardy in tracking down its activities, the French D.S.T. then swooped on the organisation. It missed the leader, Jeanson himself, who with equally astonishing impunity continued about his work, published a book on it, and openly held a Press conference in Paris.
->
+> 
 > *XREF: Connects to histories of the Algerian War and French colonial opposition networks.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1274</cite>
@@ -9550,7 +9551,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French church condemned torture while opposing desertion in Algerian war. [fact]
 > In a backlash against the "Manifesto of the 121" and the Jeanson trial, and all the publicity both had attracted, in October a counter-manifesto appeared, signed by some 300 spokesmen of the Right, including the pied noir first soldier of France, Marshal Juin. … A few days later the Assembly of French Cardinals and Bishops issued a statement condemning desertion and subversive activities, but disapproving of torture and stressing that orders to implement it should be disobeyed.
->
+> 
 > *XREF: Connects to the broader French-Algerian war context and the 'Manifesto of the 121' intellectuals' protests against torture and conscription.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1275</cite>
@@ -9562,7 +9563,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's Muslim and European populations both lost faith in negotiations by 1960. [fact]
 > Making a fresh visit to Algiers in October, his first since "Operation Tilsit", Bernard Tricot noted a "rapid deterioration" in the atmosphere: "Among the Muslims: extreme lassitude, profound disappointment now that they had assessed better the breakdown at Melun, interest increasing for the international activities of the F.L.N. and for the U.N. debates. On the European side: profound disquiet, a lively hostility towards the government, and no real rapprochement with the Muslims."
->
+> 
 > *XREF: Connects to broader collapse of the Melun talks and Algeria's slide toward full war, relevant to any history of the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1276</cite>
@@ -9574,7 +9575,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Front d'Algérie Française organized within metropolitan France. [fact]
 > Though keeping Paris informed of its activities, Delouvrier refrained from taking action against the F.A.F., on the grounds that it had not yet strayed across the frontier of legality.
->
+> 
 > *XREF: Connects to the broader history of the Algerian War and pied-noir resistance to de Gaulle's decolonization policy in 1960.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1277</cite>
@@ -9586,7 +9587,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A pro-French Algerian faction claimed a million supporters by 1962. [fact]
 > Though keeping Paris informed of its activities, Delouvrier refrained from taking action against the F.A.F., on the grounds that it had not yet strayed across the frontier of legality.
->
+> 
 > *XREF: Connects to the broader Algerian War narrative and the fate of the harkis who sided with France.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1277</cite>
@@ -9598,7 +9599,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial administrators tolerated groups until they crossed legal boundaries [fact]
 > Though keeping Paris informed of its activities, Delouvrier refrained from taking action against the F.A.F., on the grounds that it had not yet strayed across the frontier of legality.
->
+> 
 > *QUESTION: What constituted the 'frontier of legality' for the F.A.F., and when did it finally cross? This raises questions about how colonial authorities defined and deferred on legal thresholds.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1277</cite>
@@ -9610,7 +9611,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Retired French generals remained bound by military discipline for a period [fact]
 > According to a curious, but not unwise, tradition in the French army, for a stipulated period retiring generals continue to remain subject to military discipline and all its restrictions, receiving in exchange certain privileges, such as a grace and favour office and sometimes a skeleton staff. In early September Salan broke the rules by announcing his intention to return to Algiers to live out his retirement in the villa he had purchased there for that purpose — without obtaining permission from Messmer, the Minister of Defence.
->
+> 
 > *DEFINE: Clarifies the unusual French army tradition where retiring generals stay subject to military discipline in exchange for privileges.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1279</cite>
@@ -9622,7 +9623,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's sidelining of Salan may have backfired tactically [speculation]
 > With hindsight, one might ask whether this was not perhaps a tactical error on the part of de Gaulle; would a Salan out in the open, in Algiers and under Delouvrier's eye, have proved the lesser liability than the “Mandarin” henceforth taking to the shadows?
->
+> 
 > *QUESTION: The open counterfactual asks whether an open, visible Salan under surveillance might have been a smaller risk than a radicalized exile in the shadows.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1280</cite>
@@ -9644,7 +9645,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Selective terrorism discouraged Muslims from accepting French administrative posts [causal]
 > With the F.L.N.'s new programme of hit-and-run terrorist pinpricks, the security situation round Algiers, and inside the city itself, seemed to be deteriorating again. Pied noir opinion had been particularly outraged by an incident on 31 July, when a uniformed detachment of the F.L.N. had attacked unarmed bathers — men and women — on a beach at Chénoua, west of Algiers, killing a dozen. The incident had provided fresh grist to the mill of the F.A.F. extremists. This selective terrorism, plus the new assertiveness of the G.P.R.A. in the world at large since Melun, also made it harder than ever to find those “third force” Muslims, not just to stand as candidates in national or local elections, but simply to fill the various administrative posts which it had so long been a French priority to create in order to appease Muslim demands. Over the previous two years, no more than a hundred Muslims had actually been inducted into senior administrative posts.
->
+> 
 > *XREF: Connects to the broader knowledge of the FLN's strategy of delegitimizing any Muslim cooperation with French colonial authorities during the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1283</cite>
@@ -9666,7 +9667,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's Constantine Plan achieved modest gains but missed job targets widely [fact]
 > It was, however, the Constantine Plan — the prime purpose for Delouvrier's appointment in the first place — which continued to be his major source of concern. The visit of Premier Debré on 3 October, to celebrate the second anniversary of the Plan, furnished an occasion to survey its achievements. The agricultural programme of constructing "a thousand villages" had been virtually completed, and arable production had been augmented from 270,000 tonnes to 390,000 in one year. Over the same period industrial output had risen by ten per cent; the 400th new enterprise had just been launched; 100 milliard francs had already been invested, while a further 400 milliard were budgeted for 1961. As far as education was concerned, the number of pupils in primary schools had increased from 650,000 in 1958 to nearly a million in 1960, an improvement of well over fifty per cent. So much for the credit side of the balance. But more than half of all Algerian children still did not attend school, and technical education was paralysed for want of skilled personnel. Technicians in the new industries were equally lacking and, for all the vast efforts made, only 28,000 new jobs had actually been created — compared with the target of 400,000.
->
+> 
 > *XREF: Relates to broader French decolonization history and developmental economic planning in the mid-20th century.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1284</cite>
@@ -9698,7 +9699,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Delouvrier's associates resigned over Algerian independence concessions [fact]
 > In Algiers Delouvrier's secretary-general and closest collaborator, André Jacomet, resigned in a manner Delouvrier construed as pulling the rug out from underneath him. "I consider it regrettable", said Jacomet, "that, before any cease-fire, the G.P.R.A. should receive satisfaction on its principal war aim — the Republic of Algeria". With other resignations in the wind, it looked to Delouvrier as if the whole structure of the Délégation-Général was tottering. At the Armistice Day ceremony of 11 November he found himself surrounded by a ragingly angry crowd at the monument aux morts. His car was spat upon, and a young woman thrusting her face forward shouted: "Delouvrier — Assassin!" It was too much. Never before had he been called this. Delouvrier was now at the end of his resources, exhausted after twenty-four thankless months in a hopeless task. To his cabinet he admitted: "This time I no longer feel I am master of the situation."
->
+> 
 > *SEED: The crumbling of a colonial administrator's inner circle over a war aim could anchor an essay on how leaks of political concessions destabilize bureaucracies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1288</cite>
@@ -9720,7 +9721,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] General Gambiez's appointment signaled the end of military pacification in Algeria [fact]
 > De Gaulle's next change in Algeria, scheduled for early in the new year, was to replace the Commander-in-Chief, General Crépin, by General Gambiez, commander of the Oran sector. Apart from the unqestionable Gaullist fidelity shared by both, there could hardly have been a greater contrast between two men. Gambiez, at fifty-seven, was diminutive with a gentle and slightly lisping voice; bald, bespectacled and studious-looking, his face bore a constantly amiable expression that reminded one more of a country curate than a fighting general. In fact, this rather timorous and unmilitary-looking exterior belied a warrior of utmost distinction who had been one of the first to set foot on French soil in 1944, Gambiez had also lost both a son and a nephew in the hell of Indo-China. But his appearance did symbolise a major change in the conduct of the war; with the departure of Crépin, military "pacification" was to reach its end. Says de Gaulle, "The war was all but over. Military success was achieved. Operations had been reduced to next to nothing. Instead, politics dominated the scene, and in this respect the two communities were further apart than they had ever been…."
->
+> 
 > *DEFINE: The phrase 'military pacification' is clarified here as ending with Crépin's departure, meaning the shift from military to political operations.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1291</cite>
@@ -9732,7 +9733,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist incidents in Algeria nearly doubled after French pressure lifted. [fact]
 > With the pressure of the Challe offensive removed, the F.L.N. was able to launch a new terrorist campaign; whereas in November 710 incidents were recorded (the lowest number since 1955), in December they rose to 1,258. This resurgence of terrorism was enough to be heard in New York, and enough to enrage the pieds noirs, but not enough to provoke a reluctant de Gaulle into massive counter-measures.
->
+> 
 > *XREF: Connects to broader Algerian War of Independence history and the Challe offensive counterinsurgency campaign.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1292</cite>
@@ -9744,7 +9745,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The French army, not settlers, would drive the next six months. [fact]
 > At the other end of the spectrum, the reception planned for de Gaulle had a far more dangerous — and desperate — look about it. Not for nothing had Delouvrier tried to head de Gaulle off. Nearer the time he had also been warned that an assassination attempt was probable; in fact, no less than four separate plots were in the offing — though each one was more inept than the last. Delouvrier's newly-arrived successor, Morin, was aware that the F.A.F. were mobilising to the limit for the visit. But they were still, in essence, leaderless. What was far more disquieting were fresh rumbles of disaffection from the army. From now on and for the next six months, it was the army — not the pieds noirs — which was to call the tune.
->
+> 
 > *XREF: Connects to the broader narrative of de Gaulle's Algerian crisis and army opposition, foreshadowing the generals' putsch.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1293</cite>
@@ -9756,7 +9757,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Army chaplains lost faith in wartime death's meaning. [fact]
 > With the full backing of Dufour the divisional padre, Père Delarue, declared in his benediction words then widely felt in the army: "You died at a time when, if we believe in the speeches we hear, we no longer know why we die…."
->
+> 
 > *QUESTION: What speeches and justifications had hollowed out so much meaning that even a chaplain questioned why soldiers were dying?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1295</cite>
@@ -9768,7 +9769,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algiers coup began on uncertain authorization from Salan [fact]
 > This was the last straw which led to Dufour's posting. He disappeared and entered into active plotting with General Jouhaud. In his absence Pierre Sergent, the veteran Legionnaire with the small and wiry figure of a jockey, became temporarily the communications centre of the dissident military. Sergent states that, while on leave in Paris, he received instructions from Maître Tixier-Vignancour, the lawyer who for many years had been a rallying-point of the extreme Right in France. Flying back to Algiers that night, he was instructed to relay urgently to Jouhaud the message: "Salan gives the green light." To this day Sergent does not know whether this message actually originated from Salan, or through what channels. In fact, it seems improbable that it did, in that the "Mandarin" and his court in Madrid were still largely isolated from events in both Algiers and Paris. On receiving this message, which was, in effect, to mark the beginning of the army revolt, the choleric Jouhaud grumbled, "Why doesn't Salan come himself?"
->
+> 
 > *QUESTION: The 'green light' message's true origin remains unknown — Sergent never learned whether Salan actually authorized it.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1296</cite>
@@ -9820,7 +9821,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] F.O.A.S. insurgents sabotaged tram tracks and intersections in Algiers. [fact]
 > The next day, Saturday, the battle resumed with even greater fury. F.A.F. action groups poured oil on steep hillside tram tracks, and parked cars athwart intersections. An attack was made in the direction of the Palais d'Été, where a helicopter pad had been built, and it was rumoured that de Gaulle was going to fly in. Although, as far as bloodshed was concerned, nothing comparable to 24 January had yet occurred, the forces of order were, as Jouhaud had hoped, tiring; there were cases of detachments being submerged, or even being disarmed.
->
+> 
 > *XREF: Connects to the broader account of the Algerian crisis and the OAS insurgency against de Gaulle's government.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1304</cite>
@@ -9842,7 +9843,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A single planned protest ignited unanticipated mass uprising. [causal]
 > Sunday, 11 December, was the day for which Larbi Alilat and the reconstituted F.L.N. organisation in Algiers had been so carefully preparing. It was to turn out to be one of the key days of the Algerian war for the Muslim cause. Thousands of green-and-white F.L.N. flags had been sewn together by the women of the Casbah, and distributed — together with banners and placards — clandestinely throughout the Muslim quarters. But the resultant chain reaction far exceeded anything anticipated by the organisers. Partly it may have been sparked by the pieds noirs' demonstrations of the two preceding days; partly by word on the swift "Arab telegraph" of the racial violence in Belcourt the previous night. At heart, however, it seems to have been one of those inexplicable explosions caused by long-pent-up forces.
->
+> 
 > *QUESTION: What made this day pivotal for the Muslim cause in the Algerian war? Worth following the narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1305</cite>
@@ -9854,7 +9855,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerians invoked de Gaulle's slogan to assert nationalist identity publicly. [fact]
 > In Belcourt Edward Behr observed a scene which summed up the situation…a Moslem came careering round a corner on a motorcycle, tied to which was an enormous F.L.N. flag. A gendarmerie captain told him to put it away. "Pourquoi? On ne fait pas de mal," he replied. "Le Général de Gaulle a dit: Algérie algérienne. On est Algérien, non?"
->
+> 
 > *DEFINE: "Algérie algérienne" was de Gaulle's phrase signaling Algerian self-rule, which Algerians weaponized rhetorically to justify nationalist displays.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1306</cite>
@@ -9866,7 +9867,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Intercommunal mob violence erupted when Muslim demonstrations met settlers. [fact]
 > Soon the tide of chanting, flag-waving Muslims began to debouch from their own quarters, sweeping aside the thin cover of local gendarmes whose main force was occupied elsewhere in the turbulent city. Behind this ever-growing mass of Muslims there arose the blood-curdling you-you-you ululations from a myriad of invisible women. A terrible atavistic fear ran through the adjacent pied noir quarters with a passing of the word: "They are coming!" As the crowd surged into the narrow streets of Belcourt, shots cracked out from tenements inhabited by poor whites, and one or two marchers fell. The word ran through the Muslim ranks, and a blind mob-madness took over. A pied noir caught up in the street had his throat slit; another was burnt to death in his car. Armed with iron bars and wooden staves the Muslim mob smashed up and pillaged European shops and villas, devastating everything in their path like a horde of soldier ants.
->
+> 
 > *XREF: Connects to the broader Algerian War of Independence narrative and pied noir-settler history the reader is studying.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1307</cite>
@@ -9878,7 +9879,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian mobs destroyed the Great Synagogue of Algiers in 1962 [fact]
 > On the 12th the F.L.N.-impelled mobs extended the scope of their operations to sack the Great Synagogue in the heart of the Casbah which had been built during the reign of Napoleon III and was one of the most important houses of Jewish worship in Algeria. The beautiful building was gutted, the Torah scrolls ripped and desecrated, the walls inscribed with swastikas and slogans of “Death to the Jews”. Several Jewish officials were kidnapped and assassinated in a series of acts of violence which fell on the Jewish community like a thunderbolt.
->
+> 
 > *QUESTION: During the Algerian independence struggle, Algerian Jews were attacked by FLN forces despite being natives — a tragic complexity of decolonization that deserves closer examination.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1311</cite>
@@ -9900,7 +9901,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Some pied-noir officers opposed violence against Algerian Muslims. [fact]
 > But Sergent was shocked by the “brief briefing” given by Jouhaud, presupposing that all was ready to go — which it was not. By the 12th Masselot had changed his mind. As always when the paras were confronted with having to make a direct choice between the pieds noirs and the Muslims, especially when it involved shooting demonstrators, ambivalence set in. The colonel was disgusted by an F.A.F. leader who warned him that he could hold his men back no longer, and that there would be a ratonnade. He reminded him that “I too am a pied noir, and get it into your head that there cannot be any Algérie française without the Arabs!”
->
+> 
 > *XREF: Connects to the broader paradox of the French Army's role in the Algerian War, where metropolitan conscripts, Foreign Legion, and pied-noir regulars held divergent views.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1313</cite>
@@ -9912,7 +9913,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Paratroopers wavered when forced to shoot Muslim demonstrators. [causal]
 > But Sergent was shocked by the “brief briefing” given by Jouhaud, presupposing that all was ready to go — which it was not. By the 12th Masselot had changed his mind. As always when the paras were confronted with having to make a direct choice between the pieds noirs and the Muslims, especially when it involved shooting demonstrators, ambivalence set in. The colonel was disgusted by an F.A.F. leader who warned him that he could hold his men back no longer, and that there would be a ratonnade. He reminded him that “I too am a pied noir, and get it into your head that there cannot be any Algérie française without the Arabs!”
->
+> 
 > *XREF: Connects to the broader colonial framework of uneasy relations between pieds noirs and Muslims in colonial Algeria.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1313</cite>
@@ -9924,7 +9925,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A peaceful Muslim demonstration shifted Algeria's war decisively in 1960. [fact]
 > In Tunis the G.P.R.A. were manifestly staggered by the snowball spontaneity and success of the demonstrations. A jubilant Ferhat Abbas broadcast telling the Algerians that they had achieved their object. Indeed, as far as scoring points at the United Nations was concerned, they had more than achieved it. To Ben Khedda, speaking many years afterwards, the Muslim demonstration of December 1960 represented the “decisive turning-point of the war”, and it is a view with which many French historians concur. To Albert-Paul Lentin it represented a “Dien Bien Phu of official propaganda”.
->
+> 
 > *XREF: Connects to December 1960 protests and how civilian action turned the FLN war — parallels other colonial wars where popular demonstrations changed international opinion.*
 > *QUESTION: What specifically did the December 1960 demonstration accomplish that military operations had not? Worth chasing the mechanism of this turning point.*
 
@@ -9947,7 +9948,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian war's end dashed three foundational French myths. [fact]
 > In Paris, it is considered that three myths died in Algeria over the weekend, these being the selfish myth of the white ultras that Algeria is French; the mendacious myth of the French army that only a fistful of fighting rebels in Algeria wanted independence in all those years of war; and the major, miracle myth that de Gaulle could make peace — though no one here, or probably anywhere, thinks that anyone else could make it.
->
+> 
 > *XREF: Connects to the broader history of Algerian independence and the collapse of French colonial identity claims.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1320</cite>
@@ -9979,7 +9980,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French war fatigue during the Algerian conflict buoyed Muslim hopes of victory. [fact]
 > Feraoun, on the other hand, was noting at the end of November that it was the French who were “seized with lassitude. The Muslims are regaining hope and appreciate that deliverance is close. A deliverance that will stem from this lassitude…. Yes, I believe it will be victory.”
->
+> 
 > *XREF: Connects to broader dynamics of decolonization wars where colonizer fatigue often preceded victory for independence movements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1326</cite>
@@ -9991,7 +9992,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French army factions irreversibly committed to rebelling against de Gaulle [causal]
 > Momentarily, Algeria seemed to recede from the limelight, but meanwhile, all the time, unseen pressure from the syndicalistes and the “respectable” Left was mounting for de Gaulle to initiate peace negotiations in earnest with the F.L.N. The growth of war-weariness in France was becoming particularly apparent; that is, apparent to all but those army leaders now bent upon eliminating de Gaulle so as to continue the struggle to “save” Algeria. For, inept and ineffectual as it had been, the would-be coup in December 1960 had marked a crossing of the Rubicon. Sections of the French army were now irretrievably committed to revolt against the head of state in all his authority, and to all that so grave a commitment signified.
->
+> 
 > *XREF: The 'crossing of the Rubicon' framing and irretrievable commitment to revolt evoke parallels with military loyalty crises elsewhere, such as the 1981 Spanish coup attempt or other civil-military tensions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1332</cite>
@@ -10013,7 +10014,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A Resistance veteran and torture opponent later led a mutiny [fact]
 > A new acquisition was the acting regimental commander of Dufour’s old 1st R.E.P., Major Élie Denoix de Saint-Marc. A member of an old Bordeaux family, at nineteen he had been deported to Buchenwald for his involvement in the Resistance, and had later fought in Indo-China, at Suez and in the Battle of Algiers — where he had voiced the strongest opposition to torture. With the face of a tormented ascetic, Saint-Marc was literally worshipped by his tough, pragmatic Legionnaires, who recognised and accepted the purity of his idealism. One day he was heard to exclaim, after a number of whiskies: “I’ve had enough, enough, enough! One day I shall commit a connerie, an enormous connerie, une connerie grande comme çal” And he did.
->
+> 
 > *QUESTION: What was the 'enormous connerie' Saint-Marc actually committed — his role in the generals' putsch against de Gaulle? Worth tracing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1334</cite>
@@ -10055,7 +10056,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ceasing combat operations triggered mass desertions among loyal Algerian units. [causal]
 > To persuade the F.L.N. of France’s good intentions, all aggressive combat operations were to cease henceforth on the French side. A sense of fresh outrage ran through the units which had born the lion’s share of the murderous fighting in Algeria, and which, in the Challe offensive, had felt they had come within an inch of crushing the life out of the A.L.N. Ominously, there were mass desertions from the harkis, those “loyal” Muslim units whose expansion had been one of the chief ingredients of the Challe Plan.
->
+> 
 > *XREF: Connects to broader patterns of how indigenous proxy forces react when their patrons signal withdrawal — parallels to Vietnamization collapse, Afghan army's disbandment in 2021.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1345</cite>
@@ -10097,7 +10098,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's decolonisation speech drove Challe to act against him. [causal]
 > The previous day Challe in disgust had heard de Gaulle deliver an "inhuman homily" to the Press, declaring, "Decolonisation is our interest and, therefore, our policy. Why should we remain caught up in colonisations that are costly, bloody and without end, when our own country needs to be renewed from top to bottom?" Algeria, he was now convinced, "will be sovereign, both within and without", and France would place no obstacle in its way. That was it! Without even informing his wife, Challe decided to act.
->
+> 
 > *QUESTION: What exactly did Challe decide to do, and how did de Gaulle's declaration tip him from disgust into action?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1347</cite>
@@ -10109,7 +10110,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A conspirator's absence on leave could unravel a plot. [causal]
 > With typically careless improvidence, for instance, the plotters had neglected to consider that, in Oranie, where General Pouilly was hostile, his deputy, General Lhermitte, on whose support they vitally counted, would be away on leave.
->
+> 
 > *DEFINE: Clarifies how military chains of command and regional hostility affected coup planning in Oranie during this historical period.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1348</cite>
@@ -10121,7 +10122,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Faulty communication undermines conspiracy planning's needs for secrecy and speed. [causal]
 > As Clemenceau once remarked, for anyone about to revolt "the first day is the best day". But, as unsuccessful putschists — such as Germany's Stauffenberg — have also discovered through the ages, the twin necessities of secrecy and speed, hampered by the inevitability of faulty communication, make precipitate planning the greatest and least escapable enemy of conspiracy.
->
+> 
 > *XREF: Relates to the classic tension between speed and secrecy in any collaborative operation — echoes principles known from military planning and organizational change.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1348</cite>
@@ -10133,7 +10134,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian oil funded a breakaway economy in 1960. [fact]
 > Challe's programme was to declare solemnly that the French army's unshakable intention was to remain in Algeria, and then re-launch a new flat-out "Challe Offensive" against the A.L.N., mobilising eight classes of Algerians of both races for this purpose. In three months he would present France a pacified Algeria, sur le plateau. He hoped, in effect (comments Jacques Fauvet): "to finish what two regimes, four commanders-in-chief and seven governments were unable to finish in seven years". During this period of three months, a breakaway Algeria could exist economically off the fat of its oil resources, an embargo being placed on their export to France. For the long-term political future of Algeria, Challe basically supported a return to the principles of Lacoste's abandoned loi-cadre.
->
+> 
 > *QUESTION: How did Algerian oil resources compare to France's dependence at the time? Worth exploring the economics of the embargo threat.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1349</cite>
@@ -10155,7 +10156,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] American generals privately backed Algeria putschists against de Gaulle [fact]
 > One of the more curious illusions of the putschists (especially in the light of subsequent revelations of the far-ranging activities of the C.I.A.) concerns the possibility of an American role. At the time, rumours of clandestine United States involvement ran extremely strong in France. Undeniably, during his time at N.A.T.O. headquarters the popular Challe did make firm friends of a number of high-ranking United States generals, who made no secret of their aversion to what de Gaulle was doing to N.A.T.O., going so far — over a plethora of Scotch — as to express enthusiasm for anyone who might rid France of her turbulent president, or, at least, force him to change his tune.
->
+> 
 > *XREF: Connects to broader history of CIA covert operations abroad during the Cold War era.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1351</cite>
@@ -10197,7 +10198,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Wives' social gossip alerted Paris to the Algerian putsch. [fact]
 > With all these comings and goings it was inevitable that word of the pending putsch should reach the ears of the government in Paris. In army circles in Algeria, what was afoot had been discussed fairly widely; on the night of the putsch a notable conversation took place on the open telephone between Madame de Saint-Hillier, wife of the commander of Massu's old 10th Division, and Madame de Saint-Marc: "Dîtes-moi, Madame, is your husband up to some dirty trick tonight?"
->
+> 
 > *XREF: Connects to discussions of how coups leak through informal networks rather than formal intelligence — parallels other historical accounts of conspiracies being blown open by gossip.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1359</cite>
@@ -10209,7 +10210,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French intelligence ignored advance warnings of the generals' putsch. [fact]
 > Early in March Louis Joxe had heard disquieting rumours in Paris and had passed these on to Jean Morin in Algiers. Snippets of information had flowed into French Intelligence from a variety of sources. These included François Coulet, Morin's political adviser and de Gaulle's private listening-post in Algiers; Herr Blankenhorn, the West German Ambassador in Paris; and Lucien Bitterlin, leader of the Mouvement pour la Communauté in Algeria (whose informant was found floating in a river a few days later). The G.P.R.A. itself allegedly filtered back to the French Ministry of the Interior the names of the four generals as well as the precise date of the expected putsch. But, as so often happens, virtually nothing seems to have been done to act on the information received.
->
+> 
 > *QUESTION: Why did French authorities fail to act despite receiving the conspirators' names and the date? Institutional complacency or deliberate inaction?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1361</cite>
@@ -10221,7 +10222,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe was smuggled into Algeria to lead revolt [fact]
 > At 19.15 hours on Thursday, 20 April, Challe accompanied by his fellow five-star general, André Zeller, and Colonel Broizat, took off for Algiers in an air force plane. The aircraft had been "purloined" by General Bigot, a pied noir who had had a brilliant war career flying Marauder bombers with Challe, and who now commanded the Fifth Air Region in Algeria. His superior, General Nicot, Commander-in-Chief of the Air Force, turned a blind eye, but sent Challe off with the caution: "I am convinced that you are committing a stupidity…." Lying on their stomachs under packages marked service cinématographique de l'armée, and flying at 150 feet to evade the French radar screen, the former Commander-in-Chief was smuggled indecorously out of France.
->
+> 
 > *QUESTION: How deliberately did the air force chain of command — Bigot, Nicot — enable the movement of a rebellious general, and what does Nicot's "blind eye" amid his warning reveal about divisions within the officer corps?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1362</cite>
@@ -10243,7 +10244,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The 1961 Algiers putsch was ineptly executed and alarmed ministers unprepared [fact]
 > At the Palais d'Été de Gaulle's Minister of Public Works, Robert Buron, was asleep in his bed, having come to Algiers on a twenty-four-hour visit to attend a Chamber of Commerce banquet in the Hôtel Saint-George. There was an agitated knock on his door, and a polite voice said: "Excuse me, Monsieur le Ministre, and please don't laugh. The palace has been seized by parachutists. Monsieur Morin thinks that you would prefer to receive them dressed, rather than in your bed. I assure you, it's not a joke…." Hastily dressing, Buron thought to himself: "What a mess!…I was only with Frey and Messmer [Ministers of the Interior and Defence respectively] yesterday afternoon; why didn't they know something was being prepared?" Buron found Morin and his staff under arrest, also by German-speaking Legionnaires who had "no precise orders and seemed not to know what to do with us". With remarkable incompetence, the putschists had also neglected to cut all the telephone lines from the Palais d'Été, so that Morin had managed to call Paris and many of the key command centres.
->
+> 
 > *XREF: Connects to the larger history of the Algerian War and the French army's insurgency against de Gaulle — the generals' putsch of April 1961.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1370</cite>
@@ -10255,7 +10256,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] An Algeria cut off from France could survive barely two weeks. [fact]
 > The least imposing of the quartet, Zeller, was an irascible sixty-three-year-old Alsatian (described by one writer as perpetually bearing "the ruffled look of an angry hen") who had huffily resigned from the army twice in the space of four years. Finally retired as Chief-of-Staff to the Ground Forces, he was regarded as an expert on logistics, but the report he now gave Challe was unexpectedly depressing: there was only three weeks' stock of medical supplies, milk and olive oil, while the vaults of the Banque de France were found to contain no more than twelve million dollars and less than a million dollars in gold and foreign currency. Zeller now reckoned that an Algeria boycotted by France could last little more than a fortnight — a considerable reduction on the three months bandied around before the generals left France — added to which, none of the potential foreign "allies" looked like coming forward with any kind of material aid.
->
+> 
 > *DEFINE: Zeller's figure sharply revises the earlier three-month estimate, framing the (mis)calculations behind the generals' planning.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1374</cite>
@@ -10267,7 +10268,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Generals refused to join the Algerian putsch due to loyalty dilemmas [fact]
 > As one after another senior officer faltered when confronted by the terrible dilemma of loyalty imposed on him by the rebels, a swift chain-reaction set in until all the generals in the Oranie command had pronounced against the putsch — or, at best, offered their inert neutrality.
->
+> 
 > *QUESTION: The interlocking personal relationships between French officers in Algeria (sons killed serving under each other) is striking — worth exploring how personal bonds shaped military conspiracies.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1375</cite>
@@ -10289,7 +10290,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Challe's 1961 putsch barely won Algiers region support [fact]
 > As the counting of heads was completed by the morning of Sunday, Day Two of the putsch, it was painfully clear to Challe that only Algiers and its surrounding region was totally reliable; while the units committed wholeheartedly to the revolt numbered chiefly the elitist para regiments.
->
+> 
 > *QUESTION: Which specific para regiments committed to the revolt, and how did their commitment compare to the regular army units' hesitation?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1378</cite>
@@ -10301,7 +10302,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Failed military putschists petered out after their leader's arrest [fact]
 > Possibly the true hero of that first stupefying day in France was Roger Frey, de Gaulle's Minister of the Interior. Acting with speed and vigour, he swooped to arrest the sporting General Faure and several other conspirators in flagrante, thereby nipping in the bud an attempt to march on the capital. For this purpose, on the evening of the 22nd some 1,800 lightly equipped paras were waiting in the Forest of Orléans, and another four hundred in the Forest of Rambouillet. Joining up with tank units from Rambouillet, they were to move in three columns on Paris, seizing the Élysée and other key points of the administration. But, organised by Godard, the whole venture had a strongly amateurish note about it, with some of the waiting putschists apparently unaware even of the codeword Arnat (a simple elision of Armée and Nationale). Once they were rendered leaderless by Faure's arrest, no orders came through until a detachment of gendarmes appeared in the forest and gave a brusque order to disperse, with which the powerful body of paras sheepishly complied.
->
+> 
 > *DEFINE: Arnat is explained as an elision of Armée and Nationale, the codeword for the putsch.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1384</cite>
@@ -10313,7 +10314,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian rebel forces lost their transport aircraft to French defections. [fact]
 > Perhaps the most humiliating blow to his prestige as an air force general was that — like the "god Hercules" deserting Mark Antony before Alexandria — Nicot and the air force had started defecting from the rebel cause. At the beginning of the putsch there had been forty-five big Noratlases and various other transports capable of ferrying two regiments, but one by one these now slipped off to France. Mystère fighters were sent up to patrol the Rhône valley, with orders to force down any rebel aircraft attempting to head for Paris. By Tuesday the 25th Algeria was virtually denuded of troop-carrying aircraft, even down to the hospital transports.
->
+> 
 > *XREF: Connects to military putsch history and how air superiority determines insurgency viability.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1388</cite>
@@ -10335,7 +10336,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A president's radio appeal swayed conscripts against a military coup. [causal]
 > More than any other single factor, however, what really decided the issue on that Monday, 24 April, was the remarkable impact that de Gaulle's speech of the previous night had had upon the conscripts and reservists in Algeria. In their tens of thousands they huddled round their transistor radios (the rebel generals having failed, as with so much else, to jam broadcasts from France), listening to the President's uncompromising call for obedience and loyalty to the state. It was, says one expert on the French army, Paul-Marie de la Gorce, "the first time in French military history that a chief of state appealed to troops over the heads of their rebellious superiors". Unconsulted by their officers, many of the rank-and-file had felt at least apathetic towards the putsch in the first place; there were also many, in inverted snobbery, who bore a resentment against the braggadocio of the paras — who got all the girls, the decorations and the fame, and tended to treat the "line" regiments with all the arrogance of elitism. Now de Gaulle's clearcut orders to use "all means" to stop the rebels, with their underlying threat of civil war, gave them essential moral reinforcement in their opposition. The President had absolved them of all disciplinary requirements to obey their seniors. To the waverers, here was an excuse now to be firm, and they in turn carried along those of their officers who had hitherto vacillated. Like wild-fire a kind of passive resistance spread. All over Algeria slogans appeared painted on the walls and roofs of army barracks, warning: "Don't count on the rank-and-file!" Signal units refused to pass on messages between the rebels; in Constantine arms depots were seized; in one rebel regiment a grenade was actually thrown into the colonel's command post. By the afternoon, as the exhausted and unhappy Challe noted, "failure was developing with a chain reaction". It was no exaggeration to call this turning-point of the putsch the "victory of the transistors".
->
+> 
 > *XREF: Connects to broader theories of how communication from leadership can undercut institutional hierarchy, and to accounts of how charismatic oratory affects loyalty.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1389</cite>
@@ -10347,7 +10348,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's radio address crushed the Algerian generals' putsch. [causal]
 > More than any other single factor, however, what really decided the issue on that Monday, 24 April, was the remarkable impact that de Gaulle's speech of the previous night had had upon the conscripts and reservists in Algeria. In their tens of thousands they huddled round their transistor radios (the rebel generals having failed, as with so much else, to jam broadcasts from France), listening to the President's uncompromising call for obedience and loyalty to the state. It was, says one expert on the French army, Paul-Marie de la Gorce, "the first time in French military history that a chief of state appealed to troops over the heads of their rebellious superiors". Unconsulted by their officers, many of the rank-and-file had felt at least apathetic towards the putsch in the first place; there were also many, in inverted snobbery, who bore a resentment against the braggadocio of the paras — who got all the girls, the decorations and the fame, and tended to treat the "line" regiments with all the arrogance of elitism. Now de Gaulle's clearcut orders to use "all means" to stop the rebels, with their underlying threat of civil war, gave them essential moral reinforcement in their opposition. The President had absolved them of all disciplinary requirements to obey their seniors. To the waverers, here was an excuse now to be firm, and they in turn carried along those of their officers who had hitherto vacillated. Like wild-fire a kind of passive resistance spread. All over Algeria slogans appeared painted on the walls and roofs of army barracks, warning: "Don't count on the rank-and-file!" Signal units refused to pass on messages between the rebels; in Constantine arms depots were seized; in one rebel regiment a grenade was actually thrown into the colonel's command post. By the afternoon, as the exhausted and unhappy Challe noted, "failure was developing with a chain reaction". It was no exaggeration to call this turning-point of the putsch the "victory of the transistors".
->
+> 
 > *XREF: Connects to broader understanding of how senior leaders can appeal directly to lower ranks to undermine mutinies and coup attempts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1389</cite>
@@ -10359,7 +10360,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France tested atomic bombs in the Sahara in 1961. [fact]
 > Down at In-Salah in the Sahara, on the Tuesday Robert Buron had been awakened by a heavy rumble in the distance. It was France's latest atomic bomb test at Reggane — an extraordinary demonstration of the realities of Gaullist power, in spite of the fact that in Algiers to the north the rebel generals were still in power.
->
+> 
 > *QUESTION: This is the Algerian crisis period. The juxtaposition of nuclear tests with the rebel generals controlling Algiers is striking — worth understanding how the French Fifth Republic pursued colonial warfare and nuclear power simultaneously.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1393</cite>
@@ -10381,7 +10382,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The 1st Foreign Legion Parachute Regiment was disbanded after mutinying against de Gaulle. [fact]
 > On Thursday the 27th twelve hundred "green berets" of the 1st R.E.P. pulled out forever from their base at Zéralda, en route for disgrace and disbandment. Before they went they had dynamited their barracks and fired off in the air all their remaining ammunition. Little was left behind but the gravestones — many of them bearing German-sounding names — of the more than 300 men the regiment had lost in the six years of campaigning against the F.L.N. As the Legionnaires drove off in their transports they bellowed out in a full-bodied roar the plaintive but brave words of Edith Piaf's "Je ne regrette rien". Watching them go, pieds noirs lining the route wept hopelessly. The revolt of the Centurions against de Gaulle was well and truly finished.
->
+> 
 > *FICTION: A poignant scene of a disbanded elite unit destroying its own base and singing Piaf as they leave could inspire a story about a defiant, doomed regiment's farewell.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1394</cite>
@@ -10393,7 +10394,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Historical coincidences can link seemingly unrelated political events. [fact]
 > By the most bizarre of coincidences, the day on which the putsch was decided — 12 April 1961 — was also the centenary of the day on which South Carolina batteries opened fire on Fort Sumter, thereby sparking off the American Civil War.
->
+> 
 > *XREF: Connects the April 1961 putsch (likely Algerian generals' coup) with the American Civil War centenary, both occurring on 12 April.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1397</cite>
@@ -10415,7 +10416,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Mentioning Si Salah at trial triggered an immediate closed session. [fact]
 > Challe told the author that when mention of Si Salah's name was made at Challe's trial, the Public Prosecutor immediately attempted to have the session held in camera.
->
+> 
 > *QUESTION: Why did the prosecutor push for secrecy at the mere mention of Si Salah's name? This suggests sensitive political or intelligence dimensions to the case.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1400</cite>
@@ -10427,7 +10428,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's radio commands crushed the generals' putsch [causal]
 > It is just conceivable that, if faced by one of the weak governments of the Fourth Republic, the rebels might have succeeded. But there were a number of good reasons why the generals' putsch had collapsed as swiftly as it did: it was planned with undue haste; its leaders gravely overestimated the appeal and influence that retired officers (even those as popular as Challe) can wield over ambitious serving officers; they refused to co-ordinate their plans with the pieds noirs "ultras"; they had no coherent long-range strategy; they miscalculated the encouragement they might expect abroad, and the mood of French civilians at home; and — above all — they failed to consider what might be the reactions of the rank-and-file of the army in Algeria. All these were contributory factors, yet undoubtedly none carried so powerful an impact as de Gaulle's stern commands for obedience to the rank-and-file over the heads of their leaders — the "Victory of the Transistors".
->
+> 
 > *XREF: Connects to French Fourth Republic history and the 1961 Algiers putsch; the 'Victory of the Transistors' neatly parallels modern narratives about media and mass communication trumping elite command.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1404</cite>
@@ -10449,7 +10450,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Failed military coups devastate public trust in armies. [causal]
 > In the aftermath of the putsch a public opinion poll indicated that now only twenty-four per cent of Frenchmen were confident they could "trust" their army. In Algeria the sense of let-down among the pieds noirs who had tacitly hoped for Challe's success was naturally enough immense. A gaping vacuum was left, which, in their despair, something grim and terrifying would have to fill.
->
+> 
 > *XREF: Parallels with trust collapse following recent failed insurrection attempts in democratic states, where institutions' credibility suffers alongside the plotters.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1406</cite>
@@ -10461,7 +10462,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Military collapse actually strengthened the FLN's bargaining position. [causal]
 > In practicable terms, the failed putsch meant that de Gaulle now had to abandon all hope of imposing on Algeria the kind of peace "by association with France" for which he had been hoping over the past months. The breaking of the army in Algeria and its ensuing demoralisation deprived de Gaulle of any tool for "enforcement". The April 1961 putsch, says Bernard Tricot, "made even more inevitable the result which it had wanted to prevent, at the same time reducing the chances of attaining it under acceptable conditions". It was abundantly clear that de Gaulle had now no option but to negotiate purposefully to end the war, but as the next round of negotiations approached it was equally clear just how weak his own bargaining hand had become — how strong that of the F.L.N.
->
+> 
 > *XREF: Counterintuitive dynamics where a party's own weakness emboldens its adversary—echoes of deterrence theory and conflict escalation literature.*
 > *FICTION: A general left without enforcement tools who must negotiate from weakness; strong setup for a political thriller or historical fiction about de Gaulle's redirection.*
 
@@ -10474,7 +10475,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The failed army putsch forced de Gaulle toward actual Algerian negotiations. [causal]
 > In practicable terms, the failed putsch meant that de Gaulle now had to abandon all hope of imposing on Algeria the kind of peace "by association with France" for which he had been hoping over the past months. The breaking of the army in Algeria and its ensuing demoralisation deprived de Gaulle of any tool for "enforcement". The April 1961 putsch, says Bernard Tricot, "made even more inevitable the result which it had wanted to prevent, at the same time reducing the chances of attaining it under acceptable conditions". It was abundantly clear that de Gaulle had now no option but to negotiate purposefully to end the war, but as the next round of negotiations approached it was equally clear just how weak his own bargaining hand had become — how strong that of the F.L.N.
->
+> 
 > *XREF: Connects to the general pattern where a military coup attempt paradoxically strengthens the side it opposes and radicalizes the political outcome.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1408</cite>
@@ -10496,7 +10497,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Soviet recognition of Algeria's rebels challenged French colonial policy [fact]
 > From the moment of the Muslim riots in December 1960, which had so shaken de Gaulle in his hopes and which had occasioned a real turning-point in the war, everything seemed to be going for the F.L.N. Both at home and abroad the pressures had been mounting on de Gaulle to make peace. In the United States John F. Kennedy, the avowed friend of Algerian independence, had become president and was soon leaning heavily on de Gaulle. If the pressure needed any adumbration, in 1961 United States military aid for France was to be reduced to a tiny fraction of its 1953 total. Since the Melun debacle of June 1960, the various travels by G.P.R.A. leaders in pursuit of Communist bloc support had begun to arouse increasingly substantial echoes — none of which was missed by de Gaulle, his ears especially sensitive to this particular threat. At the end of October, on the eve of the sixth year of the war, Ferhat Abbas had rejoiced: "We had need of allies, and now we have found them in Peking and Moscow."
->
+> 
 > *XREF: Cold War-era decolonization contexts and Soviet strategy of supporting anti-colonial movements during the 1960 UN General Assembly session.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1409</cite>
@@ -10508,7 +10509,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] By late 1960 the F.L.N. possessed strong international support. [fact]
 > From the moment of the Muslim riots in December 1960, which had so shaken de Gaulle in his hopes and which had occasioned a real turning-point in the war, everything seemed to be going for the F.L.N. Both at home and abroad the pressures had been mounting on de Gaulle to make peace. In the United States John F. Kennedy, the avowed friend of Algerian independence, had become president and was soon leaning heavily on de Gaulle. If the pressure needed any adumbration, in 1961 United States military aid for France was to be reduced to a tiny fraction of its 1953 total. Since the Melun debacle of June 1960, the various travels by G.P.R.A. leaders in pursuit of Communist bloc support had begun to arouse increasingly substantial echoes — none of which was missed by de Gaulle, his ears especially sensitive to this particular threat. At the end of October, on the eve of the sixth year of the war, Ferhat Abbas had rejoiced: "We had need of allies, and now we have found them in Peking and Moscow."
->
+> 
 > *XREF: Connects to US involvement in Algeria and Cold War pressures on de Gaulle's decolonization policy.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1409</cite>
@@ -10540,7 +10541,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secret Swiss diplomacy signaled de Gaulle's seriousness about Algerian negotiations. [fact]
 > In the new year of 1961, as soon as memories of the bitter December days in Algiers had begun to fade, the complex spider's web of pre-negotiations was spinning again. The ever-ready, helpful and hopeful Bourguiba was at Rambouillet in February, and a Swiss journalist close to the G.P.R.A. brought encouraging noises from Tunis. In great secrecy de Gaulle despatched his trusted banker friend, Georges Pompidou (whom he had called upon to help draw up his first cabinet back in 1958) to the quiet and bürgerlich Swiss cuckoo-clock city of Lucerne. It was not quite Pompidou's scene, nevertheless it provided an inconspicuous backdrop against which he could meet the jovial Algerian lawyer, Ahmed Boumendjel, who had led the unsuccessful talks at Melun the previous year. The two men got on well enough together, and the mere fact of Pompidou's presence was accepted by the main body of the G.P.R.A. as a measure of de Gaulle's seriousness.
->
+> 
 > *XREF: Connects to the broader narrative of the Algerian independence negotiations and de Gaulle's diplomatic maneuvering detailed elsewhere in this work.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1420</cite>
@@ -10552,7 +10553,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's last third-force gambit collapsed at the Evian talks. [fact]
 > On the day of the publication of simultaneous communiqués announcing the Evian talks, Louis Joxe, de Gaulle's Minister for Algeria, committed what looked like a major gaffe. He announced that he would "be meeting the M.N.A. in parallel with the F.L.N.". It was a last final attempt by France to resurrect the idea of a "third force" — and a thoroughly unsuccessful one. The G.P.R.A. exploded; here at the eleventh hour was France trying to turn the peace talks into a round-table affair; trying to do just what Ahmed Francis had always warned they would do — "produce a Bao-Dai out of a hat".
->
+> 
 > *XREF: Parallels with France's earlier Bao Dai strategy in Indochina, as the G.P.R.A. themselves allude.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1422</cite>
@@ -10564,7 +10565,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Evian negotiations began distinctively mid-luxe to soothe F.L.N. sensitivities [fact]
 > A sleepy spa on the French side of Lake Geneva, opposite Lausanne, Evian had been chosen carefully out of deference to F.L.N. susceptibilities, so that the Algerians should not feel themselves “prisoners in a golden cage” as they had within the confines of the prefecture at Melun the previous summer. In fact, if anything (it was indicative of trends) the Algerian delegates were accommodated in rather greater luxury than their French opposite numbers. Guests of the opulent Emir of Qatar at his charming and sumptuous Swiss chateau of Bois d’Avault, surrounded by lush meadows, the F.L.N. representatives were ferried each day across the lake to Evian by Swiss army helicopters.
->
+> 
 > *XREF: Relates to the broader Evian Accords history and Franco-Algerian decolonization narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1423</cite>
@@ -10616,7 +10617,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian independence negotiators signaled post-colonial property redistribution fears [fact]
 > Not unreasonably, Joxe and his colleagues found little for comfort here. Nor was Krim any more encouraging on the subject of European property. "Here is a people", he declared, "of whom several millions live in misery, and who after independence must not feel themselves still colonised." Land and property which had been "legitimately" acquired, said Krim, would be respected; but — coupled to the repeated F.L.N. declarations over the preceding seven years that all colonial-held assets would be expropriated and redistributed — the French negotiators found all this "rather disquieting".
->
+> 
 > *XREF: Connects to broader decolonization negotiations, such as French withdrawal from Indochina and other African colonies where settler property rights were contested.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1435</cite>
@@ -10648,7 +10649,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle rejected Algerian sovereignty over Saharan oil reserves. [fact]
 > With the "Statute for the Europeans" threatening to reach an impasse, Joxe switched to the question of the Sahara. But here the lines of disagreement were even more sharply etched. In simplest terms, the French view was that the Algerians had no more right to the vast desert under-belly than the Indians had to Texas. Pedantically, Joxe explained how the frontiers of the Sahara were purely artificial, created arbitrarily by French cartographers. Historically, geographically and racially it had never had any connection with Algeria, and what was understood by Algeria was that narrow strip bounded by the Atlas mountains and the Mediterranean; traditionally the Algerians, claimed Joxe, had always been drawn northwards rather than southwards. Meanwhile, France had consistently accorded the Sahara special status. It required only the minimum of cynicism to comment that, ten years previously, the fate of all those millions of hectares of barren and would not have occupied the conference table for five minutes, but now what was at stake was the untold wealth of the oil and gas beneath the surface. Vast sums of French capital had already been poured into its exploitation; the future prosperity of the Gaullist economy was predicated upon it. Altruistically, the French delegates at Evian expounded the intention of developing the Sahara resources for the benefit of all former French colonies adjacent. De Gaulle was adamant. "The petroleum, that's France and uniquely France," he told Joxe, adding: "The Algerian Sahara is a juridical and nationalist fiction devoid of any historical foundation." Equally immovable, the Algerian delegates declared: "The Sahara is an integral part of Algeria: there can be no discussion about the integrity of Algerian territory." It was the formula unaltered since the Soummam Conference of 1956.
->
+> 
 > *XREF: Connects to the broader decolonization conflicts over resource-rich territories, echoing similar positions elsewhere in postcolonial history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1437</cite>
@@ -10660,7 +10661,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France used fabricated history to justify claiming the Sahara. [fact]
 > With the "Statute for the Europeans" threatening to reach an impasse, Joxe switched to the question of the Sahara. But here the lines of disagreement were even more sharply etched. In simplest terms, the French view was that the Algerians had no more right to the vast desert under-belly than the Indians had to Texas. Pedantically, Joxe explained how the frontiers of the Sahara were purely artificial, created arbitrarily by French cartographers. Historically, geographically and racially it had never had any connection with Algeria, and what was understood by Algeria was that narrow strip bounded by the Atlas mountains and the Mediterranean; traditionally the Algerians, claimed Joxe, had always been drawn northwards rather than southwards. Meanwhile, France had consistently accorded the Sahara special status. It required only the minimum of cynicism to comment that, ten years previously, the fate of all those millions of hectares of barren and would not have occupied the conference table for five minutes, but now what was at stake was the untold wealth of the oil and gas beneath the surface. Vast sums of French capital had already been poured into its exploitation; the future prosperity of the Gaullist economy was predicated upon it. Altruistically, the French delegates at Evian expounded the intention of developing the Sahara resources for the benefit of all former French colonies adjacent. De Gaulle was adamant. "The petroleum, that's France and uniquely France," he told Joxe, adding: "The Algerian Sahara is a juridical and nationalist fiction devoid of any historical foundation." Equally immovable, the Algerian delegates declared: "The Sahara is an integral part of Algeria: there can be no discussion about the integrity of Algerian territory." It was the formula unaltered since the Soummam Conference of 1956.
->
+> 
 > *XREF: Parallels settler-colonial dispossession logic like manifest destiny over indigenous land in North America.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1437</cite>
@@ -10672,7 +10673,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France sought to exclude the Sahara from Algerian independence. [fact]
 > With the "Statute for the Europeans" threatening to reach an impasse, Joxe switched to the question of the Sahara. But here the lines of disagreement were even more sharply etched. In simplest terms, the French view was that the Algerians had no more right to the vast desert under-belly than the Indians had to Texas. Pedantically, Joxe explained how the frontiers of the Sahara were purely artificial, created arbitrarily by French cartographers. Historically, geographically and racially it had never had any connection with Algeria, and what was understood by Algeria was that narrow strip bounded by the Atlas mountains and the Mediterranean; traditionally the Algerians, claimed Joxe, had always been drawn northwards rather than southwards. Meanwhile, France had consistently accorded the Sahara special status. It required only the minimum of cynicism to comment that, ten years previously, the fate of all those millions of hectares of barren and would not have occupied the conference table for five minutes, but now what was at stake was the untold wealth of the oil and gas beneath the surface. Vast sums of French capital had already been poured into its exploitation; the future prosperity of the Gaullist economy was predicated upon it. Altruistically, the French delegates at Evian expounded the intention of developing the Sahara resources for the benefit of all former French colonies adjacent. De Gaulle was adamant. "The petroleum, that's France and uniquely France," he told Joxe, adding: "The Algerian Sahara is a juridical and nationalist fiction devoid of any historical foundation." Equally immovable, the Algerian delegates declared: "The Sahara is an integral part of Algeria: there can be no discussion about the integrity of Algerian territory." It was the formula unaltered since the Soummam Conference of 1956.
->
+> 
 > *XREF: Connects to French decolonization negotiations at Evian and the artificiality of colonial borders imposed on North Africa.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1437</cite>
@@ -10704,7 +10705,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Freed Algerian detainees quickly rejoined the insurgency. [fact]
 > In Algeria the F.L.N. called a general strike against the proposal of partition, beginning on 1 July and reaching a climax of violence on the 5th. Although Algiers and Constantine were the centres of rioting, the tide swept even such pied noir strongholds as Blida in the Mitidja. Accompanied by openly armed fellaghas, the Muslim mobs surged right into the European quarters. Some 35,000 French troops had to be called out, and by the time order had been restored eighty Muslims were dead and over 400 injured. This was almost immediately succeeded by a new offensive of F.L.N. terrorism, claiming eighteen dead and ninety-six wounded over one period of twenty-four hours. The discouraging revelation was also made that almost all of the 6,000 detainees released by de Gaulle as a douceur to the Evian talks had promptly rejoined the ranks of the revolt.
->
+> 
 > *QUESTION: The detainee release backfiring raises the question of why de Gaulle's goodwill gesture failed so predictably — was intelligence on who would rejoin the revolt available beforehand?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1440</cite>
@@ -10716,7 +10717,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Bourguiba's brinkmanship misjudged de Gaulle's willingness to yield. [causal]
 > Bourguiba’s motives remain somewhat obscure, but personal prestige seems to have played its part. After a series of poor harvests and economic misfortunes, his reputation at home was badly in need of a boost, while in the Arab world he may well have felt pressed to react to the outpourings over Nasser’s Radio Cairo, endlessly accusing him of having sold out to the West and of being a bad Arab. At the same time he was under pressure from his uncomfortable guests, the F.L.N., to do something more spectacular to force de Gaulle to make peace. Fed up with the way Evian had collapsed, he may also have wanted to prove to the Algerians that he too was a good radical nationalist. Whatever his motives, he seems to have believed that he could go right to the brink and de Gaulle — in his present state of debility — would yield. It was a tragic miscalculation, because — for that very reason — an obvious military challenge was something de Gaulle could not possibly countenance.
->
+> 
 > *XREF: Connects to patterns of overplaying one's hand in diplomacy and the logic of credibility under domestic pressure.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1442</cite>
@@ -10728,7 +10729,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonial forces crushed a Tunisian assault with disproportionate casualties. [fact]
 > But, if this was his aim, it was equally counter-productive. In disillusion Bourguiba remarked: "I had wanted little Tunisia to become the West's postage stamp on the African continent. Now all that is over." After Bizerta, it would take France a year even to re-establish diplomatic relations with Bourguiba; meanwhile, de Gaulle lost his one ally capable of exerting a moderating influence on the G.P.R.A. and of encouraging it to accept peace terms in any way beneficial to France. It was also Bourguiba who had done more than any other to persuade the F.L.N. to "play it cool" to offers of Eastern bloc aid. At the same time the alienation of Bourguiba now meant the abrupt end to de Gaulle's notions of "internationalising" the Sahara as a means of keeping it out of exclusively Algerian hands.
->
+> 
 > *QUESTION: Which specific battle/siege is this? Dates and names would clarify the historical context of this colonial conflict.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1443</cite>
@@ -10750,7 +10751,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Crushing military displays often precede negotiations to pressure opponents. [causal]
 > But, if this was his aim, it was equally counter-productive. In disillusion Bourguiba remarked: "I had wanted little Tunisia to become the West's postage stamp on the African continent. Now all that is over." After Bizerta, it would take France a year even to re-establish diplomatic relations with Bourguiba; meanwhile, de Gaulle lost his one ally capable of exerting a moderating influence on the G.P.R.A. and of encouraging it to accept peace terms in any way beneficial to France. It was also Bourguiba who had done more than any other to persuade the F.L.N. to "play it cool" to offers of Eastern bloc aid. At the same time the alienation of Bourguiba now meant the abrupt end to de Gaulle's notions of "internationalising" the Sahara as a means of keeping it out of exclusively Algerian hands.
->
+> 
 > *XREF: Parallels Nixon's 1972 bombing of Hanoi (Christmas Bombing) to pressure North Vietnam, and many other 'bargaining from strength' precedents.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1443</cite>
@@ -10772,7 +10773,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Army power within the F.L.N. rivaled political leadership [fact]
 > What was perhaps the F.L.N.’s most serious leadership crisis of the war now boiled down to a straightforward challenge by the army hard-liners—headed by Boumedienne and backed by the absentee Ben Bella — to the political leadership of the F.L.N. Boumedienne had achieved in very few months a remarkable restructuring of the army (now 35,000 strong), which accorded him its unconditional loyalty, and, further reinforced by the flow of heavy weapons from the Communist bloc, his power and authority had reached imposing heights and continued to rise. Throughout Evian and Lugrin he had kept up a harassing fire on Krim for being “soft” on the French; which, indeed, went far to account for Krim’s bouts of unanticipated intransigence. In addition, Boumedienne and the new young chiefs he had appointed under him were showing thoughts that extended beyond the métier, about the political future of independent Algeria. They considered that it should be markedly more Socialist-orientated and authoritarian than intended by Krim and the “old-guard” F.L.N. politicians.
->
+> 
 > *XREF: Connects to the broader pattern of post-independence military takeovers across decolonized states, where army factions with external weapon support overshadowed civilian political leadership.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1445</cite>
@@ -10784,7 +10785,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionaries publicly rejected their own leadership's authority [fact]
 > Condemning the "corrupted who sit at the head of the revolution", it spoke of "permanent abdication and the absence of authority … in one word, the most scandalous anarchy". In conclusion, Boumedienne pointedly threw out a bouquet to Ben Bella: "the glimmers of hope and confidence which remain to us go directly towards those who are in prison and who for us continue to be the arbiters". Boumedienne pledged to keep the resignations secret, but requested that the whole dispute be thoroughly aired at the forthcoming congress of the Conseil National de la Révolution Algérienne.
->
+> 
 > *DEFINE: The 'corrupted who sit at the head of the revolution' refers to the Algerian provisional government leadership that Boumedienne and his faction condemned.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1446</cite>
@@ -10826,7 +10827,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French economic aid policies unintentionally fueled competition threatening European settlers. [causal]
 > Tricot found a new threat to the European community in the form of economic competition; which, no doubt unintentionally and with the best of motives, French aid schemes bracketed under the Constantine Plan may have played their part in fomenting. As an example of what was happening, Tricot recalls being struck by the fate of two old French spinsters in the rural centre of Lafayette (in Kabylia) whose small general store had long held a monopoly; now Muslims had set up an identical one (probably financed by French Constantine Plan funds), which was solidly patronised by other Muslims, leaving the two old ladies deprived of custom and confronted with bankruptcy.
->
+> 
 > *XREF: Connects to broader postcolonial economic dynamics and the unintended consequences of development aid schemes.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1454</cite>
@@ -10838,7 +10839,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French aid unintentionally fueled economic competition threatening European settlers [causal]
 > Tricot found a new threat to the European community in the form of economic competition; which, no doubt unintentionally and with the best of motives, French aid schemes bracketed under the Constantine Plan may have played their part in fomenting. As an example of what was happening, Tricot recalls being struck by the fate of two old French spinsters in the rural centre of Lafayette (in Kabylia) whose small general store had long held a monopoly; now Muslims had set up an identical one (probably financed by French Constantine Plan funds), which was solidly patronised by other Muslims, leaving the two old ladies deprived of custom and confronted with bankruptcy.
->
+> 
 > *XREF: Connects to broader analysis of how well-intentioned colonial development programs created unintended consequences that destabilized the settler-Colonial order they aimed to protect.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1454</cite>
@@ -10850,7 +10851,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Massu's loyalty reportedly hinged on amnesty for Algerian war officers [fact]
 > It has often been alleged that, in the wake of the devastating riots that shook Paris in the May of that year, the loyalty promised by Massu (then commanding the army in Germany) was made conditional upon an amnesty for all his fellow-officers still atoning for sins committed during the Algerian war.
->
+> 
 > *QUESTION: Whether the amnesty deal actually occurred and how it shaped de Gaulle's decisions is contested political history worth digging into.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1455</cite>
@@ -10862,7 +10863,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The O.A.S. emerged from desperate pied noir counterterrorist groups. [fact]
 > Though its title had been invented by Lagaillarde and Susini while in exile in Madrid, the O.A.S. was actually the direct successor of those pied noir counter-terrorist organisations that had flourished ever since 1956. It had started its ugly new career with the assassination, in January 1961, of the young liberal Algiers lawyer, Maître Popie, following it up with the even more irrelevant killing of the mayor of Evian on the eve of the first peace talks there. Its first leaders came from the ranks of the "ultras" whom most of the para leaders — for all that they might share the same ideals of Algérie française — heartily despised. Now, however, born of despair, the O.A.S. attracted — in their despair — those regular officers, like Sergent, whom the failed putsch had turned into "fallen angels".
->
+> 
 > *DEFINE: Clarifies the origin and lineage of the O.A.S., distinguishing its true roots from its exiled Madrid title inventors.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1459</cite>
@@ -10894,7 +10895,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Salan's deputy assumed false identity and evaded capture [fact]
 > Under the rather transparent code-name of "Soleil bis", General Jouhaud took over as Salan's deputy. Having had the modest sum of 2,000 (old) francs pressed in his hand by Challe, on the night of the surrender Jouhaud had gone into hiding first near Zéralda, then moved steadily westwards. He equipped himself with false papers as "Louis Gerbert, born in Algiers, married in Bône and a widower", shaved his head, grew a bushy moustache, dyed it black, and donned spectacles.
->
+> 
 > *FICTION: The detail of a fugitive creating an elaborate false identity — shaved head, dyed moustache, invented biography — offers rich material for a spy thriller or character study.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1462</cite>
@@ -10926,7 +10927,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Paramilitary infrastructure mirrored rebel and anti-insurgency organizational models. [connection]
 > The infrastructure was modelled on a combination of the F.L.N. (which none had studied more closely than Godard) and the D.P.U.s (Dispositifs de Protection Urbaine) established by Trinquier and Godard during the Battle of Algiers to divide the city up into a grid. With comparable speed Godard managed to assemble and weld together within his organisation all the numerous "ultra" splinter-groups from the past — such as the F.A.F. and the F.N.F. — various freelance operators as well as the army deserters left stranded after the April putsch.
->
+> 
 > *XREF: Connects to broader patterns of how clandestine organizations copy adversary structures, learned from insurgent models.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1473</cite>
@@ -10938,7 +10939,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist violence designed to prevent compromise instead backfires catastrophically [causal]
 > What, then, was the overall aim of the O.A.S., in embarking upon what, by the summer of 1961, already looked like a lost cause? In simplest terms, it was to make it impossible for de Gaulle's representatives to govern in Algeria; beyond that, there was little coherent, or unified, thought. Though studiously vague at the time, Salan told the author in 1973: "I thought that we could somehow orient opinion in France towards some kind of solution like South Africa — a kind of Apartheid for Algeria." … But the O.A.S. was, as one of its chroniclers, Paul Henissart, remarks: "a very odd organisation, an uncooked pudding of conflicting freakish ideas and aspirations and principles". … If a common denominator in O.A.S. policy could be arrived at, it was to render peace talks impossible by killing off the remaining "men of good will", the moderates of both sides, and by random outrages against the Muslim population which would create an atmosphere in which neither negotiation nor compromise could exist. In this they would be eminently successful — but it would produce quite the opposite results from those desired.
->
+> 
 > *XREF: Parallels the well-documented failure of anti-peace spoiler violence in other conflicts, where killing moderates tends to radicalize the population rather than demoralize it.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1481</cite>
@@ -10950,7 +10951,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] O.A.S. leaders held radically divergent and contradictory aims for Algeria. [fact]
 > What, then, was the overall aim of the O.A.S., in embarking upon what, by the summer of 1961, already looked like a lost cause? In simplest terms, it was to make it impossible for de Gaulle's representatives to govern in Algeria; beyond that, there was little coherent, or unified, thought. Though studiously vague at the time, Salan told the author in 1973: "I thought that we could somehow orient opinion in France towards some kind of solution like South Africa — a kind of Apartheid for Algeria." … But the O.A.S. was, as one of its chroniclers, Paul Henissart, remarks: "a very odd organisation, an uncooked pudding of conflicting freakish ideas and aspirations and principles". … If a common denominator in O.A.S. policy could be arrived at, it was to render peace talks impossible by killing off the remaining "men of good will", the moderates of both sides, and by random outrages against the Muslim population which would create an atmosphere in which neither negotiation nor compromise could exist. In this they would be eminently successful — but it would produce quite the opposite results from those desired.
->
+> 
 > *XREF: Factional movements with incompatible internal visions — parallels to many revolutionary coalitions in the reader's broader study.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1481</cite>
@@ -10962,7 +10963,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] OAS leaders envisioned an apartheid system for Algeria. [fact]
 > What, then, was the overall aim of the O.A.S., in embarking upon what, by the summer of 1961, already looked like a lost cause? In simplest terms, it was to make it impossible for de Gaulle's representatives to govern in Algeria; beyond that, there was little coherent, or unified, thought. Though studiously vague at the time, Salan told the author in 1973: "I thought that we could somehow orient opinion in France towards some kind of solution like South Africa — a kind of Apartheid for Algeria." … But the O.A.S. was, as one of its chroniclers, Paul Henissart, remarks: "a very odd organisation, an uncooked pudding of conflicting freakish ideas and aspirations and principles". … If a common denominator in O.A.S. policy could be arrived at, it was to render peace talks impossible by killing off the remaining "men of good will", the moderates of both sides, and by random outrages against the Muslim population which would create an atmosphere in which neither negotiation nor compromise could exist. In this they would be eminently successful — but it would produce quite the opposite results from those desired.
->
+> 
 > *XREF: Connects to broader decolonization histories like Rhodesia and South Africa's apartheid era.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1481</cite>
@@ -10974,7 +10975,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] O.A.S. members pursued divergent, often fantasy-driven visions for Algeria. [fact]
 > What, then, was the overall aim of the O.A.S., in embarking upon what, by the summer of 1961, already looked like a lost cause? In simplest terms, it was to make it impossible for de Gaulle's representatives to govern in Algeria; beyond that, there was little coherent, or unified, thought. Though studiously vague at the time, Salan told the author in 1973: "I thought that we could somehow orient opinion in France towards some kind of solution like South Africa — a kind of Apartheid for Algeria." … But the O.A.S. was, as one of its chroniclers, Paul Henissart, remarks: "a very odd organisation, an uncooked pudding of conflicting freakish ideas and aspirations and principles". … If a common denominator in O.A.S. policy could be arrived at, it was to render peace talks impossible by killing off the remaining "men of good will", the moderates of both sides, and by random outrages against the Muslim population which would create an atmosphere in which neither negotiation nor compromise could exist. In this they would be eminently successful — but it would produce quite the opposite results from those desired.
->
+> 
 > *XREF: Connects to the broader history of decolonization and settler-colonial movements seeking racial segregation models.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1481</cite>
@@ -10986,7 +10987,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Escalating violence can backfire and produce opposite political results. [causal]
 > What, then, was the overall aim of the O.A.S., in embarking upon what, by the summer of 1961, already looked like a lost cause? In simplest terms, it was to make it impossible for de Gaulle's representatives to govern in Algeria; beyond that, there was little coherent, or unified, thought. Though studiously vague at the time, Salan told the author in 1973: "I thought that we could somehow orient opinion in France towards some kind of solution like South Africa — a kind of Apartheid for Algeria." … But the O.A.S. was, as one of its chroniclers, Paul Henissart, remarks: "a very odd organisation, an uncooked pudding of conflicting freakish ideas and aspirations and principles". … If a common denominator in O.A.S. policy could be arrived at, it was to render peace talks impossible by killing off the remaining "men of good will", the moderates of both sides, and by random outrages against the Muslim population which would create an atmosphere in which neither negotiation nor compromise could exist. In this they would be eminently successful — but it would produce quite the opposite results from those desired.
->
+> 
 > *XREF: Parallels other cases where terror and provocation strategies backfired, such as the IRA's sectarian violence hardening the Troubles.*
 > *QUESTION: What specific opposite results did the OAS's random outrages produce in Algeria and in French opinion?*
 
@@ -10999,7 +11000,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian war factions timed killings around civilian commute hours [fact]
 > With the onset of the summer heat tempers were rising violently, and a deadly pattern established itself, with the F.L.N. generally killing between 5 a.m. and 9 a.m., so as to catch victims on their way to work, the O.A.S. Deltas carrying out their opérations ponctuelles in the evening when their victims were returning from work.
->
+> 
 > *XREF: Connects to patterns of targeted urban violence and assassination timing in other colonial/insurgency conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1484</cite>
@@ -11011,7 +11012,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Marginalized groups turn to extremists out of fear and despair [causal]
 > By and large the pieds noirs were led to believe and trust in the O.A.S. as an organisation protecting their interests, just as the F.L.N. had fought so successfully for Muslim interests over the past seven years. In their growing despair, and with principles distorted by the isolation in which they had so long existed, perfectly decent citizens turned to the O.A.S. to reverse the trend of history. Much as the German working classes had flocked to the Nazi party in the 1930s out of fear of the Bolshevik bogey, so the poor whites — the petits blancs — in particular now rallied strongly to the O.A.S.
->
+> 
 > *XREF: Parallels the author is drawing between OAS support in Algeria and Nazi support in 1930s Germany — a comparison worth tracking back to.*
 > *QUESTION: Is the historical analogy between the OAS and the Nazi party sound, or does it flatten meaningful differences between the two movements?*
 
@@ -11034,7 +11035,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] OAS thrived in Algiers despite 25,000 available security forces. [fact]
 > For many months the Algiers authorities displayed a disturbing impotence to cope with the O.A.S., despite the more than 25,000 gendarmes and C.R.S. available to them. The problems facing them were, admittedly, immense. In the larger part of Algiers and Oran the O.A.S. enjoyed the same advantages of being the “fish in water” among a sympathetic population that helped make the F.L.N. so elusive over the country as a whole. As with Yacef’s network in the Casbah before the Battle of Algiers, the adjacent poor white district of Bab-el-Oued now became a virtually impenetrable citadel for the O.A.S. There was also a worrisome question of loyalties. Following the collapse of the April putsch, General Ailleret estimated that — while ten per cent of his officers were prepared to fight against the O.A.S. — ten per cent were actively favourable to it, and the remaining eighty per cent neutral and unlikely to obey orders to fire upon the army deserters with the O.A.S.
->
+> 
 > *XREF: Parallels the 'fish in water' dynamics of insurgent urban networks elsewhere, notably the FLN's Casbah network.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1491</cite>
@@ -11046,7 +11047,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] An informer exposed the O.A.S. courier network. [fact]
 > Morin’s chief card was Commissaire Louis Grassien, sent from the Rheims police, who had formed a tiny anti-O.A.S. squad of ten trustworthy men. After weeks of patient work Grassien managed to sketch out an organnigramme of the O.A.S. — similar to that which Godard had composed of Yacef’s networks during the Battle of Algiers. He had managed to identify most of the O.A.S. leaders, but had proved incapable of tracking down a single one. Then, in September, a break came. An Italian ex-Legionnaire, “Pino”, turned informer and led Grassien to Godard’s hideout. That expert on underground techniques proved (as he always would) too elusive, but notes found in the raid revealed the name of one Maurice Gingembre, an important O.A.S. courier plying between Madrid, Paris and Algiers.
->
+> 
 > *QUESTION: How did Grassien's organigramme approach compare in effectiveness to Godard's, and what made the O.A.S. so much harder to track down concretely?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1493</cite>
@@ -11058,7 +11059,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Informant revelations nearly destroyed the O.A.S. leadership network [fact]
 > The O.A.S. network in metropolitan France probably never recovered from Gingembre’s revelations, while in Algeria networks throughout the western region were smashed; Godard’s secretary was captured, but he himself once again escaped. As Susini later admitted: “The O.A.S. general staff as a whole was almost arrested. Liaison was broken off; some of our agents abruptly disappeared; for two weeks the wheels of the Resistance stopped turning. We barely escaped total disaster.”
->
+> 
 > *FICTION: The dramatic near-capture of an entire underground network's leadership — wheels stopping for two weeks, agents disappearing — is prime material for spy thriller or resistance narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1493</cite>
@@ -11080,7 +11081,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Secret wars inside governments can rival the main conflict. [fact]
 > The episodes marked the beginning of what was in effect a kind of civil war, and another of those “secret wars” fought behind the scenes of the main battle-front — savage, mean and without quarter — of which the first round had been won by the O.A.S. For the time being they appeared once again masters of Algiers.
->
+> 
 > *XREF: Parallels the internal O.A.S. struggles in French Algeria with similar shadow conflicts seen elsewhere in political and colonial history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1495</cite>
@@ -11092,7 +11093,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A pro-de Gaulle political group used state-supplied explosives against opponents. [fact]
 > A clue to its identity might have been gained from a rash of anti-O.A.S. posters that had appeared overnight throughout Algiers, to the surprise of its inhabitants, and bearing the initials M.P.C. The Mouvement pour la Communauté had been launched earlier in the year to boost de Gaulle’s Algerian policy, receiving substantial funds from Morin’s Délégation-Générale for its activities. Though its function was essentially political, with the growing ascendance of the O.A.S. its secretary-general in Algiers, a former radio producer called Lucien Bitterlin, decided that something more than words was now called for. He began gathering around him a group of strong-arm men. Bitterlin claims he did not demur when a colonel in Military Security branch supplied him with weapons, explosives and permits to move about during the curfew, and asked him to “plastiquer several activist cafés in Algiers” — in itself an extraordinary revelation of the state of anarchy and lawlessness already prevailing in the cities of Algeria.
->
+> 
 > *XREF: Connects to the broader narrative of O.A.S. and state-sponsored violence in Algeria during the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1496</cite>
@@ -11104,7 +11105,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Anti-O.A.S. groups will operate outside classical military hierarchy. [fact]
 > The new anti-O.A.S. formations will not belong to any classical hierarchy. They will be autonomous organisms, not subject to normal authority…. They will act largely outside the army and the police.
->
+> 
 > *DEFINE: Describes the organizational structure of the new anti-O.A.S. formations — autonomous, non-hierarchical cells outside normal army and police authority.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1497</cite>
@@ -11126,7 +11127,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Bitterlin's irregulars were amateur compared to rival counter-terrorists. [fact]
 > By comparison with Degueldre’s highly trained and ruthless army deserters and the veteran pied noir counter-terrorists of Pérez, Bitterlin’s barbouzes were a motley and amateurish crew. Their nucleus consisted of Jim Alcheik, a Jewish-Tunisian karate champion, and eight judo black belts he had brought with him; four Vietnamese expert in torture (which they not infrequently used), but who stood out like sore thumbs in the Algiers scene; and a mixture of pieds noirs of Jewish origin, Gaullist party “bouncers” and untrained muscle-men. None of them was a match for Degueldre’s Deltas, by whom they were almost immediately identified before even going into action.
->
+> 
 > *XREF: Painting the personnel composition of irregular paramilitary forces, comparable to other covert group profiles in the reader's library.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1499</cite>
@@ -11138,7 +11139,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A hidden Algerian police office led a five-month hunt for the O.A.S. [fact]
 > For Hacq, installed in an office inside the Algiers Police School under the name of “Professor Ermelin”, there now began a five-months’ methodical and relentless hunt, ending only when the O.A.S. had been tracked down. For Bitterlin and his barbouzes it almost immediately opened with disaster. Within three days of his having established Jim Alcheik’s team in a rented villa in the Chemin Raynaud, Bitterlin was ambushed by four Deltas. His driver was badly wounded in the abdomen, while Bitterlin received superficial shoulder wounds; but for the heavy steel of the old Mercedes in which they were driving they would both probably have been riddled with bullets.
->
+> 
 > *XREF: Connects to the reader's broader knowledge of the OAS conflicts during the Algerian War and French counter-espionage operations.*
 > *FICTION: The cover identity and villa-set ambush dynamics could seed spy-thriller material.*
 
@@ -11151,7 +11152,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Booby-trapped crates killed nineteen anti-OAS operatives in Algiers [fact]
 > The previous day Jim Alcheik's printing press had arrived in a heavy crate; instead of a press, however, it contained a devastating booby-trap which Degueldre had devised himself, consisting of ninety kilos of assorted explosive, with detonators secured to the planks of the packing case by parachute silk thread. Alcheik hastened to prise open the crate; there was an earth-shaking explosion, and the three-storey building disintegrated in dust. Alcheik, the karate champion, was blown to pieces and another eighteen barbouzes died in the blast; two survived by a miracle. Hanging in tatters from one of the few standing walls was one of Alcheik's M.P.C. posters, proclaiming: "Neither suitcase, nor coffin, but co-operation!"
->
+> 
 > *FICTION: A booby-trapped printing press packed with explosives and detonated by parachute silk makes a striking set-piece for a thriller or espionage narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1503</cite>
@@ -11163,7 +11164,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Civilians mobbed and burned trapped security agents in Algiers [fact]
 > Hacq now decided that the remaining barbouzes had to be got out of the country, but once again Degueldre struck first. The last barbouze detachment of twenty-five men was trapped in a seedy hotel and submitted to a siege continuing forty-eight hours without the Algiers police making any effort to intervene. Four survivors tried to break out by car to get a wounded comrade to hospital, but were shot up on the way. Out of control, their car ran into a wall, and a terrible scene now took place. Pied noir occupants of the neighbouring apartment blocks rushed up, prevented the injured men from getting out of the car, then set fire to it and danced jubilant round the flaming pyre.
->
+> 
 > *FICTION: The image of a crowd dancing around a flaming car is a powerful, visceral scene usable in fiction or nonfiction narratives about mob violence and breakdown of state control.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1504</cite>
@@ -11175,7 +11176,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Barbouzes intentionally served as bait to lure the O.A.S. [causal]
 > The operation had been a disastrous failure; on the other hand, information provided by it had enabled Hacq’s professionals to arrest some 600 members of the O.A.S., including sixty-nine killers. Later, Pérez himself admitted that attacking the barbouzes had been a big tactical error: “They were too easy. They were sent to Algiers specifically to be killed — to distract the O.A.S. from getting on with its main job…. We fell into the trap … Godard in fact warned us against it. He was right.”
->
+> 
 > *XREF: Connects to how decoys and sacrificial units operate in counterinsurgency and asymmetric warfare more broadly.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1505</cite>
@@ -11197,7 +11198,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algiers' post-war violence eclipsed even Chicago's Prohibition-era killings [contrarian]
 > Uncannily, the two cities had acquired many of the siege aspects so brilliantly described by Camus in his grim novel, La Peste (first published in 1947), based upon a plague-ridden Oran. The fictitious plague, writes Camus, “had swallowed up everything and everyone. No longer were there individual destinies; only a collective destiny, made of plague and the emotions shared by all.” As in Camus’ Oran, in Algiers alone more than 200 check-points were set up to examine papers and control movements within the city. Trolley-bus windows bore heavy metal grilles to protect against the random grenade; a curfew emptied the streets of vehicles from 9 p.m. onwards, and at 1 a.m. the public lighting was extinguished, plunging the city into darkness.
->
+> 
 > *XREF: Contrasts the glamorized 'Roaring Twenties' Chicago crime myth with the far deadlier reality of postwar Algiers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1506</cite>
@@ -11209,7 +11210,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algiers mirrored Camus's fictitious plague-ridden Oran in wartime measures. [connection]
 > Uncannily, the two cities had acquired many of the siege aspects so brilliantly described by Camus in his grim novel, La Peste (first published in 1947), based upon a plague-ridden Oran. The fictitious plague, writes Camus, “had swallowed up everything and everyone. No longer were there individual destinies; only a collective destiny, made of plague and the emotions shared by all.” As in Camus’ Oran, in Algiers alone more than 200 check-points were set up to examine papers and control movements within the city. Trolley-bus windows bore heavy metal grilles to protect against the random grenade; a curfew emptied the streets of vehicles from 9 p.m. onwards, and at 1 a.m. the public lighting was extinguished, plunging the city into darkness.
->
+> 
 > *XREF: Compares actual wartime Algiers to Camus's novel La Peste, which Camus himself modeled on Oran partly under occupation/plague conditions.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1506</cite>
@@ -11221,7 +11222,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Camus' fictional plague city mirrored real wartime Algiers' siege measures [connection]
 > Uncannily, the two cities had acquired many of the siege aspects so brilliantly described by Camus in his grim novel, La Peste (first published in 1947), based upon a plague-ridden Oran. The fictitious plague, writes Camus, “had swallowed up everything and everyone. No longer were there individual destinies; only a collective destiny, made of plague and the emotions shared by all.” As in Camus’ Oran, in Algiers alone more than 200 check-points were set up to examine papers and control movements within the city. Trolley-bus windows bore heavy metal grilles to protect against the random grenade; a curfew emptied the streets of vehicles from 9 p.m. onwards, and at 1 a.m. the public lighting was extinguished, plunging the city into darkness.
->
+> 
 > *XREF: Parallels the fictional plague in La Peste with the real urban siege conditions of wartime Algiers, connecting literary vision to lived history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1506</cite>
@@ -11243,7 +11244,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] FLN insurgents committed ever more gruesome atrocities during the Algerian war. [fact]
 > Spurred on by the atrocities of the O.A.S., individual F.L.N. killings reached a new level of horror; a Jewish Algerian, sympathising with the F.L.N., told the author how "they killed a shop inspector in his car, a man who had never done anything to anyone. They sliced open his skull, took out his brains and carefully placed them on the ground — like a milestone on the roadside." The twenty-year-old son of her friend was kidnapped and found the next day in their rubbish bin: "bled white, because the F.L.N. needed the blood for their own wounded". Gruesomely improbable as this story sounded, it received some supporting evidence in the last month of the war when forty-one European bodies were discovered in an Oran abattoir, drained of blood.
->
+> 
 > *QUESTION: The 'bled white' account is flagged as 'gruesomely improbable,' and the abattoir evidence is presented as partial support. Worth verifying how much independent corroboration exists for these atrocity claims versus wartime propaganda.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1512</cite>
@@ -11255,7 +11256,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] O.A.S. violence deliberately inflamed hatred between Algerian communities. [causal]
 > As the new year began, the O.A.S. were well on the way to succeeding in both its self-immolatory aims of bringing about a state of ungovern-ability in Algiers and Oran, and of creating a gulf of hatred between Muslim and European. After his trip to Algeria the previous autumn, Bernard Tricot had already observed how the O.A.S. violence and the F.L.N. riposte had resulted in “an alienation between the two communities which I had never previously detected”; and it existed “precisely where the European population was strongest, and where a possible partition could have created a French enclave”.
->
+> 
 > *XREF: Connects to broader patterns of decolonization violence where paramilitary groups provoke ethnic polarization to prevent negotiated settlement or partition.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1513</cite>
@@ -11267,7 +11268,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] CIA allegedly offered Salan arms for a Rhodesia-like settler state [fact]
 > First of all, there was the much-bruited connection between the O.A.S. and the C.I.A., which remains only partially explained to this day. According to the story which seems to have originated with Susini, though he does not mention it in his memoirs, Salan in November 1961 had a personal approach from a senior C.I.A. official based in France, offering arms and material to equip a force of 50,000 men. In exchange, Salan was to cede military bases and preferential economic treatment (i.e. access to Saharan oil) in the event of his success in creating an independent, pied noir-dominated state along the lines of Rhodesia. Today such a notion may seem fanciful beyond the realms of credibility; but it is worth remembering that in November 1961 the O.A.S. looked very much as if they were winning the battle, while a peace agreement between de Gaulle and the F.L.N. seemed further away than ever, and his own life a poor insurance risk.
->
+> 
 > *QUESTION: The connection between the OAS and CIA has never been fully explained. Worth chasing primary sources on the Susini story, though even its originator did not mention it in his memoirs.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1514</cite>
@@ -11289,7 +11290,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French official regarded O.A.S. as Algeria's genuine third force. [fact]
 > Among its active allies in France the O.A.S. would have liked to number the Vincennes Committee. Formed in 1960 by de Gaulle's disenchanted one-time aide, Jacques Soustelle, the Committee embraced such disparate figures as Georges Bidault; Bachaga Boualem; Bourgés-Maunoury; André Morice; Cornut-Gentille (Gaullist ex-minister); Léon Delbecque (Gaullist "antenna" in Algiers, pre-1958); and Robert Lacoste. All were bound by a common dedication to Algérie française.
->
+> 
 > *QUESTION: A provocative stance — why would a government official elevate a condemned terrorist organization to legitimate negotiating partner status? Worth understanding the political pressures behind this.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1518</cite>
@@ -11301,7 +11302,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Vincennes Committee rallied Gaullist dissidents for Algérie française. [fact]
 > Among its active allies in France the O.A.S. would have liked to number the Vincennes Committee. Formed in 1960 by de Gaulle's disenchanted one-time aide, Jacques Soustelle, the Committee embraced such disparate figures as Georges Bidault; Bachaga Boualem; Bourgés-Maunoury; André Morice; Cornut-Gentille (Gaullist ex-minister); Léon Delbecque (Gaullist "antenna" in Algiers, pre-1958); and Robert Lacoste. All were bound by a common dedication to Algérie française.
->
+> 
 > *DEFINE: Clarifies what the Vincennes Committee was: a 1960 pro-Algérie française coalition of varied former Gaullist figures.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1518</cite>
@@ -11313,7 +11314,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist provocation aimed to sway opinion but backfired disastrously. [causal]
 > Accepting that from the beginning the dice were loaded against him, Sergent reckoned that "our only chance to swing in our favour a significant section of metropolitan opinion is to create a situation obliging the regime to react violently and discredit itself". It was the traditional formula of the modern revolutionary terrorist, whether Tupamaros or Baader-Meinhof, and — as so often happens — it was to produce quite the opposite results from those desired by Sergent. Over the six months, culminating in February, that the main O.A.S. offensive in France lasted, it was to do as much as anything else to tilt French sympathies towards de Gaulle's acceptance of a precipitate withdrawal from Algeria.
->
+> 
 > *XREF: Echoes the classic provocation paradox seen in Baader-Meinhof and other insurgency failures, where violent provocation rallied publics to the state.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1523</cite>
@@ -11325,7 +11326,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Violence aimed at provoking reaction often backfires on revolutionaries. [contrarian]
 > Accepting that from the beginning the dice were loaded against him, Sergent reckoned that "our only chance to swing in our favour a significant section of metropolitan opinion is to create a situation obliging the regime to react violently and discredit itself". It was the traditional formula of the modern revolutionary terrorist, whether Tupamaros or Baader-Meinhof, and — as so often happens — it was to produce quite the opposite results from those desired by Sergent. Over the six months, culminating in February, that the main O.A.S. offensive in France lasted, it was to do as much as anything else to tilt French sympathies towards de Gaulle's acceptance of a precipitate withdrawal from Algeria.
->
+> 
 > *XREF: The 'provoke the state into overreaction' strategy recurs across revolutionary movements (Tupamaros, Baader-Meinhof), yet here it produces the opposite effect — a useful pattern to trace across cases beyond the OAS.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1523</cite>
@@ -11337,7 +11338,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] OAS leaders justified attacks on French Communists through Algeria-era logic. [causal]
 > Sergent's reasoning, echoing the self-deception that had haunted the French army all the way through the Algerian war, was that ever since 1954 the Communists had never ceased to be the principal ally of the F.L.N., and now "to live in peace with French Communism while carrying on the war with the Algerian rebels was and remains a nonsense or a treason". A second, and perhaps even more naïve aim, was to force the Gaullists into an impossible position of either choosing to tolerate the angry reactions of the French Communist Party when attacked by the O.A.S., thus appearing as its accomplice, or to confront it and risk a breach with the Left.
->
+> 
 > *DEFINE: Clarifies the O.A.S.'s political reasoning: it saw French Communists as de facto FLN allies, making attacks on them consistent with the Algerian war.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1526</cite>
@@ -11359,7 +11360,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Police violence during the riot killed eight demonstrators and injured over 100. [fact]
 > On the following Tuesday, 13 February, a silent and solemn procession bearing wreaths and estimated at half a million strong marched behind the eight coffins to Père Lachaise cemetery, the sanctum of the martyrs of the French Left from the Commune of 1871 onwards. Nothing like it had been seen in Paris since the bloody days of civil revolt of February 1934; some reckoned the funeral procession to be the biggest street turnout since the Liberation.
->
+> 
 > *XREF: Connects to broader understanding of French interwar political violence between police and leftist demonstrators.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1529</cite>
@@ -11381,7 +11382,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French public apathy toward Algeria peaked by late 1961. [fact]
 > Already, well before the O.A.S. campaign and its ugly climax, the outlook towards Algeria of the French majority had passed through phases of disenchantment and cynicism to reach one of pure apathy. By the latter part of 1961 it was approaching that of the “don’t-want-to-know” British over Northern Ireland in the mid-1970s. Algeria had been in the headlines just too long; the country was fed up with rebellious generals, raucous pieds noirs, murderous fellaghas, anti-French diatribes at the United Nations and fruitless peace talks. Once again there were many more immediate problems at home demanding attention. There was more discontent on the social scene. Because of the rate of inflation, the syndicats were angered by a wage increase limited to only 2.25 per cent, and December saw a new spate of strikes in the public sector.
->
+> 
 > *XREF: Parallels British 'don't-want-to-know' apathy over Northern Ireland in the mid-1970s — a useful comparative lens between imperial-era fatigue and domestic conflict fatigue.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1537</cite>
@@ -11393,7 +11394,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle dropped Algerian idealism to accept a pragmatic deal. [fact]
 > De Gaulle was now determined to get rid of the “Algerian problem” at the earliest possible date. Like Henry Kissinger with Vietnam in 1973, he was a man in a hurry. Nothing else mattered. “Francisation”, “association”, all such idealistic formulae had long since been abandoned; now any claim to the Sahara must be sacrificed, and the best deal possible accepted for the pieds noirs.
->
+> 
 > *XREF: Parallels Kissinger's approach to Vietnam in 1973 — both leaders abandoned idealistic frameworks for urgent, pragmatic settlement.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1543</cite>
@@ -11415,7 +11416,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Internal Algerian rivalries threatened negotiations with France [fact]
 > As usual, the G.P.R.A. also had its own complex, internal motives for speeding negotiations. Though characteristically reticent on the subject of rifts within the Algerian camp — and, especially, the role played by Boumedienne — Ben Khedda himself admits the significance of the tensions existing at the time: "Our greatest danger was that, because of the O.A.S., anybody treating with the French might be regarded as a traitor by his own side." As the final negotiations approached, the line-up seemed to be Boumedienne and the General Staff versus the "politicos", as represented by Krim, with Ben Khedda generally siding with the latter.
->
+> 
 > *XREF: Connects to broader decolonization history and split nationalist movements (FLN factions, colonial resistance coalitions).*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1549</cite>
@@ -11437,7 +11438,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Salan's general mobilization drove Algeria's February death toll to 553 [fact]
 > To step up the offensive, Salan had ordered the "general mobilisation" of the whole French population of Algeria. Special "courts" were set up to "sanction" those refusing to co-operate; a "sanction" generally meant being turned over to Degueldre's Deltas. By the end of February the death toll had risen to 553 for the one month. A grim pall of fear had settled over all Algiers, European and Muslim alike.
->
+> 
 > *QUESTION: The OAS's coercive mobilization and arbitrary 'courts' suggest a brutal civic terror campaign worth examining further for how paramilitary groups maintain civilian compliance.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1563</cite>
@@ -11449,7 +11450,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Strikes on Algerian bases echoed the influential 1958 Sakiet raid. [fact]
 > In itself it was indicative of the growing anarchy in Algeria. The "Ben M'hidi" base contained some ten thousand people, including refugees and a hospital centre equipped by Yugoslavia and East Germany and well marked by a red cross. With unfortunately directed aim, bullets from the T.6s killed a wounded man actually on the operating table and a nurse tending him. Three others in the base were slain and several wounded. The raid bore a close resemblance to the Sakiet raid of 1958, which had had so profound an influence on the course of the war. This time, however, the F.L.N. gritted its teeth and with remarkable restraint said nothing — at least for the time being.
->
+> 
 > *XREF: The 1958 Sakiet raid's profound influence on the Algerian war's course connects to broader patterns of how single military events can shift political dynamics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1565</cite>
@@ -11461,7 +11462,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial policy deliberately targeted educated Muslim professionals to cripple resistance. [fact]
 > On another front, the objective was "to destroy the best Muslim elements in the liberal professions so as to oblige the Muslim population to have recourse to ourselves". It seemed characteristically twisted thinking.
->
+> 
 > *XREF: This echoes other colonial divide-and-rule strategies and the systematic targeting of leadership classes across colonized territories.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1575</cite>
@@ -11473,7 +11474,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Militant groups wage terror to paralyze state authority entirely. [causal]
 > The overall target was to paralyse the powers that be and make it impossible for them to exercise authority. Brutal actions will be generalised over the whole territory. They will aim at influential personalities of the Communist Party, at works of art and all that represents the exercise of authority, in a manner to lead towards the maximum of general insecurity and the total paralysis of the country. … It was nothing less than a formal declaration of war against the authority of France, and as such was bound to lead to a direct confrontation between the O.A.S. and the army.
->
+> 
 > *XREF: Strategy of generalized insecurity to paralyze authority echoes similar insurgent playbooks described elsewhere in the text.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1576</cite>
@@ -11485,7 +11486,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Settler terrorism and retaliation drove de facto apartheid in Algiers. [causal]
 > On 24 February, following the killing by the F.L.N. of a Bab-el-Oued taxi-driver, a pied noir mob trapped a score of Muslim workers in a cul-de-sac and stabbed and beat them to death. Increasingly a kind of apartheid, which had never previously existed, was growing up in the cities as Muslim workers declined to enter the European quarters — and vice versa.
->
+> 
 > *QUESTION: The phrase 'which had never previously existed' suggests pre-war Algiers was less segregated — worth exploring how quickly colonial cities hardened into separation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1578</cite>
@@ -11517,7 +11518,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] O.A.S. murdered six educators including Mouloud Feraoun in Algiers [fact]
 > Then, on 15 March, the day after the stickiest session at Evian, the O.A.S. performed perhaps the most wantonly savage of its “brutal actions” to date. At 11 a.m. three young men drove up to a building in El Biar housing one of the centres sociaux which had been created by Germaine Tillion, under the aegis of Soustelle back in 1955, to improve Franco-Muslim relations. Inside a conference was under way, discussing vocational training for homeless Algerian children. The leader of the O.A.S. Delta squad took a piece of paper from his pocket and read out a roll-call of seven names. One was absent, but two school principals and four French and Muslim inspectors were led outside. Among the latter was Mouloud Feraoun, the prize-winning Kabyle author, liberal humanitarian and personal friend of the late Albert Camus. The six men were lined up against a wall; the Deltas opened fire, shooting first at the legs, then finishing off the educators where they lay on the ground.
->
+> 
 > *SEED: Feraoun's assassination—a well-known writer killed for his humanitarian work—could anchor an essay on how violence targets those who bridge divided communities.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1581</cite>
@@ -11529,7 +11530,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Feraoun died just as Algeria's war was ending. [fact]
 > The last to die was Mouloud Feraoun, hit by twelve bullets in the chest. The previous month he had entered in his Journal on a rare note of joy: "The war in Algeria is ending. Peace to those who are dead. Peace to those who are going to survive. Let the terror cease. Vive la liberté!"
->
+> 
 > *QUESTION: Who exactly killed Feraoun and the other assassinated writers? What was the political context of these killings at war's end?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1582</cite>
@@ -11541,7 +11542,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Prolonged terrorist fear erodes the distinction between courage and cowardice. [causal]
 > In Algiers, c'est la terreur…. One can no longer distinguish the brave from the cowards. Unless, as a result of living in fear, we have all become insensitive and unaware. Certainly, I don't want to die and I absolutely do not want my children to die, but I am taking no particular precaution beyond those which have become habit over the past fortnight; limitation of going outside, expeditions to buy "in bulk", an end to the visits of friends. But each time one of us goes out, on his return he describes an incident or reports a victim.
->
+> 
 > *XREF: Connects to discussions of how sustained threat normalizes fear responses and blunts moral categories — relevant to contemporary accounts of living under chronic violence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1583</cite>
@@ -11553,7 +11554,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Moderate third-force politics are crushed between revolutionary extremes. [connection]
 > The death of the writer meant more than that; it symbolised the final snuffing out of the light of hope of a “third force”, of moderation and liberalism, that had flickered up occasionally during the war. Attacked by such members of the Left in France as Francis Jeanson for being but an opiate of the masses and of knowing only how to spend vast sums of money on “neo-colonial” schemes, besieged by the F.L.N., and now finally extinguished by the O.A.S., the battered ideal of the “third force” died at a time when Algeria had never been more in need of men of goodwill, and enemies of excess and violence. As is so often the tragic path of revolution, it was the Montagne that triumphed over the Gironde.
->
+> 
 > *XREF: The Montagne/Gironde framing echoes a recurring historical pattern visible in other revolutionary conflicts the reader may know, generalizing from the Algerian war to comparable political dynamics.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1585</cite>
@@ -11575,7 +11576,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Krim wielded a two-thirds political majority for peace ratification [fact]
 > Backed by Ben Bella, the General Staff lobby also challenged the agreement whereby the Europeans would be entitled to representation in the future Algerian Assembly. Krim is said to have riposted acidly to Boumedienne: “And you who are at the head of the army, explain to us how you will expel the French? By arms?” … But, with the bulk of the military engaged in countering the O.A.S. and making dispositions for the future inside Algeria, Krim and the “politicians” had a majority in excess of the two-thirds required by the G.P.R.A. for ratifying a peace treaty.
->
+> 
 > *DEFINE: Clarifies the G.P.R.A.'s supermajority requirement and that Krim's political faction met it.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1586</cite>
@@ -11607,7 +11608,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France was asymmetrically bound by the Evian Agreements. [fact]
 > There were those who felt that only France was bound by the Agreements: with herself fettered to resolving future differences by “pacific means”, with her army withdrawing, what possible sanctions could be applied against the G.P.R.A. if it failed to respect the Agreements? Other critics pointed to a small matter of validity; the Agreements had been signed with representatives of a body that was not even a legitimately constituted government — therefore, France would be bound, while a future Algerian regime could repudiate.
->
+> 
 > *DEFINE: Clarifies the G.P.R.A. (Algerian provisional government) and the structural asymmetry critics identified in the Evian Agreements.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1598</cite>
@@ -11639,7 +11640,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Algerian cease-fire triggered the OAS's bloodiest violence. [causal]
 > On a day of sparkling spring sunshine the streets of Algiers emptied, except for the constantly patrolling vehicles of the police and army. The O.A.S.’s first reaction was to go round ripping down the posters that had suddenly appeared, showing a Muslim and a European child smiling at each other above the caption, “For our children, Peace in Algeria.” … Far from leading to an end to O.A.S. violence as the delegations at Evian had hoped in hastening signature, the week after the cease-fire brought the bloodiest interlude that Algiers had yet seen as the O.A.S. strained every muscle to nullify the Agreements.
->
+> 
 > *QUESTION: Who were the O.A.S. and what were the Evian Agreements in more detail?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1600</cite>
@@ -11661,7 +11662,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian civil residents faced deadly crossfire between rival armed factions. [fact]
 > In a towering rage, the French Commander-in-Chief, General Ailleret, now ordered a full-scale assault on the O.A.S. stronghold of Bab-el-Oued. … It was a scene more familiar to an army coup in Bolivia than anything ever experienced on French territory. For three days the “reduction” of Bab-el-Oued continued, and at the end of it the bullet-riddled walls, shattered windows, gutted cars in the streets and dangling trolley-bus cables resembled scenes from Budapest of 1956 — which, right from the beginning, Roger Degueldre had told Captain Sergent was what he wanted to create in Algiers.
->
+> 
 > *FICTION: The image of besieged civilians smuggled bread by schoolchildren caught between two armed forces is a potent historical-realistic scene for narrative fiction.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1602</cite>
@@ -11683,7 +11684,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] A contradictory order never reached colonial troops in Algiers. [fact]
 > The key role fell upon the 4th Regiment of Tirailleurs, one of the last regular units still containing a majority of “loyal” Algerian troops, which had just arrived — exhausted and tense — from operations in the bled. A few days previously their commanding officer, Colonel Goubard, had reported to the Commander-in-Chief, General Ailleret, that his Tirailleurs — averaging twenty years of age and with only eighteen months’ training — had proved themselves in the djebel but were in no way conditioned or trained for police activities in the city. Ailleret promised that the Tirailleurs would not be used in Algiers; but somehow, incredibly, the order was never passed down. Thus, at a time when nerves were at breaking-point in Algiers, these totally unsuited Algerian troops found themselves holding a road block in the centre of Algiers, across the Rue d’Isly by the Grande Poste, close to where Ortiz had erected his barricades in January 1960.
->
+> 
 > *QUESTION: Why was the order never passed down? This hints at a chain-of-command breakdown worth investigating — whether accidental or deliberate bureaucratic sabotage.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1603</cite>
@@ -11695,7 +11696,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Poorly trained Algerian troops were mishandled into Algiers police duty. [causal]
 > The key role fell upon the 4th Regiment of Tirailleurs, one of the last regular units still containing a majority of “loyal” Algerian troops, which had just arrived — exhausted and tense — from operations in the bled. A few days previously their commanding officer, Colonel Goubard, had reported to the Commander-in-Chief, General Ailleret, that his Tirailleurs — averaging twenty years of age and with only eighteen months’ training — had proved themselves in the djebel but were in no way conditioned or trained for police activities in the city. Ailleret promised that the Tirailleurs would not be used in Algiers; but somehow, incredibly, the order was never passed down. Thus, at a time when nerves were at breaking-point in Algiers, these totally unsuited Algerian troops found themselves holding a road block in the centre of Algiers, across the Rue d’Isly by the Grande Poste, close to where Ortiz had erected his barricades in January 1960.
->
+> 
 > *QUESTION: Was the failed order a deliberate omission or bureaucratic incompetence? This becomes pivotal given what happened at the Rue d'Isly roadblock.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1603</cite>
@@ -11707,7 +11708,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] An O.A.S. sniper provoked Algerian soldiers into massacring civilians. [causal]
 > A few days previously their commanding officer, Colonel Goubard, had reported to the Commander-in-Chief, General Ailleret, that his Tirailleurs — averaging twenty years of age and with only eighteen months’ training — had proved themselves in the djebel but were in no way conditioned or trained for police activities in the city. … Suddenly shots were fired by an unknown hand from a rooftop on the Rue d’Isly. The young Tirailleurs began spontaneously to shoot back, as they would have done out in the djebel. They shot, and shot — wildly, and at point-blank range — into the crowd. … When the shooting was finally stopped, forty-six dead and 200 wounded were picked up, more than a score of whom died subsequently. Afterwards some 2,000 cartridge cases were counted. Lengthy enquiries were held but, although the identity of the sniper on the roof was never clarified, it was generally assumed that he had belonged to the O.A.S., aiming deliberately to provoke a massacre that would speed the breakdown of order in Algiers.
->
+> 
 > *QUESTION: The sniper's identity was never confirmed; is there more historical evidence about who fired from the rooftop?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1604</cite>
@@ -11729,7 +11730,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The O.A.S. pulled off a record bank heist in Oran in 1961. [fact]
 > On the 22nd the O.A.S. — with total impunity, and apparently aided by the bank clerks — pulled off the biggest bank raid in history to date, getting away with 2,200 million francs (about $4,700,000 or nearly £1,000,000) from the Banque d'Algérie in the centre of Oran.
->
+> 
 > *QUESTION: What became of the O.A.S. and their stolen funds? This detail about mid-century Algerian terrorism funding is worth pursuing.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1606</cite>
@@ -11761,7 +11762,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Car bomb in Algiers killed sixty-two dockers in 1962. [fact]
 > On 2 May there was an appalling massacre in the port of Algiers, when a powerfully booby-trapped car exploded amid a crowd of unemployed dockers looking for work. In this one incident alone sixty-two dockers were killed and 150 horribly injured. The following day what might have been the most infamous outrage of the whole war was only narrowly averted. To the heights above the Casbah the O.A.S. had driven a petrol tanker containing over 3,000 gallons of fuel and were planning to roll it down into the crowded Muslim quarter, where it would almost certainly have caused a satanic conflagration. Only the presence of mind of a local fire brigade (including pieds noirs) forestalled the disaster.
->
+> 
 > *QUESTION: The petrol tanker plot to roll burning fuel into the Casbah is a striking episode worth researching further — how close it came and what precisely stopped it.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1613</cite>
@@ -11773,7 +11774,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Terrorist threats accelerated the mass exodus they aimed to prevent. [causal]
 > Now, in its despair at realising that all was lost, the O.A.S. adopted a “scorched earth policy”. If the French cannot, or will not, remain, the O.A.S. argued, then we shall leave Algeria as it was when they arrived in 1830. After a brief respite, on 7 June the University of Algiers library was burned; then followed the destruction of schools, laboratories and hospital facilities — the finest benefits that French civilisation had bestowed on Algeria. In the biggest explosion to date, Algiers’s fine new Hôtel de Ville was blown up; finally, in June, Oran’s vast B.P. oil storage tanks went up in a great pillar of smoke.
->
+> 
 > *XREF: Classic backlash/blowback dynamic — terror campaigns that backfire by driving away the very population they claim to defend.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1614</cite>
@@ -11785,7 +11786,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Defeated O.A.S. deliberately destroyed French-built Algerian infrastructure in 1962. [fact]
 > Now, in its despair at realising that all was lost, the O.A.S. adopted a “scorched earth policy”. If the French cannot, or will not, remain, the O.A.S. argued, then we shall leave Algeria as it was when they arrived in 1830. After a brief respite, on 7 June the University of Algiers library was burned; then followed the destruction of schools, laboratories and hospital facilities — the finest benefits that French civilisation had bestowed on Algeria. In the biggest explosion to date, Algiers’s fine new Hôtel de Ville was blown up; finally, in June, Oran’s vast B.P. oil storage tanks went up in a great pillar of smoke.
->
+> 
 > *XREF: Links to decolonization histories and scorched-earth tactics seen in other colonial withdrawals.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1614</cite>
@@ -11807,7 +11808,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] O.A.S. and F.L.N. brokered a truce on 17 June. [fact]
 > Then, on 17 June, there was announced one of the more extraordinary events of this extraordinary war: the O.A.S. and F.L.N. had concluded a truce. Already, in April, Major Azedine, formerly the redoubtable and much-wounded veteran of Wilaya 4, had been sent by the G.P.R.A. to Algiers to reorganise the Z.A.A. structure and prepare the takeover of the city for the time of the French withdrawal. After a particularly nauseating outrage, when Deltas had destroyed a clinic they considered to be an F.L.N. “hospital”, gunning to death nine Muslim patients in their beds, Vitalis Cros had taken the unprecedented initiative of seeking out Azedine in a desperate attempt to collaborate in combating terrorism. Next, the shadowy political brain of the O.A.S. who had assumed leadership since the capture of Salan, Jean-Jacques Susini, the first to realise that the battle was lost, made contact in mid-May with Farès, the president of the Provisional Executive. Nothing came of these talks, but a bridge was created between Susini and the F.L.N. representatives. Under the mediation of Dr Mostefai of the Provisional Executive and Jacques Chevallier, the former liberal mayor of Algiers, a truce was finally concluded on Sunday, 17 June.
->
+> 
 > *XREF: The Algerian War settler-fervor dynamics echo other colonial-endgame civil conflicts the reader has encountered.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1615</cite>
@@ -11819,7 +11820,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The O.A.S. killed more Algerian civilians than the F.L.N. did. [fact]
 > In less than a year the O.A.S. had killed 2,360 people in Algeria, and wounded another 5,418; according to the calculations of Vitalis Cros, in the Algiers zone alone their activities over the last six months of the war had claimed three times as many civilian victims as had the F.L.N. from the beginning of 1956 onwards; i.e. including the Battle of Algiers.
->
+> 
 > *XREF: Connects to the broader history of the Algerian War and colonial counter-terrorism violence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1615</cite>
@@ -11831,7 +11832,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Fifteen times the planned pieds-noirs left Algeria in June alone. [fact]
 > During that month of June alone, no less than 350,000 of the million pieds noirs left Algeria, compared to the 100,000 which the French government had calculated might depart over the first year of Algerian independence. No words of assurance by High Commissioner Fouchet or Farès could stem the panic-ridden exodus. Cars were put up for sale at £10 apiece, or simply abandoned in the street; parking lots looked like scenes from the British evacuation of Dunkirk. The smart shops in the Rue Michelet offered their entire stocks for sale at knock-down prices; bar-keepers simply closed the shutters and left. “Let’s face it,” a senior French official told British journalists, “the whole of Algeria’s up for sale.”
->
+> 
 > *XREF: Evokes comparisons to French colonial exit from Vietnam (Dien Bien Phu) or the Partition of India exodus in scale and suddenness.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1616</cite>
@@ -11843,7 +11844,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Over one hundred thousand Algerian Jews fled to France after expulsion. [fact]
 > As an additional instalment of the final tragedy, on the evacuation boats was also almost the whole of the Algerian Jewish community. To many who had sympathised, actively or passively, with the F.L.N. throughout the war, their expulsion at the hands of the Muslims came as a cruel shock. “Why are you making us leave, because after all we are your friends?” the Ankaoua family asked their Muslim neighbours. “Then we locked the door, taking the key with us. We thought we might be able to return. We still had hope … until we reached the airport at Maison-Blanche. Then we knew it was the end.” Over a hundred thousand Algerian Jews, many of them impoverished, backward and disease-ridden, poured into metropolitan France.
->
+> 
 > *XREF: Connects to the decolonization and pied-noir exodus narratives, resonant with broader Mediterranean Jewish displacement after 1948.*
 > *DEFINE: Establishes the scale of the Algerian Jewish exodus, a distinct community expelled alongside the wider European repatriation.*
 
@@ -11856,7 +11857,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France abandoned loyal Algerian Muslim fighters to post-war massacres. [fact]
 > But they were more fortunate than the harkis and the other loyal Muslims who fought for France, and who were now abandoned to their fate to be massacred in their thousands by their vengeful brethren.
->
+> 
 > *QUESTION: How large were these massacres of harkis, and how have historians documented or contested the numbers?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1619</cite>
@@ -11868,7 +11869,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian takeover stayed orderly despite European departure [fact]
 > By the beginning of August, of the 250,000 European inhabitants of Oran only 40,000 were left. When the exodus was all over it was estimated that 50,000 pieds noirs had gone to Spain; 12,000 to Canada; 10,000 to Israel; and 1,550 to Argentina. But the huge mass, 1,380,000 strong (which included the luckier Muslim refugees) — equivalent then to the combined population of the two biggest French cities after Paris — had flooded into France.
->
+> 
 > *QUESTION: The claim of 'miraculous smoothness' seems to minimize the Oran massacre of pieds noirs. How did historians reconcile this official smoothness narrative with the violence in Oran?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1620</cite>
@@ -11910,7 +11911,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's Algerian withdrawal was a costly victory over itself [causal]
 > On 4 July the tricolour was lowered in Algiers for the first time in 132 years as High Commissioner Fouchet, the last of France’s all-powerful pro-consuls, left for home. Consulting de Gaulle whether he should be present at the flag-lowering ceremony or not, Fouchet after a pause of several seconds had been told simply: “Je crois que ça serait inutile….” But as he left the massed bands played Le Marche Consulaire composed for Napoleon after Marengo — something Fouchet would never forget. “It was a victory march,” he explains. “That may seem curious, but really it was symbolic because in these last days it represented a great victory over ourselves…. And, after all, wasn’t de Gaulle’s decision on Algeria in effect a great victory over himself?”
->
+> 
 > *SEED: The irony of a 'victory march' played at a colonial retreat could anchor an essay about how nations frame strategic withdrawals as moral triumphs.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1621</cite>
@@ -11932,7 +11933,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] OAS assassinations targeted educated Algerian liberal professionals. [fact]
 > According to Salan’s aide, Captain Ferrandi, the shooting of Feraoun was a mistake; the main target was the missing man, “a certain Petitbon, a senior official of the national education services”, who had decided not to attend the meeting at the last moment — so the O.A.S. squad just killed whoever was there. In view of the singling out of “the best Muslim elements in the liberal professions” in Salan’s Instruction No. 29, the excuse — such as it is — hardly convinces.
->
+> 
 > *XREF: Connects to broader knowledge about colonial counter-insurgency tactics that deliberately eliminate educated indigenous elites.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1624</cite>
@@ -11944,7 +11945,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Colonial violence deliberately staged spectacle to intimidate local populations. [causal]
 > The explanation given by one of the O.A.S. leaders for the “scorched earth policy” is as follows: “You have to remember Arab mentality — to impress the Arabs, you’ve got to make a solemn performance of killing a man. Don’t just shoot him, but put him up against a wall with a firing squad. In revolutionary war the riposte must be, if possible, both rapid and spectacular. So it was with the ‘scorched earth policy’. We had to do something that would really make them understand the significance of what was happening….”
->
+> 
 > *XREF: Connects to theories of performative violence and 'shock and awe' tactics used later in colonial and neocolonial conflicts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1626</cite>
@@ -11966,7 +11967,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Counterinsurgency decimated Algeria's potential leaders through elite killings. [causal]
 > Moving into the vacuum left at all levels by the departing pieds noirs, the infant nation at once found itself enmeshed in the most acute administrative problems. Through their objective of wiping out the rebel Organisation Politico-Administrative, General Challe and his predecessors had also effectively killed off many of the best-educated and politically most sophisticated Algerians: the country's potential leaders. At the same time the corps of native administrators which France — laboriously and always too slowly — had been expanding since 1954 was still far from numerous enough to fulfil the roles so suddenly imposed upon it; added to which, in the first passions of independence many were regarded by the victorious F.L.N. as "quislings" and were promptly sacked — or worse. Whereas, in the 1950s, Tunisia and Morocco were endowed with established systems of government and administration, when Algerian independence came her government had existed only in exile. Thus she was afflicted by a lack of cadres and a lack of experience; but, worst of all, the many latent rifts within the leadership now burst through the thin papering with which the exigencies of war had covered them heretofore. Frantz Fanon had predicted that war would achieve unity among the Algerian élite; peace produced quite the opposite.
->
+> 
 > *XREF: Echoes Fanon's predictions about colonial war and elite formation, which the passage explicitly references and complicates.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1628</cite>
@@ -11988,7 +11989,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Independence crippled Algeria through a shortage of trained administrators. [causal]
 > Moving into the vacuum left at all levels by the departing pieds noirs, the infant nation at once found itself enmeshed in the most acute administrative problems. Through their objective of wiping out the rebel Organisation Politico-Administrative, General Challe and his predecessors had also effectively killed off many of the best-educated and politically most sophisticated Algerians: the country's potential leaders. At the same time the corps of native administrators which France — laboriously and always too slowly — had been expanding since 1954 was still far from numerous enough to fulfil the roles so suddenly imposed upon it; added to which, in the first passions of independence many were regarded by the victorious F.L.N. as "quislings" and were promptly sacked — or worse. Whereas, in the 1950s, Tunisia and Morocco were endowed with established systems of government and administration, when Algerian independence came her government had existed only in exile. Thus she was afflicted by a lack of cadres and a lack of experience; but, worst of all, the many latent rifts within the leadership now burst through the thin papering with which the exigencies of war had covered them heretofore. Frantz Fanon had predicted that war would achieve unity among the Algerian élite; peace produced quite the opposite.
->
+> 
 > *XREF: Connects to Fanon's prediction that war would unify the Algerian elite — peace instead exposed rifts; a useful counterpoint to anti-colonial narratives of victory.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1628</cite>
@@ -12000,7 +12001,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian rebel leadership fractured violently on the eve of independence. [fact]
 > On 30 June, the day before Algeria held its referendum, the G.P.R.A. took the unprecedented step of dissolving the General Staff and dismissing Boumedienne, amid scenes that were the most tumultuous ever witnessed within the leadership of the F.L.N. Writing of this period in Le Monde one pro-F.L.N. French journalist, Jean Daniel, was "shocked by the intensity and vindictiveness of the rivalry, and astonished to find that mutual recrimination among Muslim leaders was much worse than it had been between the rebels and the French". The essentially uncombative Ben Khedda withdrew from this bear-garden to Tunis before the end of the Tripoli congress, a tactical error thereby leaving the way open to Ben Bella.
->
+> 
 > *QUESTION: What did the rift between the G.P.R.A. and Boumedienne's General Staff mean for post-independence politics? This internal dissolution likely shaped the power struggle to come.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1632</cite>
@@ -12022,7 +12023,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian revolutionary leaders feuded more viciously than rebels fought the French [fact]
 > On 30 June, the day before Algeria held its referendum, the G.P.R.A. took the unprecedented step of dissolving the General Staff and dismissing Boumedienne, amid scenes that were the most tumultuous ever witnessed within the leadership of the F.L.N. Writing of this period in Le Monde one pro-F.L.N. French journalist, Jean Daniel, was "shocked by the intensity and vindictiveness of the rivalry, and astonished to find that mutual recrimination among Muslim leaders was much worse than it had been between the rebels and the French". The essentially uncombative Ben Khedda withdrew from this bear-garden to Tunis before the end of the Tripoli congress, a tactical error thereby leaving the way open to Ben Bella.
->
+> 
 > *QUESTION: What specific personal or ideological enmities drove Boumedienne's dismissal and the dissolution of the General Staff? The internal dynamics are only hinted at here.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1632</cite>
@@ -12034,7 +12035,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Harkis collaborators were abandoned to slaughter after Algerian independence. [fact]
 > According to Ait Ahmed, these convulsions of the summer of 1962 cost the lives of a further 15,000 Algerians. But the worst fratricidal horrors were reserved for those Muslims who, like the harkis, had continued to fight for France. De Gaulle had never shown much sympathy for them; to a Muslim deputy, ten of whose family had already been killed by the F.L.N. and who had protested that on "self-determination" "we shall suffer", de Gaulle had replied coldly, "Eh bien! vous suffrirez." As General Challe had feared (and it was one of the prime factors in his revolt), the peace agreements contained no guarantee sufficient to save these Algerians now from the wrath of their countrymen, in whose eyes they were nothing but traitors. Out of the quarter of a million who had worked for the French less than 15,000 had managed to escape from Algeria — many of them with Bachaga Boualem. In France they were, for the most part, to live lives of poverty, unappreciated and unassimilated. Of the fate of those that remained, however, harrowing stories came out of Algeria. Hundreds died when put to work clearing the minefields along the Morice Line, or were shot out of hand. Others were tortured atrociously; army veterans were made to dig their own tombs, then swallow their decorations before being killed; they were burned alive, or castrated, or dragged behind trucks, or cut to pieces and their flesh fed to dogs. Many were put to death with their entire families, including young children. Compelled by the terms of the Evian Agreements to stand by and witness this massacre of their former allies, the agony of the French army was extreme.
->
+> 
 > *XREF: Parallels the 1945 forced repatriation of Russian POWs by Western allies, which the text itself draws.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1634</cite>
@@ -12046,7 +12047,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian harkis faced mass reprisals after independence. [fact]
 > According to Ait Ahmed, these convulsions of the summer of 1962 cost the lives of a further 15,000 Algerians. But the worst fratricidal horrors were reserved for those Muslims who, like the harkis, had continued to fight for France. De Gaulle had never shown much sympathy for them; to a Muslim deputy, ten of whose family had already been killed by the F.L.N. and who had protested that on "self-determination" "we shall suffer", de Gaulle had replied coldly, "Eh bien! vous suffrirez." As General Challe had feared (and it was one of the prime factors in his revolt), the peace agreements contained no guarantee sufficient to save these Algerians now from the wrath of their countrymen, in whose eyes they were nothing but traitors. Out of the quarter of a million who had worked for the French less than 15,000 had managed to escape from Algeria — many of them with Bachaga Boualem. In France they were, for the most part, to live lives of poverty, unappreciated and unassimilated. Of the fate of those that remained, however, harrowing stories came out of Algeria. Hundreds died when put to work clearing the minefields along the Morice Line, or were shot out of hand. Others were tortured atrociously; army veterans were made to dig their own tombs, then swallow their decorations before being killed; they were burned alive, or castrated, or dragged behind trucks, or cut to pieces and their flesh fed to dogs. Many were put to death with their entire families, including young children. Compelled by the terms of the Evian Agreements to stand by and witness this massacre of their former allies, the agony of the French army was extreme.
->
+> 
 > *QUESTION: The scale of harki killings and the exact numbers of survivors remain loosely documented; worth checking against other historical sources.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1634</cite>
@@ -12058,7 +12059,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French Algerian war casualties rivaled peacetime road accident rates. [fact]
 > According to French figures, their forces lost 17,456 dead (including no less than 5,966 killed “accidentally”, and 892 officers killed in action); 64,985 wounded and injured, and 1,000 missing (including deserters). Far less severe than American casualties in Vietnam, the French casualty rate during most of the war ran at lower than that claimed by road accidents in France.
->
+> 
 > *XREF: Connects to broader scholarship on the Algerian War's casualty figures and its comparison to Vietnam.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1635</cite>
@@ -12070,7 +12071,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Postwar labor shortages inflated the French economy more than military costs. [fact]
 > It was a shortage that coincided with a time when both the French population graph was suffering from the "hollow classes" (the children not born during the Second World War) and resurgent West Germany was making her first bid for world export markets. The result was serious inflation and loss of productivity; the latter estimated conservatively even by economists of the "hawk" faction to have run at three to four milliard (new) francs per year, representing an almost greater strain to the French economy than the actual military costs.
->
+> 
 > *XREF: Connects to broader economic history of post-WWII reconstruction and the 'hollow classes' demographic gap affecting workforce availability.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1636</cite>
@@ -12082,7 +12083,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French economic miracle began after Algerian independence in 1962. [contrarian]
 > When the war began in 1954 French commerce with Algeria was comparable in value to that with the tiny Saar territory; in 1958–9, it accounted for only seventeen per cent of France's export trade, while eighty per cent of Algeria's exportable products were bought by France, and her trade deficit (which then ran at 3.8 milliard (new) francs) was largely financed by France. If one excludes the imponderable factor of the loss of the oil resources developed by French knowhow and capital, the ending of the war and the severance of Algeria must be reckoned a net gain to France's economy. Certainly it was from the date of Algerian independence in 1962 that France's own economic "miracle" stems — even though after that moment she continued still to bolster Algeria to the extent of approximately £700,000 a day.
->
+> 
 > *QUESTION: The claim that decolonization fueled, rather than damaged, France's postwar boom is striking and worth probing further. How did the loss of Algeria contribute to French structural modernization?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1637</cite>
@@ -12094,7 +12095,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Rising Algerian migrant wages funded weapons used against France [causal]
 > When the war began in 1954 French commerce with Algeria was comparable in value to that with the tiny Saar territory; in 1958–9, it accounted for only seventeen per cent of France's export trade, while eighty per cent of Algeria's exportable products were bought by France, and her trade deficit (which then ran at 3.8 milliard (new) francs) was largely financed by France. If one excludes the imponderable factor of the loss of the oil resources developed by French knowhow and capital, the ending of the war and the severance of Algeria must be reckoned a net gain to France's economy. Certainly it was from the date of Algerian independence in 1962 that France's own economic "miracle" stems — even though after that moment she continued still to bolster Algeria to the extent of approximately £700,000 a day.
->
+> 
 > *XREF: Connects to the economic dimension of colonial/anti-colonial conflict — migrant remittances financing insurgency is a recurring pattern in decolonization history.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1637</cite>
@@ -12106,7 +12107,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian remittances simultaneously financed both French agriculture and F.L.N. arms. [fact]
 > When the war began in 1954 French commerce with Algeria was comparable in value to that with the tiny Saar territory; in 1958–9, it accounted for only seventeen per cent of France's export trade, while eighty per cent of Algeria's exportable products were bought by France, and her trade deficit (which then ran at 3.8 milliard (new) francs) was largely financed by France. If one excludes the imponderable factor of the loss of the oil resources developed by French knowhow and capital, the ending of the war and the severance of Algeria must be reckoned a net gain to France's economy. Certainly it was from the date of Algerian independence in 1962 that France's own economic "miracle" stems — even though after that moment she continued still to bolster Algeria to the extent of approximately £700,000 a day.
->
+> 
 > *XREF: Illustrates the paradoxical double-edged nature of labor migration flows that appear in many colonial/postcolonial contexts.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1637</cite>
@@ -12118,7 +12119,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's independence paradoxically accelerated France's economic miracle. [contrarian]
 > When the war began in 1954 French commerce with Algeria was comparable in value to that with the tiny Saar territory; in 1958–9, it accounted for only seventeen per cent of France's export trade, while eighty per cent of Algeria's exportable products were bought by France, and her trade deficit (which then ran at 3.8 milliard (new) francs) was largely financed by France. If one excludes the imponderable factor of the loss of the oil resources developed by French knowhow and capital, the ending of the war and the severance of Algeria must be reckoned a net gain to France's economy. Certainly it was from the date of Algerian independence in 1962 that France's own economic "miracle" stems — even though after that moment she continued still to bolster Algeria to the extent of approximately £700,000 a day.
->
+> 
 > *QUESTION: The causal link between Algerian independence in 1962 and France's economic miracle would be worth investigating further — what specific mechanisms made severance beneficial?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1637</cite>
@@ -12130,7 +12131,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Ben Bella's football ambition foreshadowed his political drive. [connection]
 > Speaking to William Quandt, an old schoolmate of Ben Bella’s recalled how he had been “a good soccer player, but he never forgot the galleries. He wanted to be number one. Ben Bella always wanted his team-mates to pass him the ball so that he could score. He was the same way in politics.”
->
+> 
 > *XREF: Connects leadership psychology to formative analogues — early competitive behavior as predictor of political ambition.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1639</cite>
@@ -12142,7 +12143,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Boumedienne ousted trusted ally Ben Bella in a 1965 coup. [fact]
 > In all this period Ben Bella had come to depend increasingly on the support of Boumedienne and the army. With most of his rivals dead, in prison or in exile, by the eve of the Afro-Asian Conference of June 1965 Ben Bella looked at last secure. Then Boumedienne moved with the army which, ironically, had put Ben Bella in power and kept him there, and the tanks supplied by Ben Bella’s Soviet allies (who had but recently awarded him the Lenin Peace Prize). Though himself under sentence of death from Ben Bella, Ait Ahmed warned him “There’s going to be a coup against you.” Ben Bella was arrested, and Boumedienne took over the Government. The reasons given for Ben Bella’s removal were his excessive addiction to the “cult of the personality”, his “liquidation of revolutionary cadres”, his ideological confusion, his proneness to foreign (i.e. Eastern bloc) influences, and his improvidence with Algeria’s vital resources.
->
+> 
 > *DEFINE: Clarifies the historical mechanism and stated justifications for the June 1965 Algerian coup.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1641</cite>
@@ -12154,7 +12155,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pied noir witnesses felt dispossessed from both France and Algeria [fact]
 > Though her predicament was in no way so grim as Algeria’s in 1962, after the long war France too had her house to put in order, accounts to settle. The first was the bringing to justice of the captured O.A.S. leaders. On 11 April 1962 General Edmond Jouhaud faced his judges. Now cleanshaven, the pied noir air force general declared that he had but one regret: “not to be able to die on Algerian soil”. Among the defence witnesses was the widow of Albert Camus, who made a plea for clemency tragically eloquent of the pied noir dilemma. “I feel divided,” she told the court, “half-French and half-Algerian, and, in truth, dispossessed in both countries which I no longer recognise, since I never imagined them separated.”
->
+> 
 > *QUESTION: Camus' widow's testimony captures a recurring identity dilemma worth exploring further—how do settler communities reconcile dual allegiances after decolonization?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1642</cite>
@@ -12176,7 +12177,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Degueldre received a death sentence at the Château de Vincennes [fact]
 > But, as a junior officer unsupported by the galaxy that had come forth to testify for Salan, Lieutenant Roger Degueldre was to bear the full brunt of the law. On 28 June, at the sinister Château de Vincennes, where Napoleon had the Duc d'Enghien executed, the leader of the Delta killer commandos was sentenced to death.
->
+> 
 > *XREF: This factual execution detail sits within the broader Salan and OAS trial narrative.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1644</cite>
@@ -12188,7 +12189,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle survived a 1962 assassination attempt at Petit-Clamart. [fact]
 > With Algeria lost and its leaders removed, the O.A.S. and its affiliates still writhed on in France like a headless snake under the nominal leadership of Georges Bidault, Colonel Argoud and Captain Sergent. The plastiques continued to explode aimlessly in France, and over a dozen further attempts were made to assassinate de Gaulle. The most spectacular, and failing by a mere hair's-breadth, took place at Petit-Clamart in August 1962, the month after the lowering of the flag in Algiers, when the car carrying the President and Madame de Gaulle was shot up by a band led by Lieutenant-Colonel Jean-Marie Bastien-Thiry. Outraged by the threat to his wife, de Gaulle saw to it that Bastien-Thiry followed the fate of Degueldre, the first senior French officer to pass before the firing squad in many years.
->
+> 
 > *XREF: Connects to broader history of French decolonization and the OAS's violent resistance to Algerian independence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1645</cite>
@@ -12200,7 +12201,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] France's political consensus made Algerian withdrawal unthinkable in 1954 [causal]
 > To begin at the beginning, in November 1954 France was caught at a major disadvantage because, in contrast to Britain over India, no French politician, not even Mendès-France or Mitterrand, let alone the Communists, could contemplate any kind of French withdrawal from Algeria. Mollet the Socialist echoed Mendès-France the Radical: “France without Algeria would be no longer France.” Throughout those critical first years, when a compromise peace might have been conceivable, France was hobbled by the ball-and-chain of Algeria forming an integral part of French territory. From then on she was hobbled by what the army wanted, or would not permit.
->
+> 
 > *XREF: Contrasts with Britain's smooth decolonization of India, a comparison the author explicitly makes.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1649</cite>
@@ -12212,7 +12213,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pieds noirs actually wanted a settler Algeria, not French Algeria. [contrarian]
 > In the second place, France was constantly and repeatedly hampered in her Algerian policy by the intervention (generally immoderate) of the hyper-articulate pied noir lobby. The pieds noirs were never strictly honest, even to themselves, as to what they really wanted. Despite all the brouhaha, it was not Algérie française; what the majority wanted was a pied noir Algeria, ranging between South Africa at its best and its worst, but under the umbrella of French protection.
->
+> 
 > *DEFINE: Clarifies that the pieds noirs' public rallying cry of 'Algérie française' obscured a more self-interested aim: a settler-run colony akin to South Africa, not integration with France.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1652</cite>
@@ -12224,7 +12225,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Fear of losing everything drove petits blancs into reactionary extremes [causal]
 > In the second place, France was constantly and repeatedly hampered in her Algerian policy by the intervention (generally immoderate) of the hyper-articulate pied noir lobby. The pieds noirs were never strictly honest, even to themselves, as to what they really wanted. Despite all the brouhaha, it was not Algérie française; what the majority wanted was a pied noir Algeria, ranging between South Africa at its best and its worst, but under the umbrella of French protection.
->
+> 
 > *XREF: Parallels the Rhodesian artisan class who backed Ian Smith — a comparative historical pattern linking settler communities facing decolonization.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1652</cite>
@@ -12236,7 +12237,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Pied noirs ultimately wanted segregated minority rule under French protection. [fact]
 > In the second place, France was constantly and repeatedly hampered in her Algerian policy by the intervention (generally immoderate) of the hyper-articulate pied noir lobby. The pieds noirs were never strictly honest, even to themselves, as to what they really wanted. Despite all the brouhaha, it was not Algérie française; what the majority wanted was a pied noir Algeria, ranging between South Africa at its best and its worst, but under the umbrella of French protection.
->
+> 
 > *DEFINE: Clarifies the actual political aim of the pied noir lobby — not 'French Algeria' but a settler-dominated colony akin to apartheid South Africa.*
 > *XREF: Parallels to settler-colonial dynamics in Algeria, South Africa, and French Indochina within the same history of decolonization.*
 
@@ -12249,7 +12250,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Militarily winning armies can simultaneously lose wars politically. [contrarian]
 > From the French army’s point of view, their tragedy was that at various points they could see with agonising clarity (and not without reason) that they were winning the war militarily. But (not unlike the American commanders in Vietnam) it was not given them to perceive that, at the same time, their chances of winning the war politically and on the wider world stage were growing ever slimmer.
->
+> 
 > *XREF: Parallels the US experience in Vietnam and echoes Clausewitz's distinction between military and political victory.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1653</cite>
@@ -12271,7 +12272,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] De Gaulle's calculated ambiguity averted French civil war [causal]
 > When all is said and done, de Gaulle's achievement was immense, and the gratitude owed him by France as well as the Western world no less. As ex-Premier Debré remarked to the author, "It was a miracle that we didn't collapse into civil war after Algeria; and this we owed to de Gaulle." The prosperous stability of post-1962 France stems to an important extent from the consequences of de Gaulle's coolness and sense of timing in May 1958, and his steadfast refusal then to come back as the army's man. If he had been strictly "straight" with the Massus, Challes and Salans all along, could the disastrous putsch of 1961 have been avoided? On the other hand, recalling the dangerously delicate balances of May 1958, might not such blinding honesty simply have brought about de Gaulle's over-throw and replacement by a military junta in 1959 or 1960, or even late 1958 — leading possibly to civil war in France itself?
->
+> 
 > *QUESTION: The author poses an unresolved counterfactual: would strict honesty with the generals have prevented the 1961 putsch, or triggered an earlier coup and civil war?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1658</cite>
@@ -12283,7 +12284,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The Algerian War's painful lessons apply to the modern world. [connection]
 > For the rest of the modern world (and not least Southern Africa), the French experience in the Algerian War — a prototype of its kind — continued to offer its compelling lessons, most of them painful, for anyone prepared to heed them. There was the failure of a materially mighty Western power to combat a civil insurrection equipped with little more than ideology, without resort to the means one condemns in one’s enemy; in Algeria, the instrument of torture, as well as being fundamentally wicked in itself, was proved to be a boomerang weapon. There was the failure of the West to comprehend Third World aspirations; and the failure of the moderates everywhere to prevail against the extremist minority on either side; the Gironde is sent packing by the Montagne.
->
+> 
 > *XREF: Connects to counterinsurgency history and modern asymmetric conflicts where state power faces ideological insurgencies.*
 > *SEED: Potential essay angle: how 20th century colonial counterinsurgency lessons map onto contemporary asymmetric warfare and the perpetual failure of moderates against extremists.*
 
@@ -12296,7 +12297,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian War's lessons proved painful for the modern world [fact]
 > For the rest of the modern world (and not least Southern Africa), the French experience in the Algerian War — a prototype of its kind — continued to offer its compelling lessons, most of them painful, for anyone prepared to heed them. There was the failure of a materially mighty Western power to combat a civil insurrection equipped with little more than ideology, without resort to the means one condemns in one’s enemy; in Algeria, the instrument of torture, as well as being fundamentally wicked in itself, was proved to be a boomerang weapon. There was the failure of the West to comprehend Third World aspirations; and the failure of the moderates everywhere to prevail against the extremist minority on either side; the Gironde is sent packing by the Montagne.
->
+> 
 > *XREF: Connects to broader scholarship on counterinsurgency failures and the boomerang effect of torture in colonial wars.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1659</cite>
@@ -12308,7 +12309,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Exile severed pieds noirs from their coastal Algerian identity. [causal]
 > Of the pieds noirs who headed for northern France, their "souls died", says Anne Loesch with sad nostalgia. Of herself, exiled in a grey Paris, she wrote, "I yearn to run across the beach and look at the sun dying in the sea."
->
+> 
 > *QUESTION: What psychological toll did displacement take on other settler communities in decolonization?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1661</cite>
@@ -12320,7 +12321,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Post-war France's economic recovery rivaled Germany's under de Gaulle. [fact]
 > Ten years after the liquidation of the Algerian war, the face that France showed to the world was, once again, that of a truly great power, more self-confident than she had been at any time since before 1914, and certainly more prosperous in material terms. The economic revival of France under the stewardship of de Gaulle has been one of the miracles of the Western world, second only to Federal Germany's recovery after 1945. No more remarkable yard-stick of it exists than the way in which France assimilated the over one million pieds noirs who flooded to her shores.
->
+> 
 > *XREF: French economic miracle (Trente Glorieuses) connects to broader post-war Western European recovery literature.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1661</cite>
@@ -12342,7 +12343,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian workers in France reached three-quarters of a million [fact]
 > But, such were mutual needs of inter-dependence in what the Algerians call "the damned inheritance", the breach was swiftly healed. Ten years later the Algerian work force in France still numbered approximately three-quarters of a million.
->
+> 
 > *DEFINE: Clarifies "the damned inheritance" as the Algerian term for this mutual interdependence between Algeria and France.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1663</cite>
@@ -12354,7 +12355,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian workers in France faced third-class living conditions by 1973. [fact]
 > The same could not be said about the other side of the coin, the Algerian immigrant workers in France. Granted certain preferential treatment by Evian, driven from home by persistent unemployment to prosperous, labour-hungry Europe, their numbers had mounted steadily ever since the war ended, until by 1973 they were close on 800,000. For the most part these Algerians lived like third-class citizens, their plight concealed from the eyes of other Frenchmen. Existing in rat-infested bidonvilles, or six to a tenement room, without women and on the poor food that their rock-bottom wages would provide, over eighty per cent of the Algerian workers performed the travaux pénibles; generally the heavy, dangerous or distasteful labour eschewed by Frenchmen. Nearly three-quarters of them were illiterate, and therefore unlikely ever to better themselves. But every year they were able to send home an impressive total of one milliard francs (then £100m.), vital to the Algerian economy.
->
+> 
 > *XREF: Connects to patterns of postcolonial labor migration and guest-worker exploitation seen across Western Europe in this era.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1663</cite>
@@ -12386,7 +12387,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Exiled officers found post-war success transitioning to civilian commerce. [fact]
 > Colonel Jean Gardes, after dodging arrest in Spain, made his way to Argentina, where — remembering some of his mother's recipes from the Restaurant des Ministères — he established an unmilitary but extremely successful business making pâtés. On the amnesty he too returned to Paris. Averse to reading the many books about the Algerian war, he is fed "digests" by his wife and is distressed when not enough is made of his lasting attachment to the Muslims of Algeria.
->
+> 
 > *XREF: Connects to broader patterns of how combatants reintegrate after colonial wars, and how personal networks and skills transfer to civilian economy.*
 > *QUESTION: Why did Gardes feel distressed that his attachment to Algerian Muslims wasn't recognized? Suggests a moral or reputational dimension worth probing.*
 
@@ -12399,7 +12400,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Disgraced generals retained social honor despite lost rank. [fact]
 > Salan energetically produced books at the rate of a volume a year, well into his seventies. Always the elegant "Mandarin", with silver hair lightly tinted mauve or saffron, according to his mood, he lived in a comfortable Paris apartment surrounded by gilded buddhas, carved elephant tusks, opium pipes and all the artefacts of the Far East which he so loved. His pension was restored, and his many decorations for valour — but not his campaign ribbons, nor his rank. Nevertheless, "though I am just plain Monsieur Raoul Salan, everybody calls me mon général and they often salute me in the street!" he would claim.
->
+> 
 > *XREF: Connects to broader patterns of deposed leaders and fallen officials who retain informal prestige and public deference long after formal authority is stripped.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1668</cite>
@@ -12421,7 +12422,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] European cooperation with Muslims could have secured a future in Algeria. [causal]
 > Almost alone among the grands colons to remain in Algeria after independence, Jacques Chevallier, the liberal ex-mayor of Algiers, became vice-president of the Algiers Chamber of Commerce from 1963 to 1966, greatly respected by the Algerians and a token that, had they been genuinely prepared to co-operate and share responsibility with the Muslims, some future for the Europeans could have existed.
->
+> 
 > *QUESTION: Chevallier's case suggests a counterfactual — was genuine cooperation truly viable, or was post-independence departure inevitable given the war's bitterness?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1672</cite>
@@ -12433,7 +12434,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Disarmed Krim was strangled, mirroring Abane's approved execution. [fact]
 > Boumedienne, Krim's enemy from the earliest days, had come to power, Krim too went into exile and formed an opposition group. Declaring in 1969 that "seven years of independence were worse than seven years of war", Krim was sentenced to death (in absentia) on charges of treason and conspiring with foreign powers. He took to travelling heavily armed, but his undoing was indirectly caused by the sudden coming to notoriety of Leila Khaled and the Palestinian hijackers in the autumn of 1970; in an airport check his automatic was found and removed from him. A few days later he was discovered weaponless and murdered in a Frankfurt hotel. The means of his death seems, ironically, to have been the same as that which he had tacitly approved for Ramdane Abane in 1957 — strangling.
->
+> 
 > *XREF: Connects to broader narrative of Algerian revolutionaries and their violent intra-movement fates, plus the Leila Khaled hijackings' ripple effects.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1674</cite>
@@ -12445,7 +12446,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Revolutionary leaders who outlive their usefulness become targets of the regime. [causal]
 > Boumedienne, Krim's enemy from the earliest days, had come to power, Krim too went into exile and formed an opposition group. Declaring in 1969 that "seven years of independence were worse than seven years of war", Krim was sentenced to death (in absentia) on charges of treason and conspiring with foreign powers. He took to travelling heavily armed, but his undoing was indirectly caused by the sudden coming to notoriety of Leila Khaled and the Palestinian hijackers in the autumn of 1970; in an airport check his automatic was found and removed from him. A few days later he was discovered weaponless and murdered in a Frankfurt hotel. The means of his death seems, ironically, to have been the same as that which he had tacitly approved for Ramdane Abane in 1957 — strangling.
->
+> 
 > *XREF: Mirrors the dynamics in Orwell's Animal Farm and Hannah Arendt's observations on revolutionary purges.*
 > *FICTION: Irony of a conspirator being undone by airport security and dying by the same method he sanctioned is potent tragic material.*
 
@@ -12478,7 +12479,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Boumedienne's rule decisively shaped postwar Algeria's political identity. [causal]
 > Following his takeover in 1965, Boumedienne remained firmly in power, challenged once only by an abortive uprising led by Colonel Zbiri in 1967. Then, on December 27th, 1978, he died prematurely of a rare disease, and was succeeded by Chadli Bendjedid. The coming of Bendjedid in itself marked a break with the past; instead of succeeding a forcibly deposed incumbent, this relatively unknown wartime colonel was elected peaceably by the Council of the F.L.N. The fourteen post-war years of Boumedienne, however, left a deep imprint which needs to be recorded in any study of the Algerian war; for modern Algeria is inseparably the child of wartime Algeria.
->
+> 
 > *XREF: Connects to the study of decolonization and how wartime leadership structures carry over into post-independence state formation.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1676</cite>
@@ -12510,7 +12511,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Post-independence Algeria courted technical aid from countries across the political spectrum. [fact]
 > Algeria went to every country in the world, regardless of political hue, for aid and technical knowhow; American oil and gas men, Russian steel men, Japanese chemical engineers, Chinese military advisers, Spaniards, Britons and Romanians, West Germans and East Germans swarm about the country. Economic relations with France stabilised, if not harmonised, with the seal set upon them by President Giscard's state visit of April 1975. French technicians returned, so that the French colony in Algeria now already numbered some 65,000, including 7,000 teachers sent under the "cultural co-operation" clauses of Evian (one of the few provisions to survive).
->
+> 
 > *XREF: Connects to Cold War non-aligned strategy — smaller nations pragmatically drew expertise from both blocs rather than aligning exclusively.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1678</cite>
@@ -12522,7 +12523,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's post-independence government retreated from wartime egalitarian ideals, especially women's rights. [fact]
 > Sartre and the other left-wing French supporters of the wartime F.L.N. deplored that it had not gone further towards Marxism, that it failed to “export the revolution” to France. (An extreme revolutionary like Frantz Fanon would have found himself a prophet without honour in Boumedienne’s Algeria.) The emancipation of women lagged behind the promises of the war years, with the equality they had come to enjoy then forgotten in peace: “The woman is treated according to the racist principle of apartheid; she is still ‘colonised’,” complained Fadela M’Rabet in La Femme Algérienne.
->
+> 
 > *XREF: Contrasts with the revolutionary promises of the FLN war years; echoes the broader pattern of postcolonial governments consolidating power over revolutionary equality.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1679</cite>
@@ -12534,7 +12535,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Boumedienne's Algeria and Tito's Yugoslavia shared similar political positions. [connection]
 > Politically it stood — and still stands — apart; Socialist but not Marxist, it was as wary in its relations with Soviet Russia as with the U.S.A. Externally it zealously preserved its image as a revolutionary state, friendly to almost all other revolutionary movements; yet internally its own society, where Islam remains very much the binding cement, was highly conservative. If there is one country to which Boumedienne’s Algeria might most profitably be compared, it was perhaps Tito’s Yugoslavia, just as the F.L.N. at war bore a certain affinity with the Yugoslav partisans of the Second World War.
->
+> 
 > *XREF: Connects to Cold War non-aligned movement history and parallels between post-colonial revolutionary states.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1680</cite>
@@ -12546,7 +12547,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algiers hosted the pivotal 1973 Non-Aligned Conference and war planning. [fact]
 > It was in Algiers that the mammoth Non-Aligned Conference took place in September 1973, probably the most significant congress of the Third World since the Bandung Conference of 1955 which gave the F.L.N. its first recognition in the outer world. It was also in Algiers in September of 1973 that, under Boumedienne’s guiding influence, the diplomatic and political dispositions against Israel, as well as the oil weapon, were co-ordinated, providing the essential prelude to the “Ramadan War” of the following month.
->
+> 
 > *XREF: Connects to the broader history of the Non-Aligned Movement, Bandung Conference, and the 1973 October War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1680</cite>
@@ -12558,7 +12559,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's collectivisation damage only slowly softened by private enterprise. [causal]
 > In 1984, Algiers itself throbbed with vast and apparently insoluble traffic jams, that Western index of prosperity. The young were well clothed, and there were no signs of the terrible malnutrition rampant south of the Sahara. But, in a nation with bursting population explosion where the average age was 19, economic problems remained menacing.
->
+> 
 > *XREF: Connects to the general failure pattern of early collectivisation in emerging economies following independence.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1681</cite>
@@ -12580,7 +12581,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's rehabilitation of wartime leaders excluded harkis and Abane's killers. [fact]
 > The men thus rehabilitated included not only leaders who had been liquidated during the war, but also fallen angels who had revolted against either Ben Bella or Boumedienne during the post-war years. Among the wartime leaders forgiven were Si Salah, and the two tracked down and murdered abroad: Krim and Khider. Explicitly absent were the harkis who had served France. So, too, was Ramdane Abane; for obvious reasons, so long as any of those implicated in his death remained alive, the legend of the hero "killed in action" had to be allowed to persist. But, in Chadli Bendjedid's Algeria of 1984, veterans were much less inhibited in discussing what really happened to men like Abane and Si Salah, in a manner that would have been inconceivable under the shadow of Boumedienne ten years previously.
->
+> 
 > *DEFINE: Harkis were Algerians who served in the French army during the war of independence; the term may need clarification for readers unfamiliar with the Algerian War.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1682</cite>
@@ -12632,7 +12633,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerian cities fully reverted to Arab culture after French rule. [fact]
 > It is a surly city, harrowed by the stresses of over-population and under-employment; with the architecture of Cannes, but the atmosphere of Aberdeen. During the day the cafés are thronged with all-male, typically Arab society. At night the city, responsive to President Boumedienne's own personal brand of puritanism, closes down like wartime Toronto on a Sunday. The once exclusively pied noir areas of Algeria have become so totally Arab in atmosphere that one wonders how the French dreams of "integration" or "association", or the liberal hopes of a Camus for a multi-racial society of the 1950s, could ever have come true.
->
+> 
 > *XREF: Connects to broader post-colonial North African history and the failure of French integration policies, echoing themes in Memmi and Fanon.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1691</cite>
@@ -12654,7 +12655,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algerians preserved French monuments by cementing over colonial reliefs [fact]
 > On the way to Camus's ravishing Tipasa then I noted how the typically France bandstands that once dominated the main square of small provincial towns were no longer there. In the heart of Algiers itself (a much less dour, perhaps more self-assured city, than I remembered it from 1973), on the Plateau des Glières which had provided the focus for the events of 1958, the hideous Monument aux Morts still stood. But — instead of removing it in its entirety — the Algerians had simply rendered over with cement its excessive bas-reliefs to colonial feats of arms.
->
+> 
 > *XREF: Connects to broader discussions of how post-colonial nations handle memorials and statuary from their former colonizers.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1693</cite>
@@ -12676,7 +12677,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] The 1992 election cancellation triggered a deadlier civil war [causal]
 > Under worsening economic conditions, Fundamentalism led by the F.I.S. [Islamic Salvation Front], came to acquire a growing ascendancy throughout the country. Alarmed at their power, the F.L.N.-based regime under Liamine Zeroual in 1992 cancelled the second round of the National Elections. From then on escalated a new civil war, which by the time of the next elections three years later, had killed perhaps as many as 50,000 people — over twice as many as all the French fatalities, civilian as well as military, during the eight years of the War of National Liberation.
->
+> 
 > *QUESTION: How did cancelling a democratic election justify a war that killed more than the entire liberation struggle? This tension between democratic legitimacy and stability is worth untangling.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1694</cite>
@@ -12688,7 +12689,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Algeria's 1990s civil war deployed terrorism and state counter-terror simultaneously. [fact]
 > Also targeted, in a determined effort by the F.I.S. to ruin the country's economy by scaring off badly needed external investment, were foreign journalists and technicians. Distinguished political leaders, like Ait Ahmed, were driven — once more — into exile, for fear of their lives. The Government met terror with counter-terror. There leaked out accounts of torture, executions without trial, and "disappearances" that recalled the worst moments of the French Occupation. As in the '60s, during the reign of the O.A.S., terrorist bombings now struck at Metropolitan France again.
->
+> 
 > *QUESTION: The parallel drawn to the French Occupation and the O.A.S. bombing of Metropolitan France suggests a cyclical pattern worth investigating further.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1695</cite>
@@ -12710,7 +12711,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] French colonists could not have permanently kept Algerian land after independence. [fact]
 > To the author Christian Fouchet, de Gaulle's last High Commissioner, admitted that even at the time of Evian he never foresaw that the pieds noirs would all be able to stay forever: "It would certainly have been impossible for them to have continued to hold land — there would, at best, have been a transitional period of, say, fifteen years — then they would have had to give up."
->
+> 
 > *XREF: Connects to decolonization history and the pied-noir exodus from Algeria post-1962.*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1702</cite>
@@ -12752,7 +12753,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Official secrecy rarely alters the established picture of past wars. [speculation]
 > France has not yet released official papers relating to the war; on the other hand, so much has already been divulged in the writings and personal reminiscences of participants that it is to be doubted whether the overall picture of the war will be greatly changed when the secrecy barrier is lifted.
->
+> 
 > *QUESTION: Has this prediction held up? Do declassified French papers since this was written change the historical picture?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1715</cite>
@@ -12764,7 +12765,7 @@ last_highlight: "2026-08-10"
 
 > [!quote] Courrière's interviews with the F.L.N. remain irreplaceable historical sources. [fact]
 > The primary source material used by Courrière — particularly in his interviews with such F.L.N. leaders as the late Belkacem Krim — is irreplaceable. On the other hand, he is sharply criticised in contemporary Algeria for relying excessively on the version of events given by Krim and other latterday opponents of the Boumedienne regime, and has been accused by pieds noirs of undue hardness to their cause.
->
+> 
 > *QUESTION: What specific biases might Krim's accounts carry as a later opponent of Boumedienne, and how do they color the Algerian war narrative?*
 
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1716</cite>
@@ -12780,4 +12781,4 @@ last_highlight: "2026-08-10"
 <cite>Horne, Alistair, A Savage War of Peace- Alge…, loc. 1756</cite>
 
 > [!Response]
->
+> 

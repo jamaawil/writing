@@ -1,12 +1,12 @@
 ---
 title: "Gordon Hempton_ John Grossmann - One Square Inch of Silence_ One Man's Search for Natural Silence in a Noisy World"
-slug: "gordon-hempton-john-grossmann-one-square-inch-of-silence-one-mans-search-for-natural-silence-in-a-noisy-world"
+slug: gordon-hempton-john-grossmann-one-square-inch-of-silence-one-mans-search-for-natural-silence-in-a-noisy-world
 author: "Gordon Hempton"
 highlights: 7
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-0.c6917d331b03.png"
-first_highlight: "2026-06-25"
-last_highlight: "2026-06-26"
+first_highlight: "2026-07-01"
+last_highlight: "2026-07-01"
 last_note: "2026-06-25"
 ---
 
@@ -76,4 +76,4 @@ last_note: "2026-06-25"
 <cite>Gordon Hempton, Gordon Hempton_, Location 194</cite>
 
 > [!Response]
->
+> 

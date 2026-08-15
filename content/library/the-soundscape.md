@@ -1,12 +1,12 @@
 ---
 title: "The Soundscape"
-slug: "the-soundscape"
+slug: the-soundscape
 author: "R. Murray Schafer"
 highlights: 49
 responses: 0
 cover: "https://m.media-amazon.com/images/I/81bfDTqa4xL._SL2000_.jpg"
-first_highlight: "2026-06-25"
-last_highlight: "2026-06-26"
+first_highlight: "2026-07-01"
+last_highlight: "2026-07-01"
 last_note: "2026-06-25"
 ---
 
@@ -496,4 +496,4 @@ last_note: "2026-06-25"
 <cite>R. Murray Schafer, The Soundscape</cite>
 
 > [!Response]
->
+> 

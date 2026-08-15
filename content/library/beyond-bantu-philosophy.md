@@ -1,12 +1,13 @@
 ---
 title: "Beyond Bantu Philosophy_…"
-slug: "beyond-bantu-philosophy"
+slug: beyond-bantu-philosophy
 author: "Frans Dokman"
 highlights: 12
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-0.c6917d331b03.png"
-first_highlight: "2026-08-08"
-last_highlight: "2026-08-09"
+cover: "https://covers.openlibrary.org/b/id/13643389-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] It will be remembered that Tempels started out as. [fact]
@@ -125,4 +126,4 @@ last_highlight: "2026-08-09"
 <cite>Frans Dokman, Beyond Bantu Philosophy_…, loc. 85</cite>
 
 > [!Response]
->
+> 

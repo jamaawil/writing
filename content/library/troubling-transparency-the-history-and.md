@@ -1,12 +1,13 @@
 ---
 title: "Troubling Transparency- The History and…"
-slug: "troubling-transparency-the-history-and"
+slug: troubling-transparency-the-history-and
 author: "David E Pozen; Michael Schudson"
 highlights: 79
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
-first_highlight: "2026-07-28"
-last_highlight: "2026-07-28"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] Taking transparency in governmental affairs seriously. [fact]
@@ -795,4 +796,4 @@ last_highlight: "2026-07-28"
 <cite>David E Pozen; Michael Schudson, Troubling Transparency- The…, loc. 1565</cite>
 
 > [!Response]
->
+> 

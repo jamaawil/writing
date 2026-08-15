@@ -1,12 +1,13 @@
 ---
 title: "Writing Fiction, Tenth Edition_ A Guide…"
-slug: "writing-fiction-tenth-edition-a-guide"
+slug: writing-fiction-tenth-edition-a-guide
 author: "Janet Burroway"
 highlights: 44
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-9.63dbe834380e.png"
 first_highlight: "2026-08-09"
 last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] At the same time and at the same pace. [fact]
@@ -445,4 +446,4 @@ last_highlight: "2026-08-09"
 <cite>Janet Burroway, Writing Fiction, Tenth Edit…, loc. 698</cite>
 
 > [!Response]
->
+> 

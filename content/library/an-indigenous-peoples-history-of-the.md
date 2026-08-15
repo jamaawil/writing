@@ -1,12 +1,13 @@
 ---
 title: "An Indigenous Peoples' History of the…"
-slug: "an-indigenous-peoples-history-of-the"
+slug: an-indigenous-peoples-history-of-the
 author: "Roxanne Dunbar-Ortiz"
 highlights: 38
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-9.63dbe834380e.png"
-first_highlight: "2026-08-05"
-last_highlight: "2026-08-08"
+cover: "https://covers.openlibrary.org/b/id/14847171-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Land is life—or, at least. [fact]
@@ -385,4 +386,4 @@ last_highlight: "2026-08-08"
 <cite>Roxanne Dunbar-Ortiz, An Indigenous Peoples' Hist…, loc. 592</cite>
 
 > [!Response]
->
+> 

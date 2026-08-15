@@ -1,12 +1,13 @@
 ---
 title: "A Book of One's Own"
-slug: "a-book-of-ones-own"
+slug: a-book-of-ones-own
 author: "Thomas Mallon"
 highlights: 8
 responses: 0
 cover: "https://books.google.com/books/content?id=2puObEdS_C8C&printsec=frontcover&img=1&zoom=5&source=public"
-first_highlight: "2026-07-27"
-last_highlight: "2026-07-27"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] Is AI on the verge of turning us into. [fact]
@@ -85,4 +86,4 @@ last_highlight: "2026-07-27"
 <cite>Thomas Mallon, A Book of One's Own, loc. 847</cite>
 
 > [!Response]
->
+> 

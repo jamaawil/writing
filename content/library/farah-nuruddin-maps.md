@@ -1,12 +1,13 @@
 ---
 title: "Farah, Nuruddin - Maps"
-slug: "farah-nuruddin-maps"
+slug: farah-nuruddin-maps
 author: "Nuruddin Farah"
 highlights: 19
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-4.11327a2af05a.png"
-first_highlight: "2026-05-29"
-last_highlight: "2026-05-31"
+cover: "https://covers.openlibrary.org/b/id/4694390-L.jpg"
+first_highlight: "2026-07-01"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Living begins when you start doubting everything that came. [fact]
@@ -195,4 +196,4 @@ last_highlight: "2026-05-31"
 <cite>Nuruddin Farah, Farah, Nuruddin - Maps, loc. 246</cite>
 
 > [!Response]
->
+> 

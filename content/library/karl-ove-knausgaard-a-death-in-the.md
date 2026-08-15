@@ -1,12 +1,13 @@
 ---
 title: "Karl Ove Knausgaard - A Death in the…"
-slug: "karl-ove-knausgaard-a-death-in-the"
+slug: karl-ove-knausgaard-a-death-in-the
 author: "karl ove knausgaard"
 highlights: 63
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
 first_highlight: "2026-08-09"
 last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] Hence the collective act of repression symbolised. [causal]
@@ -635,4 +636,4 @@ last_highlight: "2026-08-09"
 <cite>karl ove knausgaard, Karl Ove Knausgaard - A Dea…, loc. 2560</cite>
 
 > [!Response]
->
+> 

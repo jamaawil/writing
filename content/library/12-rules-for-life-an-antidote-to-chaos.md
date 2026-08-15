@@ -1,12 +1,13 @@
 ---
 title: "12 Rules for Life An Antidote to Chaos"
-slug: "12-rules-for-life-an-antidote-to-chaos"
+slug: 12-rules-for-life-an-antidote-to-chaos
 author: "Jordan B. Peterson"
 highlights: 44
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
-first_highlight: "2026-07-29"
-last_highlight: "2026-07-29"
+cover: "https://covers.openlibrary.org/b/id/12619380-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] And perhaps because, as unfamiliar and strange as it. [causal]
@@ -445,4 +446,4 @@ last_highlight: "2026-07-29"
 <cite>Jordan B. Peterson, 12 Rules for Life An Antido…, loc. 1023</cite>
 
 > [!Response]
->
+> 

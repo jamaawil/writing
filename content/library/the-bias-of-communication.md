@@ -1,12 +1,13 @@
 ---
 title: "The Bias of Communication"
-slug: "the-bias-of-communication"
+slug: the-bias-of-communication
 author: "Harold Innis"
 highlights: 11
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
-first_highlight: "2026-08-04"
-last_highlight: "2026-08-08"
+cover: "https://covers.openlibrary.org/b/id/9660110-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] They were diagnosing a weird kind of social senility. [fact]
@@ -115,4 +116,4 @@ last_highlight: "2026-08-08"
 <cite>Harold Innis, The Bias of Communication, loc. 1163</cite>
 
 > [!Response]
->
+> 

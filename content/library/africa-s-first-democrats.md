@@ -1,12 +1,13 @@
 ---
 title: "Africa’s First Democrats"
-slug: "africa-s-first-democrats"
+slug: africa-s-first-democrats
 author: "Abdi Ismail Samatar"
 highlights: 95
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-6.71d9a01814f7.png"
-first_highlight: "2026-08-08"
+first_highlight: "2026-08-09"
 last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] President Osman and Prime Minister Hussen dedicated their long. [fact]
@@ -955,4 +956,4 @@ last_highlight: "2026-08-09"
 <cite>Abdi Ismail Samatar, Africa’s First Democrats, loc. 1514</cite>
 
 > [!Response]
->
+> 

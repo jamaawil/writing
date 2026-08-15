@@ -1,12 +1,13 @@
 ---
 title: "Things Fall Apart; Arrow of God; No Longer at Ease"
-slug: "things-fall-apart-arrow-of-god-no-longer-at-ease"
+slug: things-fall-apart-arrow-of-god-no-longer-at-ease
 author: "Chinua Achebe"
 highlights: 1
 responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/472936119/VLIOifBH7MmHl_8Oz2wur2dnPih8_PSnn1avlZWU96Y-cove_8KOicKq.jpg"
 first_highlight: "2026-07-04"
-last_highlight: "2026-07-04"
+last_highlight: "2026-08-10"
+last_note: "2026-08-10"
 ---
 
 > [!quote] W. [fact]

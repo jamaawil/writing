@@ -1,12 +1,13 @@
 ---
 title: "Communication as Culture: Essays on Media and Society"
-slug: "communication-as-culture-essays-on-media-and-society"
+slug: communication-as-culture-essays-on-media-and-society
 author: "James W. Carey"
 highlights: 45
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547466/JW8EqwYjVirviozxVClwRXvmfsdKKxImfs0OF-GEe34-cove_PZU6iSP.jpg"
-first_highlight: "2026-06-24"
-last_highlight: "2026-06-27"
+first_highlight: "2026-07-01"
+last_highlight: "2026-08-10"
+last_note: ""
 ---
 
 > [!quote] Modern communications have drastically altered the ordinary terms. [fact]
@@ -459,4 +460,4 @@ last_highlight: "2026-06-27"
 <cite>James W. Carey, Communication as Culture: E…, loc. 126460</cite>
 
 > [!Response]
->
+> 

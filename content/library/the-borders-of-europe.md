@@ -1,10 +1,13 @@
 ---
 title: "The Borders of \"Europe\""
-slug: "the-borders-of-europe"
+slug: the-borders-of-europe
 author: "Nicholas De Genova (ed.)"
 highlights: 0
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/8861729-L.jpg"
+first_highlight: "2026-07-05"
+last_highlight: "2026-07-05"
+last_note: ""
 ---
 
 

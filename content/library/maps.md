@@ -1,12 +1,13 @@
 ---
 title: "Maps"
-slug: "maps"
+slug: maps
 author: "Nuruddin Farah"
 highlights: 25
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/483461317/tTB6G394ub0E5qdJwQLWF_qR8XiVeI8_RPHVnVCauCE-my_c_A6PvR07.jpg"
 first_highlight: "2026-08-05"
-last_highlight: "2026-08-05"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] Living begins when you start doubting everything that came. [fact]
@@ -283,4 +284,4 @@ last_highlight: "2026-08-05"
 <cite>Nuruddin Farah, Maps, loc. 538955</cite>
 
 > [!Response]
->
+> 

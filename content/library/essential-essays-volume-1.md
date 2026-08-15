@@ -1,12 +1,13 @@
 ---
 title: "Essential Essays, Volume 1"
-slug: "essential-essays-volume-1"
+slug: essential-essays-volume-1
 author: "Hall, Stuart"
 highlights: 3
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/468547447/qaAwswgtHUQr35qPlV23PMyrq4Xh_Gb84YLAx5Nc2O8-cove_7HqW7FJ.jpg"
-first_highlight: "2026-06-25"
-last_highlight: "2026-06-26"
+first_highlight: "2026-07-01"
+last_highlight: "2026-08-10"
+last_note: ""
 ---
 
 > [!quote] However, in this chapter Stuart is more concerned. [fact]
@@ -35,4 +36,4 @@ last_highlight: "2026-06-26"
 <cite>Hall, Stuart, Essential Essays, Volume 1, loc. 86332</cite>
 
 > [!Response]
->
+> 

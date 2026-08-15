@@ -1,12 +1,13 @@
 ---
 title: "A Confession"
-slug: "a-confession"
+slug: a-confession
 author: "Leo Tolstoy"
 highlights: 27
 responses: 0
 cover: "https://is5-ssl.mzstatic.com/image/thumb/Publication/01/c9/91/mzi.fxphggcw.jpg/1400x0w.jpg"
-first_highlight: "2026-07-27"
-last_highlight: "2026-07-27"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] It was a bad thing. [fact]
@@ -275,4 +276,4 @@ last_highlight: "2026-07-27"
 <cite>Leo Tolstoy, A Confession, loc. 221</cite>
 
 > [!Response]
->
+> 

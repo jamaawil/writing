@@ -1,12 +1,13 @@
 ---
 title: "The Concept of Law"
-slug: "the-concept-of-law"
+slug: the-concept-of-law
 author: "H. L. A Hart"
 highlights: 27
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-5.25188386e520.png"
-first_highlight: "2026-08-04"
-last_highlight: "2026-08-04"
+cover: "https://covers.openlibrary.org/b/id/3905962-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Austin said, ‘a sharpened awareness of words to sharpen. [fact]
@@ -275,4 +276,4 @@ last_highlight: "2026-08-04"
 <cite>H. L. A Hart, The Concept of Law, loc. 789</cite>
 
 > [!Response]
->
+> 

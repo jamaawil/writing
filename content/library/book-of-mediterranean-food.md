@@ -1,12 +1,13 @@
 ---
 title: "Book of Mediterranean Food"
-slug: "book-of-mediterranean-food"
+slug: book-of-mediterranean-food
 author: "David, Elizabeth"
 highlights: 28
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
-first_highlight: "2026-07-25"
-last_highlight: "2026-07-25"
+cover: "https://covers.openlibrary.org/b/id/859039-L.jpg"
+first_highlight: "2026-08-10"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] It is not really an exaggeration’. [contrarian]
@@ -285,4 +286,4 @@ last_highlight: "2026-07-25"
 <cite>David, Elizabeth, Book of Mediterranean Food, loc. 625</cite>
 
 > [!Response]
->
+> 

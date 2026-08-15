@@ -1,12 +1,13 @@
 ---
 title: "I Am Not a Robot- My Year Using AI to…"
-slug: "i-am-not-a-robot-my-year-using-ai-to"
+slug: i-am-not-a-robot-my-year-using-ai-to
 author: "Joanna Stern"
 highlights: 66
 responses: 0
 cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-6.71d9a01814f7.png"
-first_highlight: "2026-07-30"
-last_highlight: "2026-07-30"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] AI can provide some of the spark. [fact]
@@ -665,4 +666,4 @@ last_highlight: "2026-07-30"
 <cite>Joanna Stern, I Am Not a Robot- My Year U…, loc. 1402</cite>
 
 > [!Response]
->
+> 

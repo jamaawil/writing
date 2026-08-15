@@ -1,12 +1,13 @@
 ---
 title: "The Odyssey"
-slug: "the-odyssey"
+slug: the-odyssey
 author: "Homer"
 highlights: 1
 responses: 1
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/476918728/dZIJu2Tk-FVHdVLjaZRGd4ugrOu4aPQGPFpbSyg7MCA-cov_vwm9cnY.jpeg"
 first_highlight: "2026-07-16"
-last_highlight: "2026-07-16"
+last_highlight: "2026-08-10"
+last_note: "2026-08-10"
 ---
 
 > [!quote] The influence of Greek stories in the minds of the West is unparalleled.

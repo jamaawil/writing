@@ -1,12 +1,13 @@
 ---
 title: "Jane Eyre"
-slug: "jane-eyre"
+slug: jane-eyre
 author: "Charlotte Bronte"
 highlights: 2
 responses: 2
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/481111262/D7e7Mc2dqN5OiAB87Jx8o5vWGxv3loc5mv8DExoAD6U-cover-cover.jpeg"
 first_highlight: "2026-07-29"
-last_highlight: "2026-07-29"
+last_highlight: "2026-08-09"
+last_note: "2026-08-09"
 ---
 
 > [!quote] Conventionality is not morality. [contrarian]

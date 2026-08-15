@@ -1,12 +1,13 @@
 ---
 title: "A Mathematician's Apology"
-slug: "a-mathematicians-apology"
+slug: a-mathematicians-apology
 author: "G. H. Hardy"
 highlights: 34
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
-first_highlight: "2026-08-02"
-last_highlight: "2026-08-02"
+cover: "https://covers.openlibrary.org/b/id/9753744-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] In 1913 he discovered Ramanujan and began another collaboration. [fact]
@@ -345,4 +346,4 @@ last_highlight: "2026-08-02"
 <cite>G. H. Hardy, A Mathematician's Apology, loc. 294</cite>
 
 > [!Response]
->
+> 

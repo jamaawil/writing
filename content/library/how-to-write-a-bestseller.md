@@ -1,12 +1,13 @@
 ---
 title: "How to Write a Bestseller"
-slug: "how-to-write-a-bestseller"
+slug: how-to-write-a-bestseller
 author: "Tilar J Mazzeo"
 highlights: 23
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-5.25188386e520.png"
-first_highlight: "2026-07-30"
-last_highlight: "2026-07-30"
+cover: "https://covers.openlibrary.org/b/id/11864902-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] The colleagues who have been able to transition. [fact]
@@ -235,4 +236,4 @@ last_highlight: "2026-07-30"
 <cite>Tilar J Mazzeo, How to Write a Bestseller, loc. 597</cite>
 
 > [!Response]
->
+> 

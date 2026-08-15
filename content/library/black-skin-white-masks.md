@@ -1,12 +1,13 @@
 ---
 title: "Black skin, white masks"
-slug: "black-skin-white-masks"
+slug: black-skin-white-masks
 author: "Frantz Fanon, Constance Farrington"
 highlights: 235
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+cover: "https://covers.openlibrary.org/b/id/482467-L.jpg"
+first_highlight: "2026-07-05"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Black men challenge white claims of intellectual superiority. [fact]
@@ -2355,4 +2356,4 @@ last_highlight: "2026-08-09"
 <cite>Frantz Fanon, Constance Farrington, Black skin, white masks, loc. 1037</cite>
 
 > [!Response]
->
+> 

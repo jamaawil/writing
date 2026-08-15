@@ -1,12 +1,13 @@
 ---
 title: "Annihilation of Caste_ The Annotated…"
-slug: "annihilation-of-caste-the-annotated"
+slug: annihilation-of-caste-the-annotated
 author: "Ambedkar, B R"
 highlights: 42
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-3.40504e56b01b.png"
-first_highlight: "2026-08-08"
-last_highlight: "2026-08-09"
+cover: "https://covers.openlibrary.org/b/id/9396071-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] It was soon translated into six languages. [fact]
@@ -425,4 +426,4 @@ last_highlight: "2026-08-09"
 <cite>Ambedkar, B R, Annihilation of Caste_ The …, loc. 1343</cite>
 
 > [!Response]
->
+> 

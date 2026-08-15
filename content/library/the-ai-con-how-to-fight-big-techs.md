@@ -1,12 +1,13 @@
 ---
 title: "The AI Con- How to Fight Big Tech's…"
-slug: "the-ai-con-how-to-fight-big-techs"
+slug: the-ai-con-how-to-fight-big-techs
 author: "Emily M. Bender, Alex Hanna"
 highlights: 22
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-5.25188386e520.png"
-first_highlight: "2026-07-30"
-last_highlight: "2026-07-30"
+cover: "https://covers.openlibrary.org/b/id/15166002-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Our goal is to help the public at large. [fact]
@@ -225,4 +226,4 @@ last_highlight: "2026-07-30"
 <cite>Emily M. Bender, Alex Hanna, The AI Con- How to Fight Bi…, loc. 455</cite>
 
 > [!Response]
->
+> 

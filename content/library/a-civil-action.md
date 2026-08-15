@@ -1,12 +1,13 @@
 ---
 title: "A Civil Action"
-slug: "a-civil-action"
+slug: a-civil-action
 author: "Jonathan Harr"
 highlights: 230
 responses: 0
 cover: "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/6e/74/97/6e7497ea-6e22-c7be-81c6-4241ef3258ff/9780307804785.jpg/1400x0w.jpg"
-first_highlight: "2026-07-25"
-last_highlight: "2026-07-25"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
+last_note: ""
 ---
 
 > [!quote] American Express had filed suit against the firm. [fact]
@@ -2305,4 +2306,4 @@ last_highlight: "2026-07-25"
 <cite>Jonathan Harr, A Civil Action, loc. 3143</cite>
 
 > [!Response]
->
+> 

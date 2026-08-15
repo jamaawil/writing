@@ -1,12 +1,13 @@
 ---
 title: "A History of the English-Speaking…"
-slug: "a-history-of-the-english-speaking"
+slug: a-history-of-the-english-speaking
 author: "Winston Churchill"
 highlights: 113
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-0.c6917d331b03.png"
-first_highlight: "2026-07-30"
-last_highlight: "2026-07-30"
+cover: "https://covers.openlibrary.org/b/id/6602132-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] In the latter example. [fact]
@@ -1135,4 +1136,4 @@ last_highlight: "2026-07-30"
 <cite>Winston Churchill, A History of the English-Sp…, loc. 1969</cite>
 
 > [!Response]
->
+> 

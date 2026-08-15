@@ -1,12 +1,13 @@
 ---
 title: "A Long Way Gone- Memoirs of a Boy…"
-slug: "a-long-way-gone-memoirs-of-a-boy"
+slug: a-long-way-gone-memoirs-of-a-boy
 author: "Farrar, Straus and Giroux Ishmael Beah"
 highlights: 21
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-4.11327a2af05a.png"
-first_highlight: "2026-08-01"
-last_highlight: "2026-08-01"
+cover: "https://covers.openlibrary.org/b/id/11592698-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] Gone finds its power in the revelation that under. [fact]
@@ -215,4 +216,4 @@ last_highlight: "2026-08-01"
 <cite>Farrar, Straus and Giroux Ishmael Beah, A Long Way Gone- Memoirs of…, loc. 868</cite>
 
 > [!Response]
->
+> 

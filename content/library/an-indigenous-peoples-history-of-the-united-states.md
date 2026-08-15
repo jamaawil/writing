@@ -1,12 +1,13 @@
 ---
 title: "An Indigenous Peoples' History of the United States"
-slug: "an-indigenous-peoples-history-of-the-united-states"
+slug: an-indigenous-peoples-history-of-the-united-states
 author: "Roxanne Dunbar-Ortiz"
 highlights: 41
 responses: 3
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/473156872/jmz3NStbCHj0TbPCZeabykM8DOXfhP38BH9XlZV2m6Q-cove_stPh3xS.jpg"
 first_highlight: "2026-07-05"
-last_highlight: "2026-08-05"
+last_highlight: "2026-08-09"
+last_note: "2026-08-09"
 ---
 
 > [!quote] Text/Notes. [fact]
@@ -443,4 +444,4 @@ last_highlight: "2026-08-05"
 <cite>Roxanne Dunbar-Ortiz, An Indigenous Peoples' Hist…, loc. 507435</cite>
 
 > [!Response]
->
+> 

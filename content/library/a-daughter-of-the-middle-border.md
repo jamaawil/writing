@@ -1,12 +1,13 @@
 ---
 title: "A Daughter of the Middle Border"
-slug: "a-daughter-of-the-middle-border"
+slug: a-daughter-of-the-middle-border
 author: "Hamlin Garland  Munseys"
 highlights: 17
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-5.25188386e520.png"
-first_highlight: "2026-07-27"
-last_highlight: "2026-07-27"
+cover: "https://covers.openlibrary.org/b/id/5846944-L.jpg"
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
+last_note: ""
 ---
 
 > [!quote] I resolved to preempt a place in the history. [fact]
@@ -175,4 +176,4 @@ last_highlight: "2026-07-27"
 <cite>Hamlin Garland  Munseys, A Daughter of the Middle Bo…, loc. 1883</cite>
 
 > [!Response]
->
+> 
