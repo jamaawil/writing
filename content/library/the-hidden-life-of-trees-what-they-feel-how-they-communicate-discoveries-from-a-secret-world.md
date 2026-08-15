@@ -4,8 +4,9 @@ slug: the-hidden-life-of-trees-what-they-feel-how-they-communicate-discoveries-f
 author: "Peter Wohlleben"
 highlights: 0
 responses: 0
-first_highlight: "2026-07-07"
-last_highlight: "2026-07-07"
+cover: "https://covers.openlibrary.org/b/id/8064205-L.jpg"
+first_highlight: "2026-08-15"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

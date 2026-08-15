@@ -4,9 +4,9 @@ slug: a-kick-in-the-belly-women-slavery-and
 author: "Stella Dadzie"
 highlights: 15
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
+cover: "https://covers.openlibrary.org/b/id/15210666-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

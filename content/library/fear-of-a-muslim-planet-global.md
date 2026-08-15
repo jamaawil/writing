@@ -4,9 +4,9 @@ slug: fear-of-a-muslim-planet-global
 author: "Arsalan Iftikhar"
 highlights: 189
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-7.09749d3efd49.png"
+cover: "https://skyhorse-us.imgix.net/covers/9781510763630.jpg?auto=format&w=298"
 first_highlight: "2026-08-11"
-last_highlight: "2026-08-11"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

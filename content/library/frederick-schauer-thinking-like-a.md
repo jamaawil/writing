@@ -4,9 +4,9 @@ slug: frederick-schauer-thinking-like-a
 author: "Unknown"
 highlights: 53
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-3.40504e56b01b.png"
+cover: "https://covers.openlibrary.org/b/id/8481320-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

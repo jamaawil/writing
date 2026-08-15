@@ -4,9 +4,9 @@ slug: homer-robert-fagles-knox-bernard
 author: "Unknown"
 highlights: 43
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-4.11327a2af05a.png"
+cover: "https://covers.openlibrary.org/b/isbn/9780140268867-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

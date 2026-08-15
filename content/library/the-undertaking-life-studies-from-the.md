@@ -4,9 +4,9 @@ slug: the-undertaking-life-studies-from-the
 author: "Lynch, Thomas"
 highlights: 23
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
+cover: "https://covers.openlibrary.org/b/id/247141-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

@@ -4,9 +4,9 @@ slug: karl-ove-knausgaard-a-death-in-the
 author: "karl ove knausgaard"
 highlights: 63
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-1.a08c56e2fedd.png"
+cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1573912426i/15705460.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

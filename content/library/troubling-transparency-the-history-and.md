@@ -4,9 +4,9 @@ slug: troubling-transparency-the-history-and
 author: "David E Pozen; Michael Schudson"
 highlights: 79
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-8.18caceaece2b.png"
+cover: "https://cup-us.imgix.net/covers/9780231184991.jpg?auto=format&w=350"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

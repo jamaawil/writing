@@ -4,9 +4,9 @@ slug: writing-fiction-tenth-edition-a-guide
 author: "Janet Burroway"
 highlights: 44
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-9.63dbe834380e.png"
+cover: "https://covers.openlibrary.org/b/id/9546176-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

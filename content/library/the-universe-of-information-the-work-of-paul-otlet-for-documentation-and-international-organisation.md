@@ -4,8 +4,8 @@ slug: the-universe-of-information-the-work-of-paul-otlet-for-documentation-and-i
 author: "W. Boyd Rayward"
 highlights: 0
 responses: 0
-first_highlight: "2026-07-07"
-last_highlight: "2026-07-07"
+first_highlight: "2026-08-15"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

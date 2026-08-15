@@ -4,9 +4,9 @@ slug: a-memoir-of-my-former-self-a-life-in
 author: "Hilary Mantel"
 highlights: 221
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-0.c6917d331b03.png"
+cover: "https://covers.openlibrary.org/b/id/14532942-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 

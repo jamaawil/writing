@@ -4,9 +4,9 @@ slug: i-am-not-a-robot-my-year-using-ai-to
 author: "Joanna Stern"
 highlights: 66
 responses: 0
-cover: "https://d34adp677peecb.cloudfront.net/static/images/default-book-icon-6.71d9a01814f7.png"
+cover: "https://joannastern.com/book-mockup.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
+last_highlight: "2026-08-15"
 last_note: ""
 ---
 
