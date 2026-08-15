@@ -1,13 +1,12 @@
 ---
 title: "Are Prisons Obsolete"
-slug: are-prisons-obsolete
+slug: "are-prisons-obsolete"
 author: "Davis, Angela Y"
 highlights: 51
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/10129501-L.jpg"
-first_highlight: "2026-07-05"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-08"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] In most circles prison abolition is simply unthinkable. [fact]
@@ -516,4 +515,4 @@ last_note: ""
 <cite>Davis, Angela Y, Are Prisons Obsolete, loc. 2229</cite>
 
 > [!Response]
-> 
+>

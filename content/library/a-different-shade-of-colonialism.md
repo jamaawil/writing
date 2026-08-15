@@ -1,13 +1,12 @@
 ---
 title: "A Different Shade of Colonialism_…"
-slug: a-different-shade-of-colonialism
+slug: "a-different-shade-of-colonialism"
 author: "Eve M. Troutt Powell"
 highlights: 240
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/327247-L.jpg"
-first_highlight: "2026-07-05"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Ali Pasha petitioned Cromer instead of the khedive. [fact]
@@ -2406,4 +2405,4 @@ last_note: ""
 <cite>Eve M. Troutt Powell, A Different Shade of Coloni…, loc. 1182</cite>
 
 > [!Response]
-> 
+>

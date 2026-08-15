@@ -1,13 +1,12 @@
 ---
 title: "A Theory of the Drone"
-slug: a-theory-of-the-drone
+slug: "a-theory-of-the-drone"
 author: "Grégoire Chamayou"
 highlights: 141
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/12491864-L.jpg"
-first_highlight: "2026-07-05"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Drone warfare normalizes killing across civilian life. [contrarian]
@@ -1416,4 +1415,4 @@ last_note: ""
 <cite>Grégoire Chamayou, A Theory of the Drone, loc. 1135</cite>
 
 > [!Response]
-> 
+>

@@ -1,13 +1,12 @@
 ---
 title: "A Brief History of Time"
-slug: a-brief-history-of-time
+slug: "a-brief-history-of-time"
 author: "Hawking, Stephen"
 highlights: 44
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/10432365-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-25"
+last_highlight: "2026-07-25"
 ---
 
 > [!quote] The universe is governed by a set of rational. [fact]
@@ -446,4 +445,4 @@ last_note: ""
 <cite>Hawking, Stephen, A Brief History of Time, loc. 358</cite>
 
 > [!Response]
-> 
+>

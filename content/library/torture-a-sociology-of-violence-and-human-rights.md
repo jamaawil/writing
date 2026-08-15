@@ -1,13 +1,12 @@
 ---
 title: "Torture: A Sociology of Violence and Human Rights"
-slug: torture-a-sociology-of-violence-and-human-rights
+slug: "torture-a-sociology-of-violence-and-human-rights"
 author: "Lisa Hajjar"
 highlights: 0
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/14379511-L.jpg"
-first_highlight: "2026-08-15"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-05"
+last_highlight: "2026-07-05"
 ---
 
 

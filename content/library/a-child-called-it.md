@@ -1,13 +1,12 @@
 ---
 title: "A Child Called 'It'"
-slug: a-child-called-it
+slug: "a-child-called-it"
 author: "Dave Pelzer"
 highlights: 8
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/14559604-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-25"
+last_highlight: "2026-07-25"
 ---
 
 > [!quote] I was then forced to stand. [fact]
@@ -86,4 +85,4 @@ last_note: ""
 <cite>Dave Pelzer, A Child Called 'It', loc. 321</cite>
 
 > [!Response]
-> 
+>

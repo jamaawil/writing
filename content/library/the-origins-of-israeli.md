@@ -1,13 +1,12 @@
 ---
 title: "The Origins of Israeli…"
-slug: the-origins-of-israeli
+slug: "the-origins-of-israeli"
 author: "David Ohana, David Maisel"
 highlights: 9
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/381493-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-27"
+last_highlight: "2026-07-27"
 ---
 
 > [!quote] The two most daring and heretical assaults on Israeli-Jewish. [fact]
@@ -96,4 +95,4 @@ last_note: ""
 <cite>David Ohana, David Maisel, The Origins of Israeli…, loc. 1448</cite>
 
 > [!Response]
-> 
+>

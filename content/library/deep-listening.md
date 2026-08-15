@@ -1,13 +1,12 @@
 ---
 title: "Deep Listening"
-slug: deep-listening
+slug: "deep-listening"
 author: "Pauline Oliveros"
 highlights: 107
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/388057-L.jpg"
-first_highlight: "2026-07-01"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-05"
+last_highlight: "2026-08-08"
 ---
 
 > [!quote] Music at the very least should be a restorative. [fact]
@@ -1076,4 +1075,4 @@ last_note: ""
 <cite>Pauline Oliveros, Deep Listening, loc. 653</cite>
 
 > [!Response]
-> 
+>

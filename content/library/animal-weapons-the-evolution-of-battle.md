@@ -1,13 +1,12 @@
 ---
 title: "Animal Weapons_ The Evolution of Battle"
-slug: animal-weapons-the-evolution-of-battle
+slug: "animal-weapons-the-evolution-of-battle"
 author: "Emlen, Douglas J"
 highlights: 104
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/8978319-L.jpg"
-first_highlight: "2026-07-07"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Dung beetles became the researcher's study subject. [fact]
@@ -1046,4 +1045,4 @@ last_note: ""
 <cite>Emlen, Douglas J, Animal Weapons_ The Evoluti…, loc. 975</cite>
 
 > [!Response]
-> 
+>

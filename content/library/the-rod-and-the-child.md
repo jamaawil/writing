@@ -1,12 +1,12 @@
 ---
 title: "The-Rod-and-the-Child-"
-slug: the-rod-and-the-child
+slug: "the-rod-and-the-child"
 author: "The Rod and the Child Production"
 highlights: 4
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/12647790-L.jpg"
-first_highlight: "2026-07-01"
-last_highlight: "2026-08-15"
+first_highlight: "2026-06-25"
+last_highlight: "2026-06-26"
 last_note: "2026-06-25"
 ---
 
@@ -46,4 +46,4 @@ last_note: "2026-06-25"
 <cite>The Rod and the Child Production, The-Rod-and-the-Child-, Location 16930</cite>
 
 > [!Response]
-> 
+>

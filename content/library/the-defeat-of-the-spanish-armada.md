@@ -1,13 +1,12 @@
 ---
 title: "The Defeat of the Spanish Armada"
-slug: the-defeat-of-the-spanish-armada
+slug: "the-defeat-of-the-spanish-armada"
 author: "Garrett Mattingly"
 highlights: 134
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/10305352-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-31"
+last_highlight: "2026-07-31"
 ---
 
 > [!quote] It was easier in 1940 to appreciate this point. [fact]
@@ -1346,4 +1345,4 @@ last_note: ""
 <cite>Garrett Mattingly, The Defeat of the Spanish A…, loc. 922</cite>
 
 > [!Response]
-> 
+>

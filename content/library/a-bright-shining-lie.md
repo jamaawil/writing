@@ -1,13 +1,12 @@
 ---
 title: "A Bright Shining Lie"
-slug: a-bright-shining-lie
+slug: "a-bright-shining-lie"
 author: "Neil Sheehan"
 highlights: 35
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/5409332-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-25"
+last_highlight: "2026-07-25"
 ---
 
 > [!quote] The war had already lasted longer than any other. [fact]
@@ -356,4 +355,4 @@ last_note: ""
 <cite>Neil Sheehan, A Bright Shining Lie, loc. 2196</cite>
 
 > [!Response]
-> 
+>

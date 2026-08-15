@@ -1,13 +1,12 @@
 ---
 title: "Frederick Schauer - Thinking Like a…"
-slug: frederick-schauer-thinking-like-a
+slug: "frederick-schauer-thinking-like-a"
 author: "Unknown"
 highlights: 53
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/8481320-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Consequently, to obey a speed limit. [fact]
@@ -536,4 +535,4 @@ last_note: ""
 <cite>Unknown, Frederick Schauer - Thinkin…, loc. 777</cite>
 
 > [!Response]
-> 
+>

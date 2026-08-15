@@ -1,13 +1,12 @@
 ---
 title: "The Expedition of Sir John Norris and…"
-slug: the-expedition-of-sir-john-norris-and
+slug: "the-expedition-of-sir-john-norris-and"
 author: "Richard Bruce Wernham"
 highlights: 6
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/4074699-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-31"
+last_highlight: "2026-07-31"
 ---
 
 > [!quote] And whereas King Don Antonio hath made very honest. [fact]
@@ -66,4 +65,4 @@ last_note: ""
 <cite>Richard Bruce Wernham, The Expedition of Sir John …, loc. 941</cite>
 
 > [!Response]
-> 
+>

@@ -1,13 +1,12 @@
 ---
 title: "A Dying Colonialism"
-slug: a-dying-colonialism
+slug: "a-dying-colonialism"
 author: "Frantz Fanon"
 highlights: 98
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/6710367-L.jpg"
-first_highlight: "2026-07-05"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Humanity’s dignity survives through continual struggle. [fact]
@@ -986,4 +985,4 @@ last_note: ""
 <cite>Frantz Fanon, A Dying Colonialism, loc. 620</cite>
 
 > [!Response]
-> 
+>

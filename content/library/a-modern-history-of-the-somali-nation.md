@@ -1,13 +1,12 @@
 ---
 title: "A Modern History of the Somali_ Nation…"
-slug: a-modern-history-of-the-somali-nation
+slug: "a-modern-history-of-the-somali-nation"
 author: "I.M. Lewis, I. M. Lewis"
 highlights: 227
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/1602623-L.jpg"
 first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Somali nationalism faded after the 1980s civil war. [fact]
@@ -2276,4 +2275,4 @@ last_note: ""
 <cite>I.M. Lewis, I. M. Lewis, A Modern History of the Som…, loc. 933</cite>
 
 > [!Response]
-> 
+>

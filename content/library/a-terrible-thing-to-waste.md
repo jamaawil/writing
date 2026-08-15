@@ -1,13 +1,12 @@
 ---
 title: "A Terrible Thing to Waste"
-slug: a-terrible-thing-to-waste
+slug: "a-terrible-thing-to-waste"
 author: "Harriet A. Washington"
 highlights: 2
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/471778692/ocOABRwYVN6IyKCaLHTbTqmEzJIrhMmXayGkfIwme9s-cove_xX80kWE.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-10"
-last_note: ""
+first_highlight: "2026-07-24"
+last_highlight: "2026-07-24"
 ---
 
 > [!quote] Yet iodine deficiency remains the world’s leading cause. [causal]
@@ -26,4 +25,4 @@ last_note: ""
 <cite>Harriet A. Washington, A Terrible Thing to Waste, loc. 446401</cite>
 
 > [!Response]
-> 
+>

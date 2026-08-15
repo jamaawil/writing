@@ -1,13 +1,12 @@
 ---
 title: "Logic for Lawyers- A Guide to Clear…"
-slug: logic-for-lawyers-a-guide-to-clear
+slug: "logic-for-lawyers-a-guide-to-clear"
 author: "Ruggero J. Aldisert, Agatha D. Aldisert"
 highlights: 217
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/779042-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-01"
+last_highlight: "2026-08-02"
 ---
 
 > [!quote] All lawyers must understand basic concepts of deductive reasoning. [fact]
@@ -2176,4 +2175,4 @@ last_note: ""
 <cite>Ruggero J. Aldisert, Agatha D. Aldisert, Logic for Lawyers- A Guide …, loc. 1403</cite>
 
 > [!Response]
-> 
+>

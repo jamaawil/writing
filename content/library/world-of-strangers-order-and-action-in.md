@@ -1,13 +1,12 @@
 ---
 title: "World of Strangers_ Order and Action in…"
-slug: world-of-strangers-order-and-action-in
+slug: "world-of-strangers-order-and-action-in"
 author: "Lyn H. Lofland"
 highlights: 152
 responses: 0
 cover: "https://m.media-amazon.com/images/I/51DC0YXCF1L.jpg"
 first_highlight: "2026-08-15"
 last_highlight: "2026-08-15"
-last_note: ""
 ---
 
 > [!quote] The city may be harsh, but it is exciting. [fact]
@@ -32,7 +31,7 @@ last_note: ""
 
 > [!quote] City identification methods shifted from appearances to locations historically [causal]
 > In Part 1, we shall explore just what is going on in this public space. We shall discover that "what is going on" has undergone a historical change, and that this change is intimately linked to the matter of what clues are most reliable in the crucial task of identifying strangers. Chapter Two focuses on the preindustrial city. It argues that in this city, public spaces contained such a conglomeration of persons and activities that locational clues were of little value. Appearances, however, were fairly reliably hooked to identity. Chapter Four focuses on the modern city. It argues that in the modern city, the opposite is true. Here, public spaces "specialize" in certain persons and activities, while appearances can be highly deceiving. Each type of city, that is, has its characteristic type of order, which allows its citizens to make relatively accurate identifications of one another. The preindustrial city is characterized by the dominance of appearential ordering; the modern city, by the dominance of spatial ordering.
-> 
+>
 > *DEFINE: Introduces the key distinction between appearential and spatial ordering across historical city types.*
 > *XREF: Connects to Goffman-era social ordering and urban sociology debates about how strangers are read in public.*
 
@@ -55,7 +54,7 @@ last_note: ""
 
 > [!quote] Andaman islanders believed visiting voyagers were deceased ancestor spirits [fact]
 > Andaman Isles ... "the natives had not the faintest knowledge of even the neighbouring coast of Burmah, much less the world at large .... The few voyagers who from time to time ventured near their shores were regarded as deceased ancestors who, by some dispensation, had been permitted to revisit the earth .... In confirmation of this may be cited the name by which the natives of India are to this day called, viz. chawgala (literally, departed spirits)."
-> 
+>
 > *XREF: Connects to isolation/contact anthropology — how small societies interpret outsiders. Resonates with first-contact narratives in exploration literature.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 45</cite>
@@ -97,7 +96,7 @@ last_note: ""
 
 > [!quote] Ancient societies endowed strangers with supernatural powers and sacred status [fact]
 > Among many peoples, a stranger-however human-was believed to be possessed of special powers. Sometimes these powers were thought to be malevolent, sometimes benevolent, sometimes both; whatever the case, extraordinary ceremonies, often involving long periods of time, were called for (Van Gennep, 1960:26-35; Frazer,
-> 
+>
 > *XREF: Connects to Turner's ritual theory and Van Gennep's liminality framework — the stranger as liminal figure.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 58</cite>
@@ -109,7 +108,7 @@ last_note: ""
 
 > [!quote] Cities may have preceded the agricultural revolution historically. [contrarian]
 > Exactly when and where and how the first cities arose remains a matter of conjecture. Received scholarly wisdom has it that the emergence of cities-of relatively large human settlements in which residents did not provide their own food-was dependent upon certain developments in technology, especially the invention of writing and the plow. 7 The first cities are usually said to have appeared between 4,000 and 3,000 B.c., or perhaps somewhat later-the estimates vary according to how the archeological evidence is read, how the investigator defines a city, and so on-and they are usually placed in Mesopotamia. 8 A few scholars have lately challenged this conventional truth, arguing that recent archeological work in Turkey-at the mound known as Catal Hiiyiik-indicates that cities may have existed as long ago as 7,000 B.c. or earlier (Mellaart, 1964). And, basing her thesis on the Catal Hiiyiik findings, Jane Jacobs (1969) has argued that rather than the agricultural revolution's making possible the emergence of cities, cities made possible the agricultural revolution.
-> 
+>
 > *XREF: Challenges the conventional textbook timeline linking writing, plow, and Mesopotamian city origins; connects to scholarship on early agricultural development.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 71</cite>
@@ -121,7 +120,7 @@ last_note: ""
 
 > [!quote] Humans can personally know at most a few thousand people. [speculation]
 > (1) First, and probably most obvious, there would appear to be a sheer biophysical/imitation on the capacity of human beings to recognize, either by name or by face (i.e., to have personal knowledge of), an infinite number of their fellowmen. I know of no research which tells us the maximum numbers that can be known; human beings probably vary in their individual capacities in this regard.lO My own guess -and it is only a guess-is that the maximum number might be three or four thousand, perhaps slightly more.
-> 
+>
 > *QUESTION: The author himself flags this as a guess and notes no research establishes the true maximum. Worth chasing whether any subsequent science has tested this number.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 76</cite>
@@ -133,7 +132,7 @@ last_note: ""
 
 > [!quote] Population growth creates social groups with restricted mutual contact [causal]
 > (2) As the population of a settlement increases, occupational differentiation becomes more complex, and with this differentiation, structural limitations to knowing begin to appear. Some part of the population becomes involved in relatively restrictive life rounds such that their opportunities for encountering other residents of the settlement are reduced. The warehouse clerk, for example, has less chance to meet his fellow citizens than does the street merchant. The housewife knows fewer people than does her shop-owning husband. In addition, these spatial restrictions on the intersection of life rounds are reinforced and compounded by status distinctions which make portions of the population "off limits" to other portions.
-> 
+>
 > *XREF: Connects to ideas about urban anonymity and the breakdown of traditional community ties in sociology and urban studies.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 77</cite>
@@ -145,7 +144,7 @@ last_note: ""
 
 > [!quote] Large medieval settlements dominated their hinterlands without competition. [causal]
 > A settlement which reached a population of 8,000 or more was likely to dominate a large hinterland, precluding the growth of similar-size settlements nearby. It thus had no competition in attracting immigrants and visitors, and temporal limitations to knowing could play their part. London, in the twelfth century, for example, had an estimated population of between 20,000 and 35,000 (Comhaire and Cahnman, 1962), by today's jaundiced standards a mere village-hardly worth going out of one's way to see. But to a visitor of the period, it appeared quite a metropolis indeed and well worth the time and trouble it took to get there (Holmes, 1966).
-> 
+>
 > *XREF: Relates to central place theory and urban hierarchy geography concepts.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 81</cite>
@@ -197,7 +196,7 @@ last_note: ""
 
 > [!quote] A stranger is anyone personally unknown yet visually available. [definitional]
 > Out of this vast reservoir of personally-unknown others, the average human being in his lifetime encounters-actually shares immediate time and space with-only a minuscule proportion. These are the persons of whom we can possess simple categoric knowledge. And these are the persons who are meant when I speak of strangers. … In this more restricted sense, then, a stranger is anyone personally unknown to the actor of reference, but visually available to him.
-> 
+>
 > *DEFINE: Schutz defines 'stranger' in a restricted, technical sense as someone personally unknown but visually available, narrowing the everyday meaning for analytical purposes.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 110</cite>
@@ -209,7 +208,7 @@ last_note: ""
 
 > [!quote] Urban history shifted from appearential to spatial ordering [causal]
 > The trend of urban history, I am suggesting, is away from appearential ordering and toward spatial ordering. The preindustrial city, characterized by mixed public space use and overt heterogeneity of populace, is the site of the dominance of appearential ordering. The modern city, with its specialized space use and masked heterogeneity of populace, is the site of the dominance of spatial ordering.
-> 
+>
 > *DEFINE: Introduces the distinction between appearential ordering (mixed public space, visible heterogeneity) and spatial ordering (specialized space, masked heterogeneity) as a framework for understanding urban transformation.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 144</cite>
@@ -251,7 +250,7 @@ last_note: ""
 
 > [!quote] Preindustrial cities overflowed with filth and scavenging animals. [fact]
 > The initial shock of this strange place having begun to wear off, you begin to note things that at first did not attract your attention. The sheer filth of the streets appalls you. Everywhere there seems to be refuse, garbage, human and animal excrement. And then you note for the first time the large numbers of animals in the streets-pigs eating the garbage, insects attracted to the excrement, dogs tearing at bones.
-> 
+>
 > *XREF: Echoes known descriptions of 19th-century urban squalor (London, Paris) and the scavenger ecology of pre-sanitation cities.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 167</cite>
@@ -273,7 +272,7 @@ last_note: ""
 
 > [!quote] Preindustrial cities seem disordered only because their order differs from ours. [contrarian]
 > The above portrait particularly emphasized one characteristic of the preindustrial city: the multiplicity of uses to which public space was put. It is this characteristic which imparts to the modern eye, confronting the city through the works of historians and archeologists, an overwhelming impression of disorder. Some critics, disenchanted with what they consider the sterility of the modern city, have even suggested that our contemporary metropolises could well benefit from the importation of a little of this historical "disorder" (see, for example, Sennett, 1970). I do not share in this judgment of the preindustrial city as disordered. It may appear so to us, but only because the principle of its ordering, only because the dominant type of order, differs from that to which we are accustomed. Nevertheless, there is no question but that in contrast to the modern city, the public spaces of historic urban settlements were sites of an incredible mixture of activities and persons.
-> 
+>
 > *XREF: Connects to critiques of modernist urban planning and the sterile-city debate, echoing figures like Richard Sennett and Jane Jacobs.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 174</cite>
@@ -295,7 +294,7 @@ last_note: ""
 
 > [!quote] Confessions could not spare condemned slaves from execution. [fact]
 > One batch of condemned slaves [arrested in connection with an alleged anti-White plot], although they were given an opportunity to save themselves by confessing, steadfastly maintained their innocence until they were brought to the stake. At this point their resolution gave way and they admitted their guilt. But the crowd that had turned out to watch the execution was too large and its demands for vengeance too strong to permit the Negroes to escape by a last-minute confession: the sentence of the court was duly carried out and the Negroes were chained and burned at the stake.
-> 
+>
 > *DEFINE: Confession here is demonstrated to be strategically useless — crowd vengeance overrode even legal pardons-by-confession, showing how extrajudicial mob sentiment governed slave executions.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 185</cite>
@@ -317,7 +316,7 @@ last_note: ""
 
 > [!quote] Preindustrial cities mixed commerce into everyday street life. [fact]
 > Activities which, in the modern city, tend to be relegated to specialized public locations, were, in the preindustrial city, piled upon one another, as it were. Buying and selling, for example, often took place in the street itself, for the wandering vendors were everywhere.
-> 
+>
 > *XREF: Connects to Jane Jacobs's urbanism arguments about mixed-use streets versus modern zoning's specialization of commercial space.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 201</cite>
@@ -329,7 +328,7 @@ last_note: ""
 
 > [!quote] Roman authors recited their works aloud in public everywhere [fact]
 > As soon as they spied a group of people anywhere whose curiosity at least they might pique, they would mingle with them and unblushingly unroll their manuscript-in the forum, under a portico, or among the crowd at the baths. The recitatio had invaded even the crossroads. Examining the contemporary literature, we soon get the impression that everyone was reading something, no matter what, aloud in public all the time, morning and evening, winter and summer.
-> 
+>
 > *XREF: Connects to modern open-mic readings, slam poetry, and performance-based literary culture.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 203</cite>
@@ -381,7 +380,7 @@ last_note: ""
 
 > [!quote] Rome's landless poor fueled frequent urban riots. [fact]
 > Just how these persons survived at all is not clear. Sometimes, as Holmes reported above, they begged, sometimes they stole, but much of their time appeared to have been spent hanging about waiting to involve themselves in whatever was happening. Surely their numbers provided much of the manpower for the preindustrial city's many riots. In Rome, under Tiberius, for example, "the mob came to blows over the comparative merits of rival actors and the riot became so serious that several soldiers, a centurion and a tribune were left dead on the streets."
-> 
+>
 > *XREF: Connects to discussion of preindustrial urban poverty and how idle populations become political combustibles — echoes themes in other urban history sources.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 220</cite>
@@ -393,7 +392,7 @@ last_note: ""
 
 > [!quote] Preindustrial cities displayed far more visible suffering and disability. [fact]
 > Yet even if the reader imagines all these sorts of persons jumbled together, he will still have an incomplete sense of the extent of the mix of persons in the preindustrial city's public space. The maimed, the lame, the feeble-minded, the blind, the scarred, and the diseased were also present to a degree incomprehensible to a modern Westerner. … Given the state of medical knowledge, given the generally unsanitary conditions of urban settlements, given the prevalence of mutilation as a punishment for even minor infractions, given the lack of hospitals and other welfare institutions, and given the rough character of much everyday sport, we should perhaps not be surprised at such widespread suffering, so visibly displayed.
-> 
+>
 > *QUESTION: What were the actual prevalence rates of disability and visible impairment in preindustrial cities? Modern demographers could quantify this against an imagined baseline.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 221</cite>
@@ -405,7 +404,7 @@ last_note: ""
 
 > [!quote] Ancient Roman districts lacked the sharp class segregation of modern cities. [fact]
 > The fourteen districts of the urbs did not offer that sharp contrast between working-class and wealthy districts which may be seen in modern capitals, and there was the same kind of accidental egalitarianism in the Rome of the Caesars as there was later in the Rome of the Popes, with wretched apartOJent houses and magnificent palaces built next door to each other, and millionaires and men of modest means living on different floors under the same roof.
-> 
+>
 > *XREF: Connects to urban studies and historical geography on how modern zoning and class segregation contrasts with pre-industrial cities.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 224</cite>
@@ -457,7 +456,7 @@ last_note: ""
 
 > [!quote] Bare-faced Iraqi peasant women were classed with prostitutes in Rowanduz. [fact]
 > A recent study of Rowanduz, a town of northern Iraq, suggests that the ordinary unveiled peasant woman who neglected to put on a face veil when entering the community was placed by the local citizenry in the same category as the prostitute.
-> 
+>
 > *DEFINE: Clarifies the social weight of the face veil as a marker distinguishing respectable women from prostitutes in this community.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 240</cite>
@@ -489,7 +488,7 @@ last_note: ""
 
 > [!quote] Speech instantly reveals a person's social status and group [causal]
 > Speech ... is a highly sensitive status indicator .... Upperand lowerclass persons employ quite divergent linguistic patterns, as do sub-groups within classes: ruralites vs. urbanites, men vs. women, old people vs. young people, and occupational groups, too. … The preindustrial city dweller had merely to open his or her mouth to be placed immediately into the relevant socially defined categories.
-> 
+>
 > *DEFINE: Establishes speech as a sociolinguistic 'status indicator' that classifies speakers by class, geography, gender, age, and occupation.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 255</cite>
@@ -521,7 +520,7 @@ last_note: ""
 
 > [!quote] Medieval Jewish ghettos walled in unhealthy city quarters [fact]
 > A Jewish community in an European town during the Middle Ages resembled a colony on an island or on a distant coast. Isolated from the rest of the population, it generally occupied a -district or street which was separated from the town or borough. The Jews, like a troop of lepers, were thrust away and huddled together into the most uncomfortable and most unhealthy quarter of the city, as miserable as it was disgusting. There, in ill-constructed houses, this poor and numerous population was amassed; in some cases high walls enclosed the small and dark narrow streets of the quarter occupied by this branded race, which prevented its extension, though, at the same time it often protected the inhabitants from the fury of the populace.
-> 
+>
 > *XREF: Connects to broader history of Jewish diaspora, segregation policies, and the origins of the term 'ghetto' in Venice.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 264</cite>
@@ -553,7 +552,7 @@ last_note: ""
 
 > [!quote] Urban elites fought a losing battle to distinguish themselves from commoners. [fact]
 > As suggested above, the exact origin of the appearential order of the preindustrial city is lost in history. But while that is true, there is certainly no mystery regarding who struggled to maintain it, or at least that aspect of it relating to status. The elites waged a continual, and in the long run, losing battle to differentiate themselves from the "common herd." The fact that they could not even rely on tradition but had to have recourse to the repeated enactment of laws, suggests just how much of a battle it was. Wherever economic conditions allowed great wealth to concentrate in hands other than those of the nobility, the battle intensified.
-> 
+>
 > *QUESTION: Why did the appearance of the preindustrial city matter so much to elites that they enacted repeated laws to preserve it? Worth tracing how legal sumptuary/status regulation evolved.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 293</cite>
@@ -565,7 +564,7 @@ last_note: ""
 
 > [!quote] Urban identity signaling shifted from appearance to location [causal]
 > This battle to keep identities "properly" expressed was, as I have said, eventually lost. The appearential ordering of the preindustrial city did not survive the chaos and confusion of early industrialization. To watch the breakdown of one sort of order and the emergence of another, we turn now to the crucible of this change: the early industrial city. … The goal of this brief chapter is as follows: to touch here and there on just a part of "what was happening" in the early industrial city so as to suggest, tentatively, some of the factors that may help to account for the great urban transformation-the transformation from the dominance of appearential ordering to the dominance of spatial ordering, from a world in which stranger identities were signaled most reliably . by appearance to a world in which they are signaled most reliably by location.
-> 
+>
 > *DEFINE: Defines the book's central distinction between appearential and spatial ordering of urban strangers.*
 > *QUESTION: What specific industrialization pressures eroded appearance-based identification while making location more reliable?*
 
@@ -578,7 +577,7 @@ last_note: ""
 
 > [!quote] Urban space transformations intertwined with revolutionary historical changes [causal]
 > While no process of change can be precisely dated, let us, for simplicity, "bound" this transformation within the eighteenth, nineteenth, and early twentieth centuries. This is also the period we conventionally think of as the era of revolutions-industrial, technological, and urban (as well as political). And it seems hardly a coincidence that changes in the ordering of urban public space should coincide with other convulsive historical changes. Indeed, they seem each to be elements of a sweeping alteration in the human condition and, as such, interrelated and intertwined in a complex chain of mutual cause and effect.
-> 
+>
 > *SEED: Could be an essay angle: how physical infrastructure change reflects and drives larger societal upheavals — cities as material record of revolution.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 303</cite>
@@ -590,7 +589,7 @@ last_note: ""
 
 > [!quote] Spatial ordering dominated while older order persisted partly. [causal]
 > Before we begin to unravel the small part of this complex chain that is of concern here, two comments are in order. First, in attempting to account for the change to the dominance of spatial ordering in the public space of the modern city, it is important to bear in mind that the key word is dominance. As we have seen, some elements of the spatial order already existed in the preindustrial city (just as, as we shall see, some elements of the appearential order remain in the modern city). The latent possibilities for its emergence, that is, were histori-
-> 
+>
 > *DEFINE: Clarifies that 'dominance' in spatial ordering means one ordering is prominent, not exclusive — older elements persist.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 304</cite>
@@ -612,7 +611,7 @@ last_note: ""
 
 > [!quote] Industrialization spurred middle-class adoption of higher-status dress. [causal]
 > But industrialization involved more than transfer; it also involved, to a degree, distribution. The preindustrial city had been largely divided between the very rich (aristocratic elites and bourgeois merchants) and the very poor. In the early industrial city, despite the continuation of grinding poverty among the majority of the population, the petit bourgeois, the notso-wealthy middle class, had begun seriously to emerge. These shopkeepers and tradesmen and clerks and their families shared in the riches that industrialization was making possible. As their numbers increased, they also began to collect a share of the power that industrialization had torn from the landed aristocracy. They too were concerned with status and, helped along by technological innovations (discussed below), they saw less and less reason for expressing their "proper place" through dress. With this group, we see the beginning on a massive scale of what is by now a common characteristic of modern life: the appropriation by one group of the dress style of another.
-> 
+>
 > *XREF: Connects to the broader theme of dress as status marker and social appropriation that runs through this source and related work on fashion and class.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 312</cite>
@@ -634,7 +633,7 @@ last_note: ""
 
 > [!quote] Cities grow through rural migration, not natural birth surpluses. [causal]
 > For the fact is that these cities were certainly not growing because of a tremendous upsurge in the fertility of urban women. (Cities have never grown to any appreciable degree through an excess of births over deaths. Their birth rates are always too low, and in preindustrial and early industrial cities their death rates were always too high. See Peterson, 1961:Part II; Freedman [ed.], 1964.) No, these cities were growing because they were receiving massive influxes of rural populations.
-> 
+>
 > *XREF: Connects to modern urbanization debates about rural-to-urban migration and megacity growth.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 317</cite>
@@ -646,7 +645,7 @@ last_note: ""
 
 > [!quote] Mass-produced cheap clothing enabled heterogeneous urban anonymity [causal]
 > The third thing that was happening in the early industrial city involved technological advances in the manufacrure of cloth, and eventually, the mass production of clothing (Smelser, 1959; Lenski, 1970:313-315). I suspect that these advances dealt the most crucial blow to the dominance of the appearential order for they eventually made available to a broad spectrum of persons quite inexpensive clothing that copied in design, if not in quality, the fashions of the elites. Without the availability of such clothing, the masked heterogeneity of the modern city (to be discussed in Chapter Four) might never have been achieved.
-> 
+>
 > *XREF: Connects to Erving Goffman's work on presentation of self and the sociology of fashion and status display.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 321</cite>
@@ -678,7 +677,7 @@ last_note: ""
 
 > [!quote] Middle-class Londoners felt harassed by constant street begging. [fact]
 > In addition to jeers and insults, embarrassments and shocks, and dangers to self and property, it seems likely that the petit bourgeois were also subject to another less threatening, but perhaps no less irritating, form of harassment: they were constantly accosted on the streets by the unemployed, begging, offering services, or asking for jobs. … He adds that he soon found himself becoming irritated by all this "assault" on his self and wanted nothing so much as the right to be left alone (personal communication). The proud but defenseless middle class of an earlier period must have felt much the same way.
-> 
+>
 > *XREF: Connects to contemporary dynamics of street solicitation and urban begging, and how discomfort with being accosted shapes attitudes toward the poor.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 341</cite>
@@ -690,7 +689,7 @@ last_note: ""
 
 > [!quote] Elite merchants used brokers to avoid contact with lower classes. [causal]
 > Even in the preindustrial city, the bourgeois merchants and businessmen had never been very happy about having to rub shoulders with "the common herd." Because they did so, the elites relegated them to an outcaste status-a status from which great wealth alone could not free them. … The wealthy merchant who acquires prestige and entree into the upper class seeks to insulate himself from the common man. One method is delegating all negotiation in the market place to brokers and middlemen. In this fashion the upper-class merchant is spared from direct contacts with the lower class and outcastes.
-> 
+>
 > *XREF: Mirrors Weberian status-group theory and contemporary patterns where elites insulate themselves through intermediaries.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 342</cite>
@@ -702,7 +701,7 @@ last_note: ""
 
 > [!quote] Petit bourgeois walled themselves off far less than industrial elites. [causal]
 > The rising industrial elites of the early industrial city might very well have perpetuated this pattern. They were quite capable of commanding the necessary wealth and power to keep themselves apart. But the growing petit bourgeois could not. Not only could they not afford a phalanx of servants to protect them in their necessary travels about the city; they were doubly hampered by having no traditional or legal supports for the deference they undoubtedly felt they deserved. And even if they had, they were confronted by an enormous population of rural immigrant floaters who had little knowledge of, or respect for, city ways.
-> 
+>
 > *XREF: Relates to broader themes of Victorian-era class segregation and the role of social deference in urban life.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 346</cite>
@@ -724,7 +723,7 @@ last_note: ""
 
 > [!quote] Cities tolerate activities only when confined to designated zones. [causal]
 > So, too, soliciting by prostitutes in many cities is tolerated only so long as it can be contained. Having set aside certain public areas for certain activities, city fathers and populace alike look askance at any spill-over.
-> 
+>
 > *DEFINE: Illustrates the principle of spatial containment as a mechanism of social tolerance.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 366</cite>
@@ -756,7 +755,7 @@ last_note: ""
 
 > [!quote] Begging disappeared through extralegal social and economic forces rather than law. [causal]
 > Begging is another activity that in most modern cities has been declared illegal. But like hanging about, its reduction (and in some cities, complete disappearance) has probably been the consequence of extralegal forces. The distribution of affluence made possible by industrialization, the development of a welfare state to care for the remaining indigent, and the efforts of the humanitarian, labor, and reform movements during the nineteenth and twentieth centuries were undoubtedly major factors in its demise.
-> 
+>
 > *XREF: Connects to conversations about public space regulation and the limits of legal prohibition in shaping social behavior.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 392</cite>
@@ -768,7 +767,7 @@ last_note: ""
 
 > [!quote] The automobile merely abetted other forces killing urban walking. [contrarian]
 > Finally, some note should be made of the reduced necessity for walking in the modern city. This particular activity remains legal, but the extent to which it is approved is questionable. Like other historic necessities (for example, cooking over fire), it has, in the modern world, become largely a recreational activity, indulged in by masochistic cultists. Those people who still indulge in it for a living, such as mail carriers, beat-policemen and night watchmen, are frequently punished with low status, poor pay and the continual threat of attack by unfriendly dogs and people. Who or what are killing walking is a complex matter. The mass-produced automobile is usually assigned the major responsibility, but it is surely being aided and abetted by the areal expansion of the city (making possible wider, straighter streets, and itself engendered by the railroad and trolley), the telegraph, the telephone, and the establishment of relatively reliable government postal systems.
-> 
+>
 > *SEED: Walking has shifted from necessity to recreation — a compelling essay angle on how ordinary activities become 'masochistic cults' when they lose utility.*
 > *XREF: Echoes contemporary debates about walkable cities, Jane Jacobs' critique of autocentric planning, and modern discourse on 15-minute neighborhoods.*
 > *QUESTION: What other historical necessities have become recreational — and what does their status say about cultural values?*
@@ -782,7 +781,7 @@ last_note: ""
 
 > [!quote] Retail districts depend on exclusivity, proximity to wealth, and uncrowded sidewalks [causal]
 > The high-class retail business for which Fifth Avenue is so well known is the most sensitive and delicate organism imaginable, depending, first, on the exclusiveness of the neighborhood; second, on its nearness to the homes of the rich and the large hotels; and, third, on its lack of congestion, especially on sidewalks, so that the customers may not be crowded or jammed in a hurlyburly crowd on their way to and from the different shops. . . . The loft buildings have already invaded the side streets with their hordes of factory employees. If an adequate move were made restricting the occupancy of the buildings so that no manufacturing could be done either on Fifth Avenue or from Madison Avenue over to Sixth Avenue, the matter would be solved. The employees from these loft buildings cannot be controlled. They spend their time-lunch hour and before business-on the avenue, congregating in crowds that are doing more than any other thing to destroy the exclusiveness and desirability of Fifth Avenue.
-> 
+>
 > *DEFINE: Articulates the defining conditions of a high-class retail district: exclusive neighborhood, nearness to wealthy homes and hotels, and lack of sidewalk congestion.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 413</cite>
@@ -794,7 +793,7 @@ last_note: ""
 
 > [!quote] Land-use restrictions historically protected wealthy residents from lower classes [fact]
 > Given the eloquence of the Association's plea, it is not surprising that the desired building-occupancy restrictions became law, thus protecting the inalienable right of the well-to-do to spend their money with- . out having to rub shoulders with the "dangerous classes."
-> 
+>
 > *XREF: Connects to redlining and zoning law history; echoes of Richard Rothstein's 'The Color of Law' and the economic segregation roots of American housing policy.*
 > *QUESTION: Which city and association is this referring to? The context suggests a specific historical case worth identifying for citation.*
 
@@ -847,7 +846,7 @@ last_note: ""
 
 > [!quote] Populace sustains bourgeois order through unwitting everyday beliefs and actions. [causal]
 > And a city's populace does more than simply "buy" bourgeois-produced order. Through their beliefs and understandings and through their actions, however unwitting, they reinforce and sustain it.
-> 
+>
 > *XREF: Connects to Gramsci's concept of cultural hegemony — how dominant social orders persist through consent rather than coercion.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 531</cite>
@@ -859,7 +858,7 @@ last_note: ""
 
 > [!quote] Urban spatial knowledge is socially taught through cultural instruction [causal]
 > How does the city dweller know what the information he gathers as he moves through urban public space means? How does he learn to connect certain appearances, locations, or behavior with certain categories of being? The answer is both simple and profound. Like all humans, he is taught. From the moment of birth, he is bombarded with instructions. Breasts mean food. Little girls wear dresses. Big people are adults. Black people are poor (or happy or revolutionaries, or whatever). White people are rich (or dishonest or bosses, or whatever). Nice people don't go there. Nice girls don't do that. Only the best people come to this place.
-> 
+>
 > *XREF: Connects to sociological theories of learned perception and cultural conditioning of how people read urban environments.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 549</cite>
@@ -891,7 +890,7 @@ last_note: ""
 
 > [!quote] Behavioral meanings remain culture-specific and do not travel well. [causal]
 > Second, many behavioral meanings tend also to be culture-specific. They do not travel well and are probably the source of most of the culture-shock that urbanites experience in their interaction -even with city dwellers-in countries other than their own.
-> 
+>
 > *XREF: Relates to the reader's likely interest in urban design or intercultural understanding — connects to ideas about proxemics, personal space, and nonverbal communication norms.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 612</cite>
@@ -903,7 +902,7 @@ last_note: ""
 
 > [!quote] Cultural norms for comfortable conversational distance vary by region [fact]
 > In Latin America the interaction distance is much less than it is in the United States. Indeed, people cannot talk comfortably with one another unless they are very close to the distance that evokes either sexual or hostile feelings in the North American. The result is that when they move close, we withdraw and back away. As a consequence, they think we are distant or cold, withdrawn and unfriendly. We, on the other hand, are constantly accusing them of breathing down our necks, crowding us, and spraying our faces.
-> 
+>
 > *XREF: Connects to Edward T. Hall's proxemics framework; this appears to be from a related source on cross-cultural communication.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 613</cite>
@@ -945,7 +944,7 @@ last_note: ""
 
 > [!quote] Preindustrial cities enforced prescribed manners through swift sanctions. [fact]
 > In the relative social stability of the preindustrial city, individuals learned about the manners appropriate to their category vis-a-vis other categories simply as a matter of course. Many of these were traditionally prescribed, and deviation (especially on the part of lower-status persons) was likely to be swiftly sanctioned (Sjoberg, 1960:125-26). In Tibetan cities in the past, as an example, "whenever the high political leaders mount or dismount from their horses, '. . . riders are to climb down and salute. Pedestrians should stand aside with their hats in their hands and their tongues hanging out' "
-> 
+>
 > *DEFINE: Clarifies how social etiquette functioned in preindustrial urban contexts, where manners were category-prescribed rather than learned casually.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 644</cite>
@@ -957,7 +956,7 @@ last_note: ""
 
 > [!quote] Fourteenth-century urban Frenchwomen consulted the Menagier de Paris for conduct guidance. [fact]
 > In the fourteenth century, literate Frenchwomen of the emerging urban-based bourgeois might learn what behavior was appropriate for them by reading the Menagier de Paris' instructions to his young wife … When you go to town or to church go suitably accompanied by honourable women according to your estate, and flee suspicious company
-> 
+>
 > *QUESTION: Did bourgeois women's conduct literature differ meaningfully from aristocratic or courtly counterparts of the same era?*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 649</cite>
@@ -969,7 +968,7 @@ last_note: ""
 
 > [!quote] Medieval women faced strict rules governing public conduct [fact]
 > When you go to town or to church go suitably accompanied by honourable women according to your estate, and flee suspicious company, never allowing any ill famed women to be seen in your presence. And as you go bear your head upright and your eyelids low and without fluttering, and look straight in front of you and about four rods ahead, without looking round at any man or woman to the right or to the left, nor looking up, nor glancing from place to place, nor stopping to speak to anyone on the road.
-> 
+>
 > *DEFINE: This is a historical source describing proper conduct for women in public, emphasizing modesty and restricted gaze.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 650</cite>
@@ -991,7 +990,7 @@ last_note: ""
 
 > [!quote] Early industrial cities demanded explicit instruction in urban living. [causal]
 > In neither the preindustrial nor the modern city, then, is the matter of how to act terribly problematic for great numbers of persons. … Rather it is the early industrial city, with the appearential order breaking down and the spatial order only beginning to emerge; it is the early industrial city, with its massive hordes of rural peasants becoming urbanites overnight; it is the early industrial city that is the setting for the massive and explicit teaching of city ways.
-> 
+>
 > *XREF: Connects to discussions of urbanization and social disorientation, e.g., Simmel's work on the metropolis and the sociology of cities as places of learning.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 658</cite>
@@ -1003,7 +1002,7 @@ last_note: ""
 
 > [!quote] Etiquette books taught Americans how to behave publicly. [fact]
 > In the United States, at least, a good deal of the public teaching was done by those self-appointed experts on "how to act": the authors of etiquette books. A casual purview of such books from 1881 to 1962 reveals both a concentration on explicit instructions for public behavior during the period when the early industrial city in the United States was at its most confusing, and a gradually decreasing concern with these matters as the modern city came into its own.
-> 
+>
 > *XREF: Ties to sociological work on social norms and the rise of urban anonymity, similar to Erving Goffman's studies of public behavior.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 673</cite>
@@ -1045,7 +1044,7 @@ last_note: ""
 
 > [!quote] Residents, not frequent patrons, achieve true home-territory mastery. [definitional]
 > Despite the cozy relationship which the patron may establish with a familiarly known locale, he cannot truly be said to have created a home territory. That distinction belongs to the resident, who, by dint of not only using the locale regularly but using it on most occasions for long periods of time, acquires for himself an intimate knowledge of all there is to know and a set of privileges that goes with such mastery.
-> 
+>
 > *DEFINE: Distinguishes 'home territory' from mere frequent patronage — residency confers intimate knowledge and privileges that patronage cannot.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 712</cite>
@@ -1057,7 +1056,7 @@ last_note: ""
 
 > [!quote] Sustained public space presence constitutes residency, not mere patronage. [definitional]
 > Becoming a resident is a time-consuming process. It requires that the individual hang about some public space for long and regular periods. Dropping in now and then may do for the customer, stopping by briefly three times a week may do for the patron, but becoming and remaining a resident is almost a full-time job. In fact, for some people, it is a full-time job and they constitute one type of resident: the public space employee. The other type of resident achieves his status avocationally rather than vocationally; these are the colonizers. As might be expected, given the long hours required, colonizers tend primarily to be drawn from the ranks of our old acquaintances: the organizationally unaffiliated floaters.
-> 
+>
 > *DEFINE: Distinguishes residents from customers and patrons by time investment, and introduces the subcategories of public space employees and colonizers.*
 > *XREF: Connects to Oldenburg's 'third place' concept and sociology of urban public life.*
 
@@ -1120,7 +1119,7 @@ last_note: ""
 
 > [!quote] Sidewalk residents' vigilance can make night streets safe. [causal]
 > Residents may help to make such assumptions tenable relative to all sorts of public space. The resident is, after all, on home ground and the integrity of a human's home is rarely violated with impunity. … You can take a midnight stroll through Bhendi Bazaar [in Bombay] without any fear. Sidewalk dwellers sleeping on their rickety rope cots will guarantee your safety from hoodlums.
-> 
+>
 > *XREF: Ties to Jane Jacobs' 'eyes on the street' concept and broken-windows theories of neighborhood safety.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 772</cite>
@@ -1152,7 +1151,7 @@ last_note: ""
 
 > [!quote] Long-standing residence makes local social ties unusually dense. [fact]
 > The function of the kindred can be understood only when it is realized that long standing residence is the usual thing. Fifty-three percent of the people in the general sample were born in Bethnal Green, and over half those not born locally had lived in the borough for more than fifteen years. Most people have therefore had time to get to know plenty of other local inhabitants. They share the same background. The people they see when they go out for a walk are people they played with as children.
-> 
+>
 > *XREF: Connects to the kindred concept being explained; most locals were born there, so childhood acquaintances become lifelong neighbors.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 794</cite>
@@ -1164,7 +1163,7 @@ last_note: ""
 
 > [!quote] Large groups create mobile private space for their members. [causal]
 > As the above passage suggests, in any particular public space when a group is sufficiently large, there is created for the individuals who make it up an area of private space. That is, a sufficiently large group provides for its members a kind of mobile "home territory" which they may move about with them from setting to setting. This is possible because a group is (by definition) made up of persons who know one another well and who identify with one another and who thus reciprocally ensure mutual protection and self-confirmation.
-> 
+>
 > *DEFINE: Defines how a sufficiently large group functions as a portable 'home territory' through mutual recognition and protection.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 818</cite>
@@ -1176,7 +1175,7 @@ last_note: ""
 
 > [!quote] Outnumbered individuals lose the protection of their group's identity. [causal]
 > For example, if the others in the setting form a group larger than the one of which the individual is a member, his own group may have little success in shielding him. Thus, I once observed a group of seven military prisoners, handcuffed together in subgroups of two or three, enter an airport terminal, suffering from acute embarrassment and humiliation. Heads were lowered, eyes were averted from others in the setting, faces were pale and strained, despite an obvious attempt to act unconcerned. When their three military guards ordered them to sit, all adjusted their postures so as to blot out any view of the handcuffs from all but the nearest or most attentive observers. While the size of the prisoner group was fairly large, the fact that they were quite obviously prisoners pushed all others in the setting into a group of nonprisoners.
-> 
+>
 > *DEFINE: Illustrates how group alignment in a setting depends on whether one's group outnumbers or is outnumbered by others present.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 821</cite>
@@ -1228,7 +1227,7 @@ last_note: ""
 
 > [!quote] People can discreetly stand still once they finish an approach. [fact]
 > Persons who avoid taking a reading at all may be said to have reached a position whenever they come to a halt, or, in the case of those backing in, whenever they turn around. They are by this time far enough into the setting so that they may simply stop and stand without being conspicuous. The spotlight is off once the approach has been completed, although the length of the approach area will vary from setting to setting.
-> 
+>
 > *DEFINE: Explains the technical term 'reading' in Erving Goffman's spatial-behavior framework, where reaching a position ends the socially conspicuous approach phase.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 862</cite>
@@ -1250,7 +1249,7 @@ last_note: ""
 
 > [!quote] Eye-occlusion signals busyness and preempts social interaction [causal]
 > Note that this absorption with props functions to keep the eyes occupied so that one does not have to be concerned with eye contact (a type of contact which body-management users take great pains to avoid). And the busyness suggests to those about that here is a person who has many important things to do and is therefore not a person with whom one should attempt any interaction.
-> 
+>
 > *DEFINE: Explains the function of prop absorption for body-management users as social signaling.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 889</cite>
@@ -1262,7 +1261,7 @@ last_note: ""
 
 > [!quote] Investigator stance protects occupants from interaction via setting absorption. [definitional]
 > The Investigator. Less confining in body movement than either of the previous styles, the Investigator stance nevertheless protects those who utilize it from eye contact and undesired interaction. Investigators (primarily mature-late thirties or older-males) are quite as absorbed and thus unapproachable as Nesters. But unlike Nesters, the objects of their absorption are not personal props but the various facilities of the setting itself.
-> 
+>
 > *XREF: Connects to the Nester stance described earlier in the same taxonomy of unapproachable public behaviors.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 890</cite>
@@ -1274,7 +1273,7 @@ last_note: ""
 
 > [!quote] Seating distance encodes unspoken interaction desire signals [fact]
 > Keep oneself apart. A void seating oneself in such a way as to suggest to a strange other that one wishes to interact. In making one's decision, bear in mind that the distance which signals a desire for interaction will vary according to such simultaneously operating factors as the following. (1) How much seating there is to choose from: If a lunch counter is crowded, one may sit anywhere. If it has only one customer, do not sit next to that person but choose a seat some distance away. (2) One's own sex and the sex of the person one will sit next to: It appears to be the case that whenever the age and sex of two strangers are such that one might appear sexually attractive to the other, the distance required to ensure that no interaction signal is given is greater than if no sexual attraction potential obtains. (3) Whether the person one will sit next to is alone or with others: If the person is part of a group, one may sit closer than if the person is alone. However, if the area is generally empty, sitting close to the group may still be interpreted as "homing in." Factor number (1) must be kept in mind at all times. (4) The use to which the particular public space is put: In a highly task-oriented setting like a library, one may sit closer to another with impunity than in the more sociable atmosphere of a bar. (5) The physical arrangement of the setting and the potential this holds for eye contact: Some settings are arranged so that to sit in a given spot is to be placed in the position of having to look at the person seated opposite. Unless one has some personal prop such as a book or magazine which can be used to cut off the line of vision, such positions should be avoided. The following example suggests the interrelation between one's seating decision and the potential for eye contact:
-> 
+>
 > *XREF: Connects to proxemics research by Edward T. Hall on interpersonal spatial zones.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 906</cite>
@@ -1326,7 +1325,7 @@ last_note: ""
 
 > [!quote] Preindustrial city beggars mastered deceptive identity performances [fact]
 > Its most skilled players were to be found among the various beggars of the preindustrial city. Masters of the appearential order, these ingenious individuals "practiced to deceive" in any way that seemed likely to increase their take. And the ways that seemed most likely primarily involved some manipulation of identity. Many of the beggars of the preindustrial city were, of course, exactly what they appeared. But the "others" were something else again. There were those, for example, who stood around crying a good deal, pretending to be "helpless orphans." There were those who "passed themselves off as merchants ruined by war, by fire or by having been robbed on the highway."
-> 
+>
 > *XREF: Connects to Erving Goffman's work on the presentation of self and impression management in everyday life.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 950</cite>
@@ -1338,7 +1337,7 @@ last_note: ""
 
 > [!quote] Beggars faked disabilities to beg, then revealed health at night. [fact]
 > An early seventeenth century writer describes a not uncommon scene in French cities of the time: … "Rogues ... and others, who have all day been cripples, maimed, dropsical, and beset with every sort of bodily ailment, come home at night, carrying under their arms a sirloin of beef, a joint of veal, or a leg of mutton, not forgetting to hang a bottle of wine to their belt, and, on entering the court, they throw aside their crutches, resume their healthy and lusty appearance, and, in imitation of the ancient Bacchanalian revelries, dance all kinds of dances with their trophies in their hands, whilst the host is preparing their suppers. Can there be a greater miracle than is to be seen in this court, where the maimed walk upright?"
-> 
+>
 > *QUESTION: How widespread was this practice of feigning disability in early modern Europe, and how did authorities respond?*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 953</cite>
@@ -1350,7 +1349,7 @@ last_note: ""
 
 > [!quote] Pretending offers sporadic identity play with low failure stakes. [definitional]
 > Passing and performing are both rather serious identity games. They encompass major portions of the individual's life round and the stakes involved are frequently rather high. The consequences of losing these games, (that is, being "unmasked") include such unpleasant experiences as imprisonment, job loss, physical and mental abuse, status reduction, and so forth. Fortunately for those urbanites with a bent for adventure but a distaste for catastrophe, there is another option. Pretending is a game that may be played only sporadically and then only for short periods of time. The most serious consequence of failure is mild embarrassment, and that is unlikely to be of long duration.
-> 
+>
 > *DEFINE: Distinguishes 'pretending' from 'passing' and 'performing' as identity games with lower stakes and intermittent commitment.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 962</cite>
@@ -1362,7 +1361,7 @@ last_note: ""
 
 > [!quote] Urban dwellers privately claim identities through location and dress [causal]
 > Sometimes the game is played in a more subtle, a more inward manner. I refer here to the expression of identity that accompanies being present in the appropriate location and I or dressing for the pan. Here the individual makes no verbal claim to the identity in question. Nor does he receive any verbal ratification for it. Instead, his knowledge of urban meanings allows him to assume that if he appears in a cenain place and/ or in a certain way, those about him will make the appropriate "identification" and this "assumed" ratification is sufficient. The shy young man, ill at ease and unsuccessful with women, can, at least for a moment, "be" the swinger of his secret dreams by the simple expedient of standing about in a body bar "looking cool."
-> 
+>
 > *XREF: Connects to Goffman's dramaturgical sociology — the presentation of self backstage, where identity claims are made implicitly rather than through verbal assertion.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 969</cite>
@@ -1394,7 +1393,7 @@ last_note: ""
 
 > [!quote] Pure haggling has vanished with modern business rationalization. [causal]
 > With the general rationalization of business in the modern city, haggling, in its pure form, has largely disappeared. Many contemporary urbanites, even those with great knowledge of, and skills in, city ways, cannot play this game-as any number of tourists have discovered to their sorrow.
-> 
+>
 > *SEED: Could explore how the decline of haggling reflects broader loss of spontaneous social negotiation skills in city life.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 980</cite>
@@ -1416,7 +1415,7 @@ last_note: ""
 
 > [!quote] Religious recruiters deliberately weaponized romantic encounters for conversion. [causal]
 > One of Bertha's favorite strategies [to gain access to potential converts for the millenarian sect of which she was a member] was to patronize coffee shops and snack bars and to feign the appearance of the single girl lingering long over her coffee. By unabashedly making eye contact and acknowledging smiles, she invited men to initiate access to her. She recognized the sexual assumptions of these contacts and consciously sought to exploit them [for her religious group]. She would explain the male's conduct to him in veiled religious terms, noting that many people were seeking for something today. The play between her and her erstwhile partner typically culminated in an invitation to dinner.
-> 
+>
 > *XREF: Connects to research on recruitment manipulation tactics in high-control religious groups and the modern 'flirty fishing' practice of the Children of God sect.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 986</cite>
@@ -1438,7 +1437,7 @@ last_note: ""
 
 > [!quote] People calculate who to talk to based on identity and mood. [causal]
 > Desirability. In determining desirability, the individual is “identifying” the other and calculating whether this person, as identified, is someone he or she really wants to talk with. The calculation, like the identification, is based on the information received from the intersection of cues relative to the other's location, appearance, 11 and behavior, but is then coupled with the individual's own mood and purposes. Thus, for example, young unattached male informants invariably report that the people they are most likely to talk to in public are young attractive females. Skid row bums, persons obviously drunk, and persons acting “oddly” are frequently listed as persons one prefers not to talk to, although this latter is not an invariable rule. One young man who was enrolled in a social psychology class, reported that he enjoyed talking to people everyone else was avoiding so as to “experiment with what would happen.”
-> 
+>
 > *XREF: Relates to Goffman's dramaturgical sociology and stranger-interaction microsociology — the initial assessment phase of encountering others.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 996</cite>
@@ -1450,7 +1449,7 @@ last_note: ""
 
 > [!quote] Crises dissolve stranger-anonymity and activate mutual human concern. [causal]
 > In addition, whenever the everyday routine is disrupted, whenever conditions are collectively defined as extraordinary, almost all stranger interaction is expected and legitimized. An electrical blackout may be one such “disruption”: … It seemed to me that the blackout quite literally transformed the people of New York. Ordinarily smug and comfortable in the high hives of the city where they live and work, they are largely strangers to one another when the lights are on. In the darkness they emerged not as shadows, but far warmer and more substantial than usual. Stripped of the anonymity that goes with full illumination, they became humans conscious of and concerned about the other humans around them. (L. Wainwright, “A Dark Night to Remember,” Life, November 23, 1965:35)
-> 
+>
 > *XREF: Connects to the broader literature on extraordinary-togetherness and disaster sociology — how breakdowns of routine surface latent generosity.*
 > *QUESTION: Does this observed warmth generalize beyond romanticized 1965 reporting, or does it discount real examples of panic and looting during blackouts?*
 
@@ -1483,7 +1482,7 @@ last_note: ""
 
 > [!quote] Social encounter initiation requires reading the other's signaled openness. [fact]
 > In assessing the appropriateness of initiating an encounter, the individual must consider not only his own relationship to the locale in question but such other matters as the openness to interaction being signaled by the other. Thus, for example, one woman reported that she hated to eat alone and enjoyed talking to strangers in restaurants. However, if the person whose table she joined (in a cafeteria, where lone persons must often sit with strangers) never looked at her when she sat down, remaining engrossed in his or her food or book or whatever, her response was to say nothing, granting him his "right" to be left alone.
-> 
+>
 > *DEFINE: Illuminates the subtle cues that govern whether approaching a stranger is appropriate, using restaurant-seating as a concrete example.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1008</cite>
@@ -1515,7 +1514,7 @@ last_note: ""
 
 > [!quote] Urban incompetence sometimes earns strangers more care than skill does [contrarian]
 > There is a marvelous paradox in all this. As we have seen in this and the preceding three chapters, city dwellers work very hard at acquiring urban know-how so that they may either avoid the city altogether or adventure in it with a minimum of risk. And yet, here are these two improbable adventurers, hicks and eccentrics, illiterate in, or inattentive to, city ways. And what is their reward? Sometimes, at least, friendliness, protection, normalization. The most inept participants in the world of strangers are, on occasion, its most pampered citizens.
-> 
+>
 > *SEED: An article angle: unexpected rewards of vulnerability and incompetence in unfamiliar settings — why being a novice can elicit generosity from strangers.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1028</cite>
@@ -1527,7 +1526,7 @@ last_note: ""
 
 > [!quote] Viable utopias require realistic assumptions about flawed human nature [contrarian]
 > I am not suggesting that some alternative, some more humane alternative, to either the appearential or spatial order cannot be found. I am suggesting, however, that utopian plans for the heavenly city must, if they are to be viable, contain within them a heavy dose of social psychological realism about the very unheavenly creatures who will be its inhabitants.
-> 
+>
 > *QUESTION: What specific psychological traits would a realistic utopia have to accommodate? This hints at a deeper tension between ideal systems and human imperfection worth exploring.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1035</cite>
@@ -1559,7 +1558,7 @@ last_note: ""
 
 > [!quote] Known social worlds sizes reflect minimal cognitive capacity demands. [causal]
 > In a personal communication, Gerald Suttles has suggested that the "average individual" might well be able to recognize as many as several thousand persons. However, social groupings must be engineered such that "the least clever at recognition can also negotiate in a known social world." Consequently, the actual size of extant personal worlds may be poor indicators of the human capacity for personal knowing.
-> 
+>
 > *XREF: Relates to Dunbar's number and social brain hypothesis research on the cognitive limits of social group size.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1057</cite>
@@ -1571,7 +1570,7 @@ last_note: ""
 
 > [!quote] Modern cities shift social relations from speech to silent visual observation. [causal]
 > Social life in the large city as compared to the towns shows a great preponderance of occasions to see rather than hear people. Before the appearance of omnibuses, railroads, and street cars in the nineteenth century, men were not in a situation where for periods of minutes or hours they could or must look at each other without talking to one another. Modern social life increases in ever growing degree the role of mere visual impression which always characterizes the preponderant part of all sense relationships between man and man and must place social attitudes and feelings upon an entirely changed basis.
-> 
+>
 > *XREF: Connects to contemporary studies of urban anonymity, surveillance, and eye contact in public transit. Resonates with Goffman's work on civil inattention and modern discussions of strangers sharing subway cars.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1083</cite>
@@ -1583,7 +1582,7 @@ last_note: ""
 
 > [!quote] Dress appropriation lets commoners claim rights and freedoms in cities [causal]
 > From the point of view of the elites, the most distasteful aspect of this appropriation has probably always been that he who takes on the dress may also, in the anonymous city, decide to take on the "rights." … A very impudent young fellow, a journeyman cabinet maker, upon the presumption of a ruffled shirt, and a gold button and loop to his hat, took the liberty of accosting two ladies of fashion in the Park last Tuesday evening, and was not a little vehement in his declaration of a prodigous passion to one of them, who he earnestly begged to favour him with an assignation.
-> 
+>
 > *XREF: Class-based anxiety over impersonation of rank via clothing — echoes the fop of Restoration drama and later 19th-century worries about 'passing'.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1109</cite>
@@ -1595,7 +1594,7 @@ last_note: ""
 
 > [!quote] Authority relationships require some form of distance to function. [causal]
 > As van den Berghe (1970) has noted, some form of distance is a "functional prerequisite in any social situation involving authority, hierarchy or stratification." Where distance is not maintained socially, through etiquette or sumptory laws, for example, it can be maintained spatially, through segregation.
-> 
+>
 > *XREF: Connects to ideas about social hierarchy, ritual, and Goffman's work on face and social interaction. Also ties into urban segregation literature.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1118</cite>
@@ -1607,7 +1606,7 @@ last_note: ""
 
 > [!quote] Avoiding mislabeled dangerous areas shrinks urbanites' freedom and home feeling [causal]
 > From another point of view, however, one might argue that it matters a great deal; that, in fact, the urbanite loses much by avoiding areas incorrectly defined as dangerous. Freedom of movement is lost. The area in which one may pursue urban adventures (see Chapter Eight) is constricted. The sense of being "at home" in all parts of the city is forgone.
-> 
+>
 > *XREF: Connects to urban sociology, fear-of-crime literature, and the broader debate on crime perception versus reality.*
 > *QUESTION: What evidence shows these areas are incorrectly defined as dangerous, and how does misperception form?*
 
@@ -1620,7 +1619,7 @@ last_note: ""
 
 > [!quote] Franchises make expectations about unfamiliar locations highly predictable. [causal]
 > In the contemporary United States, franchising greatly lessens the risk of generalizing from one experienced location to others "of its type." Having ever been to a Howard Johnson's, Holiday Inn, or McDonald's, for example, the individual can know with great certainty just what to expect in another one.
-> 
+>
 > *XREF: Connects to the broader context about the confidence/venture heuristics discussed in this work — the idea that franchising reduces the need for first-hand venture since prior experience generalizes reliably.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1156</cite>
@@ -1652,7 +1651,7 @@ last_note: ""
 
 > [!quote] Crowded noisy settings afford more behavioral freedom than quiet ones. [causal]
 > If a setting is particularly crowded or noisy, for example, the individual may have more leeway in expressiveness than if the setting is quiet and contains only a few inhabitants. A fit of coughing is enough to attract attention in a library reading room; it is likely to go totally unnoticed at a football game when the crowd is screaming. So, too, the expected activities of a setting will alter the ambience of any particular act. Thus, accidentally catching another customer's eye in a drug store is less fraught with meaning than the same occurrence in a pick-up bar
-> 
+>
 > *XREF: Connects to Goffman's dramaturgical framing and situational logic, where setting context shapes permissible behavior.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1189</cite>
@@ -1664,7 +1663,7 @@ last_note: ""
 
 > [!quote] Mutual gaze creates perfect reciprocity between people. [definitional]
 > The eye cannot take unless at the same time it gives. The eye of the person discloses his own soul when he seeks to uncover that of another. What occurs in this direct mutual glance represents the most perfect reciprocity in the entire field of human relationships.
-> 
+>
 > *DEFINE: Framing the mutual glance as the highest form of reciprocity, defining the exchange between eyes as simultaneously giving and taking.*
 
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1196</cite>
@@ -1680,4 +1679,4 @@ last_note: ""
 <cite>Lyn H. Lofland, World of Strangers_ Order a…, loc. 1209</cite>
 
 > [!Response]
-> 
+>

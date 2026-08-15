@@ -1,13 +1,12 @@
 ---
 title: "Base Nation_ How U.S. Military Bases…"
-slug: base-nation-how-u-s-military-bases
+slug: "base-nation-how-u-s-military-bases"
 author: "David Vine"
 highlights: 53
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/8865832-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-08"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Outside the base gates. [fact]
@@ -536,4 +535,4 @@ last_note: ""
 <cite>David Vine, Base Nation_ How U.S. Milit…, loc. 1998</cite>
 
 > [!Response]
-> 
+>

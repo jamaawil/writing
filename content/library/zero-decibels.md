@@ -1,13 +1,12 @@
 ---
 title: "Zero Decibels"
-slug: zero-decibels
+slug: "zero-decibels"
 author: "George Michelsen Foy"
 highlights: 96
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/8344945-L.jpg"
-first_highlight: "2026-08-10"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-25"
+last_highlight: "2026-07-25"
 ---
 
 > [!quote] A Minnesota laboratory’s anechoic chamber that the Guinness Book. [fact]
@@ -966,4 +965,4 @@ last_note: ""
 <cite>George Michelsen Foy, Zero Decibels, loc. 616</cite>
 
 > [!Response]
-> 
+>

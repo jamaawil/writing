@@ -1,13 +1,12 @@
 ---
 title: "Baseless- My Search for Secrets in the…"
-slug: baseless-my-search-for-secrets-in-the
+slug: "baseless-my-search-for-secrets-in-the"
 author: "Nicholson Baker"
 highlights: 151
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/10132908-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-28"
+last_highlight: "2026-07-28"
 ---
 
 > [!quote] All twenty-one of these memos. [fact]
@@ -1516,4 +1515,4 @@ last_note: ""
 <cite>Nicholson Baker, Baseless- My Search for Sec…, loc. 1241</cite>
 
 > [!Response]
-> 
+>

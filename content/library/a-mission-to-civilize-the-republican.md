@@ -1,13 +1,12 @@
 ---
 title: "A Mission to Civilize_ The Republican…"
-slug: a-mission-to-civilize-the-republican
+slug: "a-mission-to-civilize-the-republican"
 author: "Alice L. Conklin"
 highlights: 32
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/1518107-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-08"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Around commercial towns and in powerful states like Segu. [fact]
@@ -326,4 +325,4 @@ last_note: ""
 <cite>Alice L. Conklin, A Mission to Civilize_ The …, loc. 1432</cite>
 
 > [!Response]
-> 
+>

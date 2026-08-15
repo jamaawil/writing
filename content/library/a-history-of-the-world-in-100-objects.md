@@ -1,13 +1,12 @@
 ---
 title: "A History of the World in 100 Objects"
-slug: a-history-of-the-world-in-100-objects
+slug: "a-history-of-the-world-in-100-objects"
 author: "Neil MacGregor"
 highlights: 268
 responses: 0
 cover: "https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/d3/eb/06/d3eb06dc-b9d2-a76c-225b-f188e32f278f/9781101545300.jpg/1400x2143w.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-09"
-last_note: ""
+first_highlight: "2026-07-30"
+last_highlight: "2026-07-30"
 ---
 
 > [!quote] We would group the objects in clusters of five. [fact]
@@ -2686,4 +2685,4 @@ last_note: ""
 <cite>Neil MacGregor, A History of the World in 1…, loc. 1504</cite>
 
 > [!Response]
-> 
+>

@@ -1,13 +1,12 @@
 ---
 title: "Balcony in the Forest"
-slug: balcony-in-the-forest
+slug: "balcony-in-the-forest"
 author: "Julien Gracq"
 highlights: 71
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/914764-L.jpg"
-first_highlight: "2026-08-10"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-25"
+last_highlight: "2026-07-25"
 ---
 
 > [!quote] The story of Lieutenant Grange is nothing. [fact]
@@ -716,4 +715,4 @@ last_note: ""
 <cite>Julien Gracq, Balcony in the Forest, loc. 510</cite>
 
 > [!Response]
-> 
+>

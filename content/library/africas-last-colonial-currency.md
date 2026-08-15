@@ -1,13 +1,12 @@
 ---
 title: "Africa's Last Colonial Currency"
-slug: africas-last-colonial-currency
+slug: "africas-last-colonial-currency"
 author: "Fanny Pigeaud_ Ndongo Samba Sylla"
 highlights: 101
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/10491506-L.jpg"
-first_highlight: "2026-07-05"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-09"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Core nations prosper through periphery exploitation. [fact]
@@ -1016,4 +1015,4 @@ last_note: ""
 <cite>Fanny Pigeaud_ Ndongo Samba Sylla, Africa's Last Colonial Curr…, loc. 718</cite>
 
 > [!Response]
-> 
+>

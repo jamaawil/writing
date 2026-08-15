@@ -1,13 +1,12 @@
 ---
 title: "Cloud Cuckoo Land"
-slug: cloud-cuckoo-land
+slug: "cloud-cuckoo-land"
 author: "Anthony Doerr"
 highlights: 0
 responses: 0
 cover: "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/461611696/cUCZATmHCnjLV1tQuYBETyZmqJOUQsmhm2cjjGOsxWA-cove_gzSPfum.jpg"
-first_highlight: "2026-08-15"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-10"
+last_highlight: "2026-08-10"
 ---
 
 

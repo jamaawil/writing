@@ -1,13 +1,12 @@
 ---
 title: "Detained: A Writer's Prison Diary"
-slug: detained-a-writers-prison-diary
+slug: "detained-a-writers-prison-diary"
 author: "Ngũgĩ"
 highlights: 0
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/5419714-L.jpg"
-first_highlight: "2026-08-15"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-05"
+last_highlight: "2026-07-05"
 ---
 
 

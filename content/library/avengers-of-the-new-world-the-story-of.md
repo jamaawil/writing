@@ -1,13 +1,12 @@
 ---
 title: "Avengers of the New World_ The Story of…"
-slug: avengers-of-the-new-world-the-story-of
+slug: "avengers-of-the-new-world-the-story-of"
 author: "Dubois, Laurent"
 highlights: 179
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/412457-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-08"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Facing enemies inside and outside the colony. [fact]
@@ -1796,4 +1795,4 @@ last_note: ""
 <cite>Dubois, Laurent, Avengers of the New World_ …, loc. 9500</cite>
 
 > [!Response]
-> 
+>

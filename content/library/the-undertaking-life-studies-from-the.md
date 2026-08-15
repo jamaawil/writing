@@ -1,13 +1,12 @@
 ---
 title: "The undertaking-life studies from the…"
-slug: the-undertaking-life-studies-from-the
+slug: "the-undertaking-life-studies-from-the"
 author: "Lynch, Thomas"
 highlights: 23
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/247141-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-26"
+last_highlight: "2026-07-27"
 ---
 
 > [!quote] It was a comfort, I suppose. [fact]
@@ -236,4 +235,4 @@ last_note: ""
 <cite>Lynch, Thomas, The undertaking-life studie…, loc. 642</cite>
 
 > [!Response]
-> 
+>

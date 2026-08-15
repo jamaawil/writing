@@ -1,13 +1,12 @@
 ---
 title: "Ain't I a Woman_ Black Women and…"
-slug: aint-i-a-woman-black-women-and
+slug: "aint-i-a-woman-black-women-and"
 author: "bell hooks"
 highlights: 55
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/4767750-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-08"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] In classes and in consciousness-raising groups when I called. [fact]
@@ -556,4 +555,4 @@ last_note: ""
 <cite>bell hooks, Ain't I a Woman_ Black Wome…, loc. 568</cite>
 
 > [!Response]
-> 
+>

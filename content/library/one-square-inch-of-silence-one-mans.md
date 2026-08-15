@@ -1,13 +1,12 @@
 ---
 title: "One Square Inch of Silence- One Man's…"
-slug: one-square-inch-of-silence-one-mans
+slug: "one-square-inch-of-silence-one-mans"
 author: "Gordon Hempton, John Grossmann"
 highlights: 89
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/8207989-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-05"
+last_highlight: "2026-08-08"
 ---
 
 > [!quote] Moreover, fighting noise is not the same as preserving. [contrarian]
@@ -896,4 +895,4 @@ last_note: ""
 <cite>Gordon Hempton, John Grossmann, One Square Inch of Silence-…, loc. 1704</cite>
 
 > [!Response]
-> 
+>

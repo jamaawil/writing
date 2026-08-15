@@ -1,13 +1,12 @@
 ---
 title: "Sir Francis Drake"
-slug: sir-francis-drake
+slug: "sir-francis-drake"
 author: "John Sugden"
 highlights: 52
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/3989104-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-31"
+last_highlight: "2026-07-31"
 ---
 
 > [!quote] His attacks on Spanish cities and ships transformed his. [fact]
@@ -526,4 +525,4 @@ last_note: ""
 <cite>John Sugden, Sir Francis Drake, loc. 1380</cite>
 
 > [!Response]
-> 
+>

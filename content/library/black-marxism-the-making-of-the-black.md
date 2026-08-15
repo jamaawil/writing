@@ -1,13 +1,12 @@
 ---
 title: "Black Marxism_ The Making of the Black…"
-slug: black-marxism-the-making-of-the-black
+slug: "black-marxism-the-making-of-the-black"
 author: "Cedric J. Robinson"
 highlights: 163
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/14330911-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-08"
+last_highlight: "2026-08-09"
 ---
 
 > [!quote] Robinson not only exposes the limits of historical materialism. [contrarian]
@@ -1636,4 +1635,4 @@ last_note: ""
 <cite>Cedric J. Robinson, Black Marxism_ The Making o…, loc. 2401</cite>
 
 > [!Response]
-> 
+>

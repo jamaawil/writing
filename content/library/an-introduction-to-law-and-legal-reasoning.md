@@ -1,13 +1,12 @@
 ---
 title: "An Introduction to Law and Legal Reasoning"
-slug: an-introduction-to-law-and-legal-reasoning
+slug: "an-introduction-to-law-and-legal-reasoning"
 author: "Burton, Steven J"
 highlights: 4
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/5336752-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-02"
+last_highlight: "2026-08-02"
 ---
 
 > [!quote] It not only does not help. [contrarian]
@@ -46,4 +45,4 @@ last_note: ""
 <cite>Burton, Steven J, An Introduction to Law and …, loc. 227</cite>
 
 > [!Response]
-> 
+>

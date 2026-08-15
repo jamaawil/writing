@@ -1,13 +1,12 @@
 ---
 title: "A childhood the biography of a place"
-slug: a-childhood-the-biography-of-a-place
+slug: "a-childhood-the-biography-of-a-place"
 author: "Crews, Harry"
 highlights: 25
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/4439657-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-07-26"
+last_highlight: "2026-07-26"
 ---
 
 > [!quote] The world that circumscribed the people I come from. [fact]
@@ -256,4 +255,4 @@ last_note: ""
 <cite>Crews, Harry, A childhood the biography o…, loc. 1060</cite>
 
 > [!Response]
-> 
+>

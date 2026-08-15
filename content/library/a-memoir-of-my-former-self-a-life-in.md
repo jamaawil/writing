@@ -1,13 +1,12 @@
 ---
 title: "A Memoir of My Former Self- A Life in…"
-slug: a-memoir-of-my-former-self-a-life-in
+slug: "a-memoir-of-my-former-self-a-life-in"
 author: "Hilary Mantel"
 highlights: 221
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/14532942-L.jpg"
-first_highlight: "2026-08-09"
-last_highlight: "2026-08-15"
-last_note: ""
+first_highlight: "2026-08-05"
+last_highlight: "2026-08-08"
 ---
 
 > [!quote] Your hand moves so slowly that you can keep. [fact]
@@ -2216,4 +2215,4 @@ last_note: ""
 <cite>Hilary Mantel, A Memoir of My Former Self-…, loc. 1227</cite>
 
 > [!Response]
-> 
+>

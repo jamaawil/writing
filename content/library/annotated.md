@@ -1,12 +1,12 @@
 ---
 title: "Annotated"
-slug: annotated
+slug: "annotated"
 author: "Bibliography"
 highlights: 2
 responses: 0
 cover: "https://covers.openlibrary.org/b/id/14319281-L.jpg"
-first_highlight: "2026-07-01"
-last_highlight: "2026-08-15"
+first_highlight: "2026-06-25"
+last_highlight: "2026-06-26"
 last_note: "2026-06-25"
 ---
 
@@ -26,4 +26,4 @@ last_note: "2026-06-25"
 <cite>Bibliography, Annotated, Location 60</cite>
 
 > [!Response]
-> 
+>
