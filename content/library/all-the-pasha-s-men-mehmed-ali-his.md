@@ -4,7 +4,7 @@ slug: "all-the-pasha-s-men-mehmed-ali-his"
 author: "Khaled Fahmy"
 highlights: 415
 responses: 0
-cover: "https://covers.openlibrary.org/b/id/345953-L.jpg"
+cover: "https://m.media-amazon.com/images/I/91wDUWrJroL._SL1500_.jpg"
 first_highlight: "2026-08-10"
 last_highlight: "2026-08-10"
 ---
