@@ -18,7 +18,7 @@ const ENGINES = 6;             // parallel SQLite engines
 
 class BlockCache {
   constructor(source) {
-    this.source = source;      // {base, size, chunkSize}
+    this.source = source;      // {base, size, chunkSize, urls}
     this.pinned = new Map();   // preloaded search core, never evicted
     this.cache = new Map();    // block index -> Promise<Uint8Array>, LRU order
     this.requests = 0;
@@ -28,7 +28,7 @@ class BlockCache {
     const start = first * BLOCK, end = Math.min((first + count) * BLOCK, size) - 1;
     const chunk = Math.floor(start / chunkSize), offset = start - chunk * chunkSize;
     // chunkSize is a multiple of BLOCK; callers never cross a piece boundary.
-    const url = base + String(chunk).padStart(6, '0');
+    const url = this.source.urls[chunk];
     for (let attempt = 0; ; attempt++) {
       this.requests++;
       let status = 0;
@@ -124,7 +124,9 @@ export async function openHttpDatabase(base, wasmPath) {
     load('@journeyapps/wa-sqlite/dist/wa-sqlite-async.mjs'), load('@journeyapps/wa-sqlite'),
     load('@journeyapps/wa-sqlite/src/FacadeVFS.js'), load('@journeyapps/wa-sqlite/src/VFS.js')]);
   if (manifest.chunkSize % BLOCK) throw new Error('Piece size must be a multiple of ' + BLOCK);
-  const blocks = new BlockCache({base, size: manifest.size, chunkSize: manifest.chunkSize});
+  // A piece unchanged since an earlier version points at that copy ("key").
+  const urls = manifest.pieces.map(p => new URL(p.key || p.name, base).href);
+  const blocks = new BlockCache({base, size: manifest.size, chunkSize: manifest.chunkSize, urls});
   const preloading = blocks.preload(manifest.hot || []);
   const HttpVFS = defineHttpVFS(FacadeVFS, VFS);
   const wasmBinary = readFileSync(wasmPath);

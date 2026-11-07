@@ -16,6 +16,14 @@ const put = (file, key, type) => execFileSync('npx', ['--yes', 'wrangler', 'r2',
 
 (async () => {
   for (const piece of manifest.pieces) {
+    if (piece.key) {
+      // Reused from an earlier version: confirm that copy is on R2 and identical.
+      const h = await fetch(new URL(piece.key, BASE), {method: 'HEAD'});
+      const prevDir = path.join(dir, '..', piece.key.split('/')[1]);
+      const md5 = crypto.createHash('md5').update(fs.readFileSync(path.join(prevDir, piece.name))).digest('hex');
+      if (!h.ok || (h.headers.get('etag') || '').replace(/"/g, '') !== md5) throw new Error('Reused piece missing or different: ' + piece.key);
+      console.log(piece.name + ' reused from ' + piece.key + ', fingerprint matches'); continue;
+    }
     const file = path.join(dir, piece.name);
     const data = fs.readFileSync(file);
     const sum = crypto.createHash('sha256').update(data).digest('hex');

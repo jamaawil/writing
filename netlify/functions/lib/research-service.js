@@ -109,8 +109,10 @@ async function search(store, params) {
   const offset = pageNumber(params.offset, 0, 10000000);
   let rows;
   if (!q) {
-    rows = await store.query(`SELECT id,title,kind,href,body FROM entities WHERE published=1
+    // Walk a (published,[kind,]title,id) index in order, then load just this page.
+    rows = await store.query(`SELECT id FROM entities INDEXED BY ${kind ? 'entities_kind_title' : 'entities_title'} WHERE published=1
       ${kind ? 'AND kind=?' : ''} ORDER BY title,id LIMIT ? OFFSET ?`, [...(kind ? [kind] : []), limit + 1, offset]);
+    rows = await Promise.all(rows.map(async r => (await store.query('SELECT id,title,kind,href,body FROM entities WHERE id=?',[r.id]))[0]));
   } else if (store.postgres) {
     rows = await store.query(`SELECT e.id,e.title,e.kind,e.href,e.body FROM entities e WHERE e.published=1
       ${kind ? 'AND e.kind=?' : ''} AND (to_tsvector('english',e.title || ' ' || e.body || ' ' || coalesce((e.metadata::jsonb->'frontmatter')::text,'')) @@ websearch_to_tsquery('english',?)
@@ -145,15 +147,35 @@ async function relationships(store, id, params) {
   const origin = String(params.origin || '');
   const predicate = String(params.predicate || '');
   const history = params.history === '1';
-  const rows = await store.query(`SELECT r.*,a.title AS source_title,a.kind AS source_kind,a.href AS source_href,
-    b.title AS target_title,b.kind AS target_kind,b.href AS target_href FROM relations r
-    JOIN entities a ON a.id=r.source JOIN entities b ON b.id=r.target
-    WHERE (r.source=? OR r.target=?) AND a.published=1 AND b.published=1
-    ${history ? '' : "AND coalesce(r.predicate,'')!='none' AND coalesce(r.status,'') NOT IN ('none','rejected')"}
-    ${origin ? 'AND r.origin=?' : ''} ${predicate ? 'AND r.predicate=?' : ''}
-    ORDER BY CASE r.status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END,
-      coalesce(r.strength,0) DESC,r.id LIMIT ? OFFSET ?`,
-    [id,id,...(origin ? [origin] : []),...(predicate ? [predicate] : []),limit + 1,offset]);
+  // Outgoing and incoming connections are each walked in display order from a
+  // ranked index (relations_source_rank / relations_target_rank), merged, then
+  // only the endpoints on this page are loaded. Same rows and order as sorting
+  // every connection of the note.
+  const filters = `${history ? '' : "AND coalesce(r.predicate,'')!='none' AND coalesce(r.status,'') NOT IN ('none','rejected')"}
+    ${origin ? 'AND r.origin=?' : ''} ${predicate ? 'AND r.predicate=?' : ''}`;
+  const filterArgs = [...(origin ? [origin] : []),...(predicate ? [predicate] : [])];
+  const order = "CASE r.status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END,coalesce(r.strength,0) DESC,r.id";
+  // With an origin filter, a note whose matching connections are few is read
+  // through the (note,origin,status) index; otherwise the ranked walk is faster.
+  let byOrigin = false;
+  if (origin) {
+    const count = await store.query(`SELECT (SELECT count(*) FROM relations INDEXED BY relations_source WHERE source=? AND origin=?)
+      + (SELECT count(*) FROM relations INDEXED BY relations_target WHERE target=? AND origin=?) AS n`, [id,origin,id,origin]);
+    byOrigin = Number(count[0].n) <= 2000;
+  }
+  const side = (column, extra) => `SELECT * FROM (SELECT r.* FROM relations r INDEXED BY relations_${column}${byOrigin ? '' : '_rank'}
+    JOIN entities a INDEXED BY entities_id_kind ON a.id=r.source JOIN entities b INDEXED BY entities_id_kind ON b.id=r.target
+    WHERE r.${column}=? ${extra} AND a.published=1 AND b.published=1 ${filters} ORDER BY ${order} LIMIT ?)`;
+  const n = limit + 1 + offset;
+  const rows = await store.query(`SELECT * FROM (${side('source','')} UNION ALL ${side('target','AND r.source!=?')}) r
+    ORDER BY ${order} LIMIT ? OFFSET ?`, [id,...filterArgs,n,id,id,...filterArgs,n,limit + 1,offset]);
+  const ends = new Map();
+  for (const r of rows) for (const e of [r.source, r.target]) if (!ends.has(e)) ends.set(e, null);
+  await Promise.all([...ends.keys()].map(async e => ends.set(e, (await store.query('SELECT title,kind,href FROM entities WHERE id=?',[e]))[0])));
+  for (const r of rows) {
+    const a = ends.get(r.source), b = ends.get(r.target);
+    Object.assign(r, {source_title:a.title,source_kind:a.kind,source_href:a.href,target_title:b.title,target_kind:b.kind,target_href:b.href});
+  }
   return { results: rows.slice(0,limit).map(r => ({ id:r.id,origin:r.origin,predicate:r.predicate,
     direction:r.direction,status:r.status,strength:r.strength,rationale:r.rationale,raw:parse(r.raw),
     source:{id:r.source,title:r.source_title,kind:r.source_kind,href:r.source_href || href(r.source)},

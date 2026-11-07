@@ -12,6 +12,13 @@ function fixture(){
     CREATE TABLE metadata(key TEXT,value TEXT);
     CREATE VIRTUAL TABLE search USING fts5(entity_id UNINDEXED,title,body);
     CREATE VIRTUAL TABLE evidence_search USING fts5(entity_id UNINDEXED,text);
+    CREATE INDEX entities_id_kind ON entities(id,published,kind);
+    CREATE INDEX entities_title ON entities(published,title,id);
+    CREATE INDEX entities_kind_title ON entities(published,kind,title,id);
+    CREATE INDEX relations_source ON relations(source,origin,status);
+    CREATE INDEX relations_target ON relations(target,origin,status);
+    CREATE INDEX relations_source_rank ON relations(source,(CASE status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END),(coalesce(strength,0)) DESC,id);
+    CREATE INDEX relations_target_rank ON relations(target,(CASE status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END),(coalesce(strength,0)) DESC,id);
     INSERT INTO entities VALUES('a','A source claim','claim','The author argues a position.','{}',1,NULL),('b','A qualifying claim','claim','Conditions change the argument.','{}',1,NULL),('p','Private notebook','note','Private text.','{}',0,NULL);
     INSERT INTO aliases VALUES('a source claim','a','source'),('private notebook','p','source');
     INSERT INTO evidence VALUES('ev','a',NULL,'A passage about hippocampal consolidation.','42','{}');

@@ -468,6 +468,10 @@ def main():
       CREATE INDEX relations_target ON relations(target,origin,status);
       CREATE INDEX entities_kind ON entities(published,kind,title);
       CREATE INDEX entities_id_kind ON entities(id,published,kind);
+      CREATE INDEX entities_title ON entities(published,title,id);
+      CREATE INDEX entities_kind_title ON entities(published,kind,title,id);
+      CREATE INDEX relations_source_rank ON relations(source,(CASE status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END),(coalesce(strength,0)) DESC,id);
+      CREATE INDEX relations_target_rank ON relations(target,(CASE status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END),(coalesce(strength,0)) DESC,id);
       CREATE INDEX aliases_entity ON aliases(entity_id);
       CREATE INDEX evidence_entity ON evidence(entity_id);
       CREATE INDEX evidence_book ON evidence(book_id);
