@@ -82,13 +82,26 @@ function normalize(value) {
     .replace(/^\/?Digitalmind\//i, '').replace(/\/+$/, '').replace(/\.(md|html)$/i, ''))
     .replace(/^\/+/, '');
 }
+// The compact `cards` table (scripts/research-cards.js) when the database has
+// it; otherwise the same columns from `entities`.
+async function cardsTable(store) {
+  if (store._cards === undefined) {
+    try { store._cards = (await store.query("SELECT 1 AS ok FROM sqlite_schema WHERE name='cards'")).length ? 'cards' : 'entities'; }
+    catch { store._cards = 'entities'; }
+  }
+  return store._cards;
+}
+function excerptOf(body) {
+  return String(body || '').replace(/<!--[^]*?-->/g, '').replace(/^#+[^\n]*$/gm, '').replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_,a,b) => b || a)
+    .replace(/<[^>]*>/g, '').replace(/[>*_`]/g, '').replace(/\s+/g, ' ').trim().slice(0,190);
+}
 function item(row) { return { id: row.id, title: row.title, kind: row.kind, href: row.href || href(row.id) }; }
 function pageNumber(value, fallback, max) {
   const n = Number(value);
   return Number.isSafeInteger(n) && n >= 0 ? Math.min(n, max) : fallback;
 }
 
-async function renderBody(body, store, sourcePath) {
+async function renderBody(body, store, sourcePath, options = {}) {
   // Resolve Obsidian references before Markdown rendering. Unknown references
   // open the search/resolve surface; they never produce guessed destinations.
   const replacements = new Map();
@@ -98,7 +111,7 @@ async function renderBody(body, store, sourcePath) {
     const key = normalize(target);
     if (!replacements.has(key)) {
       const rows = await store.query(`SELECT DISTINCT e.id,e.title,e.kind,e.href FROM aliases a
-        JOIN entities e ON e.id=a.entity_id WHERE a.alias=? AND e.published=1 LIMIT 3`, [key]);
+        JOIN ${await cardsTable(store)} e ON e.id=a.entity_id WHERE a.alias=? AND e.published=1 LIMIT 3`, [key]);
       replacements.set(key, rows.length === 1 ? item(rows[0]).href : '/zettel/research/?reference=' + encodeURIComponent(target));
     }
   }
@@ -117,7 +130,19 @@ async function renderBody(body, store, sourcePath) {
   body = body.replace(/https:\/\/jamaawil\.github\.io\/Digitalmind\/([^\s)"<>]+)/g,
     (_, target) => '/zettel/research/?reference=' + encodeURIComponent(target));
   const renderer = sourcePath ? unified().use(remarkParse).use(remarkGfm).use(safeResearchLinks,{sourcePath}).use(remarkRehype).use(researchAnchors).use(rehypeStringify) : pipeline;
-  return fixExternalLinks(await resolveReferenceLinks(String(renderer.processSync(body)), store));
+  const html = await resolveReferenceLinks(String(renderer.processSync(body)), store);
+  return options.external === false ? html : fixExternalLinks(html);
+}
+
+// The pre-rendered page (scripts/research-render.js) when the database has
+// one; otherwise render now. External dead-link fixes apply either way.
+async function bodyHtml(row, store) {
+  try {
+    const cached = (await store.query('SELECT html FROM rendered WHERE entity_id=?', [row.id]))[0];
+    if (cached) return fixExternalLinks(require('node:zlib').inflateRawSync(Buffer.from(cached.html)).toString('utf8'));
+  } catch { /* database without pre-rendered pages */ }
+  const body = row.body ?? (await store.query('SELECT body FROM entities WHERE id=?', [row.id]))[0]?.body ?? '';
+  return renderBody(body, store, row.source_path);
 }
 
 // Every link to /zettel/research/?reference=… is settled before the page is
@@ -149,6 +174,11 @@ async function resolveReferenceLinks(html, store) {
   });
 }
 
+async function loadCards(store, rows) {
+  const table = await cardsTable(store);
+  return Promise.all(rows.map(async r => (await store.query(`SELECT id,title,kind,href,${table === 'cards' ? 'excerpt' : 'body'} FROM ${table} WHERE id=?`,[r.id]))[0]));
+}
+
 async function search(store, params) {
   const q = String(params.q || '').trim().slice(0, 250);
   const kind = String(params.kind || '');
@@ -159,7 +189,7 @@ async function search(store, params) {
     // Walk a (published,[kind,]title,id) index in order, then load just this page.
     rows = await store.query(`SELECT id FROM entities INDEXED BY ${kind ? 'entities_kind_title' : 'entities_title'} WHERE published=1
       ${kind ? 'AND kind=?' : ''} ORDER BY title,id LIMIT ? OFFSET ?`, [...(kind ? [kind] : []), limit + 1, offset]);
-    rows = await Promise.all(rows.map(async r => (await store.query('SELECT id,title,kind,href,body FROM entities WHERE id=?',[r.id]))[0]));
+    rows = await loadCards(store, rows);
   } else if (store.postgres) {
     rows = await store.query(`SELECT e.id,e.title,e.kind,e.href,e.body FROM entities e WHERE e.published=1
       ${kind ? 'AND e.kind=?' : ''} AND (to_tsvector('english',e.title || ' ' || e.body || ' ' || coalesce((e.metadata::jsonb->'frontmatter')::text,'')) @@ websearch_to_tsquery('english',?)
@@ -181,11 +211,9 @@ async function search(store, params) {
       GROUP BY k.id ORDER BY score,k.id LIMIT ? OFFSET ?)
       SELECT id,score FROM best ORDER BY score,id`, [match, match, ...(kind ? [kind] : []), limit + 1, offset]);
     // Independent lookups, so a remote store can fetch them in parallel.
-    rows = await Promise.all(rows.map(async r => (await store.query('SELECT id,title,kind,href,body FROM entities WHERE id=?',[r.id]))[0]));
+    rows = await loadCards(store, rows);
   }
-  return { results: rows.slice(0, limit).map(row => ({...item(row), excerpt: String(row.body || '')
-    .replace(/<!--[^]*?-->/g, '').replace(/^#+[^\n]*$/gm, '').replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_,a,b) => b || a)
-    .replace(/<[^>]*>/g, '').replace(/[>*_`]/g, '').replace(/\s+/g, ' ').trim().slice(0,190)})), more: rows.length > limit, offset, limit };
+  return { results: rows.slice(0, limit).map(row => ({...item(row), excerpt: row.excerpt ?? excerptOf(row.body)})), more: rows.length > limit, offset, limit };
 }
 
 async function relationships(store, id, params) {
@@ -218,7 +246,8 @@ async function relationships(store, id, params) {
     ORDER BY ${order} LIMIT ? OFFSET ?`, [id,...filterArgs,n,id,id,...filterArgs,n,limit + 1,offset]);
   const ends = new Map();
   for (const r of rows) for (const e of [r.source, r.target]) if (!ends.has(e)) ends.set(e, null);
-  await Promise.all([...ends.keys()].map(async e => ends.set(e, (await store.query('SELECT title,kind,href FROM entities WHERE id=?',[e]))[0])));
+  const table = await cardsTable(store);
+  await Promise.all([...ends.keys()].map(async e => ends.set(e, (await store.query(`SELECT title,kind,href FROM ${table} WHERE id=?`,[e]))[0])));
   for (const r of rows) {
     const a = ends.get(r.source), b = ends.get(r.target);
     Object.assign(r, {source_title:a.title,source_kind:a.kind,source_href:a.href,target_title:b.title,target_kind:b.kind,target_href:b.href});
@@ -236,6 +265,19 @@ async function cachedPage(store, key) {
   if (store.postgres) return null;
   try { const row = (await store.query('SELECT value FROM page_cache WHERE key=?',[key]))[0]; return row ? JSON.parse(row.value) : null; }
   catch { return null; }
+}
+
+// A record's fields without its full text when `cards`/`details` exist (the
+// text is only needed if no pre-rendered page exists; bodyHtml loads it then).
+async function recordRow(store, id) {
+  if (await cardsTable(store) === 'cards') {
+    const [card, detail] = await Promise.all([
+      store.query('SELECT id,title,kind,href,published FROM cards WHERE id=? AND published=1',[id]),
+      store.query('SELECT meta FROM details WHERE entity_id=?',[id])]);
+    if (!card[0] || !detail[0]) return undefined;
+    return {...card[0], ...JSON.parse(require('node:zlib').inflateRawSync(Buffer.from(detail[0].meta)).toString('utf8'))};
+  }
+  return (await store.query('SELECT * FROM entities WHERE id=? AND published=1',[id]))[0];
 }
 
 async function service(store, params) {
@@ -286,20 +328,22 @@ async function service(store, params) {
   if (action === 'resolve') {
     const reference = String(params.reference || '').slice(0,2000);
     let rows = await store.query(`SELECT DISTINCT e.id,e.title,e.kind,e.href FROM aliases a
-      JOIN entities e ON e.id=a.entity_id WHERE a.alias=? AND e.published=1 ORDER BY e.kind,e.id`,[normalize(reference)]);
+      JOIN ${await cardsTable(store)} e ON e.id=a.entity_id WHERE a.alias=? AND e.published=1 ORDER BY e.kind,e.id`,[normalize(reference)]);
     if (!rows.length && reference.includes('/')) {
       rows = await store.query(`SELECT DISTINCT e.id,e.title,e.kind,e.href FROM aliases a
-        JOIN entities e ON e.id=a.entity_id WHERE a.alias=? AND e.published=1 ORDER BY e.kind,e.id`,[normalize(reference).split('/').pop()]);
+        JOIN ${await cardsTable(store)} e ON e.id=a.entity_id WHERE a.alias=? AND e.published=1 ORDER BY e.kind,e.id`,[normalize(reference).split('/').pop()]);
     }
     if(rows.some(r=>r.kind!=='reference'))rows=rows.filter(r=>r.kind!=='reference');
     return {reference,results:rows.map(item)};
   }
   // A record is addressed by its id or by its readable slug.
   let id = String(params.id || '').slice(0,300);
-  let row = (await store.query('SELECT * FROM entities WHERE id=? AND published=1',[id]))[0];
+  let row = await recordRow(store, id);
   if (!row && id && !id.includes(':')) {
-    try { row = (await store.query('SELECT e.* FROM slugs s JOIN entities e ON e.id=s.entity_id WHERE s.slug=? AND e.published=1',[id.normalize('NFC').toLowerCase()]))[0]; }
-    catch { /* database without readable addresses */ }
+    try {
+      const slug = (await store.query('SELECT entity_id FROM slugs WHERE slug=?',[id.normalize('NFC').toLowerCase()]))[0];
+      if (slug) row = await recordRow(store, slug.entity_id);
+    } catch { /* database without readable addresses */ }
     if (row) id = row.id;
   }
   if (!row) return { error:'No public record matches this address.',status:404 };
@@ -317,7 +361,7 @@ async function service(store, params) {
     // preservation snapshot rather than leaking through the public API.
     const fm = metadata.frontmatter || {};
     const evidence = await store.query(`SELECT e.id,e.text,e.location,b.id AS book_id,b.title AS book_title,b.href AS book_href
-      FROM evidence e LEFT JOIN entities b ON b.id=e.book_id AND b.published=1
+      FROM evidence e LEFT JOIN ${await cardsTable(store)} b ON b.id=e.book_id AND b.published=1
       WHERE e.entity_id=? ORDER BY e.id LIMIT 21`,[id]);
     const evidenceCount = (await store.query('SELECT count(*) AS count FROM evidence WHERE entity_id=?',[id]))[0].count;
     const referenceCandidates = [];
@@ -326,16 +370,16 @@ async function service(store, params) {
       for(const candidate of resolved.results){if(candidate.id!==id && candidate.kind!=='reference')referenceCandidates.push(candidate);}
     }
     for (const candidate of (metadata.candidates || []).slice(0,100)) {
-      const n = (await store.query('SELECT id,title,kind,href FROM entities WHERE id=? AND published=1',[candidate]))[0];
+      const n = (await store.query(`SELECT id,title,kind,href FROM ${await cardsTable(store)} WHERE id=? AND published=1`,[candidate]))[0];
       if (n && !referenceCandidates.some(candidate=>candidate.id===n.id)) referenceCandidates.push(item(n));
     }
     const attachmentRows = await store.query('SELECT entity_id,filename,mime,bytes,sha256 FROM assets WHERE entity_id=?',[id]);
     const attachment = attachmentRows[0];
-    return {...item(row),html:await renderBody(row.body,store,row.source_path),
+    return {...item(row),html:await bodyHtml(row,store),
       attachment:attachment ? {...attachment,href:'/api/research-asset?id='+encodeURIComponent(id)} : null,
       canvas:metadata.canvas ? {...metadata.canvas,nodes:await Promise.all((metadata.canvas.nodes || []).map(async n => {
         const nodeId = 'canvas:'+crypto.createHash('sha256').update(id+'\0'+n.id).digest('hex').slice(0,32);
-        const node = (await store.query('SELECT href FROM entities WHERE id=?',[nodeId]))[0];
+        const node = (await store.query(`SELECT href FROM ${await cardsTable(store)} WHERE id=?`,[nodeId]))[0];
         return {...n,href:node?.href || href(nodeId)};
       }))} : null,
       sourcePassage:metadata.source_table==='passages'?metadata.record:null,
@@ -350,9 +394,9 @@ async function service(store, params) {
   if (action === 'evidence') {
     const offset = pageNumber(params.offset,0,10000000);
     const rows = await store.query(`SELECT e.text,e.location,b.id AS book_id,b.title AS book_title FROM evidence e
-      LEFT JOIN entities b ON b.id=e.book_id AND b.published=1 WHERE e.entity_id=? ORDER BY e.id LIMIT 21 OFFSET ?`,[id,offset]);
+      LEFT JOIN ${await cardsTable(store)} b ON b.id=e.book_id AND b.published=1 WHERE e.entity_id=? ORDER BY e.id LIMIT 21 OFFSET ?`,[id,offset]);
     return {results:rows.slice(0,20).map(e => ({text:e.text,location:e.location,book:e.book_id ? {title:e.book_title,href:href(e.book_id)} : null})),more:rows.length>20,offset,limit:20};
   }
   return {error:'Unknown research operation.',status:400};
 }
-module.exports = { service,href,normalize,esc,renderBody };
+module.exports = { service,href,normalize,esc,renderBody,excerptOf };
