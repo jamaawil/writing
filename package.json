@@ -20,6 +20,7 @@
     "research:verify-style": "node scripts/research-style-verify.js"
   },
   "dependencies": {
+    "@journeyapps/wa-sqlite": "^2.0.10",
     "@neondatabase/serverless": "^1.1.0",
     "gray-matter": "^4.0.3",
     "rehype-stringify": "^10.0.1",

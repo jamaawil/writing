@@ -121,12 +121,18 @@ async function search(store, params) {
     const terms = q.match(/[\p{L}\p{N}_]+/gu) || [];
     if (!terms.length) return { results: [], more: false, offset };
     const match = terms.slice(0, 20).map(t => '"' + t.replace(/"/g, '""') + '"*').join(' AND ');
+    // Rank every hit using only the search index and a small (id,published,kind)
+    // index, then load full records for the one page being shown. Same results
+    // and order as joining every hit to its full record, far fewer reads.
     rows = await store.query(`WITH hits AS MATERIALIZED (
       SELECT entity_id,bm25(search,0,8,1) AS score FROM search WHERE search MATCH ?
       UNION ALL SELECT entity_id,bm25(evidence_search) AS score FROM evidence_search WHERE evidence_search MATCH ?
-      ) SELECT e.id,e.title,e.kind,e.href,e.body,min(h.score) AS score FROM hits h
-      JOIN entities e ON e.id=h.entity_id WHERE e.published=1 ${kind ? 'AND e.kind=?' : ''}
-      GROUP BY e.id ORDER BY score,e.id LIMIT ? OFFSET ?`, [match, match, ...(kind ? [kind] : []), limit + 1, offset]);
+      ), best AS MATERIALIZED (SELECT k.id,min(h.score) AS score FROM hits h
+      JOIN entities k ON k.id=h.entity_id WHERE k.published=1 ${kind ? 'AND k.kind=?' : ''}
+      GROUP BY k.id ORDER BY score,k.id LIMIT ? OFFSET ?)
+      SELECT id,score FROM best ORDER BY score,id`, [match, match, ...(kind ? [kind] : []), limit + 1, offset]);
+    // Independent lookups, so a remote store can fetch them in parallel.
+    rows = await Promise.all(rows.map(async r => (await store.query('SELECT id,title,kind,href,body FROM entities WHERE id=?',[r.id]))[0]));
   }
   return { results: rows.slice(0, limit).map(row => ({...item(row), excerpt: String(row.body || '')
     .replace(/<!--[^]*?-->/g, '').replace(/^#+[^\n]*$/gm, '').replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_,a,b) => b || a)
@@ -155,8 +161,20 @@ async function relationships(store, id, params) {
     more:rows.length > limit,offset,limit };
 }
 
+async function cachedPage(store, key) {
+  // Whole-collection summaries are computed once when the database file is
+  // built (scripts/research-pack.js), so they do not scan 500k records live.
+  if (store.postgres) return null;
+  try { const row = (await store.query('SELECT value FROM page_cache WHERE key=?',[key]))[0]; return row ? JSON.parse(row.value) : null; }
+  catch { return null; }
+}
+
 async function service(store, params) {
   const action = params.action || 'search';
+  if ((action === 'home' || action === 'overview') && !params.fresh) {
+    const cached = await cachedPage(store, action);
+    if (cached) return cached;
+  }
   if (action === 'search') return search(store,params);
   if (action === 'home') {
     const sections = [

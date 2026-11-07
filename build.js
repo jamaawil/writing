@@ -427,8 +427,8 @@ function contribGraph(items) {
 
 /* ============================ build ============================ */
 function build() {
-  if (process.env.NETLIFY === 'true' && (!process.env.RESEARCH_DATABASE_URL || !process.env.RESEARCH_SCHEMA || !process.env.RESEARCH_ASSET_BASE_URL)) {
-    throw new Error('Configure the verified research publication (RESEARCH_DATABASE_URL, RESEARCH_SCHEMA and RESEARCH_ASSET_BASE_URL) before deploying this branch.');
+  if (process.env.NETLIFY === 'true' && (!(process.env.RESEARCH_DATA_URL || (process.env.RESEARCH_DATABASE_URL && process.env.RESEARCH_SCHEMA)) || !process.env.RESEARCH_ASSET_BASE_URL)) {
+    throw new Error('Configure the verified research publication (RESEARCH_DATA_URL and RESEARCH_ASSET_BASE_URL) before deploying this branch.');
   }
   fs.rmSync(OUT, { recursive: true, force: true });
   fs.mkdirSync(OUT, { recursive: true });

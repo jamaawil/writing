@@ -4,6 +4,10 @@
 
 [functions]
   directory = "netlify/functions"
+  node_bundler = "esbuild"
+  # SQLite (WebAssembly) reads the research database from Cloudflare R2.
+  external_node_modules = ["@journeyapps/wa-sqlite"]
+  included_files = ["node_modules/@journeyapps/wa-sqlite/dist/wa-sqlite-async.*", "node_modules/@journeyapps/wa-sqlite/src/**"]
 
 # Stable record URLs share one application shell. Entity identities, not titles,
 # determine the destination; renaming a note does not break a research link.

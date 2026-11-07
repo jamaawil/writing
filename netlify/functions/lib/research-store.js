@@ -4,7 +4,12 @@ const path = require('node:path');
 let cached;
 function getStore() {
   if (cached) return cached;
-  if (process.env.RESEARCH_DATABASE_URL) {
+  if (process.env.RESEARCH_DATA_URL) {
+    // Research database served from Cloudflare R2 and read by byte range.
+    const opened = import('./http-sqlite.mjs').then(m => m.openHttpDatabase(process.env.RESEARCH_DATA_URL, require.resolve('@journeyapps/wa-sqlite/dist/wa-sqlite-async.wasm')));
+    opened.catch(() => { cached = undefined; });
+    cached = { postgres: false, query: async (text, args = []) => (await opened).query(text, args) };
+  } else if (process.env.RESEARCH_DATABASE_URL) {
     const { neon } = require('@neondatabase/serverless');
     const sql = neon(process.env.RESEARCH_DATABASE_URL);
     const schema = process.env.RESEARCH_SCHEMA;

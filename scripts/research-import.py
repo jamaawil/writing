@@ -467,6 +467,7 @@ def main():
       CREATE INDEX relations_source ON relations(source,origin,status);
       CREATE INDEX relations_target ON relations(target,origin,status);
       CREATE INDEX entities_kind ON entities(published,kind,title);
+      CREATE INDEX entities_id_kind ON entities(id,published,kind);
       CREATE INDEX aliases_entity ON aliases(entity_id);
       CREATE INDEX evidence_entity ON evidence(entity_id);
       CREATE INDEX evidence_book ON evidence(book_id);
