@@ -5,13 +5,19 @@
   "private": true,
   "scripts": {
     "build": "node build.js",
+    "research:import": "python3 scripts/research-import.py",
+    "research:preview": "node scripts/research-preview.js",
+    "research:verify": "node scripts/research-verify.js",
+    "research:upload": "node scripts/research-upload.js",
+    "test:research": "node --test tests/research.test.js && python3 tests/research-import.test.py",
     "serve": "npx serve public",
     "sync:obsidian": "node scripts/sync-library-from-obsidian.js",
     "sync:content": "node scripts/sync-content-from-obsidian.js",
     "sync:all": "npm run sync:obsidian && npm run sync:content && npm run build",
     "publish": "node scripts/publish.js",
     "comments:migrate": "node scripts/comments-migrate.js",
-    "comments:review": "node scripts/comments-review.js"
+    "comments:review": "node scripts/comments-review.js",
+    "research:verify-style": "node scripts/research-style-verify.js"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",

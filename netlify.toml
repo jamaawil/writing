@@ -5,6 +5,28 @@
 [functions]
   directory = "netlify/functions"
 
+# Stable record URLs share one application shell. Entity identities, not titles,
+# determine the destination; renaming a note does not break a research link.
+[[redirects]]
+  from = "/zettel/research/*"
+  to = "/zettel/research/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/Zettlr"
+  to = "/zettel/"
+  status = 301
+
+[[redirects]]
+  from = "/Zettlr/*"
+  to = "/zettel/research/?reference=:splat"
+  status = 301
+
+[[redirects]]
+  from = "/Digitalmind/*"
+  to = "/zettel/research/?reference=:splat"
+  status = 301
+
 # Friendly API paths used by the client (comments.js / main.js) mapped to the
 # actual function names. These specific rules MUST come before the /api/* catch-all
 # (Netlify uses the first matching rule).
@@ -16,6 +38,12 @@
 [[redirects]]
   from = "/api/comment"
   to = "/.netlify/functions/comment-post"
+  status = 200
+
+
+[[redirects]]
+  from = "/api/research-asset"
+  to = "/.netlify/functions/research-asset"
   status = 200
 
 [[redirects]]

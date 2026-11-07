@@ -2,6 +2,7 @@ node_modules/
 public/
 .DS_Store
 .env
+.research/
 
 # Obsidian vault source notes (this repo folder doubles as a vault subfolder).
 # These are the source of truth in Obsidian; sync scripts read them and write

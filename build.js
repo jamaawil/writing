@@ -235,7 +235,7 @@ function fmtLong(date) {
 
 /* ============================ shared chrome ============================ */
 let HOW_HREF = null; // set in build() once we know whether the page exists
-function layout({ title, activeHref, body, banner }) {
+function layout({ title, activeHref, body, banner, research = false }) {
   const bannerHtml = banner ? `<div class="site-banner" id="siteBanner"><p>${banner}</p></div>` : "";
   const ctrlBtn = (cls, onclick, label, inner) =>
     `<button class="ctrl-btn ${cls}" data-label="${label}" onclick="${onclick}" aria-label="${label}">${inner}<span class="tooltip">${label}</span></button>`;
@@ -254,9 +254,9 @@ function layout({ title, activeHref, body, banner }) {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 ${FONT_LINK}
 <link rel="stylesheet" href="/css/style.css">
-${BOOT}
+${research ? '<link rel="stylesheet" href="/css/research.css">\n' : ''}${BOOT}
 </head>
-<body>
+<body${research ? ' class="research-site"' : ''}>
 <header class="mobile-bar">
   <h1 class="mobile-title">${SITE_NAME}</h1>
   <div class="mobile-icons-row">
@@ -291,7 +291,13 @@ ${BOOT}
     <nav class="aside-nav">
       ${NAV.map((n) => `<a href="${n.href}"${n.href === activeHref ? ' class="active"' : ""}>${svgIcon(n.icon)}<span class="label">${n.title}</span></a>`).join("\n      ")}
     </nav>
-    <div class="controls">
+${research ? `    <nav class="research-browse" aria-label="Browse the research"><h2>Browse</h2><a class="research-browse-home" href="/zettel/">The collection</a>${[
+      ['Reading', [['map','Maps of content'],['book','Sources'],['passage','Literary passages'],['source-passage','Source passages'],['glossary','Glossary']]],
+      ['Ideas', [['claim','Claims'],['theme','Themes'],['trail','Garden of Claims'],['note','My notes']]],
+      ['Research', [['mesh','Knowledge mesh'],['book-conversation','Book conversations'],['debate','Debates'],['hypothesis','New knowledge'],['learning','Learn'],['booklab','Booklab'],['web-claim','Web evidence'],['concept','Ontology'],['named-concept','Concept mentions'],['reading-suggestion','Reading suggestions'],['booklab-reading','Booklab passages'],['factcheck','Fact checks']]],
+      ['Vault', [['digest','Digests'],['archive','Archived notes'],['manuscript','Manuscripts'],['canvas','Canvases'],['view','Database views'],['attachment','Attachments'],['bibliography','Bibliographies'],['data','Research data'],['document','Documents']]]
+    ].map(([title, links]) => `<details open><summary>${title}</summary><ul>${links.map(([kind,label]) => `<li><a data-browse-kind="${kind}" href="/zettel/?kind=${kind}"><span>${label}</span><span data-kind-count="${kind}" class="research-browse-count"></span></a></li>`).join('')}</ul></details>`).join('')}</nav>
+` : ''}    <div class="controls">
       ${HOW_HREF ? `<a class="how-link" href="${HOW_HREF}">How I built this</a>` : ""}
       <div class="ctrl-row">
         ${ctrlBtn("theme-toggle", "cycleTheme()", "Theme", sun + moon)}
@@ -313,8 +319,7 @@ ${body}
 <script src="/js/main.js"></script>
 <script src="/js/comments.js"></script>
 <script src="/js/footnotes.js"></script>
-<script src="/js/zettel-graph.js"></script>
-</body>
+${research ? '<script src="/js/research-graph.js"></script>\n<script src="/js/research.js"></script>\n' : '<script src="/js/zettel-graph.js"></script>\n'}</body>
 </html>
 `;
 }
@@ -422,6 +427,9 @@ function contribGraph(items) {
 
 /* ============================ build ============================ */
 function build() {
+  if (process.env.NETLIFY === 'true' && (!process.env.RESEARCH_DATABASE_URL || !process.env.RESEARCH_SCHEMA || !process.env.RESEARCH_ASSET_BASE_URL)) {
+    throw new Error('Configure the verified research publication (RESEARCH_DATABASE_URL, RESEARCH_SCHEMA and RESEARCH_ASSET_BASE_URL) before deploying this branch.');
+  }
   fs.rmSync(OUT, { recursive: true, force: true });
   fs.mkdirSync(OUT, { recursive: true });
   copyStatic();
@@ -818,79 +826,30 @@ function build() {
     writePage(`ideas/${i.slug}`, layout({ title: i.title, activeHref: "/ideas/", body: `${backLink("Ideas", "/ideas/")}<article class="log detail"><header><h2>${esc(i.title)}</h2></header>${commentable(`ideas/${i.slug}`, i.html)}</article>` }));
   }
 
-  /* ---------- zettel ---------- */
-  const zettelBySlug = new Map(zettels.map((z) => [z.slug, z]));
-
-  // Replace [[slug]] and [[slug|Display]] wikilinks with anchor tags
-  function resolveWikilinks(html) {
-    return html.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, slug, display) => {
-      const z = zettelBySlug.get(slug.trim());
-      const text = display ? display.trim() : z ? z.title : slug.trim();
-      return z
-        ? `<a class="zettel-wikilink" href="/zettel/${slug.trim()}/">${esc(text)}</a>`
-        : `<span class="zettel-wikilink-missing">${esc(text)}</span>`;
-    });
-  }
-
-  // Build graph data (deduplicated undirected edges)
-  const graphNodes = zettels.map((z) => ({ id: z.slug, title: z.title, href: `/zettel/${z.slug}/` }));
-  const graphEdges = [];
-  const seenEdges = new Set();
-  for (const z of zettels) {
-    for (const target of (z.links || [])) {
-      const key = [z.slug, target].sort().join("\x00");
-      if (!seenEdges.has(key)) {
-        seenEdges.add(key);
-        graphEdges.push({ source: z.slug, target });
-      }
-    }
-  }
-  const graphJSON = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
-  const graphDataScript = `<script type="application/json" id="zettel-graph-data">${graphJSON}</script>`;
-
-  // Link pills for index and detail pages
-  const linkPills = (links) => (links || []).map((slug) => {
-    const linked = zettelBySlug.get(slug);
-    return linked ? `<a class="zettel-link-pill" href="/zettel/${slug}/">${esc(linked.title)}</a>` : "";
-  }).filter(Boolean).join("");
-
-  // Index note cards
-  const zettelCards = zettels.map((z) => {
-    const pills = linkPills(z.links);
-    return `<div class="zettel-card">
-  <h2 class="zettel-card-title"><a href="/zettel/${esc(z.slug)}/">${esc(z.title)}</a></h2>
-  <div class="zettel-card-body">${resolveWikilinks(z.html)}</div>
-  ${pills ? `<div class="zettel-card-links"><span class="zettel-links-label">Links</span>${pills}</div>` : ""}
-</div>`;
-  }).join("\n");
-
-  const zettelBody = `${graphDataScript}
-<div class="zettel-page-wrap">
-  <div class="zettel-page-head">
-    <div class="page-head"><h1 class="page-title">Zettel</h1><p class="page-subtitle">Atomic notes, linked and interconnected.</p></div>
-    <div id="zettel-graph"></div>
-  </div>
-  <div class="commentable" data-page="zettel">
-    <div class="zettel-index">${zettels.length ? zettelCards : '<p class="empty-note">No zettel notes yet.</p>'}</div>
-  </div>
-</div>`;
-  writePage("zettel", layout({ title: "Zettel", activeHref: "/zettel/", body: zettelBody }));
-
-  for (const z of zettels) {
-    const pills = linkPills(z.links);
-    writePage(`zettel/${z.slug}`, layout({
-      title: z.title, activeHref: "/zettel/",
-      body: `${graphDataScript}
-${backLink("Zettel", "/zettel/")}
-<div class="zettel-detail-head">
-  <div class="zettel-detail-meta"><h1 class="zettel-detail-title">${esc(z.title)}</h1></div>
-  <div id="zettel-graph" data-current="${esc(z.slug)}"></div>
+  /* ---------- zettel: Digitalmind structure, writing-site identity ---------- */
+  const researchMarkup = (initialId = '') => `<section id="research-root" class="research-workspace" data-entity="${esc(initialId)}" aria-label="Research collection">
+<div class="research-center">
+<nav class="research-breadcrumbs" aria-label="Breadcrumb"><a href="/">Jamal Awil</a><span aria-hidden="true">/</span><a href="/zettel/">Zettel</a></nav>
+<header class="research-intro"><h1>Zettel</h1><p class="research-description">Reading, connected. An open collection of claims, passages, and the conversations between books.</p><p class="research-counts" data-counts role="status">Opening the collection…</p></header>
+<form class="research-search" role="search" action="/zettel/" method="get">
+<div class="research-search-field"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><label class="research-sr-only" for="research-query">Search the collection</label><input id="research-query" type="search" name="q" placeholder="Search the collection…" maxlength="250" autocomplete="off"><button type="submit">Search</button></div>
+<div class="research-search-meta"><label class="research-kind-label">Browse <select name="kind"><option value="">All research</option></select></label><p data-status role="status" aria-live="polite"></p></div></form>
+<div data-home class="research-home"><p class="research-empty">Loading the reading paths…</p></div>
+<div data-detail class="research-detail"></div>
+<section class="research-catalogue" data-results-section aria-label="Search results"><div class="research-section-head"><h2 data-results-heading>Search results</h2><span class="research-section-rule" aria-hidden="true"></span></div><div data-results></div></section>
+<noscript><p>Interactive search and the graph require JavaScript. Browse the original writing from the links on the left.</p></noscript>
 </div>
-<article class="zettel-detail-body commentable" data-page="${esc(`zettel/${z.slug}`)}">
-  ${resolveWikilinks(z.html)}
-  ${pills ? `<div class="zettel-card-links zettel-detail-links"><span class="zettel-links-label">Linked notes</span>${pills}</div>` : ""}
-</article>`,
-    }));
+<aside class="research-context" aria-label="Page context">
+<section class="research-context-graph"><h2>Constellation</h2><div class="research-graph"><div data-graph></div><p class="research-graph-caption" data-graph-label></p></div><p class="research-context-hint">This note’s neighborhood. Select a point to follow the connection; all connections are listed below the note.</p></section>
+<nav class="research-toc" aria-label="On this page"><h2>On this page</h2><div data-toc></div></nav>
+<section class="research-backlinks"><h2>Connections</h2><div data-backlinks><p>Open a note to explore its connections.</p></div></section>
+</aside></section>`;
+  writePage("zettel", layout({ title: "Zettel", activeHref: "/zettel/", research: true, body: researchMarkup() }));
+  writePage("zettel/research", layout({ title: "Zettel Research", activeHref: "/zettel/", research: true, body: researchMarkup() }));
+  for (const z of zettels) {
+    const identity = 's:' + require('node:crypto').createHash('sha256').update(('zettel/' + z.file).normalize('NFC').replace(/\.md$/i, '').toLowerCase()).digest('hex').slice(0, 32);
+    writePage(`zettel/${z.slug}`, layout({ title: z.title, activeHref: "/zettel/", research: true,
+      body: researchMarkup(identity) + `<noscript><article class="zettel-detail-body"><h1>${esc(z.title)}</h1>${z.html}</article></noscript>` }));
   }
 
   /* ---------- five-year plan ---------- */
