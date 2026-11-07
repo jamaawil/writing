@@ -1,0 +1,102 @@
+{
+ "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20210125023734/http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d"
+ },
+ "http://thebrowser": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.cfr.org/thinktank/cgs/index.html": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20170420123212/http://www.cfr.org:80/thinktank/cgs/index.html"
+ },
+ "http://www.speaker.gov/UploadedFiles/Economists-11-8-11.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20120211044950/http://www.speaker.gov/UploadedFiles/Economists-11-8-11.pdf"
+ },
+ "https://copyrightsociety": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://datatransferproject.dev": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240716124156/https://datatransferproject.dev/"
+ },
+ "https://doi.org/10.1080/00856401.2019.1677289": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/02681102.2018.1524285": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/09581596.2018.1551261": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/17579961.2022.2128601": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1177/0163443720958643": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1177/17427665211066034": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1177/2053951719879632": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.14763/2023.3.XXXX": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.5210/fm.v25i1.10298": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.6084/m9.figshare.1037514.v2": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://globalstudies.trinity.duke.edu/volume-31-decolonizing-thedigitaldigital-decolonization": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://lawreview": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://wacclearinghouse.org/docs/books/inoue/ecologie": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.versobooks.com/cdn/shop/files/getimage_5155674d-58a1-4949-9737-cdd455a10a37.jpg?v=1786336798&width=287": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260816025232/https://www.versobooks.com/cdn/shop/files/getimage_5155674d-58a1-4949-9737-cdd455a10a37.jpg?v=1786336798&width=287"
+ }
+}

@@ -42,13 +42,15 @@ test('Parallel assessments, mutuality and review decisions survive graph and his
   const graph=await service(store,{action:'graph',id:'a'});assert.equal(graph.nodes.length,2);assert.equal(graph.edges.length,2);
   assert.equal((await service(store,{action:'detail',id:'p'})).status,404);db.close();
 });
-test('Wikilinks target actual records, and raw executable HTML is excluded',async()=>{
+test('Wikilinks target actual records, unresolved ones stay as text, and raw executable HTML is excluded',async()=>{
   const {db,store}=fixture();const html=await renderBody('[[A source claim]] and [[an uncertain source]]\n\n<script>alert(1)</script>',store);
-  assert.match(html,/\/zettel\/research\/a\//);assert.match(html,/reference=an%20uncertain%20source/);assert.doesNotMatch(html,/<script>/);db.close();
+  assert.match(html,/\/zettel\/research\/a\//);
+  // A link to a note that is not in the collection stays as text, never a dead link.
+  assert.match(html,/<span class="research-unresolved"[^>]*>an uncertain source<\/span>/);assert.doesNotMatch(html,/reference=/);assert.doesNotMatch(html,/<script>/);db.close();
 });
-test('Local Markdown links are resolved instead of guessing file URLs; script URLs do not execute',async()=>{
+test('Local Markdown links resolve to records or stay as text; script URLs do not execute',async()=>{
   const {db,store}=fixture();const html=await renderBody('[Source](../02-Sources/A%20source.md) and [unsafe](javascript:alert%281%29)',store);
-  assert.match(html,/\/zettel\/research\/\?reference=/);assert.doesNotMatch(html,/href="javascript:/);db.close();
+  assert.match(html,/<span class="research-unresolved"[^>]*>Source<\/span>/);assert.doesNotMatch(html,/reference=/);assert.doesNotMatch(html,/href="javascript:/);db.close();
 });
 
 test('Attachments retain their download address and canvases expose stable node links',async()=>{

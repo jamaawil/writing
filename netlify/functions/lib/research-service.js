@@ -54,15 +54,33 @@ function safeResearchLinks(options = {}) {
   };
 }
 const pipeline = unified().use(remarkParse).use(remarkGfm).use(safeResearchLinks).use(remarkRehype).use(researchAnchors).use(rehypeStringify);
+// Dead external links (data/link-fixes.json, from scripts/check-external-links.js):
+// an Internet Archive copy when one exists, otherwise the text without a link.
+let LINK_FIXES = {};
+try { LINK_FIXES = require('../../../data/link-fixes.json'); } catch { /* no list yet */ }
+function fixExternalLinks(html) {
+  return html.replace(/<a href="(https?:[^"]*)"([^>]*)>([^]*?)<\/a>/g, (whole, raw, attrs, label) => {
+    const fix = LINK_FIXES[raw.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&amp;/g, '&')];
+    if (!fix) return whole;
+    return fix.replacement ? '<a href="' + esc(fix.replacement) + '"' + attrs + '>' + label + '</a>' : '<span class="link-retired">' + label + '</span>';
+  });
+}
+const liveUrl = url => { const fix = url && LINK_FIXES[url]; return fix ? (fix.replacement || undefined) : url; };
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const parse = value => { try { return JSON.parse(value || '{}'); } catch { return {}; } };
 const href = id => '/zettel/research/' + encodeURIComponent(id) + '/';
+// Python's str.casefold(), which the importer uses for aliases, folds more
+// than toLowerCase(): ligatures (ﬁ→fi), ß→ss, final sigma ς→σ, and others.
+// casefold.json lists every character where the two differ (generated from Python).
+const CASEFOLD = require('./casefold.json');
+const casefold = value => Array.from(value, c => CASEFOLD[c] ?? c.toLowerCase()).join('');
+// Mirrors normalized() in scripts/research-import.py exactly.
 function normalize(value) {
   try { value = decodeURIComponent(value); } catch { /* keep malformed source reference intact */ }
-  return String(value).normalize('NFC').trim().replace(/\\/g, '/')
+  return casefold(String(value).normalize('NFC').trim().replace(/\\/g, '/')
     .replace(/^https?:\/\/jamaawil\.github\.io\/Digitalmind\//i, '')
-    .replace(/^\/?Digitalmind\//i, '').replace(/\/$/, '').replace(/\.(md|html)$/i, '')
-    .toLowerCase().replace(/^\//, '');
+    .replace(/^\/?Digitalmind\//i, '').replace(/\/+$/, '').replace(/\.(md|html)$/i, ''))
+    .replace(/^\/+/, '');
 }
 function item(row) { return { id: row.id, title: row.title, kind: row.kind, href: row.href || href(row.id) }; }
 function pageNumber(value, fallback, max) {
@@ -99,7 +117,36 @@ async function renderBody(body, store, sourcePath) {
   body = body.replace(/https:\/\/jamaawil\.github\.io\/Digitalmind\/([^\s)"<>]+)/g,
     (_, target) => '/zettel/research/?reference=' + encodeURIComponent(target));
   const renderer = sourcePath ? unified().use(remarkParse).use(remarkGfm).use(safeResearchLinks,{sourcePath}).use(remarkRehype).use(researchAnchors).use(rehypeStringify) : pipeline;
-  return String(renderer.processSync(body));
+  return fixExternalLinks(await resolveReferenceLinks(String(renderer.processSync(body)), store));
+}
+
+// Every link to /zettel/research/?reference=… is settled before the page is
+// sent: one match links straight to that record; several matches keep the
+// chooser page; no match in the collection becomes plain text, so the
+// research never shows a link that leads nowhere.
+async function resolveReferenceLinks(html, store) {
+  const pattern = /<a href="([^"]*)"([^>]*)>([^]*?)<\/a>/g;
+  const unescape = v => v.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d))).replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+  const parse = raw => {
+    const value = unescape(raw);
+    if (!value.startsWith('/zettel/research/?')) return null;
+    const params = new URLSearchParams(value.slice('/zettel/research/?'.length));
+    return params.has('reference') ? {reference: params.get('reference'), anchor: params.get('anchor') || ''} : null;
+  };
+  const references = new Map();
+  for (const m of html.matchAll(pattern)) { const link = parse(m[1]); if (link && !references.has(link.reference)) references.set(link.reference, null); }
+  if (!references.size) return html;
+  await Promise.all([...references.keys()].slice(0, 2000).map(async reference =>
+    references.set(reference, (await service(store, {action:'resolve', reference})).results)));
+  return html.replace(pattern, (whole, raw, attrs, label) => {
+    const link = parse(raw);
+    const results = link && references.get(link.reference);
+    if (!results) return whole;
+    if (!results.length) return '<span class="research-unresolved" title="Not in the collection">' + label + '</span>';
+    if (results.length > 1) return whole;
+    return '<a href="' + esc(results[0].href + (link.anchor ? '#' + encodeURIComponent(link.anchor) : '')) + '"' + attrs + '>' + label + '</a>';
+  });
 }
 
 async function search(store, params) {
@@ -247,8 +294,14 @@ async function service(store, params) {
     if(rows.some(r=>r.kind!=='reference'))rows=rows.filter(r=>r.kind!=='reference');
     return {reference,results:rows.map(item)};
   }
-  const id = String(params.id || '').slice(0,300);
-  const row = (await store.query('SELECT * FROM entities WHERE id=? AND published=1',[id]))[0];
+  // A record is addressed by its id or by its readable slug.
+  let id = String(params.id || '').slice(0,300);
+  let row = (await store.query('SELECT * FROM entities WHERE id=? AND published=1',[id]))[0];
+  if (!row && id && !id.includes(':')) {
+    try { row = (await store.query('SELECT e.* FROM slugs s JOIN entities e ON e.id=s.entity_id WHERE s.slug=? AND e.published=1',[id.normalize('NFC').toLowerCase()]))[0]; }
+    catch { /* database without readable addresses */ }
+    if (row) id = row.id;
+  }
   if (!row) return { error:'No public record matches this address.',status:404 };
   if (action === 'relations') return relationships(store,id,params);
   if (action === 'graph') {
@@ -280,12 +333,16 @@ async function service(store, params) {
     const attachment = attachmentRows[0];
     return {...item(row),html:await renderBody(row.body,store,row.source_path),
       attachment:attachment ? {...attachment,href:'/api/research-asset?id='+encodeURIComponent(id)} : null,
-      canvas:metadata.canvas ? {...metadata.canvas,nodes:(metadata.canvas.nodes || []).map(n => ({...n,href:href('canvas:'+crypto.createHash('sha256').update(id+'\0'+n.id).digest('hex').slice(0,32))}))} : null,
+      canvas:metadata.canvas ? {...metadata.canvas,nodes:await Promise.all((metadata.canvas.nodes || []).map(async n => {
+        const nodeId = 'canvas:'+crypto.createHash('sha256').update(id+'\0'+n.id).digest('hex').slice(0,32);
+        const node = (await store.query('SELECT href FROM entities WHERE id=?',[nodeId]))[0];
+        return {...n,href:node?.href || href(nodeId)};
+      }))} : null,
       sourcePassage:metadata.source_table==='passages'?metadata.record:null,
       claimProvenance:metadata.claim_record?{secondhand:metadata.claim_record.secondhand,evidenceCount:metadata.claim_record.evidence_count,recurrence:metadata.claim_record.recurrence,firstSeen:metadata.claim_record.first_seen,evidenceTier:metadata.evidence_tier,origin:metadata.origin}:null,
       properties:fm,tags:Array.isArray(fm.tags) ? fm.tags : [],status:fm.status || '',
       citation:{citekey:fm.citekey,location:fm.loc,sources:fm.sources || fm.source_books || [],
-        source_url:/^https?:\/\//.test(fm.source_url || '') ? fm.source_url : undefined},
+        source_url:/^https?:\/\//.test(fm.source_url || '') ? liveUrl(fm.source_url) : undefined},
       referenceCandidates,evidence:evidence.slice(0,20).map(e => ({text:e.text,location:e.location,
         book:e.book_id ? {id:e.book_id,title:e.book_title,href:e.book_href || href(e.book_id)} : null})),
       evidenceCount,relations:await relationships(store,id,params)};
