@@ -256,7 +256,7 @@ function fmtLong(date) {
 
 /* ============================ shared chrome ============================ */
 let HOW_HREF = null; // set in build() once we know whether the page exists
-function layout({ title, activeHref, body, banner, research = false }) {
+function layout({ title, activeHref, body, banner, research = false, constellation = false }) {
   const bannerHtml = banner ? `<div class="site-banner" id="siteBanner"><p>${banner}</p></div>` : "";
   const ctrlBtn = (cls, onclick, label, inner) =>
     `<button class="ctrl-btn ${cls}" data-label="${label}" onclick="${onclick}" aria-label="${label}">${inner}<span class="tooltip">${label}</span></button>`;
@@ -275,9 +275,9 @@ function layout({ title, activeHref, body, banner, research = false }) {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 ${FONT_LINK}
 <link rel="stylesheet" href="/css/style.css">
-${research ? '<link rel="stylesheet" href="/css/research.css">\n' : ''}${BOOT}
+${research ? '<link rel="stylesheet" href="/css/research.css">\n' : ''}${research || constellation ? '<link rel="stylesheet" href="/css/constellation.css">\n' : ''}${BOOT}
 </head>
-<body${research ? ' class="research-site"' : ''}>
+<body${research ? ' class="research-site"' : constellation ? ' class="has-constellation"' : ''}>
 <header class="mobile-bar">
   <h1 class="mobile-title">${SITE_NAME}</h1>
   <div class="mobile-icons-row">
@@ -340,7 +340,7 @@ ${body}
 <script src="/js/main.js"></script>
 <script src="/js/comments.js"></script>
 <script src="/js/footnotes.js"></script>
-${research ? '<script src="/js/research-graph.js"></script>\n<script src="/js/constellation.js"></script>\n<script src="/js/research.js"></script>\n' : '<script src="/js/zettel-graph.js"></script>\n'}</body>
+${research ? '<script src="/js/research-graph.js"></script>\n<script src="/js/constellation.js"></script>\n<script src="/js/research.js"></script>\n' : (constellation ? '<script src="/js/constellation.js"></script>\n' : '') + '<script src="/js/zettel-graph.js"></script>\n'}</body>
 </html>
 `;
 }
@@ -551,7 +551,20 @@ function build() {
   </div>
   ${archive}
 </section>`;
-  writePage("", layout({ title: "Home", activeHref: "/", body: homeBody, banner: BANNER && BANNER.html }));
+  // Home: essays beside the whole-vault Constellation (same arrangement as the Zettel page).
+  const GRAPH = process.env.RESEARCH_GRAPH_URL;
+  // Right-hand column mirrors the Zettel page's: Constellation, On this page, Connections.
+  const homeCollections = [['Maps of content','map'],['Themes','theme'],['Garden of Claims','trail'],['Sources','book'],
+    ['New knowledge','hypothesis'],['Knowledge mesh','mesh'],['Glossary','glossary'],['Passages','passage']];
+  const homeWithMap = GRAPH ? `<div class="home-workspace">${homeBody}
+<aside class="home-context" aria-label="Page context">
+<section class="home-context-graph"><h2>Constellation</h2>
+<div class="constellation" data-constellation="${esc(GRAPH)}" data-autostart></div>
+<p class="home-context-hint">Every note in the vault and how they connect. Hover to see a note and its links; click to open it.</p></section>
+<nav class="home-toc" aria-label="On this page"><h2>On this page</h2><ul>${essays.slice(0, 12).map((e) => `<li><a href="/essay/${e.slug}/">${esc(e.title)}</a></li>`).join("")}</ul></nav>
+<section class="home-links"><h2>Connections</h2><ul>${homeCollections.map(([t, k]) => `<li><a href="/zettel/?kind=${k}">${t}</a></li>`).join("")}<li><a href="/zettel/">All research →</a></li></ul></section>
+</aside></div>` : homeBody;
+  writePage("", layout({ title: "Home", activeHref: "/", body: homeWithMap, banner: BANNER && BANNER.html, constellation: !!GRAPH }));
 
   /* ---------- essay detail pages ---------- */
   for (const e of essays) {

@@ -37,6 +37,11 @@
   var VS_LINE = '#version 300 es\nin vec2 a_pos;uniform vec2 u_center;uniform float u_scale;uniform vec2 u_view;out float v_in;void main(){vec2 p=(a_pos-u_center)*u_scale*2.0/u_view;gl_Position=vec4(p.x,-p.y,0.0,1.0);v_in=(abs(p.x)<1.02&&abs(p.y)<1.02)?1.0:0.0;}';
   var FS_LINE = '#version 300 es\nprecision mediump float;uniform vec4 u_color;uniform float u_far;in float v_in;out vec4 o;void main(){float a=u_color.a*mix(u_far,1.0,clamp(v_in,0.0,1.0));o=vec4(u_color.rgb*a,a);}';
 
+  function mountWhenVisible(root, base) {
+    if (!('IntersectionObserver' in window)) return mount(root, base);
+    var io = new IntersectionObserver(function (entries) { if (entries.some(function (e) { return e.isIntersecting; })) { io.disconnect(); mount(root, base); } }, {rootMargin: '200px'});
+    io.observe(root);
+  }
   function mount(root, base) {
     if (root.dataset.ready) return;
     root.dataset.ready = '1';
@@ -338,9 +343,16 @@
       new ResizeObserver(resize).observe(stage);
       new MutationObserver(applyTheme).observe(document.documentElement, {attributes: true, attributeFilter: ['data-theme']});
       resize(); fit(); applyTheme(); rebuildLines(); setFocus(null);
-      // Fetch titles in the background so hover, labels and search are instant.
-      (function next(c) { if (c * chunk < n) loadChunk(c).then(function () { setTimeout(function () { next(c + 1); }, 150); }); })(0);
+      // Titles (11.7 MB) load in the background only once someone uses the map.
+      var warmed = false;
+      function warm() { if (warmed) return; warmed = true; (function next(c) { if (c * chunk < n) loadChunk(c).then(function () { setTimeout(function () { next(c + 1); }, 150); }); })(0); }
+      ['pointerenter', 'wheel', 'touchstart'].forEach(function (t) { canvas.addEventListener(t, warm, {once: true, passive: true}); });
+      root.querySelector('.cg-search input').addEventListener('focus', warm, {once: true});
     }
   }
-  window.Constellation = {mount: mount};
+  window.Constellation = {mount: mount, mountWhenVisible: mountWhenVisible};
+  // Pages that place the map directly (the home page) mount it when it scrolls into view.
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('[data-constellation][data-autostart]').forEach(function (el) { mountWhenVisible(el, el.dataset.constellation); });
+  });
 })();
