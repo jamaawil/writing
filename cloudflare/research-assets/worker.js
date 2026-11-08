@@ -4,6 +4,18 @@ export default {
   async fetch(request, env) {
     if (!['GET', 'HEAD'].includes(request.method)) return new Response('Method not allowed', {status: 405});
     const key = new URL(request.url).pathname.slice(1);
+    // Vault map files for the Zettel page's Constellation (gzip, inflated in the browser).
+    if (/^graph\/\d{8}T\d{6}Z\/[a-z0-9.-]+$/.test(key)) {
+      const origin = request.headers.get('Origin');
+      const allowed = ['https://writing.jamalawil.com', 'http://127.0.0.1:4173', 'http://localhost:4173'];
+      const object = await env.ASSETS.get(key);
+      if (!object) return new Response('Not found', {status: 404});
+      const headers = new Headers({'Cache-Control': 'public, max-age=31536000, immutable', 'ETag': object.httpEtag,
+        'Content-Type': key.endsWith('.json') ? 'application/json' : 'application/octet-stream',
+        'X-Content-Type-Options': 'nosniff', 'Vary': 'Origin'});
+      if (allowed.includes(origin)) headers.set('Access-Control-Allow-Origin', origin);
+      return new Response(request.method === 'HEAD' ? null : object.body, {headers});
+    }
     // Research database pieces, read by byte range by the Netlify function.
     if (/^db\/\d{8}T\d{6}Z\/(\d{6}|manifest\.json)$/.test(key)) {
       const range = request.headers.get('Range');

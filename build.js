@@ -340,7 +340,7 @@ ${body}
 <script src="/js/main.js"></script>
 <script src="/js/comments.js"></script>
 <script src="/js/footnotes.js"></script>
-${research ? '<script src="/js/research-graph.js"></script>\n<script src="/js/research.js"></script>\n' : '<script src="/js/zettel-graph.js"></script>\n'}</body>
+${research ? '<script src="/js/research-graph.js"></script>\n<script src="/js/constellation.js"></script>\n<script src="/js/research.js"></script>\n' : '<script src="/js/zettel-graph.js"></script>\n'}</body>
 </html>
 `;
 }
@@ -894,7 +894,7 @@ function build() {
 <noscript><p>Interactive search and the graph require JavaScript. Browse the original writing from the links on the left.</p></noscript>
 </div>
 <aside class="research-context" aria-label="Page context">
-<section class="research-context-graph"><h2>Constellation</h2><div class="research-graph"><div data-graph></div><p class="research-graph-caption" data-graph-label></p></div><p class="research-context-hint">This note’s neighborhood. Select a point to follow the connection; all connections are listed below the note.</p></section>
+<section class="research-context-graph"><h2>Constellation</h2>${process.env.RESEARCH_GRAPH_URL ? `<div class="constellation" data-constellation="${esc(process.env.RESEARCH_GRAPH_URL)}" hidden></div>` : ''}<div class="research-graph"><div data-graph></div><p class="research-graph-caption" data-graph-label></p></div><p class="research-context-hint">This note’s neighborhood. Select a point to follow the connection; all connections are listed below the note.</p></section>
 <nav class="research-toc" aria-label="On this page"><h2>On this page</h2><div data-toc></div></nav>
 <section class="research-backlinks"><h2>Connections</h2><div data-backlinks><p>Open a note to explore its connections.</p></div></section>
 </aside></section>`;
