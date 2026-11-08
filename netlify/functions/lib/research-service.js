@@ -61,11 +61,11 @@ try { LINK_FIXES = require('../../../data/link-fixes.json'); } catch { /* no lis
 function fixExternalLinks(html) {
   return html.replace(/<a href="(https?:[^"]*)"([^>]*)>([^]*?)<\/a>/g, (whole, raw, attrs, label) => {
     const fix = LINK_FIXES[raw.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&amp;/g, '&')];
-    if (!fix) return whole;
+    if (!fix || fix.pending) return whole;
     return fix.replacement ? '<a href="' + esc(fix.replacement) + '"' + attrs + '>' + label + '</a>' : '<span class="link-retired">' + label + '</span>';
   });
 }
-const liveUrl = url => { const fix = url && LINK_FIXES[url]; return fix ? (fix.replacement || undefined) : url; };
+const liveUrl = url => { const fix = url && LINK_FIXES[url]; return fix && !fix.pending ? (fix.replacement || undefined) : url; };
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const parse = value => { try { return JSON.parse(value || '{}'); } catch { return {}; } };
 const href = id => '/zettel/research/' + encodeURIComponent(id) + '/';

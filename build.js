@@ -464,12 +464,12 @@ function applyLinkFixes(dir) {
       if (!html.includes("http")) continue;
       let out = html.replace(/<a\b([^>]*?)\shref="(https?:[^"]*)"([^>]*)>([\s\S]*?)<\/a>/g, (whole, pre, url, post, label) => {
         const fix = fixes[decode(url)];
-        if (!fix) return whole;
+        if (!fix || fix.pending) return whole;
         return fix.replacement ? `<a${pre} href="${esc(fix.replacement)}"${post}>${label}</a>` : `<span class="link-retired">${label}</span>`;
       });
       out = out.replace(/<img\b[^>]*\ssrc="(https?:[^"]*)"[^>]*>/g, (whole, url) => {
         const fix = fixes[decode(url)];
-        if (!fix) return whole;
+        if (!fix || fix.pending) return whole;
         // Archived images use the raw capture ("im_"), not the archive page frame.
         return fix.replacement ? whole.replace(url, esc(fix.replacement.replace(/\/web\/(\d+)\//, "/web/$1im_/"))) : "";
       });

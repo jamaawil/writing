@@ -44,7 +44,7 @@ async function archived(url) {
 }
 
 (async () => {
-  const todo = urls.filter(u => !(u in fixes) || process.env.RECHECK);
+  const todo = process.env.ONLY_PENDING ? urls.filter(u => fixes[u]?.pending) : urls.filter(u => !(u in fixes) || fixes[u].pending || process.env.RECHECK);
   let i = 0, dead = 0, live = 0, unknown = 0;
   await Promise.all(Array.from({length: 12}, async () => {
     while (i < todo.length) {
@@ -53,16 +53,19 @@ async function archived(url) {
       let host = '';
       try { host = new URL(url).hostname; } catch { /* invalid */ }
       // A truncated address (no real domain, e.g. "https://www") cannot be archived or repaired.
-      if (!host.includes('.')) { dead++; fixes[url] = {status: 'malformed', replacement: null, noArchive: true}; continue; }
+      if (!host.includes('.') || /^www\.[^.]+$/.test(host)) { dead++; fixes[url] = {status: 'malformed', replacement: null, noArchive: true}; continue; }
       s = await status(url);
       if (isDead(s)) { dead++; fixes[url] = {status: s, replacement: null}; }
       else if (typeof s === 'number' && s < 500) { live++; delete fixes[url]; }
-      else { unknown++; }   // server errors / timeouts: left alone, rechecked next run
+      // Server errors / timeouts: recorded as pending; failing again on a later
+      // run means the link is treated as dead.
+      else if (fixes[url]?.pending) { dead++; fixes[url] = {status: s, replacement: null}; }
+      else { unknown++; fixes[url] = {status: s, pending: true}; }
     }
   }));
   // Archive lookups run gently (the Internet Archive rate-limits); entries
   // without a copy are looked up again on later runs.
-  const pending = Object.entries(fixes).filter(([, f]) => !f.replacement && !f.noArchive);
+  const pending = Object.entries(fixes).filter(([, f]) => !f.pending && !f.replacement && !f.noArchive);
   let j = 0;
   await Promise.all(Array.from({length: 2}, async () => {
     while (j < pending.length) {

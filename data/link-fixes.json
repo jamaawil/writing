@@ -1,23 +1,1336 @@
 {
+ "Http://doi.org/10.36892/ijIIs.V413.1073": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "Http://www,//pmagazine.org/artides/featahmad_134.shtml": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://%E2%80%8Bhearing.%E2%80%8Bpsychol.%E2%80%8Bcam.%E2%80%8Bac.%E2%80%8Buk/%E2%80%8B": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://%E2%80%8Bwww.%E2%80%8Bwashingtonpost.%E2%80%8Bcom/%E2%80%8Blifestyle/%E2%80%8Bstyle/%E2%80%8Byo-%E2%80%8Byo-%E2%80%8Bma-%E2%80%8Ba-%E2%80%8Bvirtuoso-%E2%80%8Bat-%E2%80%8Bmore-%E2%80%8Bthan-%E2%80%8Bthe-%E2%80%8Bcello/%E2%80%8B2011/%E2%80%8B11/%E2%80%8B22/%E2%80%8BgIQAkvNnKO__%E2%80%8Bstory.%E2%80%8Bhtml": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://222guardian.co.uk/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://Avww.mltoday.com/Pages/Commentary/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://african": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://africanelections.tripod.com/so.html": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20260416121131/https://africanelections.tripod.com/so.html"
+ },
+ "http://anticap": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://archive.org/details/alvar-cabeza-devaca-chronicle-of-the-narvaez-expedition": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://archives.dailytimes.com.pk/editorial/21-Apr-2002/the-religious": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://arrow.unisa": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://articles.timeso%EF%AC%81ndia.indiatimes.com/2011-10-12/kochi/30270488_1_keralasaudi-aramco-uae%5Baccessed": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://articles.timeso%EF%AC%81ndia.indiatimes.com/2013-01-06/kochi/36173128_1_uaeoverseas-indian-affairs-oommen-chandy": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://asr": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://beucitizen": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://cadmus.eui": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://ccmw.com/women-in-niqab-speak-astudy-of-the-niqab-in-canada/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://cds.edu/download_%EF%AC%81les/wp395.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://cucfa.org/news/tuition_bonds.php": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240417071626/https://www.cucfa.org/news/tuition_bonds.php"
+ },
+ "http://dataportability.org": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20260629002258/http://www.dataportability.org/"
+ },
+ "http://depave": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1315&context=articles": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20190917220634/https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1315&context=articles"
+ },
+ "http://doi.one/10.1719/IJHCS": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://dspace.univguelma.dz/jspui/handle": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://dx.doi.org/10.17576/GEMA-2014-1403-": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://dx.doi.org/10.7575/aiac.ijalel.v.2n.2p": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://ecumene.org/ACHA/5-05-1999": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://er": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://feministtinder.bigcartel.com/products": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20160629144958/http://feministtinder.bigcartel.com:80/products"
+ },
+ "http://fessud.eu/wpcontent/uploads/2013/04/Financialisation-and-growth-Sawyer-working-paper-21.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250220131848/http://fessud.eu/wpcontent/uploads/2013/04/Financialisation-and-growth-Sawyer-working-paper-21.pdf"
+ },
+ "http://forums.muslimvillage.net/lofiversion/index.php/t2650": {
+  "status": 522,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://frontex.europa.eu/feature-stories/people-smugglers-the-latter-dayslave-merchants-UArKn1": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://frontlineonnet.com/%EF%AC%822211/stories/20050603003303600.htm": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://globalresearch.ca/articles/CHO109C,html": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://hca.gilead.org.il/red": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://hkhelperscampaign.com/en/justice-for-erwiana/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240227123301/http://hkhelperscampaign.com/en/justice-for-erwiana/"
+ },
+ "http://homepages.se.edu/cvonbergen/files/2019/02/When-Status-Is-Grabbed-and-When-Status-Is-Granted_Getting-Ahead-in-Dominance-and-Prestige-Hierarchies.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20240425042200/http://homepages.se.edu/cvonbergen/files/2019/02/When-Status-Is-Grabbed-and-When-Status-Is-Granted_Getting-Ahead-in-Dominance-and-Prestige-Hierarchies.pdf"
+ },
+ "http://hyllanderiksen.net/cSecurity": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://iepistemology.net/attachments/647_V17N3%25": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://iiligeorgetown210.com/2/pdf/Nobile.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://iiumpress.iium.edu.my/bookshop": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20181104003449/http://iiumpress.iium.edu.my:80/bookshop/"
+ },
+ "http://india.indymedia.org/en/2005/02/210101.shtml": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20100705160614/http://india.indymedia.org/en/2005/02/210101.shtml"
+ },
+ "http://info-center.ccit.Arizona.edu/": {
+  "status": "ERR:ERR_TLS_CERT_ALTNAME_INVALID",
+  "replacement": "https://web.archive.org/web/20050206231822/http://info-center.ccit.arizona.edu:80/"
+ },
+ "http://infocenter.ccit.arizona.edu/%CB%9Cws/conference": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://infoweb": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://ka%EF%AC%81la": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://lallaessaydi.com/news/PDFS/Articles/Essaydi_Profile.pdf": {
+  "status": "ERR:ERR_TLS_CERT_ALTNAME_INVALID",
+  "replacement": "https://web.archive.org/web/20250120083208/http://lallaessaydi.com/news/PDFS/Articles/Essaydi_Profile.pdf"
+ },
+ "http://lthe.zu.ac.ae": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true,
+  "archiveFailed": "https://web.archive.org/web/20151003100617/http://lthe.zu.ac.ae:80/"
+ },
+ "http://migrationobservatory.ox.ac": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://ncfm": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://newint.org/issue367/waves.htm": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20060327094452/http://www.newint.org:80/issue367/waves.htm"
+ },
+ "http://news": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://news.bbc": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://news.bbc.co.uk/1/hi/s": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://news.bbc.co.uk/1/hi/uk/1355718": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
  "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d": {
   "status": "ERR:ENOTFOUND",
   "replacement": "https://web.archive.org/web/20210125023734/http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d"
+ },
+ "http://pi.library.yorku": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://pk.boell.org/2011/01/20": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://pmindia.gov.in/": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20231027104624/https://www.pmindia.gov.in/"
+ },
+ "http://policy": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://portal.sbpcnet.org.br/noticias/o-fim-do-ciencia-sem-fronteiras-depois-de-r-13-b": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://post45": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://postblackexperience.com": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20211219085053/http://postblackexperience.com/"
+ },
+ "http://publicsearch1": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://rotas.iium.edu.my": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20180727155135/http://rotas.iium.edu.my:80/?"
+ },
+ "http://rotas.iium.edu.my/?Table_of": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://rug.mnhn": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://ser": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://stagingarchives.dailytimes.com.pk/national/24-Apr-2011/Mukhtarn-mai": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://stevereads.com/papers_to_read/civil_and_the,_sacred_gellner.pdf%7D": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://theamericanmuslim.org/tam.php/features/articles/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250226101316/http://www.theamericanmuslim.org/tam.php/features/articles/"
  },
  "http://thebrowser": {
   "status": "malformed",
   "replacement": null,
   "noArchive": true
  },
+ "http://thejakartaglobe.beritasatu.com/news/indonesias-foreign-policy-turns-domesticjokowi/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://timeso%EF%AC%81ndia.indiatimes": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20130813164402/http://www.timesofindia.indiatimes"
+ },
+ "http://transcripts.cnn.com/TRAN-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://weekly.ahram": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://weekly.ahram.org.eg/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20230615092800/http://weekly.ahram.org.eg/"
+ },
+ "http://weekly.ahram.org.eg/2002/569/cu1.htm": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20150829151215/http://weekly.ahram.org.eg:80/2002/569/cu1.htm"
+ },
+ "http://wvw.theatlantic.eom/issues/2002/01": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www,bitsonline.net/eqbal/articles_by_eqbal_view": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www,mnet,fr/aiiindex": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.%C2%ADdailymail": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20130808075726/http://dailymail"
+ },
+ "http://www.20minutos.es/noticia/1604919/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.Raihaneh.com": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20250815124816/http://raihaneh.com/"
+ },
+ "http://www.Routledge-NY.com": {
+  "status": "ERR:UND_ERR_SOCKET",
+  "replacement": "https://web.archive.org/web/20250926091252/https://www.routledge-ny.com/"
+ },
+ "http://www.Spectator.co.uk/article": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20220311193940/https://www.spectator.co.uk/article/"
+ },
+ "http://www.aaas": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.abdn.ac.uk/sll/complit/leila": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.abdn.ac.uk/sll/complit/leila.shtmlwww.abdn.ac.uk/sll/complit/leila.shtml": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.adl.org/internet/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20040216203547/http://www.adl.org:80/internet/"
+ },
+ "http://www.african-writing.com/aboulela.htm": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20240925231847/http://www.african-writing.com/aboulela.htm"
+ },
+ "http://www.al-monitor.com/pulse/culture/2013/04/muslim-feminists-activism.html": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20201118085733/https://www.al-monitor.com/pulse/culture/2013/04/muslim-feminists-activism.html"
+ },
+ "http://www.alc.manchester.ac.uk/subjects/middleeasternstudies/events/seminars-2012-13/2011-egyptian-revolution/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20141003185341/http://www.alc.manchester.ac.uk:80/subjects/middleeasternstudies/events/seminars-2012-13/2011-egyptian-revolution/"
+ },
+ "http://www.aljazeera.com/indepth/opinion/2013/09/calling-allfeminists-getover-veil-debatefocus-real-problems-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.aljazeera.com/news/2015/05/amnesty-criticises-qatar": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.aljazeera.com/news/middleeast/2014/11/qatar-promises": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.amazon.com/exec/obidos/ASIN/1590173023/ref=nosim/themillpw-20": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250219184203/https://www.amazon.com/exec/obidos/ASIN/1590173023/ref=nosim/themillpw-20"
+ },
+ "http://www.amews.org/review/reviewarticles/tohidi.htm": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20090926182842/http://www.amews.org:80/review/reviewarticles/tohidi.htm"
+ },
+ "http://www.amnesty.org/fr/news-%C2%ADand-%C2%ADupdates/france": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.asianreviewofbooks.com/pages/?ID=2007": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20241116132303/http://www.asianreviewofbooks.com/pages/?ID=2007"
+ },
+ "http://www.assnat": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.avoiddenydefend.org/dont-name-them.html": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20200221202903/http://www.avoiddenydefend.org:80/dont-name-them.html"
+ },
+ "http://www.bbc.co.uk/news/magazine-268%E2%80%8B": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.bitsonline.net/eqbal/artides_by_eqbal_view": {
+  "status": 522,
+  "replacement": "https://web.archive.org/web/20220129040105/http://www.bitsonline.net/eqbal/artides_by_eqbal_view"
+ },
+ "http://www.brookings.edu/research/opinions/2010/12/16-census-frey": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20150927064807/http://www.brookings.edu/research/opinions/2010/12/16-census-frey"
+ },
+ "http://www.brookings.edu/research/reports2/2014/10/new-challenge-market-democracies": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20160708191201/http://www.brookings.edu/research/reports2/2014/10/new-challenge-market-democracies"
+ },
+ "http://www.cair.com/images/islamophobia/2010Isla": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.census.gov.ph/data/pressrelease": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20120709172359/http://www.census.gov.ph/data/pressrelease/"
+ },
  "http://www.cfr.org/thinktank/cgs/index.html": {
   "status": 404,
   "replacement": "https://web.archive.org/web/20170420123212/http://www.cfr.org:80/thinktank/cgs/index.html"
+ },
+ "http://www.cls.ioe.ac.uk/": {
+  "status": "ERR:ECONNRESET",
+  "replacement": "https://web.archive.org/web/20181028075855/http://www.cls.ioe.ac.uk/"
+ },
+ "http://www.comp.lancs.ac.uk/sociology/papers/sayer-moral-economy.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20050409132358/http://www.comp.lancs.ac.uk:80/sociology/papers/sayer-moral-economy.pdf"
+ },
+ "http://www.compas": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20130719181719/http://compas"
+ },
+ "http://www.cosmeticsdesign-europe.com/Market-Trends/L-Oreal-found-guilty-of-racist-recruitment": {
+  "status": 410,
+  "replacement": "https://web.archive.org/web/20121114121602/http://www.cosmeticsdesign-europe.com/Market-Trends/L-Oreal-found-guilty-of-racist-recruitment"
+ },
+ "http://www.ctvnews.ca/sha%EF%AC%81a-family-members-guilty-of-%EF%AC%81rst": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.dailymail": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20130808075726/http://dailymail"
+ },
+ "http://www.disbef.uniurb.it/biomia/soundscapemeter/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20150506134659/http://www.disbef.uniurb.it:80/biomia/soundscapemeter/"
+ },
+ "http://www.economist.com/node/15557431": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20190922202512/http://www.economist.com/node/15557431"
+ },
+ "http://www.ed.gov/pubs/YesYouCan": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20030803090528/http://www.ed.gov:80/pubs/YesYouCan/"
+ },
+ "http://www.empleo.gob.es/es/portada/serviciohogar/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20180904060333/http://www.empleo.gob.es:80/es/portada/serviciohogar/"
+ },
+ "http://www.engineersagainstpoverty.org/documentdownload.axd": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.eoc.org": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20100219213932/http://www.eoc.org:80/"
+ },
+ "http://www.essex.ac.uk/ecpr/events/jointsessions/": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20100124094044/http://www.essex.ac.uk:80/ecpr/events/jointsessions/"
+ },
+ "http://www.eurozine.com/articles/2000-8-28-gellner-en.html%7D": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.federalreserve": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.foreignpolicy.com/articles/2012/04/23/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.gatewayblack.com": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20241114132834/https://www.gatewayblack.com/"
+ },
+ "http://www.geog.qmul": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.grassrootsfeminism": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.guardian.co.uk/books/2005/": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://www.guardian.co.uk/cartoonprotests/": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://www.guardian.co.uk/commentisfree/2011/": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://www.guernicamag.com/daily/ra%EF%AC%81a-zakaria-%EF%AC%81ghting-is-forbidden/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.guoxiaolu.com/WR_visions": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.haaretz.com/print-edition/features/the-protocols-of-the-elders-of-bruss": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.harman.com/audio-innovations": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": "https://web.archive.org/web/20250712192530/https://www.harman.com/audio-innovations"
+ },
+ "http://www.hindu.com/2005/02/27/stories/2005022702101100.htm": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20131006115953/http://www.hindu.com/2005/02/27/stories/2005022702101100.htm"
+ },
+ "http://www.hizb-ut-tahrir.org/english/": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://www.hrw.org/en/news/2008/08/24/lebanonmigrant-domestic-workers": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.http://jurnalumran.utm.my/index.php/umran": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.huffingtonpost": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.ice.gov/pi/news/factsheets/dro110206.htm": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20090822021627/http://www.ice.gov/pi/news/factsheets/dro110206.htm"
+ },
+ "http://www.icmresearch": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.ifau.se/upload/pdf/se/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.iium.edu.my/intdiscourse": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.ijaes.net/article/FullText/9?volume=18&issue=1": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240328184321/https://ijaes.net/Article/FullText/9?volume=18&issue=1"
+ },
+ "http://www.ijaes.net/article/viewarticle?volume=16&issue=1&articleId=8": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240912133323/http://www.ijaes.net/article/viewarticle?volume=16&issue=1&articleId=8"
+ },
+ "http://www.ilo.org/global/to%E2%80%8B": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.ilo.org/global/topics/domestic-workers/WCMS_209773/lang--en/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.indiana": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.indischerfgoedapeldoorn.nl/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20160109212538/http://indischerfgoedapeldoorn.nl/"
+ },
+ "http://www.insidehighered.com/news/2013/09/22/jamienne-studley-named-key-educationdepartment-post#sthash.PQdCSwd5.dpbs": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.insideindonesia.org/edition-100-apr-june-2010/learning-to-lead-24041312": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20120322111004/http://www.insideindonesia.org/edition-100-apr-june-2010/learning-to-lead-24041312"
+ },
+ "http://www.insideindonesia.org/feature/living-islam-09011391": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20110408161715/http://www.insideindonesia.org/feature/living-islam-09011391"
+ },
+ "http://www.islamophobia.com.au/wp-content%E2%80%8B": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.islamophobia.org/articles/222-anti-muslim-bias-incidents-in-the-third-quarter-of-2017.html": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20210421131330/http://islamophobia.org/articles/222-anti-muslim-bias-incidents-in-the-third-quarter-of-2017.html"
+ },
+ "http://www.jagori.org/wp-content/uploads/2006/01/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.kafa.org.lb/studiespublicationpdf/prpdf38.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20171118163134/http://www.kafa.org.lb:80/StudiesPublicationPDF/PRpdf38.pdf"
+ },
+ "http://www.kalayaan.org.uk/about-%C2%ADus/our-%C2%ADhistory/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.keralapolice.org/newsite/crime_against_women_2009.html": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20160803183653/http://keralapolice.org/newsite/crime_against_women_2009.html"
+ },
+ "http://www.laleydeladependencia.com": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20250810100135/https://laleydeladependencia.com/"
+ },
+ "http://www.leila-aboulela.com/books/lyrics-alley/inspiration/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20220427070430/http://www.leila-aboulela.com/books/lyrics-alley/inspiration/"
+ },
+ "http://www.lfip.ore/laws718/docs/lily-pdf/Gender_Mainstream_CSIS.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lfip.ore/laws718/docs/lily-pdf/Introduction_to_Islamic_Law.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lfip.org/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20200216121632/http://www.lfip.org:80/"
+ },
+ "http://www.lfip.org/laws718/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20160703210054/http://www.lfip.org:80/laws718/"
+ },
+ "http://www.lfip.org/laws718/docs/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lfip.org/laws718/docs/lily-pd%C2%A3/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lfip.org/laws718/docs/lily-pdf%C2%A3/Query-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lfip.org/laws718/docs/lily-pdf/ISLAM_AND_POLITICS": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lfip.org/laws718/docs/lily-pdf/Islam__Gender__and_Modernity": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lhn.uni-hamburg.de/article/coherence": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20180814103039/http://www.lhn.uni-hamburg.de:80/article/coherence"
+ },
+ "http://www.lhn.uni-hamburg.de/article/event-and-eventfulness": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20190114220719/http://www.lhn.uni-hamburg.de/article/event-and-eventfulness"
+ },
+ "http://www.libertaciviliimmigrazione.dlci.interno": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.litthe": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lnf.org.lb/migrationnetwork/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20141223221619/http://www.lnf.org.lb:80/migrationnetwork/"
+ },
+ "http://www.lnf.org.lb/migrationnetwork/mig2.html": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20191119015914/http://www.lnf.org.lb/migrationnetwork/mig2.html"
+ },
+ "http://www.londonlaureates.com": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.lssf.co.uk": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20170915053117/http://lssf.co.uk/"
+ },
+ "http://www.macromarkets.com/index.shtml": {
+  "status": 502,
+  "replacement": "https://web.archive.org/web/20250819154329/http://www.macromarkets.com/index.shtml"
+ },
+ "http://www.mailarchive.com/sapac_chicago@yahoogroups.com/msg01038.html": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.malcolmread.co.uk/JockYoung/cannibal.htm": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20120111103752/http://www.malcolmread.co.uk:80/JockYoung/cannibal.htm"
+ },
+ "http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/Briefing%20-%20Migrants%20in%20the%25": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.mnet.fr/aiindex": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20190408133701/http://www.mnet.fr:80/aiindex"
+ },
+ "http://www.moi.gov.tw/W3/stat/topic/topic206.html": {
+  "status": 503,
+  "replacement": "https://web.archive.org/web/20040106080724/http://www.moi.gov.tw:80/w3/stat/topic/topic206.html"
+ },
+ "http://www.muslimnews.co.uk/news.php?article=8786": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.mwlusa.org/publications/positionpapers/hijab.html": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20060906223411/http://www.mwlusa.org:80/publications/positionpapers/hijab.html"
+ },
+ "http://www.nber.org/%C3%9E": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.newslinemagazine.com/2009/01/the-saudi-isation-of-pakistan/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20091031221608/http://www.newslinemagazine.com:80/2009/01/the-saudi-isation-of-pakistan/"
+ },
+ "http://www.nonstatusquo.com/ACLU/terrorism/terrorism1.html": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.nwrel.org/": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20090107054501/http://nwrel.org/"
+ },
+ "http://www.nyti%E2%80%8Bmes.com/%E2%80%8B2013/%E2%80%8B10/%E2%80%8B17/%E2%80%8Bopin%E2%80%8Bion/%E2%80%8Benem%E2%80%8Bies-%E2%80%8Bvs-%E2%80%8Badve%E2%80%8Brsar%E2%80%8Bies.html": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.nytimes": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20171025020156/http://nytimes/"
+ },
+ "http://www.nytimes.com/%E2%80%8B1988/%E2%80%8B11/%E2%80%8B04/%E2%80%8Bnyregion/%E2%80%8Bgeraldo-rivera-s-nose-broken-in-scuffle-on-his-talk-show.html": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.nytimes.com/books/99/07/04/specials/hemingway-stockholm": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.ons.gov": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.opendemocracy.net/5050/a%EF%AC%81ya-shehrbano-zia/taliban": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.opendemocracy.net/opensecurity/nivi-manchanda": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.outlookindia.com/full.asp?fodname": {
+  "status": 410,
+  "replacement": "https://web.archive.org/web/20060626155315/http://www.outlookindia.com:80/full.asp?fodname"
+ },
+ "http://www.oxford": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.oxfordislamicstudies.com/Public/focus/": {
+  "status": "ERR:UND_ERR_SOCKET",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/08/qa-jahanshah-javid-from-iraniancom-to": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.pennumbra.com/issues/articles/155-1/Spellman.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20080207210348/http://www.pennumbra.com/issues/articles/155-1/Spellman.pdf"
+ },
+ "http://www.pkcolumns.com": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20260509200556/http://pkcolumns.com/"
+ },
+ "http://www.policyresearch": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.rand.org/pubs/permiss": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.runnymedetrust": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sauer-thompson.com/essays/Bataille&theGift.doc": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20241115180539/http://www.sauer-thompson.com/essays/Bataille%26theGift.doc"
+ },
+ "http://www.sbs.com.au/nitv/article/2017/01/23/comment-only-way-defeat-january-26-come%E2%80%8B": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sistani.org),which": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sistersinislam.org.my/comment.php?comment.news": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sistersinislam.org.my/comment.php?comment.news.1002": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sistersinislam.org.my/comment.php?comment.news.1004": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sistersinislam.org.my/comment.php?comment.news.1024": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.skv-pal%C3%A4stina.de": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20141218160011/http://xn--skv-palstina-mcb.de/"
+ },
+ "http://www.smh.com.au/lifestyle/news-and-views/news-features/nonmuslimsflock-to-buy-burkinis-as-french-bans-raise-profile-of-the-modest-swimwear-style-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sofiasblog.co.uk": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
  },
  "http://www.speaker.gov/UploadedFiles/Economists-11-8-11.pdf": {
   "status": 404,
   "replacement": "https://web.archive.org/web/20120211044950/http://www.speaker.gov/UploadedFiles/Economists-11-8-11.pdf"
  },
+ "http://www.spectator": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sudaneseonline": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.sudanvisiondaily.com//modules.php?name=News&%EF%AC%81le=article&sid=": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.supremecourtonline.com/cases/7383.html": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.tamilnation.org/indictment/genocide83/gen26.htm": {
+  "status": "ERR:ERR_TLS_CERT_ALTNAME_INVALID",
+  "replacement": null
+ },
+ "http://www.teachernet.gov": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.telegraph.co.uk/news/1530718/%22I-want-to-unveil-my-views-on-an-importantissue%22.htm": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.teligiousconsultation.org/hassan.htm": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.texascounties.net/articles/discovery-of-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.thedailybeast": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.thefridaytimes.com/tahira-mazhar-ali-khan-1925-2015/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20211203184412/https://www.thefridaytimes.com/tahira-mazhar-ali-khan-1925-2015/"
+ },
+ "http://www.theguardian.com/commentisfree/belief/2015/jan/16/france-much-vaunted-secularism-not-neutral-spaceclaims-to-be": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://www.theguardian.com/world/2015/": {
+  "status": 404,
+  "replacement": null
+ },
+ "http://www.thehindu.com/2006/02/15/stories/2006021513930100.htm": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.thelocal.se/20150509/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.thenational.ae/opinion/west-had-different-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.tmba.tv/broadcastanimation/history/osamas-hideouts/al-massadalions-den/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.tolerance.org/classroom-resources/tolerance-lessons/debunking-stereotypes-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.tribuneindia.com/2002/20021110/herworld": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.umd.edu/crge": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.unaids.org/en/CountryResponses/Coun": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.vardforpapperslosa.se/english.asp": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20220930032325/http://vardforpapperslosa.se/english.asp"
+ },
+ "http://www.videoandvoice.co.uk": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20230324233224/http://videoandvoice.co.uk/"
+ },
+ "http://www.voicesinternational.org.au": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20140125150738/http://voicesinternational.org.au/"
+ },
+ "http://www.washingtonpost.com/news/wonkblog/wp/2015/05/27/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.washingtonpost.com/wp-dyn/content/article/2007/07/20/AR2007072002147": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.washingtonpost.com/wpdyn/content/article/2007/07/20/AR2007072002147.html": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.weekly": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.whitehouse.gov/news/releases/2001/11/20011117": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.workingforchange.com/article.cfm?itemid=": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.worldliteraturetoday.org/2020/winter/writing-spiritual-offering-conversation-leilaaboulela-keija-parssinen": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www.writerscentrenorwich.org.uk": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20180429042858/https://www.writerscentrenorwich.org.uk/"
+ },
+ "http://www.yardstick.org.uk": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20180511125425/http://www.yardstick.org.uk/"
+ },
+ "http://www/thehindu.com/2006/02/12/": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://www2": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://wwwlfip.org/laws718/docs": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://wwwlfip.org/laws718/docs/lily-pd%C2%A3/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://wwwlfip.otg/laws718/docs/lily-pdf/Islam__Gender_and_Formal_Sharia.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "http://xroads": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://%C2%ADabolitionjournal%E2%80%8B": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://%E2%80%8B": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://about": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://academicworks.cuny": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://aeon.co/essays/why-family-secrets-should-sometimes-stay-under-lock-and": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://africainwords.com/2020/07/04/2015-africa-writes-pp-qa-withauthor-and-africa-writes-guest-abubakar-adam-ibrahim/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://africainwords.com/2020/07/04/2015-africa-writes-pp-qawith-author-and-africa-writes-guest-abubakar-adam-ibrahim/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://americanaejournal.hu/index.php/americanaejournal/article/download/47378/45686/64824": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://aspredicted": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://avesis.yildiz.edu.tr/yayin/c6866353-6b50-4bfb-ac53-6e59c752cec9/islamophobic-discourse-of-european-right-wing-parties-a-narrative-policy-analysis/document.pdf": {
+  "status": 500,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://belonging.berkeley.edu/sites/default/files/2021-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://bit": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://blog.seraleads.com/kb/personalized-outreach-strategies/cold-email-personalization-at-scale/": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260607164043/https://blog.seraleads.com/kb/personalized-outreach-strategies/cold-email-personalization-at-scale/"
+ },
+ "https://blog/growtoro.com/cold-email-agency-pricing-models-retainer-vs-performance": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://books.google.ca/books?id=UQJ": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://buzzlead.io/blogs/cold-email-cost-per-meeting-what-youre-actually-paying-and-why-most-calculations": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260609082321/https://buzzlead.io/blogs/cold-email-cost-per-meeting-what-youre-actually-paying-and-why-most-calculations"
+ },
+ "https://buzzlead.io/blogs/dedicated-sending-infrastructure-the-exact-setup-guide-for-cold-email-at-scale": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260609083619/https://buzzlead.io/blogs/dedicated-sending-infrastructure-the-exact-setup-guide-for-cold-email-at-scale"
+ },
+ "https://buzzlead.io/dedicated-sending-infrastructure-the-exact-setup-guide-for-cold-email-at-scale": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://cabodostrabalhos.ces.uc.pt/n14/documentos/02_AnastiaOprea.pdf": {
+  "status": "ERR:ECONNRESET",
+  "replacement": "https://web.archive.org/web/20260510212448/https://cabodostrabalhos.ces.uc.pt/n14/documentos/02_AnastiaOprea.pdf"
+ },
+ "https://carfms.org/wp-content/uploads/2025/10/Brianna-Garneau-The-Racial-Carcerality-of-Migration-Governance-grad.pdf": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": "https://web.archive.org/web/20260715134251/https://carfms.org/wp-content/uploads/2025/10/Brianna-Garneau-The-Racial-Carcerality-of-Migration-Governance-grad.pdf"
+ },
+ "https://cdn.ca9.uscourts.gov/datastore/opinions/2021/05/04/20-55295.pdf": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true,
+  "archiveFailed": "https://web.archive.org/web/20261012132634/https://cdn.ca9.uscourts.gov/datastore/opinions/2021/05/04/20-55295.pdf"
+ },
+ "https://cers.leeds.ac.uk/wp-content/uploads/sites/97/2013/05/Racism_in_contemporary_Lebanon": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://chriswoodruff.qeh.ox.ac.uk/wp-content/uploads/2019/10/Courts_JLEO.pdf": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": "https://web.archive.org/web/20260618150418/https://chriswoodruff.qeh.ox.ac.uk/wp-content/uploads/2019/10/Courts_JLEO.pdf"
+ },
+ "https://communitychange.ipg.vt.edu/articles/10.21061/cc.v6i1.a.66": {
+  "status": 500,
+  "replacement": "https://web.archive.org/web/20251109201829/https://communitychange.ipg.vt.edu/articles/10.21061/cc.v6i1.a.66"
+ },
+ "https://connectsafely.ai/articles/multi-touch-multichannel-sales-cadence-2026": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260615173924/https://connectsafely.ai/articles/multi-touch-multichannel-sales-cadence-2026"
+ },
  "https://copyrightsociety": {
   "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://crest.science/wp-content/uploads/2022/07/2022-14.pdf": {
+  "status": 503,
+  "replacement": "https://web.archive.org/web/20261016175553/https://crest.science/wp-content/uploads/2022/07/2022-14.pdf"
+ },
+ "https://d": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://danishleadco.io/blog/how-much-does-a-cold-email-campaign-cost-in-2026": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2019&locations=BD&mo": {
+  "status": "ERR:AbortError",
   "replacement": null,
   "noArchive": true
  },
@@ -25,7 +1338,114 @@
   "status": 404,
   "replacement": "https://web.archive.org/web/20240716124156/https://datatransferproject.dev/"
  },
+ "https://davidutsler.com/2022/04/10/the-being-of-silence/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20230401015841/https://davidutsler.com/2022/04/10/the-being-of-silence/"
+ },
+ "https://debtjustice.org.uk/countries/philippines": {
+  "status": "ERR:AbortError",
+  "replacement": "https://web.archive.org/web/20260525113341/https://debtjustice.org.uk/countries/philippines"
+ },
+ "https://deliberatio.eu/en/analyses/frankfurt-school-and-the-social-disorder": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20260614004651/https://deliberatio.eu/en/analyses/frankfurt-school-and-the-social-disorder"
+ },
+ "https://dfat.gov.au/about-us/publications/Documents/development-approaches%E2%80%8B": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/16773-Original%20File.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/23357-Original%2520File.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20251206162122/https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/23357-Original%20File.pdf"
+ },
+ "https://discover.wooster.edu/mkrain/files/2012/12/2000-HRR-Krain.pdf": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20240805143306/https://discover.wooster.edu/mkrain/files/2012/12/2000-HRR-Krain.pdf"
+ },
+ "https://discovernikkei.org/%E2%80%8Ben/%E2%80%8Bjournal/%E2%80%8B2012/%E2%80%8B11/%E2%80%8B30/%E2%80%8Bmasuda-family-2": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi%E2%80%8B": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/1": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.10%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20250824140447/https://doi.org/10.10%E2%80%8B"
+ },
+ "https://doi.org/10.1002/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20261019174510/https://doi.org/10.1002"
+ },
+ "https://doi.org/10.1007/978-0-230-29692%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1007/978-3-3": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1007/978-98": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1007/s11562-": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1016/j.la%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1037/0033-": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.108": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20261016000712/https://doi.org/10.1080"
+ },
  "https://doi.org/10.1080/00856401.2019.1677289": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/01419870.2011.592594.pdf": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/0268": {
   "status": "DOI-MISSING",
   "replacement": null,
   "noArchive": true
@@ -40,12 +1460,100 @@
   "replacement": null,
   "noArchive": true
  },
+ "https://doi.org/10.1080/101": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/10646175": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/13530194": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/13530194.2020": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/14649365.2012": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/14702": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/17448727": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1080/17528631": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
  "https://doi.org/10.1080/17579961.2022.2128601": {
   "status": "DOI-MISSING",
   "replacement": null,
   "noArchive": true
  },
+ "https://doi.org/10.1080/18125441.2024.23": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1093/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20261006235626/https://doi.org/10.1093"
+ },
+ "https://doi.org/10.1093/applin%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1093/ox%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1093/sp/": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.11%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1111/j.1468-2346": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1177/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20261025120938/https://doi.org/10.1177"
+ },
  "https://doi.org/10.1177/0163443720958643": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1177/095%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1177/14744%E2%80%8B": {
   "status": "DOI-MISSING",
   "replacement": null,
   "noArchive": true
@@ -60,7 +1568,84 @@
   "replacement": null,
   "noArchive": true
  },
+ "https://doi.org/10.1353/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20261012003651/https://doi.org/10.1353"
+ },
+ "https://doi.org/10.1386/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20260904181412/https://doi.org/10.1386"
+ },
+ "https://doi.org/10.14426/ajgr.v27i2.1044": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
  "https://doi.org/10.14763/2023.3.XXXX": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1515/multi%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.1558/genl%E2%80%8B": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.17576/gema-": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.18533/jah.v10i01.2039": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.24036/ell.v8i1.10": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.25312/2391-5145.13/2018_75-": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.3138/cjwl.30": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.3167/sa": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.32890/id2025": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.36231/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20260202225529/https://doi.org/10.36231"
+ },
+ "https://doi.org/10.368": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.46991/afa/2009.5.1-": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.5040/9781472541987%E2%80%8B": {
   "status": "DOI-MISSING",
   "replacement": null,
   "noArchive": true
@@ -70,13 +1655,292 @@
   "replacement": null,
   "noArchive": true
  },
+ "https://doi.org/10.5430/wjel.v1%E2%80%9Dn7p": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.55074/hesj": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.58256/43pksm83": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doi.org/10.5958/2249-7137.2": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
  "https://doi.org/10.6084/m9.figshare.1037514.v2": {
   "status": "DOI-MISSING",
   "replacement": null,
   "noArchive": true
  },
+ "https://doi.org/10.7176/": {
+  "status": "DOI-MISSING",
+  "replacement": "https://web.archive.org/web/20260920043317/https://doi.org/10.7176"
+ },
+ "https://doi.org/10.7575/aiac.alls.v.12n.4.p": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://doiserbia.nb.rs/ft.aspx?id=0038-03180804433P": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://dspace.univ-guelma.dz/xmlui/handle/123456789/10753": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": null,
+  "noArchive": true,
+  "archiveFailed": "https://web.archive.org/web/20250127093957/https://dspace.univ-guelma.dz/xmlui/handle/123456789/10753"
+ },
+ "https://dx.doi.or": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://dx.doi.org/10.1080%252": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://dx.doi.org/10.1080%2F1356931080": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://dx.doi.org/10.4324%2F9781": {
+  "status": "DOI-MISSING",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://dx.doi:10.1080/13602004.2015.1007666": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://educationestimates": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://educationestimates.org/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://ejournals.eu/en/journal/szppips/article/algorithmic-subordination-as-a-novel-criterion-for-determining-employee-status-in-the-context-of-atypical-forms-of-employment": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://en.qantara": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://en.qantara.de/content/book-review-fadiafaqirs-willow-trees-dont": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://en.qantara.de/node/39289": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://en.wikipedia.o": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://endhomelessness.org/%E2%80%8Bresource/%E2%80%8Bracial-inequalities-homelessness-numbers/%E2%80%8B#:~:text=African%20Americans%20make%20up%2013,share%20of%20the%20homeless%20population": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://eprints.lancs.ac.uk/id/eprint/80734/2/main_document_revis": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://firstmonday.org/ojs/index.php/fm/article/download/11471/10078": {
+  "status": 500,
+  "replacement": "https://web.archive.org/web/20241119213939/https://firstmonday.org/ojs/index.php/fm/article/download/11471/10078"
+ },
+ "https://firstmonday.org/ojs/index.php/fm/article/download/13595/12012": {
+  "status": 500,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://firstmonday.org/ojs/index.php/fm/article/download/6791/5521": {
+  "status": 500,
+  "replacement": "https://web.archive.org/web/20251213195358/https://firstmonday.org/ojs/index.php/fm/article/download/6791/5521"
+ },
+ "https://firstsales.io/blog/cold-email-benchmarks": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260614064333/https://firstsales.io/blog/cold-email-benchmarks/"
+ },
+ "https://firstsales.io/blog/cold-email-benchmarks/": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260614064333/https://firstsales.io/blog/cold-email-benchmarks/"
+ },
+ "https://firstsales.io/blog/cold-email/": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260211001908/https://firstsales.io/blog/cold-email/"
+ },
+ "https://firstsales.io/blog/reply-handling-playbook/": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://firstsales.io/blog/tag/reply-handling/": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://foreignpolic": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://ftp.copenhagenliving.com/default.aspx/mLB7DA/605684/Emotional%20Intelligence%20For%20Sales%20Success.pdf": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://gender.ucla.edu/publication/settler-colonialism-policing-and-racial-terror-the-police-shooting-of-loreal-tsingine-feminist-legal-studies-28-1-20-2020": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240510062202/https://gender.ucla.edu/publication/settler-colonialism-policing-and-racial-terror-the-police-shooting-of-loreal-tsingine-feminist-legal-studies-28-1-20-2020/"
+ },
+ "https://globalsouthstudies.as.virginia.edu": {
+  "status": "ERR:ERR_TLS_CERT_ALTNAME_INVALID",
+  "replacement": "https://web.archive.org/web/20241213131132/https://globalsouthstudies.as.virginia.edu/"
+ },
  "https://globalstudies.trinity.duke.edu/volume-31-decolonizing-thedigitaldigital-decolonization": {
   "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://guardian": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://home.ubalt.edu/tmitch/645/articles/a%20meta-analysis%20of%20work%20sample%20test.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260530024235/http://home.ubalt.edu/tmitch/645/articles/A%20META-ANALYSIS%20OF%20WORK%20SAMPLE%20TEST.pdf"
+ },
+ "https://home.ubalt.edu/tmitch/645/session%204/Schmidt%20&%20Oh%20validity%20and%20util%20100%20yrs%20of%20research%20Wk%20PPR%202016.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260604195927/https://home.ubalt.edu/tmitch/645/session%204/Schmidt%20%26%20Oh%20validity%20and%20util%20100%20yrs%20of%20research%20Wk%20PPR%202016.pdf"
+ },
+ "https://i-d.vice.com/en/article/5dz5p5/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://ijels.com/detail/east-vs-west-in-game-of-thrones-unpacking-edward-said-s-orientalism-in-the-fantasy-world": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260521205456/https://ijels.com/detail/east-vs-west-in-game-of-thrones-unpacking-edward-said-s-orientalism-in-the-fantasy-world/"
+ },
+ "https://ilj.law.indiana.edu/articles/78/78_2_McCluskey.pdf": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": "https://web.archive.org/web/20190711052402/http://ilj.law.indiana.edu:80/articles/78/78_2_McCluskey.pdf"
+ },
+ "https://imisofts.com/blog/dedicated-ip-cold-email": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://inclusivemosque.org/statement-of-intent/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20210419020319/https://inclusivemosque.org/statement-of-intent/"
+ },
+ "https://industrydocuments": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://infed.org/dir/welcome/c-wright-mills-power-craftsmanship-and-private-troubles-and-public-issues": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260615103050/https://infed.org/dir/welcome/c-wright-mills-power-craftsmanship-and-private-troubles-and-public-issues/"
+ },
+ "https://inframail.io/blog-detail/dedicated-ip-vs-shared-ip-for-cold-email-google-workspace-shared-pools-explained": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260210113936/https://inframail.io/blog-detail/dedicated-ip-vs-shared-ip-for-cold-email-google-workspace-shared-pools-explained"
+ },
+ "https://inframail.io/blog-detail/sender-reputation-for-cold-email-at-agency-scale-the-complete-operational-guide": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260616124306/https://inframail.io/blog-detail/sender-reputation-for-cold-email-at-agency-scale-the-complete-operational-guide"
+ },
+ "https://inframail.io/blog-detail/why-microsoft-ips-outperform-google-for-cold-email-at-scale-the-technical-advantage": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260616121816/https://inframail.io/blog-detail/why-microsoft-ips-outperform-google-for-cold-email-at-scale-the-technical-advantage"
+ },
+ "https://inter": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://jamesclear.com/great-speeches/the-danger-of-asingle-story-by-chimamanda-ngozi-adichie": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://journal.universitasbumigora.ac": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://journalarticle.ukm.my/7777/1/5491%E2%80%93": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://journalarticle.ukm.my/7777/1/5491%E2%80%9318829%E2%80%931-PB.pdf": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://journals": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://journals.qu.edu.qa/index.php/tajseer/article/view/6588": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://journals.sagepub": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://kclpure.k": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://knowledge.uchicago.edu/record/5193/files/Middle-Eastern-and-North-African-Americans-may-not-be-perceived-nor-perceive-themselves-to-be-White.pdf": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://knowledge.uchicago.edu/record/7664/files/Kranz_uchicago_0330D_16993.pdf": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://komo.ai/glossary/signal-triggered-outreach": {
+  "status": 404,
   "replacement": null,
   "noArchive": true
  },
@@ -85,18 +1949,687 @@
   "replacement": null,
   "noArchive": true
  },
+ "https://lchc.ucsd.edu/mca/Mail/xmcamail.2012_09.dir/pdfzWjbJLyXBw.pdf": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20240808205530/https://lchc.ucsd.edu/mca/Mail/xmcamail.2012_09.dir/pdfzWjbJLyXBw.pdf"
+ },
+ "https://lchc.ucsd.edu/mca/Mail/xmcamail.2012_11.dir/pdfYukILvXsL0.pdf": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20260810013649/https://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfYukILvXsL0.pdf"
+ },
+ "https://lchc.ucsd.edu/mca/Paper/Star/starbowker.html": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20260514185451/https://lchc.ucsd.edu/mca/Paper/Star/starbowker.html"
+ },
+ "https://mailority.com/blog/shared-ip-email-deliverability-problem": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://marketbetter.ai/blog/cold-calling-best-practices/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260711055751/https://marketbetter.ai/blog/cold-calling-best-practices/"
+ },
+ "https://marxist.com/marxism-national-question250200/all-pages.htm": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260609033257/https://marxist.com/marxism-national-question250200/all-pages.htm"
+ },
+ "https://missioninbox.com/blog/email-deliverability-best-practices": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260515113707/https://missioninbox.com/blog/email-deliverability-best-practices"
+ },
+ "https://modernismmodernity.org/articles/mathew-global-autofictional-fl%C3%A2nerie": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": "https://web.archive.org/web/20260211155930/https://modernismmodernity.org/articles/mathew-global-autofictional-fl%C3%A2nerie"
+ },
+ "https://monoskop.org/images/e/e0/Lyotard_Jean-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://moonshotteam.com/resource/un%C2%AD": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://mro.massey.ac.nz/bitstreams/cb598f0e-d08a-4bf4-baa2-6dbd1ea14f75/download": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://muftiwp.gov.my/sumber/media/penerbitan/suara-pemikir/2155-gerakanfeminisme-persamaan-gender-dan-pemahaman-agama-bahagian-1": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://nchr.elsevierpure.com/en/publications/noise-pollution-and-other-environmental-and-health-impacts-of-avi": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://ndl.ethernet.edu.et/bitstreams/0ff65d14-b113-4524-85fe-65e5a350c3c2/download": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://newsreel.org/articles/ousmanesembene.htm": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260819103824/https://newsreel.org/articles/OusmaneSembene.htm"
+ },
+ "https://nlp.stanford.edu/pubs/glove.pdf": {
+  "status": "ERR:ECONNREFUSED",
+  "replacement": "https://web.archive.org/web/20260922072032/https://nlp.stanford.edu/pubs/glove.pdf"
+ },
+ "https://nonotoriety.com/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260812160656/https://nonotoriety.com/"
+ },
+ "https://nyaspubs": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://oalib-perpustakaan.upi.edu/Record/doab_20_500_12854_88313/Description": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://onlinelibrary": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://openaccess.bilgi.edu.tr/bitstream/handle/11411/541/The%20Frankfurt%20School%20and%20Antonio%20Gramsci%20Theoretical%20concerns%20in%20the%20practice%20of%20cultural%20criticism,%20an%20their%20means%20to%20producing%20aneo-Marxist%20approach.pdf?sequence=1": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://orcid/org/0000-0001-7809-2222": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://org.uib.no/smi/seminars/Pensum/Cooke,%20Miriam.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://outplay.ai/blog/objection-handling": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://phantombuster.com/blog/sales-prospecting/multi-channel-prospecting-sequence-linkedin-email/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260616214123/https://phantombuster.com/blog/sales-prospecting/multi-channel-prospecting-sequence-linkedin-email/"
+ },
+ "https://publicgovernance.pl/zpub/article/view/503": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240605063311/https://publicgovernance.pl/zpub/article/view/503"
+ },
+ "https://reachoutly.com/cold-email/response-rate": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260512085250/https://reachoutly.com/cold-email/response-rate/"
+ },
+ "https://reachoutly.com/cold-email/response-rate/": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260512085250/https://reachoutly.com/cold-email/response-rate/"
+ },
+ "https://repository.law.asu.edu/Repository/Khaled-A-Beydoun-207979/Book/American-Islamophobia-Understanding-the-Rots-and-Rise-of-Fear-10414.html": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://salesoutreach.io/blog/cold-email-personalization-at-scale-techniques-that-work-in-2026": {
+  "status": "ERR:ERR_TLS_CERT_ALTNAME_INVALID",
+  "replacement": "https://web.archive.org/web/20260715232222/https://salesoutreach.io/blog/cold-email-personalization-at-scale-techniques-that-work-in-2026"
+ },
+ "https://scandinavianlaw.se/pdf/68-5.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250803105720/https://scandinavianlaw.se/pdf/68-5.pdf"
+ },
+ "https://scholarlypublications.universiteitleiden.nl/access/item%253A3663459/view": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true,
+  "archiveFailed": "https://web.archive.org/web/20260427225108/https://scholarlypublications.universiteitleiden.nl/access/item%3A3663459/view"
+ },
+ "https://scholarlypublications.universiteitleiden.nl/access/item%253A4210659/view": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true,
+  "archiveFailed": "https://web.archive.org/web/20260130003655/https://scholarlypublications.universiteitleiden.nl/access/item%3A4210659/view"
+ },
+ "https://siebel-db.siebelinstitute.com/project/trust-and-power-luhmann.pdf": {
+  "status": "ERR:UND_ERR_CONNECT_TIMEOUT",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://sintra.ai/blog/best-email-deliverability-tools": {
+  "status": 410,
+  "replacement": "https://web.archive.org/web/20260711090311/https://sintra.ai/blog/best-email-deliverability-tools"
+ },
+ "https://skepticalinquirer.org/2014/09/the-rhetoric-of-extraordinary-claim": {
+  "status": 500,
+  "replacement": "https://web.archive.org/web/20241218095102/https://skepticalinquirer.org/2014/09/the-rhetoric-of-extraordinary-claim/"
+ },
+ "https://sonderandtell": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://spssi": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://supreme": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://thewhistler.ng/%EF%BB%25": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://thi.ucsc.edu/wp-content/uploads/2013/01/Immanent-Critique.pdf": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20240412182347/https://thi.ucsc.edu/wp-content/uploads/2013/01/Immanent-Critique.pdf"
+ },
+ "https://ubjh.ub.edu.sa/home": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20260724172342/https://ubjh.ub.edu.sa/home/"
+ },
+ "https://unequalcities.org/wp-content/uploads/sites/17/2019/01/Fields-Desiree-Unwilling-Subjects-of-Financialization-published.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250720095237/https://unequalcities.org/wp-content/uploads/sites/17/2019/01/Fields-Desiree-Unwilling-Subjects-of-Financialization-published.pdf"
+ },
+ "https://uzjournals.edu.uz/philolm/vol2020/iss3/6": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20210724002716/https://uzjournals.edu.uz/philolm/vol2020/iss3/6/"
+ },
  "https://wacclearinghouse.org/docs/books/inoue/ecologie": {
   "status": 404,
   "replacement": null,
   "noArchive": true
+ },
+ "https://web.archive.org/web/20201102030921/https://www.newspape": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://web.english.upenn.edu/~cavitch/pdf-library/Douglas_Creating_Childhood.pdf": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": null
+ },
+ "https://web.english.upenn.edu/~cavitch/pdf-library/Fanon_Black_Skin.pdf": {
+  "status": "ERR:UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+  "replacement": "https://web.archive.org/web/20220320125029/https://web.english.upenn.edu/~cavitch/pdf-library/Fanon_Black_Skin.pdf"
+ },
+ "https://worldhistoryconnected.press.uillinois.edu/4.1/lindenfeld.html": {
+  "status": 503,
+  "replacement": "https://web.archive.org/web/20250122174816/https://worldhistoryconnected.press.uillinois.edu/4.1/lindenfeld.html"
  },
  "https://www": {
   "status": "malformed",
   "replacement": null,
   "noArchive": true
  },
+ "https://www.aaihs.org/interrogating-%C2%ADthe-%C2%ADmaster-%C2%ADnarrative-%C2%ADof-%C2%ADmy": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.abc%E2%80%8B": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.abdn.ac.uk/idav/documents/Lyotard_-_Postmodern": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.abdn.ac.uk/idav/documents/Lyotard_-_Postmodern_Condition.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20160731191441/http://www.abdn.ac.uk/idav/documents/Lyotard_-_Postmodern_Condition.pdf"
+ },
+ "https://www.albanylawreview.org/api/v1/articles/69478-defining-race-through-law-enforcing-the-social-norms-of-power-and-privilege.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.albanylawreview.org/api/v1/articles/69480-on-account-of-race-or-color-race-as-corporation-and-the-original-understanding-of-race.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.amazon.com/Season-Crimson-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.americaabroadmedia.org/radio/understanding-islamicfeminism": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.anti": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.bellingcat.com/news/rest-of-world/2019/03/15/shitposting-inspirationalterrorism-and-the-christchurch-mosque-massacre/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.cao": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.cdc.gov/violenceprevention/pdf/sv-datasheet-a.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20181021003657/https://www.cdc.gov/violenceprevention/pdf/sv-datasheet-a.pdf"
+ },
+ "https://www.ci.ramsey.mn.us/848/Data-Practices-Procedures": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.cia.gov/cia/publications/factbook/geos/sg.html": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20070509151925/https://www.cia.gov/cia//publications/factbook/geos/sg.html"
+ },
+ "https://www.cisa.gov/news-events/alerts/2021/01/12/urgent-strong-encryption-and-email-authentication-practices": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.claci%EF%AC%81ed.com/entertainment/16/genevievennaji": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.compassion.com/blog/ethiopian-coffee-ceremony-coffee-and-community": {
+  "status": "ERR:TypeError",
+  "replacement": "https://web.archive.org/web/20260713025118/https://www.compassion.com/blog/ethiopian-coffee-ceremony-coffee-and-community/"
+ },
+ "https://www.csmonitor.com/Books/Book-Reviews/": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260423194202/https://www.csmonitor.com/Books/Book-Reviews"
+ },
+ "https://www.digitalcollections.wesleyan.edu/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20261105123714/https://digitalcollections.wesleyan.edu/"
+ },
+ "https://www.elevify.com/en-in/courses/business-and-economics/sales/customer-acquisition-course-a81a9": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.eubrics.com/blogs/why-does-sales-roleplay-fail": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260414002231/https://www.eubrics.com/blogs/why-does-sales-roleplay-fail"
+ },
+ "https://www.fox13seattle.com/news/youre-pushing-the-boundaries-dont-push-it-any-further-judge-warns-prosecution-in-ellis-case": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.ft": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.gov": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.gov.uk/government/publications/immigration-statistics-year-ending-march-2019/why-dopeople-come-to-the-uk-2-to-work": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.gov.uk/government/publications/lessonsfor-prevent/lessons-for-prevent-accessible#the-prevent-strategy": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.gov.uk/government/publications/user-guide-to-individuals-referred-to-andsupported-through-the-prevent-programme-england-and-wales": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-datatables#entry-clearance-visas-granted-outside-the-uk": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.gov.uk/government/statistics/modern-slavery-nrm-and-dtnstatistics-july-to-september-2024/modern-slavery-national-referral-mechanism-and-duty-tonotify-statistics-uk-quarter-3-2024-july-to-september": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.haberpodium.ch/islam-ve-feminizm-musluman-kadin-olmak-ve-kadin-haklarinisavunmak-celiski-mi/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.history.ox.ac.uk/::ognode-637356::/files/download-resource-printable-pdf-11": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250807030442/https://www.history.ox.ac.uk/%3A%3Aognode-637356%3A%3A/files/download-resource-printable-pdf-11"
+ },
+ "https://www.hrw.org/report/2019/05/01/chinas-algorithms-repression/reverse-engineering-xinjiang-police-mass-surveillance-app": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.inframail.io/blog-detail/email-infrastructure-trends-2026-2027-automation-compliance-flat-rate-pricing": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260520065937/https://inframail.io/blog-detail/email-infrastructure-trends-2026-2027-automation-compliance-flat-rate-pricing"
+ },
+ "https://www.inframail.io/blog-detail/why-microsoft-ips-outperform-google-for-cold-email-at-scale-the-technical-advantage": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": "https://web.archive.org/web/20260616121816/https://inframail.io/blog-detail/why-microsoft-ips-outperform-google-for-cold-email-at-scale-the-technical-advantage"
+ },
+ "https://www.ipl.org/essay-topics/philosophy/logic/inductive-reasoning": {
+  "status": 500,
+  "replacement": null,
+  "noArchive": true,
+  "archiveFailed": "https://web.archive.org/web/20241210212228/https://www.ipl.org/essay-topics/philosophy/logic/inductive-reasoning"
+ },
+ "https://www.item.ens.fr/publication-genetic-criticism-and-its-logics-par-daniel-ferrer": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260225165312/https://www.item.ens.fr/publication-genetic-criticism-and-its-logics-par-daniel-ferrer/"
+ },
+ "https://www.jcwi.org.uk/the-%C2%ADhostile-%C2%ADenvironment-%C2%ADexplained": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.law.georgetown.edu/immigration-law-journal/blog/the-war-on-muslim-womens-bodies-a-critiqueof-western-feminism/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.legit": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.legit.ng/1102269-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.litmus.com/blog/bimi-guide": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.m3aawg.org/sites/default/files/document/M3AAWG-DMARC-Best-Practices-2019.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.m3aawg.org/sites/default/files/m3aawg-email-authentication-guide-deployment-2017.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.mailerlite.com/blog/bimi": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.mailgun.com/blog/email/email-warmup/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.mangobaaz.com/farhat-hashmi-of-al-huda-tried-to-justify-awife-submitting-to-her-husband-and-it-has-triggered-a-lot-of-people": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.migrationpolicy.org/article/iran-vast-diaspora-abroad-and-millions": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.musawah": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.nae.net/what-is-an-evangelical/": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20241008125254/https://www.nae.net/what-is-an-evangelical/"
+ },
+ "https://www.nationalarchives.gov.uk/education/resources/god-blew-they-were-scattered/": {
+  "status": 410,
+  "replacement": "https://web.archive.org/web/20260513022010/https://www.nationalarchives.gov.uk/education/resources/god-blew-they-were-scattered/"
+ },
+ "https://www.newenglandinnocence.org/innocence-blog/2021/4/20/wounded-but-not-broken-by-sean-ellis": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250217165945/https://www.newenglandinnocence.org/innocence-blog/2021/4/20/wounded-but-not-broken-by-sean-ellis"
+ },
+ "https://www.newenglandinnocence.org/innocence-blog/2021/5/4/superior-court-justice-allows-sean-elliss-motion-for-new-trial-on-firearms-offense": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20220830221103/https://www.newenglandinnocence.org/innocence-blog/2021/5/4/superior-court-justice-allows-sean-elliss-motion-for-new-trial-on-firearms-offense"
+ },
+ "https://www.newspapers.com/newsp": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.newyorker.com/books/second-read/colonial-post": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.nngroup.com/articles/mobile-first-notifications/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.nrs.fs.usda.gov/pubs/gtr/gtr_ne25/gtr_ne25_206.pdf": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20250401201719/https://www.nrs.fs.usda.gov/pubs/gtr/gtr_ne25/gtr_ne25_206.pdf"
+ },
+ "https://www.nytimes%E2%80%8B": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20171025020156/http://nytimes/"
+ },
+ "https://www.nytimes": {
+  "status": "malformed",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulle": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.politika.io/en/article/the-formation-of-racial-categories": {
+  "status": "ERR:AbortError",
+  "replacement": "https://web.archive.org/web/20260417113521/https://www.politika.io/en/article/the-formation-of-racial-categories"
+ },
+ "https://www.politika.io/en/notice/maroons-and-their-communities-in-the-americas": {
+  "status": "ERR:AbortError",
+  "replacement": "https://web.archive.org/web/20260614055632/https://www.politika.io/en/notice/maroons-and-their-communities-in-the-americas"
+ },
+ "https://www.proquest.com/scholarly-journals/orientalism-neo-early-contemporary-constructions/docview/1815501983/se-2": {
+  "status": "ERR:TypeError",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.proquest.com/scholarlyjournals/entre-profane-et-sacr%C3%A9-usages-dinternetislam/docview/1022050329/se-2": {
+  "status": "ERR:TypeError",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.psychologytoday.com/us/blog/the-athletes-way/202105/new-research-focuses-the-harmfulness-of-mindfulness": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.researchwithrutgers.com/en/publications/framing-islam-the-resurgence-of-orientalism-during-the-bush-ii-er": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20250802235021/https://www.researchwithrutgers.com/en/publications/framing-islam-the-resurgence-of-orientalism-during-the-bush-ii-er"
+ },
+ "https://www.saashero.net/strategy/intelligent-resourcing-b2b-leadgen-pricing": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.saashero.net/strategy/saas-lead-generation-agency-reviews": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.saleswingsapp.com/sales-tools/top-four-linkedin-tools-to-increase-sales/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.scaledmail.com/blog/cold-email-infrastructure-guide": {
+  "status": "ERR:CERT_HAS_EXPIRED",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.sfgate.com/art/article/Lalla-Essaydi-diagram-of-a-harem-emotions-too-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.sistersinislam.org.my/comment.php?comment.news": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.solidaritycenter.org/unions-%C2%ADacross-%C2%ADthe-%C2%ADglobe-%C2%ADdevelop-%C2%ADdefend-%C2%ADdemocracy/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.stabroeknews.com/2010/06/19/the-scene/": {
+  "status": 410,
+  "replacement": null
+ },
+ "https://www.superkabe.com/blog/best-domain-reputation-monitoring-tools": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20260616083710/https://www.superkabe.com/blog/best-domain-reputation-monitoring-tools"
+ },
+ "https://www.taylor": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20151105013140/http://taylor/"
+ },
+ "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003048640-": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.teachingforchange.org/wp-content/uploads/2012/08/ec_arab": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.theartnewspaper.com/2023/07/05/lagos-peckham-repeat-southlondon-gallery-preview": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.theguardian.com/books/2015/apr/25/toni-morrison-books-interview-god-helpthe-child": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.theguardian.com/books/2019/feb/22/leilaaboulelabooks-that-made-me": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.theguardian.com/commentisfree/2016/aug/24/i-created-the-burkini-to-give-women-freedom-not-to-take-itaway": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.theguardian.com/commentisfree/2017/mar/08/silence-powerlessness-womens-voicesrebecca-solnit": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.theguardian.com/world/2018/nov/22/hillary-%C2%ADclinton-%C2%ADeurope": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.theguardian.com/world/2019/": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.theguardian.com/world/2019/aug/16/the-mythof-eurabia-how-a-far-right-conspiracy-theory-went-mainstream": {
+  "status": 404,
+  "replacement": null
+ },
+ "https://www.thenation.com/article/archive/why-we-mustresist-simple-explanations-charlie-hebdo-massacre": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.thenationalnews": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.theswaddle.com/meditation-and-mindfulness-may-lead-to-anxiety-other-adverse-effects-says-study": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.ucl": {
+  "status": "ERR:ENOTFOUND",
+  "replacement": "https://web.archive.org/web/20130723135701/http://ucl"
+ },
+ "https://www.umass.edu/preferen/gintis/BG-Contraditction%20and%20Reproduction81.pdf": {
+  "status": 404,
+  "replacement": "https://web.archive.org/web/20240520201156/https://www.umass.edu/preferen/gintis/BG-Contraditction%20and%20Reproduction81.pdf"
+ },
+ "https://www.valimail.com/resources/whitepaper/dmarc-adoption-report/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.versobooks.com/blogs/1282-%C2%ADthatcher-%C2%ADthe-%C2%ADpm-%C2%ADwho-%C2%ADbrought-%C2%ADracism-%C2%ADin-%C2%ADfrom-%C2%ADthe-%C2%ADcold": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
  "https://www.versobooks.com/cdn/shop/files/getimage_5155674d-58a1-4949-9737-cdd455a10a37.jpg?v=1786336798&width=287": {
   "status": 404,
   "replacement": "https://web.archive.org/web/20260816025232/https://www.versobooks.com/cdn/shop/files/getimage_5155674d-58a1-4949-9737-cdd455a10a37.jpg?v=1786336798&width=287"
+ },
+ "https://www.whitehouse.gov/%E2%80%8Bsites/%E2%80%8Bwhitehouse.gov/%E2%80%8Bfiles/%E2%80%8Bimages/%E2%80%8BEffects": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www.wikipedia.org/wiki/The%20Washin": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf": {
+  "status": "ERR:UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "replacement": "https://web.archive.org/web/20260802192005/http://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf"
+ },
+ "https://www2.psych.ubc.ca/~ara/Manuscripts/morality+salience.pdf": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
+ },
+ "https://xyonline.net/sites/xyonline.net/files/201908/": {
+  "status": 404,
+  "replacement": null,
+  "noArchive": true
  }
 }
