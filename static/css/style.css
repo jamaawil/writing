@@ -3006,7 +3006,7 @@
         pointer-events: auto;
       }
 
-      aside {
+      .layout > aside {
         position: fixed;
         top: 104px;
         left: 0;
@@ -3026,8 +3026,8 @@
         overscroll-behavior-x: none;
         justify-content: space-between;
       }
-      aside.open { transform: translateX(0); }
-      aside h1 { display: none; }
+      .layout > aside.open { transform: translateX(0); }
+      .layout > aside h1 { display: none; }
 
       main { padding: calc(104px + 1.5rem) 1.5rem 2rem; max-width: 100%; }
 
