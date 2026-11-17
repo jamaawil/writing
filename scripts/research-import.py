@@ -473,6 +473,7 @@ def main():
       CREATE INDEX relations_source_rank ON relations(source,(CASE status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END),(coalesce(strength,0)) DESC,id);
       CREATE INDEX relations_target_rank ON relations(target,(CASE status WHEN 'accepted' THEN 0 WHEN 'authored' THEN 0 ELSE 1 END),(coalesce(strength,0)) DESC,id);
       CREATE INDEX aliases_entity ON aliases(entity_id);
+      CREATE INDEX source_files_entity ON source_files(entity_id);
       CREATE INDEX evidence_entity ON evidence(entity_id);
       CREATE INDEX evidence_book ON evidence(book_id);
       CREATE VIRTUAL TABLE search USING fts5(entity_id UNINDEXED,title,body,tokenize='unicode61 remove_diacritics 2');
@@ -482,7 +483,7 @@ def main():
       INSERT INTO evidence_search SELECT e.entity_id,e.text FROM evidence e
         JOIN entities n ON n.id=e.entity_id WHERE n.published=1;
     ''')
-    report['coverage']['searchable_files'] = db.execute('SELECT count(*) FROM source_files f JOIN entities e ON e.id=f.entity_id WHERE e.published=1 AND f.path NOT LIKE \'mind/%\'').fetchone()[0]
+    report['coverage']['searchable_files'] = db.execute('SELECT count(*) FROM source_files f CROSS JOIN entities e ON e.id=f.entity_id WHERE e.published=1 AND f.path NOT LIKE \'mind/%\'').fetchone()[0]
     report['coverage']['downloadable_files'] = db.execute('SELECT count(*) FROM assets').fetchone()[0]
     report['coverage']['attachments_bytes'] = db.execute('SELECT coalesce(sum(bytes),0) FROM assets').fetchone()[0]
     report['entities'] = dict(db.execute('SELECT kind,count(*) FROM entities GROUP BY kind'))

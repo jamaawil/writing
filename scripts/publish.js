@@ -6,7 +6,7 @@
 //   OBSIDIAN_VAULT=/path/to/vault   point at your vault (default is the path in the sync scripts)
 //   NO_PRUNE=1                       keep content whose vault note was deleted (skip deletion-sync)
 
-const { execSync } = require("child_process");
+const { execSync, execFileSync } = require("child_process");
 
 const ROOT = __dirname + "/..";
 // The branch Netlify builds for production. Pushing this branch publishes the site.
@@ -36,8 +36,8 @@ function main() {
   console.log(cap("git status --short"));
 
   // 3. Stage the site's tracked areas, commit, push.
-  run("git add -A -- content static build.js package.json package-lock.json scripts .claude netlify netlify.toml .gitignore");
-  if (!cap("git status --porcelain")) {
+  run("git add -A -- content static data build.js package.json package-lock.json scripts tests netlify netlify.toml .gitignore");
+  if (!cap("git diff --cached --name-only")) {
     console.log("\nNo tracked changes to publish (only ignored files changed).");
     return;
   }
@@ -45,19 +45,11 @@ function main() {
   run(`git commit -m ${JSON.stringify(`Publish: sync from Obsidian (${stamp})`)}`);
 
   const branch = cap("git rev-parse --abbrev-ref HEAD");
-  const hasUpstream = (() => {
-    try { cap("git rev-parse --abbrev-ref --symbolic-full-name @{u}"); return true; } catch { return false; }
-  })();
-  run(hasUpstream ? "git push" : `git push -u origin ${JSON.stringify(branch)}`);
+  console.log(`\n$ git push origin HEAD:${PRODUCTION_BRANCH}`);
+  execFileSync("git", ["push", "origin", `HEAD:${PRODUCTION_BRANCH}`], { stdio: "inherit", cwd: ROOT });
 
-  console.log(`\nPublished — pushed "${branch}".`);
-  if (branch === PRODUCTION_BRANCH) {
-    console.log("Netlify will now build and deploy this to your live site.");
-  } else {
-    console.log(`Heads up: your live site deploys from "${PRODUCTION_BRANCH}", but you pushed "${branch}".`);
-    console.log("Switch to the production branch (git checkout " + PRODUCTION_BRANCH + ") and publish again,");
-    console.log("or set PUBLISH_BRANCH to whichever branch Netlify treats as production.");
-  }
+  console.log(`\nPublished from "${branch}" to "${PRODUCTION_BRANCH}".`);
+  console.log("Netlify will now build and deploy this to your live site.");
 }
 
 try {

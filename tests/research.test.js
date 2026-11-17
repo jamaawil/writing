@@ -2,6 +2,19 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const {DatabaseSync}=require('node:sqlite');
 const {service,renderBody}=require('../netlify/functions/lib/research-service');
+const {applySlugs}=require('../scripts/research-slugs');
+test('Published URLs survive renames and new duplicate titles',()=>{
+  const db=new DatabaseSync(':memory:');
+  db.exec("CREATE TABLE entities(id TEXT PRIMARY KEY,title TEXT,kind TEXT,href TEXT); INSERT INTO entities VALUES('old','Original title','claim',NULL),('removed','Retired title','claim',NULL)");
+  applySlugs(db);
+  const previous=db.prepare('SELECT slug,entity_id FROM slugs').all();
+  db.exec("UPDATE entities SET title='Renamed title' WHERE id='old'; DELETE FROM entities WHERE id='removed'; INSERT INTO entities VALUES('aaa','Original title','claim',NULL),('bbb','Retired title','claim',NULL)");
+  applySlugs(db,previous);
+  assert.equal(db.prepare("SELECT entity_id FROM slugs WHERE slug='original-title'").get().entity_id,'old');
+  assert.notEqual(db.prepare("SELECT slug FROM slugs WHERE entity_id='aaa'").get().slug,'original-title');
+  assert.notEqual(db.prepare("SELECT slug FROM slugs WHERE entity_id='bbb'").get().slug,'retired-title');
+  db.close();
+});
 function fixture(){
   const db=new DatabaseSync(':memory:');
   db.exec(`CREATE TABLE entities(id TEXT PRIMARY KEY,title TEXT,kind TEXT,body TEXT,metadata TEXT,published INTEGER,href TEXT);

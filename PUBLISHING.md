@@ -15,24 +15,22 @@ That's it. The rest of this file explains what it does and how it's wired.
 ## One-time setup
 
 1. **Node** installed (v18+) and dependencies installed once: `npm install`.
-2. **Point the scripts at your vault.** They default to
-   `/Users/polymath/Documents/SmartNotes Starter Kit`. If your vault lives elsewhere,
+2. **Point the scripts at your vault.** They default to the Obsidian vault that
+   contains this `_site` folder (`/Users/jamalawil/Documents/Awil-site` here). If your vault lives elsewhere,
    set `OBSIDIAN_VAULT` (add it to your shell profile so you don't retype it):
    ```bash
    export OBSIDIAN_VAULT="/path/to/your/vault"
    ```
-3. **Be on the production branch.** Netlify deploys the branch named
-   `claude/eager-shannon-an6g4l`. Make sure your local repo is on it:
-   ```bash
-   git checkout claude/eager-shannon-an6g4l
-   ```
+3. **Publish to the configured production branch.** Netlify deploys the branch named
+   `claude/eager-shannon-an6g4l`. The command pushes your current commit to that
+   branch, including when the local checkout is named `unified-zettel`.
    (You can confirm/-change which branch is production in Netlify →
    Site configuration → Build & deploy → Branches. If you rename it to something
    friendlier like `main`, set `PUBLISH_BRANCH=main` when publishing.)
 
 ## What `npm run publish` does
 
-1. `sync-library-from-obsidian.js` — turns `library/books/*.md` into `content/library/`.
+1. `sync-library-from-obsidian.js` — turns `Website/Library/*.md` into `content/library/`.
 2. `sync-content-from-obsidian.js` — turns `Website/<Type>/*.md` into `content/`.
 3. `node build.js` — rebuilds `public/`. **If a note is malformed the build fails here,
    before anything is pushed.**
@@ -52,7 +50,7 @@ If nothing changed in the vault, it says so and stops.
 | `Website/Zettel/*.md` | `/zettel/<slug>/` + graph | `title` (body `[[links]]` build the graph) |
 | `Website/Bits/*.md` | `/bits/` | `date` (the filename is the identity) |
 | `Website/Projects.md` | `/projects/` body | — |
-| `library/books/*.md` | `/library/<slug>/` | built by your Frequentation script |
+| `Website/Library/*.md` | `/library/<slug>/` | highlights and written responses |
 
 `slug` is optional everywhere except where noted — leave it blank and it's derived
 from the title. Files starting with `_` (like `_template.md`) are ignored.
@@ -87,7 +85,6 @@ bind it to a ribbon icon or hotkey, and you can publish without leaving Obsidian
 - **"Vault Website/ folder not found"** — set `OBSIDIAN_VAULT` to your vault path.
 - **"git push rejected"** — someone/something else pushed; run `git pull --rebase`, then
   `npm run publish` again.
-- **Pushed the wrong branch** — the command warns if you're not on the production branch;
-  `git checkout claude/eager-shannon-an6g4l` and re-publish.
+- **Production branch changed** — set `PUBLISH_BRANCH` to the branch configured in Netlify before publishing.
 - **Comments** — commenting needs the `DATABASE_URL` env var set in Netlify (separate from
   publishing); see the comments setup notes.
