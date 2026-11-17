@@ -45,7 +45,9 @@
   function mount(root, base) {
     if (root.dataset.ready) return;
     root.dataset.ready = '1';
-    base = base.replace(/\/?$/, '/');
+    // Keep existing versioned map URLs, but fetch this site's hosted map
+    // through Netlify so external-host DNS/CORS failures cannot block it.
+    base = base.replace(/^https:\/\/jamalawil-research-assets\.jahmed01\.workers\.dev\/graph\//, '/research-graph/').replace(/\/?$/, '/');
     root.innerHTML =
       '<div class="cg-search"><input type="search" placeholder="Find a note…" autocomplete="off" aria-label="Find a note on the map"><div class="cg-results" role="listbox"></div></div>' +
       '<div class="cg-controls"><label class="cg-depth"><span>Depth <b>2</b></span><input type="range" min="1" max="4" step="1" value="2" aria-label="Neighbourhood depth"></label>' +

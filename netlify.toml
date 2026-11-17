@@ -9,6 +9,13 @@
   external_node_modules = ["@journeyapps/wa-sqlite"]
   included_files = ["node_modules/@journeyapps/wa-sqlite/dist/wa-sqlite-async.*", "node_modules/@journeyapps/wa-sqlite/src/**"]
 
+# Serve map data through the writing site's origin so browsers do not need
+# direct access to workers.dev or cross-origin permission to load the map.
+[[redirects]]
+  from = "/research-graph/*"
+  to = "https://jamalawil-research-assets.jahmed01.workers.dev/graph/:splat"
+  status = 200
+
 # Stable record URLs share one application shell. Entity identities, not titles,
 # determine the destination; renaming a note does not break a research link.
 [[redirects]]
