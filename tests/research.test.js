@@ -3,6 +3,31 @@ const assert=require('node:assert/strict');
 const {DatabaseSync}=require('node:sqlite');
 const {service,renderBody}=require('../netlify/functions/lib/research-service');
 const {applySlugs}=require('../scripts/research-slugs');
+const {collectGraph}=require('../scripts/lib/constellation-graph');
+test('Constellation includes derived and isolated public records and every connection origin',()=>{
+  const db=new DatabaseSync(':memory:');
+  db.exec(`CREATE TABLE cards(id TEXT PRIMARY KEY,title TEXT,kind TEXT,href TEXT,published INTEGER);
+    CREATE TABLE relations(source TEXT,target TEXT,origin TEXT,predicate TEXT,status TEXT);
+    INSERT INTO cards VALUES('a','Claim','claim','/a/',1),('b','Evidence','source-passage','/b/',1),
+      ('c','Isolated chapter','chapter','/c/',1),('p','Private','note','/p/',0);`);
+  const origins=['wikilink','dmce','distiller','mesh','note-property','canvas','entity-mention',
+    'mesh_book_pairs','mesh_debates','mesh_debates_v1','passage-source','research-record','source-evidence'];
+  const insert=db.prepare('INSERT INTO relations VALUES(?,?,?,?,?)');
+  origins.forEach(origin=>insert.run('a','b',origin,'links-to','accepted'));
+  insert.run('b','a','wikilink','links-to','accepted');
+  insert.run('a','c','wikilink','links-to','rejected');
+  insert.run('a','c','wikilink','none','accepted');
+  insert.run('a','p','wikilink','links-to','accepted');
+  insert.run('a','a','wikilink','links-to','accepted');
+  const graph=collectGraph(db);
+  assert.deepEqual(graph.rows.map(row=>row.id),['a','b','c']);
+  assert.equal(graph.origins.length,13);
+  assert.deepEqual(Array.from(graph.pairs),[0,1]);
+  assert.ok(graph.bits instanceof Uint16Array);
+  assert.equal(graph.bits[0],(1<<13)-1);
+  assert.equal(graph.relationCounts.reduce((a,b)=>a+b,0),14);
+  db.close();
+});
 test('Published URLs survive renames and new duplicate titles',()=>{
   const db=new DatabaseSync(':memory:');
   db.exec("CREATE TABLE entities(id TEXT PRIMARY KEY,title TEXT,kind TEXT,href TEXT); INSERT INTO entities VALUES('old','Original title','claim',NULL),('removed','Retired title','claim',NULL)");

@@ -12,7 +12,10 @@
     light: ['#138f71', '#4673dd', '#ac6808', '#be478c', '#7a820e', '#935ac7', '#ca4553'],
     dark: ['#32a888', '#4874d8', '#cb7e19', '#bb4b8b', '#7a821c', '#ab75df', '#e3636c']
   };
-  var EDGE_NAMES = {wikilink: 'Wikilinks', dmce: 'DMCE', distiller: 'Distiller', mesh: 'Mesh', 'note-property': 'Properties'};
+  var EDGE_NAMES = {wikilink: 'Wikilinks', dmce: 'DMCE', distiller: 'Distiller', mesh: 'Mesh', 'note-property': 'Properties',
+    'source-evidence': 'Source evidence', 'research-record': 'Research records', 'entity-mention': 'Concept mentions',
+    'passage-source': 'Passage sources', canvas: 'Canvas links', mesh_book_pairs: 'Book conversations',
+    mesh_debates: 'Debates', mesh_debates_v1: 'Earlier debates'};
   var KIND_LABEL = function (k) { return k.replace(/-/g, ' ').replace(/^./, function (c) { return c.toUpperCase(); }); };
 
   function inflate(url) {
@@ -52,7 +55,7 @@
       '<div class="cg-search"><input type="search" placeholder="Find a note…" autocomplete="off" aria-label="Find a note on the map"><div class="cg-results" role="listbox"></div></div>' +
       '<div class="cg-controls"><label class="cg-depth"><span>Depth <b>2</b></span><input type="range" min="1" max="4" step="1" value="2" aria-label="Neighbourhood depth"></label>' +
       '<button type="button" class="cg-reset" title="Show the whole map">Reset</button><button type="button" class="cg-expand" title="Open the map full screen" aria-pressed="false">Expand</button></div>' +
-      '<div class="cg-stage"><canvas role="img" aria-label="Map of every note in the vault and how they connect"></canvas><div class="cg-labels" aria-hidden="true"></div><div class="cg-tip" hidden></div><p class="cg-loading">Drawing the vault…</p></div>' +
+      '<div class="cg-stage"><canvas role="img" aria-label="Map of all public notes and research records and their connections"></canvas><div class="cg-labels" aria-hidden="true"></div><div class="cg-tip" hidden></div><p class="cg-loading">Drawing the vault…</p></div>' +
       '<p class="cg-status" aria-live="polite"></p>' +
       '<details class="cg-key"><summary>Key &amp; filters</summary><div class="cg-legend"></div><p class="cg-key-title">Connections</p><div class="cg-edges"></div></details>' +
       '<p class="cg-links"><a href="/zettel/?kind=book">Browse by book →</a> <a href="/zettel/?kind=theme">Browse by theme →</a></p>';
@@ -66,7 +69,7 @@
     status.textContent = 'Loading the map…';
     var F = ['positions.bin', 'categories.bin', 'kinds.bin', 'edges.bin', 'edge-types.bin'];
     Promise.all([fetch(base + 'meta.json').then(function (r) { return r.json(); })].concat(F.map(function (f) { return inflate(base + f + '.gz'); })))
-      .then(function (d) { start(d[0], new Float32Array(d[1]), new Uint8Array(d[2]), new Uint8Array(d[3]), new Uint8Array(d[4]), new Uint8Array(d[5])); })
+      .then(function (d) { start(d[0], new Float32Array(d[1]), new Uint8Array(d[2]), new Uint8Array(d[3]), new Uint8Array(d[4]), d[0].edgeTypeBytes === 2 ? new Uint16Array(d[5]) : new Uint8Array(d[5])); })
       .catch(function (e) { loading.textContent = 'The map could not be loaded. ' + e.message; status.textContent = ''; });
 
     function start(meta, pos, cats, kinds, edgeBytes, edgeTypes) {
@@ -329,7 +332,7 @@
         var pal = PALETTE[theme], el = root.querySelector('.cg-legend'), rows = '';
         meta.categoryCounts.forEach(function (count, c) { rows += chip(c, pal[c], CATEGORY_NAMES[c] + ' claims', count); });
         rows += chip(7, theme === 'dark' ? '#8a8a85' : '#96948c', 'Uncategorized claims', meta.categoryCounts.length ? meta.kindCounts[0] - meta.categoryCounts.reduce(function (a, b) { return a + b; }, 0) : 0);
-        rows += chip(8, 'rgb(' + ink.join(',') + ')', 'Books, maps, themes & other notes', n - meta.kindCounts[0], true);
+        rows += chip(8, 'rgb(' + ink.join(',') + ')', 'Sources, passages & other records', n - meta.kindCounts[0], true);
         el.innerHTML = rows;
         el.querySelectorAll('button').forEach(function (b) { b.addEventListener('click', function () { var g = +b.dataset.g; showCat[g] = !showCat[g]; b.setAttribute('aria-pressed', String(showCat[g])); refocus(); rebuildLines(); draw(); }); });
         var ed = root.querySelector('.cg-edges'); ed.innerHTML = meta.edgeTypes.map(function (t, k) {
@@ -340,12 +343,12 @@
         return '<button type="button" data-g="' + g + '" aria-pressed="' + showCat[g] + '"><i style="background:' + color + (big ? ';width:.7rem;height:.7rem' : '') + '"></i>' + esc(name) + ' <small>' + count.toLocaleString() + '</small></button>';
       }
 
-      var summary = n.toLocaleString() + ' notes · ' + m.toLocaleString() + ' connections';
+      var summary = n.toLocaleString() + ' records · ' + m.toLocaleString() + ' connections';
       status.textContent = summary; loading.remove();
       new ResizeObserver(resize).observe(stage);
       new MutationObserver(applyTheme).observe(document.documentElement, {attributes: true, attributeFilter: ['data-theme']});
       resize(); fit(); applyTheme(); rebuildLines(); setFocus(null);
-      // Titles (11.7 MB) load in the background only once someone uses the map.
+      // Titles load in the background only once someone uses the map.
       var warmed = false;
       function warm() { if (warmed) return; warmed = true; (function next(c) { if (c * chunk < n) loadChunk(c).then(function () { setTimeout(function () { next(c + 1); }, 150); }); })(0); }
       ['pointerenter', 'wheel', 'touchstart'].forEach(function (t) { canvas.addEventListener(t, warm, {once: true, passive: true}); });

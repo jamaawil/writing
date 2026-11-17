@@ -1,59 +1,36 @@
-// Packs the vault-wide claim graph (graph-nodes.json / graph-edges.json from
-// the research snapshot; positions are precomputed) into compact files for the
-// Zettel page's Constellation (static/js/constellation.js):
-//   positions.bin  Float32 [x, y] per claim
-//   categories.bin Uint8 category code per claim (255 = uncategorized)
-//   edges.bin      Uint32 [source, target] per connection
-//   reviewed.bin   Uint8 1 = reviewed connection
-//   labels.json    [[title, readable slug], ...] in claim order
-//   meta.json      counts, category names, bounds
-// Each claim links to its research record (graph id X = record d:X).
+// Packs every public research record and its real relationships into the
+// Constellation. Claim positions come from the preserved vault map; other
+// records are positioned around their connected neighbours. Connection flags
+// use 16 bits so every relationship origin can be represented.
 // Usage: node scripts/research-constellation.js   -> .research/.../constellation/<version>/
 const fs = require('node:fs'), path = require('node:path');
 const {DatabaseSync} = require('node:sqlite');
+const {collectGraph} = require('./lib/constellation-graph');
 const pointer = require('../.research/current.json');
 const dir = path.dirname(pointer.database);
 const CATEGORIES = ['causal_relationships', 'factual_claims', 'contrarian_or_surprising', 'definitional_content',
   'craft_and_method', 'connection_points', 'inspiration_and_speculation'];
 
-// Every vault note is a node (records that came from a vault file). Claims keep
+// Every public record is a node, including records without a vault file. Claims keep
 // the precomputed map positions; other notes are placed at the centre of the
 // notes they link to; notes with no links sit on an outer ring (as Obsidian
 // shows orphans). Every connection between two vault notes is a line.
 const graphNodes = new Map(JSON.parse(fs.readFileSync(path.join(dir, 'graph-nodes.json'), 'utf8')).map(n => ['d:' + n.id, n]));
 const db = new DatabaseSync(path.join(dir, 'research-public.sqlite3'), {readOnly: true});
-db.exec(`CREATE TEMP TABLE v AS SELECT DISTINCT s.entity_id id FROM source_files s JOIN cards c ON c.id=s.entity_id WHERE c.published=1`);
-const rows = db.prepare(`SELECT c.id,c.title,c.kind,c.href FROM v JOIN cards c ON c.id=v.id ORDER BY c.id`).all();
+const {rows, index, origins: ORIGINS, pairs, bits, relationCounts} = collectGraph(db);
 const KINDS = ['claim'];   // kind 0 = claim; other kinds listed in meta.kinds
-const index = new Map(), labels = [], kindCodes = [];
-let unlinked = 0;
+const labels = [], kindCodes = [];
 for (const r of rows) {
-  const slug = r.href?.match(/^\/zettel\/research\/([^/]+)\/$/)?.[1] ?? null;
-  const href = slug ? null : r.href;            // a few records point at writer pages (/library/...)
-  if (!slug && !href) { unlinked++; continue; }
+  const address = r.href || '/zettel/research/' + encodeURIComponent(r.id) + '/';
+  const slug = address.match(/^\/zettel\/research\/([^/]+)\/$/)?.[1] ?? null;
+  const href = slug ? null : address;          // Some records point at writer pages (/library/...)
   let k = KINDS.indexOf(r.kind); if (k < 0) { k = KINDS.length; KINDS.push(r.kind); }
-  index.set(r.id, labels.length);
   kindCodes.push(k);
   const title = r.title.length > 160 ? r.title.slice(0, 157) + '…' : r.title;
   labels.push(href ? [title, slug, href] : [title, slug]);
 }
 const count = labels.length;
-// Connections: distinct note pairs, with a bit per link type present.
-const ORIGINS = ['wikilink', 'dmce', 'distiller', 'mesh', 'note-property'];
-const pairBits = new Map();
-const rel = db.prepare(`SELECT r.source,r.target,r.origin FROM relations r JOIN v a ON a.id=r.source JOIN v b ON b.id=r.target
-  WHERE coalesce(r.predicate,'')!='none' AND coalesce(r.status,'') NOT IN ('none','rejected')`);
-let otherOrigin = 0;
-for (const r of rel.iterate()) {
-  const s = index.get(r.source), d = index.get(r.target);
-  if (s === undefined || d === undefined || s === d) continue;
-  const o = ORIGINS.indexOf(r.origin); if (o < 0) { otherOrigin++; continue; }
-  const key = s < d ? s * 1048576 + d : d * 1048576 + s;
-  pairBits.set(key, (pairBits.get(key) || 0) | (1 << o));
-}
-const pairs = new Uint32Array(pairBits.size * 2), bits = new Uint8Array(pairBits.size);
-let e = 0;
-for (const [key, b] of pairBits) { pairs[e * 2] = Math.floor(key / 1048576); pairs[e * 2 + 1] = key % 1048576; bits[e] = b; e++; }
+db.close();
 // Positions: precomputed map for claims; barycentre of placed neighbours for the rest.
 const positions = new Float32Array(count * 2), placed = new Uint8Array(count), categories = new Uint8Array(count).fill(255);
 const CAT = Object.fromEntries(CATEGORIES.map((c, i) => [c, i]));
@@ -79,9 +56,10 @@ for (let round = 0; round < 6; round++) {
   if (!next.length) break;
 }
 const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2, ring = span * 0.56;
-let orphans = 0;
+const orphans = degree.reduce((n, d) => n + (d === 0), 0);
+let unpositioned = 0;
 for (let i = 0; i < count; i++) if (!placed[i]) { const a = rand() * Math.PI * 2, r = ring * (1 + rand() * 0.03);
-  positions[i * 2] = cx + Math.cos(a) * r; positions[i * 2 + 1] = cy + Math.sin(a) * r; placed[i] = 1; orphans++; }
+  positions[i * 2] = cx + Math.cos(a) * r; positions[i * 2 + 1] = cy + Math.sin(a) * r; placed[i] = 1; unpositioned++; }
 for (let i = 0; i < count; i++) { const x = positions[i * 2], y = positions[i * 2 + 1]; minX = Math.min(minX, x); maxX = Math.max(maxX, x); minY = Math.min(minY, y); maxY = Math.max(maxY, y); }
 const version = new Date().toISOString().replace(/[-:]/g, '').replace(/\..*/, '') + 'Z';
 const out = path.join(dir, 'constellation', version);
@@ -98,7 +76,7 @@ write('positions.bin', Buffer.from(positions.buffer));
 write('categories.bin', Buffer.from(categories.buffer));
 write('kinds.bin', Buffer.from(new Uint8Array(kindCodes).buffer));
 write('edges.bin', Buffer.from(varints));
-write('edge-types.bin', Buffer.from(order.map(i => bits[i])));
+write('edge-types.bin', Buffer.from(Uint16Array.from(order, i => bits[i]).buffer));
 // Titles in 16 chunks, fetched for hover, labels and search after the map is drawn.
 const CHUNK = Math.ceil(count / 16);
 for (let c = 0; c * CHUNK < count; c++) write(`labels-${c}.json`, Buffer.from(JSON.stringify(labels.slice(c * CHUNK, (c + 1) * CHUNK))));
@@ -106,5 +84,6 @@ const typeCounts = ORIGINS.map((_, o) => bits.reduce((n, b) => n + ((b >> o) & 1
 fs.writeFileSync(path.join(out, 'meta.json'), JSON.stringify({version, count, edges: bits.length, categories: CATEGORIES,
   categoryCounts: CATEGORIES.map((_, c) => categories.filter(x => x === c).length), kinds: KINDS,
   kindCounts: KINDS.map((_, k) => kindCodes.filter(x => x === k).length), edgeTypes: ORIGINS, edgeTypeCounts: typeCounts,
+  edgeTypeBytes: 2, relationCounts, scope: 'all-public-records',
   labelChunk: CHUNK, orphans, bounds: [minX, minY, maxX, maxY]}));
-console.log(`${version}: ${count} notes (${unlinked} without an address skipped), ${bits.length} connected pairs, ${orphans} unlinked notes on the outer ring, other-origin links ${otherOrigin} -> ${out}`);
+console.log(`${version}: ${count} public records, ${bits.length} connected pairs across ${ORIGINS.length} origins, ${orphans} isolated records, ${unpositioned} ring positions -> ${out}`);

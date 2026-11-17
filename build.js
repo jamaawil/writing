@@ -560,7 +560,7 @@ function build() {
 <aside class="home-context" aria-label="Page context">
 <section class="home-context-graph"><h2>Constellation</h2>
 <div class="constellation" data-constellation="${esc(GRAPH)}" data-autostart></div>
-<p class="home-context-hint">Every note in the vault and how they connect. Hover to see a note and its links; click to open it.</p></section>
+<p class="home-context-hint">Every public note, source passage and research record, connected by their recorded links. Hover to explore; click to open.</p></section>
 <nav class="home-toc" aria-label="On this page"><h2>On this page</h2><ul>${essays.slice(0, 12).map((e) => `<li><a href="/essay/${e.slug}/">${esc(e.title)}</a></li>`).join("")}</ul></nav>
 <section class="home-links"><h2>Connections</h2><ul>${homeCollections.map(([t, k]) => `<li><a href="/zettel/?kind=${k}">${t}</a></li>`).join("")}<li><a href="/zettel/">All research →</a></li></ul></section>
 </aside></div>` : homeBody;
